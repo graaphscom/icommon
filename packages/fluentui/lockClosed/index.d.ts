@@ -1,0 +1,14 @@
+export { lockClosed12Filled } from "./lockClosed12Filled";
+export { lockClosed12Regular } from "./lockClosed12Regular";
+export { lockClosed16Filled } from "./lockClosed16Filled";
+export { lockClosed16Regular } from "./lockClosed16Regular";
+export { lockClosed20Filled } from "./lockClosed20Filled";
+export { lockClosed20Regular } from "./lockClosed20Regular";
+export { lockClosed24Filled } from "./lockClosed24Filled";
+export { lockClosed24Regular } from "./lockClosed24Regular";
+export { lockClosed28Filled } from "./lockClosed28Filled";
+export { lockClosed28Regular } from "./lockClosed28Regular";
+export { lockClosed32Filled } from "./lockClosed32Filled";
+export { lockClosed32Regular } from "./lockClosed32Regular";
+export { lockClosed48Filled } from "./lockClosed48Filled";
+export { lockClosed48Regular } from "./lockClosed48Regular";

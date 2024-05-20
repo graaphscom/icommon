@@ -1,0 +1,10 @@
+export { chatBubblesQuestion16Filled } from "./chatBubblesQuestion16Filled";
+export { chatBubblesQuestion16Regular } from "./chatBubblesQuestion16Regular";
+export { chatBubblesQuestion20Filled } from "./chatBubblesQuestion20Filled";
+export { chatBubblesQuestion20Regular } from "./chatBubblesQuestion20Regular";
+export { chatBubblesQuestion24Filled } from "./chatBubblesQuestion24Filled";
+export { chatBubblesQuestion24Regular } from "./chatBubblesQuestion24Regular";
+export { chatBubblesQuestion28Filled } from "./chatBubblesQuestion28Filled";
+export { chatBubblesQuestion28Regular } from "./chatBubblesQuestion28Regular";
+export { chatBubblesQuestion32Filled } from "./chatBubblesQuestion32Filled";
+export { chatBubblesQuestion32Regular } from "./chatBubblesQuestion32Regular";

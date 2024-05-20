@@ -1,0 +1,12 @@
+export { appFolder16Filled } from "./appFolder16Filled";
+export { appFolder16Regular } from "./appFolder16Regular";
+export { appFolder20Filled } from "./appFolder20Filled";
+export { appFolder20Regular } from "./appFolder20Regular";
+export { appFolder24Filled } from "./appFolder24Filled";
+export { appFolder24Regular } from "./appFolder24Regular";
+export { appFolder28Filled } from "./appFolder28Filled";
+export { appFolder28Regular } from "./appFolder28Regular";
+export { appFolder32Filled } from "./appFolder32Filled";
+export { appFolder32Regular } from "./appFolder32Regular";
+export { appFolder48Filled } from "./appFolder48Filled";
+export { appFolder48Regular } from "./appFolder48Regular";

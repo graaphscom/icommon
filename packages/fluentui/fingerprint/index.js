@@ -1,0 +1,10 @@
+export { fingerprint16Filled } from "./fingerprint16Filled";
+export { fingerprint16Regular } from "./fingerprint16Regular";
+export { fingerprint20Filled } from "./fingerprint20Filled";
+export { fingerprint20Regular } from "./fingerprint20Regular";
+export { fingerprint24Filled } from "./fingerprint24Filled";
+export { fingerprint24Regular } from "./fingerprint24Regular";
+export { fingerprint32Filled } from "./fingerprint32Filled";
+export { fingerprint32Regular } from "./fingerprint32Regular";
+export { fingerprint48Filled } from "./fingerprint48Filled";
+export { fingerprint48Regular } from "./fingerprint48Regular";

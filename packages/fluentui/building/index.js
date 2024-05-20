@@ -1,0 +1,10 @@
+export { building16Filled } from "./building16Filled";
+export { building16Regular } from "./building16Regular";
+export { building20Filled } from "./building20Filled";
+export { building20Regular } from "./building20Regular";
+export { building24Filled } from "./building24Filled";
+export { building24Regular } from "./building24Regular";
+export { building32Filled } from "./building32Filled";
+export { building32Regular } from "./building32Regular";
+export { building48Filled } from "./building48Filled";
+export { building48Regular } from "./building48Regular";

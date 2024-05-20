@@ -1,0 +1,10 @@
+export { desktop16Filled } from "./desktop16Filled";
+export { desktop16Regular } from "./desktop16Regular";
+export { desktop20Filled } from "./desktop20Filled";
+export { desktop20Regular } from "./desktop20Regular";
+export { desktop24Filled } from "./desktop24Filled";
+export { desktop24Regular } from "./desktop24Regular";
+export { desktop28Filled } from "./desktop28Filled";
+export { desktop28Regular } from "./desktop28Regular";
+export { desktop32Filled } from "./desktop32Filled";
+export { desktop32Regular } from "./desktop32Regular";

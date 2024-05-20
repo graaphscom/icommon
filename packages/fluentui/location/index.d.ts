@@ -1,0 +1,12 @@
+export { location12Filled } from "./location12Filled";
+export { location12Regular } from "./location12Regular";
+export { location16Filled } from "./location16Filled";
+export { location16Regular } from "./location16Regular";
+export { location20Filled } from "./location20Filled";
+export { location20Regular } from "./location20Regular";
+export { location24Filled } from "./location24Filled";
+export { location24Regular } from "./location24Regular";
+export { location28Filled } from "./location28Filled";
+export { location28Regular } from "./location28Regular";
+export { location48Filled } from "./location48Filled";
+export { location48Regular } from "./location48Regular";

@@ -1,0 +1,12 @@
+export { cloudArchive16Filled } from "./cloudArchive16Filled";
+export { cloudArchive16Regular } from "./cloudArchive16Regular";
+export { cloudArchive20Filled } from "./cloudArchive20Filled";
+export { cloudArchive20Regular } from "./cloudArchive20Regular";
+export { cloudArchive24Filled } from "./cloudArchive24Filled";
+export { cloudArchive24Regular } from "./cloudArchive24Regular";
+export { cloudArchive28Filled } from "./cloudArchive28Filled";
+export { cloudArchive28Regular } from "./cloudArchive28Regular";
+export { cloudArchive32Filled } from "./cloudArchive32Filled";
+export { cloudArchive32Regular } from "./cloudArchive32Regular";
+export { cloudArchive48Filled } from "./cloudArchive48Filled";
+export { cloudArchive48Regular } from "./cloudArchive48Regular";

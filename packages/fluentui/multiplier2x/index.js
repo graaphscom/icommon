@@ -1,0 +1,10 @@
+export { multiplier2x20Filled } from "./multiplier2x20Filled";
+export { multiplier2x20Regular } from "./multiplier2x20Regular";
+export { multiplier2x24Filled } from "./multiplier2x24Filled";
+export { multiplier2x24Regular } from "./multiplier2x24Regular";
+export { multiplier2x28Filled } from "./multiplier2x28Filled";
+export { multiplier2x28Regular } from "./multiplier2x28Regular";
+export { multiplier2x32Filled } from "./multiplier2x32Filled";
+export { multiplier2x32Regular } from "./multiplier2x32Regular";
+export { multiplier2x48Filled } from "./multiplier2x48Filled";
+export { multiplier2x48Regular } from "./multiplier2x48Regular";

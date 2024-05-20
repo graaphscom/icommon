@@ -1,0 +1,10 @@
+export { documentAdd16Filled } from "./documentAdd16Filled";
+export { documentAdd16Regular } from "./documentAdd16Regular";
+export { documentAdd20Filled } from "./documentAdd20Filled";
+export { documentAdd20Regular } from "./documentAdd20Regular";
+export { documentAdd24Filled } from "./documentAdd24Filled";
+export { documentAdd24Regular } from "./documentAdd24Regular";
+export { documentAdd28Filled } from "./documentAdd28Filled";
+export { documentAdd28Regular } from "./documentAdd28Regular";
+export { documentAdd48Filled } from "./documentAdd48Filled";
+export { documentAdd48Regular } from "./documentAdd48Regular";

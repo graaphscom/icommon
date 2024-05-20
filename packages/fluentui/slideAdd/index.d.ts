@@ -1,0 +1,12 @@
+export { slideAdd16Filled } from "./slideAdd16Filled";
+export { slideAdd16Regular } from "./slideAdd16Regular";
+export { slideAdd20Filled } from "./slideAdd20Filled";
+export { slideAdd20Regular } from "./slideAdd20Regular";
+export { slideAdd24Filled } from "./slideAdd24Filled";
+export { slideAdd24Regular } from "./slideAdd24Regular";
+export { slideAdd28Filled } from "./slideAdd28Filled";
+export { slideAdd28Regular } from "./slideAdd28Regular";
+export { slideAdd32Filled } from "./slideAdd32Filled";
+export { slideAdd32Regular } from "./slideAdd32Regular";
+export { slideAdd48Filled } from "./slideAdd48Filled";
+export { slideAdd48Regular } from "./slideAdd48Regular";

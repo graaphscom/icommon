@@ -1,0 +1,14 @@
+export { call12Filled } from "./call12Filled";
+export { call12Regular } from "./call12Regular";
+export { call16Filled } from "./call16Filled";
+export { call16Regular } from "./call16Regular";
+export { call20Filled } from "./call20Filled";
+export { call20Regular } from "./call20Regular";
+export { call24Filled } from "./call24Filled";
+export { call24Regular } from "./call24Regular";
+export { call28Filled } from "./call28Filled";
+export { call28Regular } from "./call28Regular";
+export { call32Filled } from "./call32Filled";
+export { call32Regular } from "./call32Regular";
+export { call48Filled } from "./call48Filled";
+export { call48Regular } from "./call48Regular";

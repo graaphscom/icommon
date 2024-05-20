@@ -1,0 +1,12 @@
+export { peopleStar16Filled } from "./peopleStar16Filled";
+export { peopleStar16Regular } from "./peopleStar16Regular";
+export { peopleStar20Filled } from "./peopleStar20Filled";
+export { peopleStar20Regular } from "./peopleStar20Regular";
+export { peopleStar24Filled } from "./peopleStar24Filled";
+export { peopleStar24Regular } from "./peopleStar24Regular";
+export { peopleStar28Filled } from "./peopleStar28Filled";
+export { peopleStar28Regular } from "./peopleStar28Regular";
+export { peopleStar32Filled } from "./peopleStar32Filled";
+export { peopleStar32Regular } from "./peopleStar32Regular";
+export { peopleStar48Filled } from "./peopleStar48Filled";
+export { peopleStar48Regular } from "./peopleStar48Regular";

@@ -1,0 +1,11 @@
+{
+  "name": "@icommon/unicons",
+  "version": "1.0.0",
+  "license": "IconScout Simple License",
+  "devDependencies": {
+    "@icommon/components": "workspace:^"
+  },
+  "peerDependencies": {
+    "@icommon/components": "workspace:^"
+  }
+}

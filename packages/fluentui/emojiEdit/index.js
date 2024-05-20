@@ -1,0 +1,10 @@
+export { emojiEdit16Filled } from "./emojiEdit16Filled";
+export { emojiEdit16Regular } from "./emojiEdit16Regular";
+export { emojiEdit20Filled } from "./emojiEdit20Filled";
+export { emojiEdit20Regular } from "./emojiEdit20Regular";
+export { emojiEdit24Filled } from "./emojiEdit24Filled";
+export { emojiEdit24Regular } from "./emojiEdit24Regular";
+export { emojiEdit28Filled } from "./emojiEdit28Filled";
+export { emojiEdit28Regular } from "./emojiEdit28Regular";
+export { emojiEdit48Filled } from "./emojiEdit48Filled";
+export { emojiEdit48Regular } from "./emojiEdit48Regular";

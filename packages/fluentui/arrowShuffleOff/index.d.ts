@@ -1,0 +1,12 @@
+export { arrowShuffleOff16Filled } from "./arrowShuffleOff16Filled";
+export { arrowShuffleOff16Regular } from "./arrowShuffleOff16Regular";
+export { arrowShuffleOff20Filled } from "./arrowShuffleOff20Filled";
+export { arrowShuffleOff20Regular } from "./arrowShuffleOff20Regular";
+export { arrowShuffleOff24Filled } from "./arrowShuffleOff24Filled";
+export { arrowShuffleOff24Regular } from "./arrowShuffleOff24Regular";
+export { arrowShuffleOff28Filled } from "./arrowShuffleOff28Filled";
+export { arrowShuffleOff28Regular } from "./arrowShuffleOff28Regular";
+export { arrowShuffleOff32Filled } from "./arrowShuffleOff32Filled";
+export { arrowShuffleOff32Regular } from "./arrowShuffleOff32Regular";
+export { arrowShuffleOff48Filled } from "./arrowShuffleOff48Filled";
+export { arrowShuffleOff48Regular } from "./arrowShuffleOff48Regular";

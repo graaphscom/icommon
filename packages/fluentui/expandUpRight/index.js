@@ -1,0 +1,12 @@
+export { expandUpRight16Filled } from "./expandUpRight16Filled";
+export { expandUpRight16Regular } from "./expandUpRight16Regular";
+export { expandUpRight20Filled } from "./expandUpRight20Filled";
+export { expandUpRight20Regular } from "./expandUpRight20Regular";
+export { expandUpRight24Filled } from "./expandUpRight24Filled";
+export { expandUpRight24Regular } from "./expandUpRight24Regular";
+export { expandUpRight28Filled } from "./expandUpRight28Filled";
+export { expandUpRight28Regular } from "./expandUpRight28Regular";
+export { expandUpRight32Filled } from "./expandUpRight32Filled";
+export { expandUpRight32Regular } from "./expandUpRight32Regular";
+export { expandUpRight48Filled } from "./expandUpRight48Filled";
+export { expandUpRight48Regular } from "./expandUpRight48Regular";

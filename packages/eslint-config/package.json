@@ -1,0 +1,12 @@
+{
+  "name": "@icommon/eslint-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "files": [
+    "react.js"
+  ],
+  "dependencies": {
+    "@vercel/style-guide": "^6.0.0",
+    "eslint-plugin-only-warn": "^1.1.0"
+  }
+}

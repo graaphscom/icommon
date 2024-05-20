@@ -1,0 +1,10 @@
+export { historyDismiss20Filled } from "./historyDismiss20Filled";
+export { historyDismiss20Regular } from "./historyDismiss20Regular";
+export { historyDismiss24Filled } from "./historyDismiss24Filled";
+export { historyDismiss24Regular } from "./historyDismiss24Regular";
+export { historyDismiss28Filled } from "./historyDismiss28Filled";
+export { historyDismiss28Regular } from "./historyDismiss28Regular";
+export { historyDismiss32Filled } from "./historyDismiss32Filled";
+export { historyDismiss32Regular } from "./historyDismiss32Regular";
+export { historyDismiss48Filled } from "./historyDismiss48Filled";
+export { historyDismiss48Regular } from "./historyDismiss48Regular";

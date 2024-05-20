@@ -1,0 +1,10 @@
+export { slideText16Filled } from "./slideText16Filled";
+export { slideText16Regular } from "./slideText16Regular";
+export { slideText20Filled } from "./slideText20Filled";
+export { slideText20Regular } from "./slideText20Regular";
+export { slideText24Filled } from "./slideText24Filled";
+export { slideText24Regular } from "./slideText24Regular";
+export { slideText28Filled } from "./slideText28Filled";
+export { slideText28Regular } from "./slideText28Regular";
+export { slideText48Filled } from "./slideText48Filled";
+export { slideText48Regular } from "./slideText48Regular";

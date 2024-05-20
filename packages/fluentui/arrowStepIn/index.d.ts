@@ -1,0 +1,10 @@
+export { arrowStepIn12Filled } from "./arrowStepIn12Filled";
+export { arrowStepIn12Regular } from "./arrowStepIn12Regular";
+export { arrowStepIn16Filled } from "./arrowStepIn16Filled";
+export { arrowStepIn16Regular } from "./arrowStepIn16Regular";
+export { arrowStepIn20Filled } from "./arrowStepIn20Filled";
+export { arrowStepIn20Regular } from "./arrowStepIn20Regular";
+export { arrowStepIn24Filled } from "./arrowStepIn24Filled";
+export { arrowStepIn24Regular } from "./arrowStepIn24Regular";
+export { arrowStepIn28Filled } from "./arrowStepIn28Filled";
+export { arrowStepIn28Regular } from "./arrowStepIn28Regular";

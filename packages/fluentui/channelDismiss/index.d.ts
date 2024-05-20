@@ -1,0 +1,10 @@
+export { channelDismiss16Filled } from "./channelDismiss16Filled";
+export { channelDismiss16Regular } from "./channelDismiss16Regular";
+export { channelDismiss20Filled } from "./channelDismiss20Filled";
+export { channelDismiss20Regular } from "./channelDismiss20Regular";
+export { channelDismiss24Filled } from "./channelDismiss24Filled";
+export { channelDismiss24Regular } from "./channelDismiss24Regular";
+export { channelDismiss28Filled } from "./channelDismiss28Filled";
+export { channelDismiss28Regular } from "./channelDismiss28Regular";
+export { channelDismiss48Filled } from "./channelDismiss48Filled";
+export { channelDismiss48Regular } from "./channelDismiss48Regular";

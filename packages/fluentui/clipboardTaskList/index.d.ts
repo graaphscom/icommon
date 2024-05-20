@@ -1,0 +1,10 @@
+export { clipboardTaskList16Filled } from "./clipboardTaskList16Filled";
+export { clipboardTaskList16Regular } from "./clipboardTaskList16Regular";
+export { clipboardTaskList20FilledLtr } from "./clipboardTaskList20FilledLtr";
+export { clipboardTaskList20FilledRtl } from "./clipboardTaskList20FilledRtl";
+export { clipboardTaskList20RegularLtr } from "./clipboardTaskList20RegularLtr";
+export { clipboardTaskList20RegularRtl } from "./clipboardTaskList20RegularRtl";
+export { clipboardTaskList24FilledLtr } from "./clipboardTaskList24FilledLtr";
+export { clipboardTaskList24FilledRtl } from "./clipboardTaskList24FilledRtl";
+export { clipboardTaskList24RegularLtr } from "./clipboardTaskList24RegularLtr";
+export { clipboardTaskList24RegularRtl } from "./clipboardTaskList24RegularRtl";

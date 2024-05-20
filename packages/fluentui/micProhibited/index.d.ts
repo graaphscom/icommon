@@ -1,0 +1,10 @@
+export { micProhibited16Filled } from "./micProhibited16Filled";
+export { micProhibited16Regular } from "./micProhibited16Regular";
+export { micProhibited20Filled } from "./micProhibited20Filled";
+export { micProhibited20Regular } from "./micProhibited20Regular";
+export { micProhibited24Filled } from "./micProhibited24Filled";
+export { micProhibited24Regular } from "./micProhibited24Regular";
+export { micProhibited28Filled } from "./micProhibited28Filled";
+export { micProhibited28Regular } from "./micProhibited28Regular";
+export { micProhibited48Filled } from "./micProhibited48Filled";
+export { micProhibited48Regular } from "./micProhibited48Regular";

@@ -1,0 +1,12 @@
+export { videoChat16Filled } from "./videoChat16Filled";
+export { videoChat16Regular } from "./videoChat16Regular";
+export { videoChat20Filled } from "./videoChat20Filled";
+export { videoChat20Regular } from "./videoChat20Regular";
+export { videoChat24Filled } from "./videoChat24Filled";
+export { videoChat24Regular } from "./videoChat24Regular";
+export { videoChat28Filled } from "./videoChat28Filled";
+export { videoChat28Regular } from "./videoChat28Regular";
+export { videoChat32Filled } from "./videoChat32Filled";
+export { videoChat32Regular } from "./videoChat32Regular";
+export { videoChat48Filled } from "./videoChat48Filled";
+export { videoChat48Regular } from "./videoChat48Regular";

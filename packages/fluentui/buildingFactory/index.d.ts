@@ -1,0 +1,12 @@
+export { buildingFactory16Filled } from "./buildingFactory16Filled";
+export { buildingFactory16Regular } from "./buildingFactory16Regular";
+export { buildingFactory20Filled } from "./buildingFactory20Filled";
+export { buildingFactory20Regular } from "./buildingFactory20Regular";
+export { buildingFactory24Filled } from "./buildingFactory24Filled";
+export { buildingFactory24Regular } from "./buildingFactory24Regular";
+export { buildingFactory28Filled } from "./buildingFactory28Filled";
+export { buildingFactory28Regular } from "./buildingFactory28Regular";
+export { buildingFactory32Filled } from "./buildingFactory32Filled";
+export { buildingFactory32Regular } from "./buildingFactory32Regular";
+export { buildingFactory48Filled } from "./buildingFactory48Filled";
+export { buildingFactory48Regular } from "./buildingFactory48Regular";

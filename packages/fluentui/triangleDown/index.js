@@ -1,0 +1,12 @@
+export { triangleDown12Filled } from "./triangleDown12Filled";
+export { triangleDown12Regular } from "./triangleDown12Regular";
+export { triangleDown16Filled } from "./triangleDown16Filled";
+export { triangleDown16Regular } from "./triangleDown16Regular";
+export { triangleDown20Filled } from "./triangleDown20Filled";
+export { triangleDown20Regular } from "./triangleDown20Regular";
+export { triangleDown24Filled } from "./triangleDown24Filled";
+export { triangleDown24Regular } from "./triangleDown24Regular";
+export { triangleDown32Filled } from "./triangleDown32Filled";
+export { triangleDown32Regular } from "./triangleDown32Regular";
+export { triangleDown48Filled } from "./triangleDown48Filled";
+export { triangleDown48Regular } from "./triangleDown48Regular";

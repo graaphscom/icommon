@@ -1,0 +1,12 @@
+export { comment12Filled } from "./comment12Filled";
+export { comment12Regular } from "./comment12Regular";
+export { comment16Filled } from "./comment16Filled";
+export { comment16Regular } from "./comment16Regular";
+export { comment20Filled } from "./comment20Filled";
+export { comment20Regular } from "./comment20Regular";
+export { comment24Filled } from "./comment24Filled";
+export { comment24Regular } from "./comment24Regular";
+export { comment28Filled } from "./comment28Filled";
+export { comment28Regular } from "./comment28Regular";
+export { comment48Filled } from "./comment48Filled";
+export { comment48Regular } from "./comment48Regular";

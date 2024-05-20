@@ -1,0 +1,12 @@
+export { taskListSquare16FilledLtr } from "./taskListSquare16FilledLtr";
+export { taskListSquare16FilledRtl } from "./taskListSquare16FilledRtl";
+export { taskListSquare16RegularLtr } from "./taskListSquare16RegularLtr";
+export { taskListSquare16RegularRtl } from "./taskListSquare16RegularRtl";
+export { taskListSquare20FilledLtr } from "./taskListSquare20FilledLtr";
+export { taskListSquare20FilledRtl } from "./taskListSquare20FilledRtl";
+export { taskListSquare20RegularLtr } from "./taskListSquare20RegularLtr";
+export { taskListSquare20RegularRtl } from "./taskListSquare20RegularRtl";
+export { taskListSquare24FilledLtr } from "./taskListSquare24FilledLtr";
+export { taskListSquare24FilledRtl } from "./taskListSquare24FilledRtl";
+export { taskListSquare24RegularLtr } from "./taskListSquare24RegularLtr";
+export { taskListSquare24RegularRtl } from "./taskListSquare24RegularRtl";

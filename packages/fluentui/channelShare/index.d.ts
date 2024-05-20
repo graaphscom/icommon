@@ -1,0 +1,12 @@
+export { channelShare12Filled } from "./channelShare12Filled";
+export { channelShare12Regular } from "./channelShare12Regular";
+export { channelShare16Filled } from "./channelShare16Filled";
+export { channelShare16Regular } from "./channelShare16Regular";
+export { channelShare20Filled } from "./channelShare20Filled";
+export { channelShare20Regular } from "./channelShare20Regular";
+export { channelShare24Filled } from "./channelShare24Filled";
+export { channelShare24Regular } from "./channelShare24Regular";
+export { channelShare28Filled } from "./channelShare28Filled";
+export { channelShare28Regular } from "./channelShare28Regular";
+export { channelShare48Filled } from "./channelShare48Filled";
+export { channelShare48Regular } from "./channelShare48Regular";

@@ -1,0 +1,11 @@
+{
+  "name": "@icommon/octicons",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@icommon/components": "workspace:^"
+  },
+  "peerDependencies": {
+    "@icommon/components": "workspace:^"
+  }
+}

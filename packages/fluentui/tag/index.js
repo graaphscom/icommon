@@ -1,0 +1,10 @@
+export { tag16Filled } from "./tag16Filled";
+export { tag16Regular } from "./tag16Regular";
+export { tag20Filled } from "./tag20Filled";
+export { tag20Regular } from "./tag20Regular";
+export { tag24Filled } from "./tag24Filled";
+export { tag24Regular } from "./tag24Regular";
+export { tag28Filled } from "./tag28Filled";
+export { tag28Regular } from "./tag28Regular";
+export { tag32Filled } from "./tag32Filled";
+export { tag32Regular } from "./tag32Regular";

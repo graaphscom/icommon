@@ -1,0 +1,14 @@
+export { chat12Filled } from "./chat12Filled";
+export { chat12Regular } from "./chat12Regular";
+export { chat16Filled } from "./chat16Filled";
+export { chat16Regular } from "./chat16Regular";
+export { chat20Filled } from "./chat20Filled";
+export { chat20Regular } from "./chat20Regular";
+export { chat24Filled } from "./chat24Filled";
+export { chat24Regular } from "./chat24Regular";
+export { chat28Filled } from "./chat28Filled";
+export { chat28Regular } from "./chat28Regular";
+export { chat32Filled } from "./chat32Filled";
+export { chat32Regular } from "./chat32Regular";
+export { chat48Filled } from "./chat48Filled";
+export { chat48Regular } from "./chat48Regular";

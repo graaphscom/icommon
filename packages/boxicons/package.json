@@ -1,0 +1,11 @@
+{
+  "name": "@icommon/boxicons",
+  "version": "1.0.0",
+  "license": "CC 4.0",
+  "devDependencies": {
+    "@icommon/components": "workspace:^"
+  },
+  "peerDependencies": {
+    "@icommon/components": "workspace:^"
+  }
+}

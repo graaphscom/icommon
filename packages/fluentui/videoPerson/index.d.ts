@@ -1,0 +1,14 @@
+export { videoPerson12Filled } from "./videoPerson12Filled";
+export { videoPerson12Regular } from "./videoPerson12Regular";
+export { videoPerson16Filled } from "./videoPerson16Filled";
+export { videoPerson16Regular } from "./videoPerson16Regular";
+export { videoPerson20Filled } from "./videoPerson20Filled";
+export { videoPerson20Regular } from "./videoPerson20Regular";
+export { videoPerson24Filled } from "./videoPerson24Filled";
+export { videoPerson24Regular } from "./videoPerson24Regular";
+export { videoPerson28Filled } from "./videoPerson28Filled";
+export { videoPerson28Regular } from "./videoPerson28Regular";
+export { videoPerson32Filled } from "./videoPerson32Filled";
+export { videoPerson32Regular } from "./videoPerson32Regular";
+export { videoPerson48Filled } from "./videoPerson48Filled";
+export { videoPerson48Regular } from "./videoPerson48Regular";

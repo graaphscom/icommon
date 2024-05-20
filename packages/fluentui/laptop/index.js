@@ -1,0 +1,12 @@
+export { laptop16Filled } from "./laptop16Filled";
+export { laptop16Regular } from "./laptop16Regular";
+export { laptop20Filled } from "./laptop20Filled";
+export { laptop20Regular } from "./laptop20Regular";
+export { laptop24Filled } from "./laptop24Filled";
+export { laptop24Regular } from "./laptop24Regular";
+export { laptop28Filled } from "./laptop28Filled";
+export { laptop28Regular } from "./laptop28Regular";
+export { laptop32Filled } from "./laptop32Filled";
+export { laptop32Regular } from "./laptop32Regular";
+export { laptop48Filled } from "./laptop48Filled";
+export { laptop48Regular } from "./laptop48Regular";

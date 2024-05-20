@@ -1,0 +1,10 @@
+export { callOutbound16Filled } from "./callOutbound16Filled";
+export { callOutbound16Regular } from "./callOutbound16Regular";
+export { callOutbound20Filled } from "./callOutbound20Filled";
+export { callOutbound20Regular } from "./callOutbound20Regular";
+export { callOutbound24Filled } from "./callOutbound24Filled";
+export { callOutbound24Regular } from "./callOutbound24Regular";
+export { callOutbound28Filled } from "./callOutbound28Filled";
+export { callOutbound28Regular } from "./callOutbound28Regular";
+export { callOutbound48Filled } from "./callOutbound48Filled";
+export { callOutbound48Regular } from "./callOutbound48Regular";

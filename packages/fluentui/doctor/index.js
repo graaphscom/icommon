@@ -1,0 +1,12 @@
+export { doctor12Filled } from "./doctor12Filled";
+export { doctor12Regular } from "./doctor12Regular";
+export { doctor16Filled } from "./doctor16Filled";
+export { doctor16Regular } from "./doctor16Regular";
+export { doctor20Filled } from "./doctor20Filled";
+export { doctor20Regular } from "./doctor20Regular";
+export { doctor24Filled } from "./doctor24Filled";
+export { doctor24Regular } from "./doctor24Regular";
+export { doctor28Filled } from "./doctor28Filled";
+export { doctor28Regular } from "./doctor28Regular";
+export { doctor48Filled } from "./doctor48Filled";
+export { doctor48Regular } from "./doctor48Regular";

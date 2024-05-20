@@ -1,0 +1,10 @@
+export { arrowUpRight16Filled } from "./arrowUpRight16Filled";
+export { arrowUpRight16Regular } from "./arrowUpRight16Regular";
+export { arrowUpRight20Filled } from "./arrowUpRight20Filled";
+export { arrowUpRight20Regular } from "./arrowUpRight20Regular";
+export { arrowUpRight24Filled } from "./arrowUpRight24Filled";
+export { arrowUpRight24Regular } from "./arrowUpRight24Regular";
+export { arrowUpRight32Filled } from "./arrowUpRight32Filled";
+export { arrowUpRight32Regular } from "./arrowUpRight32Regular";
+export { arrowUpRight48Filled } from "./arrowUpRight48Filled";
+export { arrowUpRight48Regular } from "./arrowUpRight48Regular";

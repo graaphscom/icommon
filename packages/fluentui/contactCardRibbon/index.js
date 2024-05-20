@@ -1,0 +1,12 @@
+export { contactCardRibbon16Filled } from "./contactCardRibbon16Filled";
+export { contactCardRibbon16Regular } from "./contactCardRibbon16Regular";
+export { contactCardRibbon20Filled } from "./contactCardRibbon20Filled";
+export { contactCardRibbon20Regular } from "./contactCardRibbon20Regular";
+export { contactCardRibbon24Filled } from "./contactCardRibbon24Filled";
+export { contactCardRibbon24Regular } from "./contactCardRibbon24Regular";
+export { contactCardRibbon28Filled } from "./contactCardRibbon28Filled";
+export { contactCardRibbon28Regular } from "./contactCardRibbon28Regular";
+export { contactCardRibbon32Filled } from "./contactCardRibbon32Filled";
+export { contactCardRibbon32Regular } from "./contactCardRibbon32Regular";
+export { contactCardRibbon48Filled } from "./contactCardRibbon48Filled";
+export { contactCardRibbon48Regular } from "./contactCardRibbon48Regular";

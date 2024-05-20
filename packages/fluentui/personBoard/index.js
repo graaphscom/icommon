@@ -1,0 +1,12 @@
+export { personBoard12Filled } from "./personBoard12Filled";
+export { personBoard12Regular } from "./personBoard12Regular";
+export { personBoard16Filled } from "./personBoard16Filled";
+export { personBoard16Regular } from "./personBoard16Regular";
+export { personBoard20Filled } from "./personBoard20Filled";
+export { personBoard20Regular } from "./personBoard20Regular";
+export { personBoard24Filled } from "./personBoard24Filled";
+export { personBoard24Regular } from "./personBoard24Regular";
+export { personBoard28Filled } from "./personBoard28Filled";
+export { personBoard28Regular } from "./personBoard28Regular";
+export { personBoard32Filled } from "./personBoard32Filled";
+export { personBoard32Regular } from "./personBoard32Regular";

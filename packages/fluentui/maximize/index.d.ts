@@ -1,0 +1,10 @@
+export { maximize16Filled } from "./maximize16Filled";
+export { maximize16Regular } from "./maximize16Regular";
+export { maximize20Filled } from "./maximize20Filled";
+export { maximize20Regular } from "./maximize20Regular";
+export { maximize24Filled } from "./maximize24Filled";
+export { maximize24Regular } from "./maximize24Regular";
+export { maximize28Filled } from "./maximize28Filled";
+export { maximize28Regular } from "./maximize28Regular";
+export { maximize48Filled } from "./maximize48Filled";
+export { maximize48Regular } from "./maximize48Regular";

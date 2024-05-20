@@ -1,0 +1,12 @@
+export { dataTrending16Filled } from "./dataTrending16Filled";
+export { dataTrending16Regular } from "./dataTrending16Regular";
+export { dataTrending20Filled } from "./dataTrending20Filled";
+export { dataTrending20Regular } from "./dataTrending20Regular";
+export { dataTrending24Filled } from "./dataTrending24Filled";
+export { dataTrending24Regular } from "./dataTrending24Regular";
+export { dataTrending28Filled } from "./dataTrending28Filled";
+export { dataTrending28Regular } from "./dataTrending28Regular";
+export { dataTrending32Filled } from "./dataTrending32Filled";
+export { dataTrending32Regular } from "./dataTrending32Regular";
+export { dataTrending48Filled } from "./dataTrending48Filled";
+export { dataTrending48Regular } from "./dataTrending48Regular";

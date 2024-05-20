@@ -1,0 +1,12 @@
+export { glasses16Filled } from "./glasses16Filled";
+export { glasses16Regular } from "./glasses16Regular";
+export { glasses20Filled } from "./glasses20Filled";
+export { glasses20Regular } from "./glasses20Regular";
+export { glasses24Filled } from "./glasses24Filled";
+export { glasses24Regular } from "./glasses24Regular";
+export { glasses28Filled } from "./glasses28Filled";
+export { glasses28Regular } from "./glasses28Regular";
+export { glasses32Filled } from "./glasses32Filled";
+export { glasses32Regular } from "./glasses32Regular";
+export { glasses48Filled } from "./glasses48Filled";
+export { glasses48Regular } from "./glasses48Regular";

@@ -1,0 +1,12 @@
+export { history16Filled } from "./history16Filled";
+export { history16Regular } from "./history16Regular";
+export { history20Filled } from "./history20Filled";
+export { history20Regular } from "./history20Regular";
+export { history24Filled } from "./history24Filled";
+export { history24Regular } from "./history24Regular";
+export { history28Filled } from "./history28Filled";
+export { history28Regular } from "./history28Regular";
+export { history32Filled } from "./history32Filled";
+export { history32Regular } from "./history32Regular";
+export { history48Filled } from "./history48Filled";
+export { history48Regular } from "./history48Regular";

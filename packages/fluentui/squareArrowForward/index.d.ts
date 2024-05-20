@@ -1,0 +1,12 @@
+export { squareArrowForward16Filled } from "./squareArrowForward16Filled";
+export { squareArrowForward16Regular } from "./squareArrowForward16Regular";
+export { squareArrowForward20Filled } from "./squareArrowForward20Filled";
+export { squareArrowForward20Regular } from "./squareArrowForward20Regular";
+export { squareArrowForward24Filled } from "./squareArrowForward24Filled";
+export { squareArrowForward24Regular } from "./squareArrowForward24Regular";
+export { squareArrowForward28Filled } from "./squareArrowForward28Filled";
+export { squareArrowForward28Regular } from "./squareArrowForward28Regular";
+export { squareArrowForward32Filled } from "./squareArrowForward32Filled";
+export { squareArrowForward32Regular } from "./squareArrowForward32Regular";
+export { squareArrowForward48Filled } from "./squareArrowForward48Filled";
+export { squareArrowForward48Regular } from "./squareArrowForward48Regular";

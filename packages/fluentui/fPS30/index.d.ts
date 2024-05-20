@@ -1,0 +1,10 @@
+export { fps3016Filled } from "./fps3016Filled";
+export { fps3016Regular } from "./fps3016Regular";
+export { fps3020Filled } from "./fps3020Filled";
+export { fps3020Regular } from "./fps3020Regular";
+export { fps3024Filled } from "./fps3024Filled";
+export { fps3024Regular } from "./fps3024Regular";
+export { fps3028Filled } from "./fps3028Filled";
+export { fps3028Regular } from "./fps3028Regular";
+export { fps3048Filled } from "./fps3048Filled";
+export { fps3048Regular } from "./fps3048Regular";

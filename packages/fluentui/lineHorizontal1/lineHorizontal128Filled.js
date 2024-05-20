@@ -1,0 +1,19 @@
+export var lineHorizontal128Filled = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "28",
+    "viewBox": "0 0 28 28",
+    "width": "28",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 14C2 13.4477 2.44772 13 3 13H25C25.5523 13 26 13.4477 26 14C26 14.5523 25.5523 15 25 15H3C2.44772 15 2 14.5523 2 14Z",
+        "fill": "#212121"
+      }
+    ]
+  ]
+]

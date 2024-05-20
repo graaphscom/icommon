@@ -1,0 +1,12 @@
+export { arrowForward16Filled } from "./arrowForward16Filled";
+export { arrowForward16Regular } from "./arrowForward16Regular";
+export { arrowForward20Filled } from "./arrowForward20Filled";
+export { arrowForward20Regular } from "./arrowForward20Regular";
+export { arrowForward24Filled } from "./arrowForward24Filled";
+export { arrowForward24Regular } from "./arrowForward24Regular";
+export { arrowForward28Filled } from "./arrowForward28Filled";
+export { arrowForward28Regular } from "./arrowForward28Regular";
+export { arrowForward32Filled } from "./arrowForward32Filled";
+export { arrowForward32Regular } from "./arrowForward32Regular";
+export { arrowForward48Filled } from "./arrowForward48Filled";
+export { arrowForward48Regular } from "./arrowForward48Regular";

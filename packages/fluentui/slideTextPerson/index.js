@@ -1,0 +1,12 @@
+export { slideTextPerson16Filled } from "./slideTextPerson16Filled";
+export { slideTextPerson16Regular } from "./slideTextPerson16Regular";
+export { slideTextPerson20Filled } from "./slideTextPerson20Filled";
+export { slideTextPerson20Regular } from "./slideTextPerson20Regular";
+export { slideTextPerson24Filled } from "./slideTextPerson24Filled";
+export { slideTextPerson24Regular } from "./slideTextPerson24Regular";
+export { slideTextPerson28Filled } from "./slideTextPerson28Filled";
+export { slideTextPerson28Regular } from "./slideTextPerson28Regular";
+export { slideTextPerson32Filled } from "./slideTextPerson32Filled";
+export { slideTextPerson32Regular } from "./slideTextPerson32Regular";
+export { slideTextPerson48Filled } from "./slideTextPerson48Filled";
+export { slideTextPerson48Regular } from "./slideTextPerson48Regular";

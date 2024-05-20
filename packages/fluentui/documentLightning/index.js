@@ -1,0 +1,12 @@
+export { documentLightning16Filled } from "./documentLightning16Filled";
+export { documentLightning16Regular } from "./documentLightning16Regular";
+export { documentLightning20Filled } from "./documentLightning20Filled";
+export { documentLightning20Regular } from "./documentLightning20Regular";
+export { documentLightning24Filled } from "./documentLightning24Filled";
+export { documentLightning24Regular } from "./documentLightning24Regular";
+export { documentLightning28Filled } from "./documentLightning28Filled";
+export { documentLightning28Regular } from "./documentLightning28Regular";
+export { documentLightning32Filled } from "./documentLightning32Filled";
+export { documentLightning32Regular } from "./documentLightning32Regular";
+export { documentLightning48Filled } from "./documentLightning48Filled";
+export { documentLightning48Regular } from "./documentLightning48Regular";

@@ -1,0 +1,12 @@
+export { vehicleCar16Filled } from "./vehicleCar16Filled";
+export { vehicleCar16Regular } from "./vehicleCar16Regular";
+export { vehicleCar20Filled } from "./vehicleCar20Filled";
+export { vehicleCar20Regular } from "./vehicleCar20Regular";
+export { vehicleCar24Filled } from "./vehicleCar24Filled";
+export { vehicleCar24Regular } from "./vehicleCar24Regular";
+export { vehicleCar28Filled } from "./vehicleCar28Filled";
+export { vehicleCar28Regular } from "./vehicleCar28Regular";
+export { vehicleCar32Filled } from "./vehicleCar32Filled";
+export { vehicleCar32Regular } from "./vehicleCar32Regular";
+export { vehicleCar48Filled } from "./vehicleCar48Filled";
+export { vehicleCar48Regular } from "./vehicleCar48Regular";

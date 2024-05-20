@@ -1,0 +1,12 @@
+export { folderProhibited16Filled } from "./folderProhibited16Filled";
+export { folderProhibited16Regular } from "./folderProhibited16Regular";
+export { folderProhibited20Filled } from "./folderProhibited20Filled";
+export { folderProhibited20Regular } from "./folderProhibited20Regular";
+export { folderProhibited24Filled } from "./folderProhibited24Filled";
+export { folderProhibited24Regular } from "./folderProhibited24Regular";
+export { folderProhibited28Filled } from "./folderProhibited28Filled";
+export { folderProhibited28Regular } from "./folderProhibited28Regular";
+export { folderProhibited32Filled } from "./folderProhibited32Filled";
+export { folderProhibited32Regular } from "./folderProhibited32Regular";
+export { folderProhibited48Filled } from "./folderProhibited48Filled";
+export { folderProhibited48Regular } from "./folderProhibited48Regular";

@@ -1,0 +1,12 @@
+export { settings16Filled } from "./settings16Filled";
+export { settings16Regular } from "./settings16Regular";
+export { settings20Filled } from "./settings20Filled";
+export { settings20Regular } from "./settings20Regular";
+export { settings24Filled } from "./settings24Filled";
+export { settings24Regular } from "./settings24Regular";
+export { settings28Filled } from "./settings28Filled";
+export { settings28Regular } from "./settings28Regular";
+export { settings32Filled } from "./settings32Filled";
+export { settings32Regular } from "./settings32Regular";
+export { settings48Filled } from "./settings48Filled";
+export { settings48Regular } from "./settings48Regular";

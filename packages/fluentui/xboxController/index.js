@@ -1,0 +1,12 @@
+export { xboxController16Filled } from "./xboxController16Filled";
+export { xboxController16Regular } from "./xboxController16Regular";
+export { xboxController20Filled } from "./xboxController20Filled";
+export { xboxController20Regular } from "./xboxController20Regular";
+export { xboxController24Filled } from "./xboxController24Filled";
+export { xboxController24Regular } from "./xboxController24Regular";
+export { xboxController28Filled } from "./xboxController28Filled";
+export { xboxController28Regular } from "./xboxController28Regular";
+export { xboxController32Filled } from "./xboxController32Filled";
+export { xboxController32Regular } from "./xboxController32Regular";
+export { xboxController48Filled } from "./xboxController48Filled";
+export { xboxController48Regular } from "./xboxController48Regular";

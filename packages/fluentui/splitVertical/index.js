@@ -1,0 +1,14 @@
+export { splitVertical12Filled } from "./splitVertical12Filled";
+export { splitVertical12Regular } from "./splitVertical12Regular";
+export { splitVertical16Filled } from "./splitVertical16Filled";
+export { splitVertical16Regular } from "./splitVertical16Regular";
+export { splitVertical20Filled } from "./splitVertical20Filled";
+export { splitVertical20Regular } from "./splitVertical20Regular";
+export { splitVertical24Filled } from "./splitVertical24Filled";
+export { splitVertical24Regular } from "./splitVertical24Regular";
+export { splitVertical28Filled } from "./splitVertical28Filled";
+export { splitVertical28Regular } from "./splitVertical28Regular";
+export { splitVertical32Filled } from "./splitVertical32Filled";
+export { splitVertical32Regular } from "./splitVertical32Regular";
+export { splitVertical48Filled } from "./splitVertical48Filled";
+export { splitVertical48Regular } from "./splitVertical48Regular";

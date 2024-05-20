@@ -1,0 +1,12 @@
+export { previous16Filled } from "./previous16Filled";
+export { previous16Regular } from "./previous16Regular";
+export { previous20Filled } from "./previous20Filled";
+export { previous20Regular } from "./previous20Regular";
+export { previous24Filled } from "./previous24Filled";
+export { previous24Regular } from "./previous24Regular";
+export { previous28Filled } from "./previous28Filled";
+export { previous28Regular } from "./previous28Regular";
+export { previous32Filled } from "./previous32Filled";
+export { previous32Regular } from "./previous32Regular";
+export { previous48Filled } from "./previous48Filled";
+export { previous48Regular } from "./previous48Regular";

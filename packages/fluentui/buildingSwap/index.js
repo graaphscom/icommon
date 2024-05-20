@@ -1,0 +1,10 @@
+export { buildingSwap16Filled } from "./buildingSwap16Filled";
+export { buildingSwap16Regular } from "./buildingSwap16Regular";
+export { buildingSwap20Filled } from "./buildingSwap20Filled";
+export { buildingSwap20Regular } from "./buildingSwap20Regular";
+export { buildingSwap24Filled } from "./buildingSwap24Filled";
+export { buildingSwap24Regular } from "./buildingSwap24Regular";
+export { buildingSwap32Filled } from "./buildingSwap32Filled";
+export { buildingSwap32Regular } from "./buildingSwap32Regular";
+export { buildingSwap48Filled } from "./buildingSwap48Filled";
+export { buildingSwap48Regular } from "./buildingSwap48Regular";

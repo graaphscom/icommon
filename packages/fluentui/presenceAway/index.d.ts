@@ -1,0 +1,10 @@
+export { presenceAway10Filled } from "./presenceAway10Filled";
+export { presenceAway10Regular } from "./presenceAway10Regular";
+export { presenceAway12Filled } from "./presenceAway12Filled";
+export { presenceAway12Regular } from "./presenceAway12Regular";
+export { presenceAway16Filled } from "./presenceAway16Filled";
+export { presenceAway16Regular } from "./presenceAway16Regular";
+export { presenceAway20Filled } from "./presenceAway20Filled";
+export { presenceAway20Regular } from "./presenceAway20Regular";
+export { presenceAway24Filled } from "./presenceAway24Filled";
+export { presenceAway24Regular } from "./presenceAway24Regular";

@@ -1,0 +1,10 @@
+export { personMail16Filled } from "./personMail16Filled";
+export { personMail16Regular } from "./personMail16Regular";
+export { personMail20Filled } from "./personMail20Filled";
+export { personMail20Regular } from "./personMail20Regular";
+export { personMail24Filled } from "./personMail24Filled";
+export { personMail24Regular } from "./personMail24Regular";
+export { personMail28Filled } from "./personMail28Filled";
+export { personMail28Regular } from "./personMail28Regular";
+export { personMail48Filled } from "./personMail48Filled";
+export { personMail48Regular } from "./personMail48Regular";

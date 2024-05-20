@@ -1,0 +1,12 @@
+export { penDismiss16Filled } from "./penDismiss16Filled";
+export { penDismiss16Regular } from "./penDismiss16Regular";
+export { penDismiss20Filled } from "./penDismiss20Filled";
+export { penDismiss20Regular } from "./penDismiss20Regular";
+export { penDismiss24Filled } from "./penDismiss24Filled";
+export { penDismiss24Regular } from "./penDismiss24Regular";
+export { penDismiss28Filled } from "./penDismiss28Filled";
+export { penDismiss28Regular } from "./penDismiss28Regular";
+export { penDismiss32Filled } from "./penDismiss32Filled";
+export { penDismiss32Regular } from "./penDismiss32Regular";
+export { penDismiss48Filled } from "./penDismiss48Filled";
+export { penDismiss48Regular } from "./penDismiss48Regular";

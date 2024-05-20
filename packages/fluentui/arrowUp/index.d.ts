@@ -1,0 +1,14 @@
+export { arrowUp12Filled } from "./arrowUp12Filled";
+export { arrowUp12Regular } from "./arrowUp12Regular";
+export { arrowUp16Filled } from "./arrowUp16Filled";
+export { arrowUp16Regular } from "./arrowUp16Regular";
+export { arrowUp20Filled } from "./arrowUp20Filled";
+export { arrowUp20Regular } from "./arrowUp20Regular";
+export { arrowUp24Filled } from "./arrowUp24Filled";
+export { arrowUp24Regular } from "./arrowUp24Regular";
+export { arrowUp28Filled } from "./arrowUp28Filled";
+export { arrowUp28Regular } from "./arrowUp28Regular";
+export { arrowUp32Filled } from "./arrowUp32Filled";
+export { arrowUp32Regular } from "./arrowUp32Regular";
+export { arrowUp48Filled } from "./arrowUp48Filled";
+export { arrowUp48Regular } from "./arrowUp48Regular";

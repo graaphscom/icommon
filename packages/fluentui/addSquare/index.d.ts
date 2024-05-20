@@ -1,0 +1,12 @@
+export { addSquare16Filled } from "./addSquare16Filled";
+export { addSquare16Regular } from "./addSquare16Regular";
+export { addSquare20Filled } from "./addSquare20Filled";
+export { addSquare20Regular } from "./addSquare20Regular";
+export { addSquare24Filled } from "./addSquare24Filled";
+export { addSquare24Regular } from "./addSquare24Regular";
+export { addSquare28Filled } from "./addSquare28Filled";
+export { addSquare28Regular } from "./addSquare28Regular";
+export { addSquare32Filled } from "./addSquare32Filled";
+export { addSquare32Regular } from "./addSquare32Regular";
+export { addSquare48Filled } from "./addSquare48Filled";
+export { addSquare48Regular } from "./addSquare48Regular";

@@ -1,0 +1,12 @@
+export { phoneDesktop16Filled } from "./phoneDesktop16Filled";
+export { phoneDesktop16Regular } from "./phoneDesktop16Regular";
+export { phoneDesktop20Filled } from "./phoneDesktop20Filled";
+export { phoneDesktop20Regular } from "./phoneDesktop20Regular";
+export { phoneDesktop24Filled } from "./phoneDesktop24Filled";
+export { phoneDesktop24Regular } from "./phoneDesktop24Regular";
+export { phoneDesktop28Filled } from "./phoneDesktop28Filled";
+export { phoneDesktop28Regular } from "./phoneDesktop28Regular";
+export { phoneDesktop32Filled } from "./phoneDesktop32Filled";
+export { phoneDesktop32Regular } from "./phoneDesktop32Regular";
+export { phoneDesktop48Filled } from "./phoneDesktop48Filled";
+export { phoneDesktop48Regular } from "./phoneDesktop48Regular";

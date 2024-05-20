@@ -1,0 +1,14 @@
+export { checkmark12Filled } from "./checkmark12Filled";
+export { checkmark12Regular } from "./checkmark12Regular";
+export { checkmark16Filled } from "./checkmark16Filled";
+export { checkmark16Regular } from "./checkmark16Regular";
+export { checkmark20Filled } from "./checkmark20Filled";
+export { checkmark20Regular } from "./checkmark20Regular";
+export { checkmark24Filled } from "./checkmark24Filled";
+export { checkmark24Regular } from "./checkmark24Regular";
+export { checkmark28Filled } from "./checkmark28Filled";
+export { checkmark28Regular } from "./checkmark28Regular";
+export { checkmark32Filled } from "./checkmark32Filled";
+export { checkmark32Regular } from "./checkmark32Regular";
+export { checkmark48Filled } from "./checkmark48Filled";
+export { checkmark48Regular } from "./checkmark48Regular";

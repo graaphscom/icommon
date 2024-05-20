@@ -1,0 +1,10 @@
+export { globeVideo20Filled } from "./globeVideo20Filled";
+export { globeVideo20Regular } from "./globeVideo20Regular";
+export { globeVideo24Filled } from "./globeVideo24Filled";
+export { globeVideo24Regular } from "./globeVideo24Regular";
+export { globeVideo28Filled } from "./globeVideo28Filled";
+export { globeVideo28Regular } from "./globeVideo28Regular";
+export { globeVideo32Filled } from "./globeVideo32Filled";
+export { globeVideo32Regular } from "./globeVideo32Regular";
+export { globeVideo48Filled } from "./globeVideo48Filled";
+export { globeVideo48Regular } from "./globeVideo48Regular";

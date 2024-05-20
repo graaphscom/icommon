@@ -1,0 +1,12 @@
+export { editProhibited16Filled } from "./editProhibited16Filled";
+export { editProhibited16Regular } from "./editProhibited16Regular";
+export { editProhibited20Filled } from "./editProhibited20Filled";
+export { editProhibited20Regular } from "./editProhibited20Regular";
+export { editProhibited24Filled } from "./editProhibited24Filled";
+export { editProhibited24Regular } from "./editProhibited24Regular";
+export { editProhibited28Filled } from "./editProhibited28Filled";
+export { editProhibited28Regular } from "./editProhibited28Regular";
+export { editProhibited32Filled } from "./editProhibited32Filled";
+export { editProhibited32Regular } from "./editProhibited32Regular";
+export { editProhibited48Filled } from "./editProhibited48Filled";
+export { editProhibited48Regular } from "./editProhibited48Regular";

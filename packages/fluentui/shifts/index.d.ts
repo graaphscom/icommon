@@ -1,0 +1,10 @@
+export { shifts16Filled } from "./shifts16Filled";
+export { shifts16Regular } from "./shifts16Regular";
+export { shifts20Filled } from "./shifts20Filled";
+export { shifts20Regular } from "./shifts20Regular";
+export { shifts24Filled } from "./shifts24Filled";
+export { shifts24Regular } from "./shifts24Regular";
+export { shifts28Filled } from "./shifts28Filled";
+export { shifts28Regular } from "./shifts28Regular";
+export { shifts32Filled } from "./shifts32Filled";
+export { shifts32Regular } from "./shifts32Regular";

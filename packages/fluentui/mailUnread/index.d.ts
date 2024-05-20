@@ -1,0 +1,14 @@
+export { mailUnread12Filled } from "./mailUnread12Filled";
+export { mailUnread12Regular } from "./mailUnread12Regular";
+export { mailUnread16Filled } from "./mailUnread16Filled";
+export { mailUnread16Regular } from "./mailUnread16Regular";
+export { mailUnread20Filled } from "./mailUnread20Filled";
+export { mailUnread20Regular } from "./mailUnread20Regular";
+export { mailUnread24Filled } from "./mailUnread24Filled";
+export { mailUnread24Regular } from "./mailUnread24Regular";
+export { mailUnread28Filled } from "./mailUnread28Filled";
+export { mailUnread28Regular } from "./mailUnread28Regular";
+export { mailUnread32Filled } from "./mailUnread32Filled";
+export { mailUnread32Regular } from "./mailUnread32Regular";
+export { mailUnread48Filled } from "./mailUnread48Filled";
+export { mailUnread48Regular } from "./mailUnread48Regular";

@@ -1,0 +1,12 @@
+export { alignBottom16Filled } from "./alignBottom16Filled";
+export { alignBottom16Regular } from "./alignBottom16Regular";
+export { alignBottom20Filled } from "./alignBottom20Filled";
+export { alignBottom20Regular } from "./alignBottom20Regular";
+export { alignBottom24Filled } from "./alignBottom24Filled";
+export { alignBottom24Regular } from "./alignBottom24Regular";
+export { alignBottom28Filled } from "./alignBottom28Filled";
+export { alignBottom28Regular } from "./alignBottom28Regular";
+export { alignBottom32Filled } from "./alignBottom32Filled";
+export { alignBottom32Regular } from "./alignBottom32Regular";
+export { alignBottom48Filled } from "./alignBottom48Filled";
+export { alignBottom48Regular } from "./alignBottom48Regular";

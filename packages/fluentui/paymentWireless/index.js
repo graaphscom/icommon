@@ -1,0 +1,12 @@
+export { paymentWireless16Filled } from "./paymentWireless16Filled";
+export { paymentWireless16Regular } from "./paymentWireless16Regular";
+export { paymentWireless20Filled } from "./paymentWireless20Filled";
+export { paymentWireless20Regular } from "./paymentWireless20Regular";
+export { paymentWireless24Filled } from "./paymentWireless24Filled";
+export { paymentWireless24Regular } from "./paymentWireless24Regular";
+export { paymentWireless28Filled } from "./paymentWireless28Filled";
+export { paymentWireless28Regular } from "./paymentWireless28Regular";
+export { paymentWireless32Filled } from "./paymentWireless32Filled";
+export { paymentWireless32Regular } from "./paymentWireless32Regular";
+export { paymentWireless48Filled } from "./paymentWireless48Filled";
+export { paymentWireless48Regular } from "./paymentWireless48Regular";

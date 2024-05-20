@@ -1,0 +1,14 @@
+export { add12Filled } from "./add12Filled";
+export { add12Regular } from "./add12Regular";
+export { add16Filled } from "./add16Filled";
+export { add16Regular } from "./add16Regular";
+export { add20Filled } from "./add20Filled";
+export { add20Regular } from "./add20Regular";
+export { add24Filled } from "./add24Filled";
+export { add24Regular } from "./add24Regular";
+export { add28Filled } from "./add28Filled";
+export { add28Regular } from "./add28Regular";
+export { add32Filled } from "./add32Filled";
+export { add32Regular } from "./add32Regular";
+export { add48Filled } from "./add48Filled";
+export { add48Regular } from "./add48Regular";

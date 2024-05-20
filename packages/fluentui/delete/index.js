@@ -1,0 +1,14 @@
+export { delete12Filled } from "./delete12Filled";
+export { delete12Regular } from "./delete12Regular";
+export { delete16Filled } from "./delete16Filled";
+export { delete16Regular } from "./delete16Regular";
+export { delete20Filled } from "./delete20Filled";
+export { delete20Regular } from "./delete20Regular";
+export { delete24Filled } from "./delete24Filled";
+export { delete24Regular } from "./delete24Regular";
+export { delete28Filled } from "./delete28Filled";
+export { delete28Regular } from "./delete28Regular";
+export { delete32Filled } from "./delete32Filled";
+export { delete32Regular } from "./delete32Regular";
+export { delete48Filled } from "./delete48Filled";
+export { delete48Regular } from "./delete48Regular";

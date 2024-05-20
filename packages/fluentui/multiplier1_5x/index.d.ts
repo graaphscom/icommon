@@ -1,0 +1,10 @@
+export { multiplier15x20Filled } from "./multiplier15x20Filled";
+export { multiplier15x20Regular } from "./multiplier15x20Regular";
+export { multiplier15x24Filled } from "./multiplier15x24Filled";
+export { multiplier15x24Regular } from "./multiplier15x24Regular";
+export { multiplier15x28Filled } from "./multiplier15x28Filled";
+export { multiplier15x28Regular } from "./multiplier15x28Regular";
+export { multiplier15x32Filled } from "./multiplier15x32Filled";
+export { multiplier15x32Regular } from "./multiplier15x32Regular";
+export { multiplier15x48Filled } from "./multiplier15x48Filled";
+export { multiplier15x48Regular } from "./multiplier15x48Regular";

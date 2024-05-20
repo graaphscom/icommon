@@ -1,0 +1,10 @@
+export { dialpad20Filled } from "./dialpad20Filled";
+export { dialpad20Regular } from "./dialpad20Regular";
+export { dialpad24Filled } from "./dialpad24Filled";
+export { dialpad24Regular } from "./dialpad24Regular";
+export { dialpad28Filled } from "./dialpad28Filled";
+export { dialpad28Regular } from "./dialpad28Regular";
+export { dialpad32Filled } from "./dialpad32Filled";
+export { dialpad32Regular } from "./dialpad32Regular";
+export { dialpad48Filled } from "./dialpad48Filled";
+export { dialpad48Regular } from "./dialpad48Regular";

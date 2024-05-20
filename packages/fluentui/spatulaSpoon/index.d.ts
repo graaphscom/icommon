@@ -1,0 +1,12 @@
+export { spatulaSpoon16Filled } from "./spatulaSpoon16Filled";
+export { spatulaSpoon16Regular } from "./spatulaSpoon16Regular";
+export { spatulaSpoon20Filled } from "./spatulaSpoon20Filled";
+export { spatulaSpoon20Regular } from "./spatulaSpoon20Regular";
+export { spatulaSpoon24Filled } from "./spatulaSpoon24Filled";
+export { spatulaSpoon24Regular } from "./spatulaSpoon24Regular";
+export { spatulaSpoon28Filled } from "./spatulaSpoon28Filled";
+export { spatulaSpoon28Regular } from "./spatulaSpoon28Regular";
+export { spatulaSpoon32Filled } from "./spatulaSpoon32Filled";
+export { spatulaSpoon32Regular } from "./spatulaSpoon32Regular";
+export { spatulaSpoon48Filled } from "./spatulaSpoon48Filled";
+export { spatulaSpoon48Regular } from "./spatulaSpoon48Regular";

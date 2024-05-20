@@ -1,0 +1,12 @@
+export { calendarArrowCounterclockwise16Filled } from "./calendarArrowCounterclockwise16Filled";
+export { calendarArrowCounterclockwise16Regular } from "./calendarArrowCounterclockwise16Regular";
+export { calendarArrowCounterclockwise20Filled } from "./calendarArrowCounterclockwise20Filled";
+export { calendarArrowCounterclockwise20Regular } from "./calendarArrowCounterclockwise20Regular";
+export { calendarArrowCounterclockwise24Filled } from "./calendarArrowCounterclockwise24Filled";
+export { calendarArrowCounterclockwise24Regular } from "./calendarArrowCounterclockwise24Regular";
+export { calendarArrowCounterclockwise28Filled } from "./calendarArrowCounterclockwise28Filled";
+export { calendarArrowCounterclockwise28Regular } from "./calendarArrowCounterclockwise28Regular";
+export { calendarArrowCounterclockwise32Filled } from "./calendarArrowCounterclockwise32Filled";
+export { calendarArrowCounterclockwise32Regular } from "./calendarArrowCounterclockwise32Regular";
+export { calendarArrowCounterclockwise48Filled } from "./calendarArrowCounterclockwise48Filled";
+export { calendarArrowCounterclockwise48Regular } from "./calendarArrowCounterclockwise48Regular";

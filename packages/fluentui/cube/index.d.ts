@@ -1,0 +1,12 @@
+export { cube12Filled } from "./cube12Filled";
+export { cube12Regular } from "./cube12Regular";
+export { cube16Filled } from "./cube16Filled";
+export { cube16Regular } from "./cube16Regular";
+export { cube20Filled } from "./cube20Filled";
+export { cube20Regular } from "./cube20Regular";
+export { cube24Filled } from "./cube24Filled";
+export { cube24Regular } from "./cube24Regular";
+export { cube32Filled } from "./cube32Filled";
+export { cube32Regular } from "./cube32Regular";
+export { cube48Filled } from "./cube48Filled";
+export { cube48Regular } from "./cube48Regular";

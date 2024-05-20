@@ -1,0 +1,10 @@
+export { locationOff16Filled } from "./locationOff16Filled";
+export { locationOff16Regular } from "./locationOff16Regular";
+export { locationOff20Filled } from "./locationOff20Filled";
+export { locationOff20Regular } from "./locationOff20Regular";
+export { locationOff24Filled } from "./locationOff24Filled";
+export { locationOff24Regular } from "./locationOff24Regular";
+export { locationOff28Filled } from "./locationOff28Filled";
+export { locationOff28Regular } from "./locationOff28Regular";
+export { locationOff48Filled } from "./locationOff48Filled";
+export { locationOff48Regular } from "./locationOff48Regular";

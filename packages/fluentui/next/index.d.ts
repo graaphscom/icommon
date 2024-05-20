@@ -1,0 +1,12 @@
+export { next16Filled } from "./next16Filled";
+export { next16Regular } from "./next16Regular";
+export { next20Filled } from "./next20Filled";
+export { next20Regular } from "./next20Regular";
+export { next24Filled } from "./next24Filled";
+export { next24Regular } from "./next24Regular";
+export { next28Filled } from "./next28Filled";
+export { next28Regular } from "./next28Regular";
+export { next32Filled } from "./next32Filled";
+export { next32Regular } from "./next32Regular";
+export { next48Filled } from "./next48Filled";
+export { next48Regular } from "./next48Regular";

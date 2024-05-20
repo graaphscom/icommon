@@ -1,0 +1,2 @@
+import { IcommonNode } from "@icommon/components/types";
+export declare const shareScreenPersonOverlayInside16Regular: IcommonNode;

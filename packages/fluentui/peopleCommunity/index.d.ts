@@ -1,0 +1,14 @@
+export { peopleCommunity12Filled } from "./peopleCommunity12Filled";
+export { peopleCommunity12Regular } from "./peopleCommunity12Regular";
+export { peopleCommunity16Filled } from "./peopleCommunity16Filled";
+export { peopleCommunity16Regular } from "./peopleCommunity16Regular";
+export { peopleCommunity20Filled } from "./peopleCommunity20Filled";
+export { peopleCommunity20Regular } from "./peopleCommunity20Regular";
+export { peopleCommunity24Filled } from "./peopleCommunity24Filled";
+export { peopleCommunity24Regular } from "./peopleCommunity24Regular";
+export { peopleCommunity28Filled } from "./peopleCommunity28Filled";
+export { peopleCommunity28Regular } from "./peopleCommunity28Regular";
+export { peopleCommunity32Filled } from "./peopleCommunity32Filled";
+export { peopleCommunity32Regular } from "./peopleCommunity32Regular";
+export { peopleCommunity48Filled } from "./peopleCommunity48Filled";
+export { peopleCommunity48Regular } from "./peopleCommunity48Regular";

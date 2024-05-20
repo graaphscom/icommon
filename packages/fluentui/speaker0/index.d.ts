@@ -1,0 +1,12 @@
+export { speaker016Filled } from "./speaker016Filled";
+export { speaker016Regular } from "./speaker016Regular";
+export { speaker020Filled } from "./speaker020Filled";
+export { speaker020Regular } from "./speaker020Regular";
+export { speaker024Filled } from "./speaker024Filled";
+export { speaker024Regular } from "./speaker024Regular";
+export { speaker028Filled } from "./speaker028Filled";
+export { speaker028Regular } from "./speaker028Regular";
+export { speaker032Filled } from "./speaker032Filled";
+export { speaker032Regular } from "./speaker032Regular";
+export { speaker048Filled } from "./speaker048Filled";
+export { speaker048Regular } from "./speaker048Regular";

@@ -1,0 +1,12 @@
+export { panelLeftText16Filled } from "./panelLeftText16Filled";
+export { panelLeftText16Regular } from "./panelLeftText16Regular";
+export { panelLeftText20Filled } from "./panelLeftText20Filled";
+export { panelLeftText20Regular } from "./panelLeftText20Regular";
+export { panelLeftText24Filled } from "./panelLeftText24Filled";
+export { panelLeftText24Regular } from "./panelLeftText24Regular";
+export { panelLeftText28Filled } from "./panelLeftText28Filled";
+export { panelLeftText28Regular } from "./panelLeftText28Regular";
+export { panelLeftText32Filled } from "./panelLeftText32Filled";
+export { panelLeftText32Regular } from "./panelLeftText32Regular";
+export { panelLeftText48Filled } from "./panelLeftText48Filled";
+export { panelLeftText48Regular } from "./panelLeftText48Regular";

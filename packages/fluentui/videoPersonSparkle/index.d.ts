@@ -1,0 +1,10 @@
+export { videoPersonSparkle16Filled } from "./videoPersonSparkle16Filled";
+export { videoPersonSparkle16Regular } from "./videoPersonSparkle16Regular";
+export { videoPersonSparkle20Filled } from "./videoPersonSparkle20Filled";
+export { videoPersonSparkle20Regular } from "./videoPersonSparkle20Regular";
+export { videoPersonSparkle24Filled } from "./videoPersonSparkle24Filled";
+export { videoPersonSparkle24Regular } from "./videoPersonSparkle24Regular";
+export { videoPersonSparkle28Filled } from "./videoPersonSparkle28Filled";
+export { videoPersonSparkle28Regular } from "./videoPersonSparkle28Regular";
+export { videoPersonSparkle48Filled } from "./videoPersonSparkle48Filled";
+export { videoPersonSparkle48Regular } from "./videoPersonSparkle48Regular";

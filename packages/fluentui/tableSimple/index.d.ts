@@ -1,0 +1,12 @@
+export { tableSimple16Filled } from "./tableSimple16Filled";
+export { tableSimple16Regular } from "./tableSimple16Regular";
+export { tableSimple20Filled } from "./tableSimple20Filled";
+export { tableSimple20Regular } from "./tableSimple20Regular";
+export { tableSimple24Filled } from "./tableSimple24Filled";
+export { tableSimple24Regular } from "./tableSimple24Regular";
+export { tableSimple28Filled } from "./tableSimple28Filled";
+export { tableSimple28Regular } from "./tableSimple28Regular";
+export { tableSimple32Filled } from "./tableSimple32Filled";
+export { tableSimple32Regular } from "./tableSimple32Regular";
+export { tableSimple48Filled } from "./tableSimple48Filled";
+export { tableSimple48Regular } from "./tableSimple48Regular";

@@ -1,0 +1,12 @@
+export { emojiSparkle16Filled } from "./emojiSparkle16Filled";
+export { emojiSparkle16Regular } from "./emojiSparkle16Regular";
+export { emojiSparkle20Filled } from "./emojiSparkle20Filled";
+export { emojiSparkle20Regular } from "./emojiSparkle20Regular";
+export { emojiSparkle24Filled } from "./emojiSparkle24Filled";
+export { emojiSparkle24Regular } from "./emojiSparkle24Regular";
+export { emojiSparkle28Filled } from "./emojiSparkle28Filled";
+export { emojiSparkle28Regular } from "./emojiSparkle28Regular";
+export { emojiSparkle32Filled } from "./emojiSparkle32Filled";
+export { emojiSparkle32Regular } from "./emojiSparkle32Regular";
+export { emojiSparkle48Filled } from "./emojiSparkle48Filled";
+export { emojiSparkle48Regular } from "./emojiSparkle48Regular";

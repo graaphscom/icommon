@@ -1,0 +1,10 @@
+export { earthLeaf16Filled } from "./earthLeaf16Filled";
+export { earthLeaf16Regular } from "./earthLeaf16Regular";
+export { earthLeaf20Filled } from "./earthLeaf20Filled";
+export { earthLeaf20Regular } from "./earthLeaf20Regular";
+export { earthLeaf24Filled } from "./earthLeaf24Filled";
+export { earthLeaf24Regular } from "./earthLeaf24Regular";
+export { earthLeaf32Filled } from "./earthLeaf32Filled";
+export { earthLeaf32Regular } from "./earthLeaf32Regular";
+export { earthLeaf48Filled } from "./earthLeaf48Filled";
+export { earthLeaf48Regular } from "./earthLeaf48Regular";

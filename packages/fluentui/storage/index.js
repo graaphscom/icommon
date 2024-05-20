@@ -1,0 +1,12 @@
+export { storage16Filled } from "./storage16Filled";
+export { storage16Regular } from "./storage16Regular";
+export { storage20Filled } from "./storage20Filled";
+export { storage20Regular } from "./storage20Regular";
+export { storage24Filled } from "./storage24Filled";
+export { storage24Regular } from "./storage24Regular";
+export { storage28Filled } from "./storage28Filled";
+export { storage28Regular } from "./storage28Regular";
+export { storage32Filled } from "./storage32Filled";
+export { storage32Regular } from "./storage32Regular";
+export { storage48Filled } from "./storage48Filled";
+export { storage48Regular } from "./storage48Regular";

@@ -1,0 +1,16 @@
+export var barChart2Fill = [
+  "svg",
+  {
+    "fill": "currentColor",
+    "viewBox": "0 0 24 24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 13H8V21H2V13ZM9 3H15V21H9V3ZM16 8H22V21H16V8Z"
+      }
+    ]
+  ]
+]

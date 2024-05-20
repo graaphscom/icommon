@@ -1,0 +1,10 @@
+export { personProhibited16Filled } from "./personProhibited16Filled";
+export { personProhibited16Regular } from "./personProhibited16Regular";
+export { personProhibited20Filled } from "./personProhibited20Filled";
+export { personProhibited20Regular } from "./personProhibited20Regular";
+export { personProhibited24Filled } from "./personProhibited24Filled";
+export { personProhibited24Regular } from "./personProhibited24Regular";
+export { personProhibited28Filled } from "./personProhibited28Filled";
+export { personProhibited28Regular } from "./personProhibited28Regular";
+export { personProhibited32Filled } from "./personProhibited32Filled";
+export { personProhibited32Regular } from "./personProhibited32Regular";

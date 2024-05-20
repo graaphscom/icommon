@@ -1,0 +1,10 @@
+export { wand16Filled } from "./wand16Filled";
+export { wand16Regular } from "./wand16Regular";
+export { wand20Filled } from "./wand20Filled";
+export { wand20Regular } from "./wand20Regular";
+export { wand24Filled } from "./wand24Filled";
+export { wand24Regular } from "./wand24Regular";
+export { wand28Filled } from "./wand28Filled";
+export { wand28Regular } from "./wand28Regular";
+export { wand48Filled } from "./wand48Filled";
+export { wand48Regular } from "./wand48Regular";

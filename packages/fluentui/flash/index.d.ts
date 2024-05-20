@@ -1,0 +1,10 @@
+export { flash16Filled } from "./flash16Filled";
+export { flash16Regular } from "./flash16Regular";
+export { flash20Filled } from "./flash20Filled";
+export { flash20Regular } from "./flash20Regular";
+export { flash24Filled } from "./flash24Filled";
+export { flash24Regular } from "./flash24Regular";
+export { flash28Filled } from "./flash28Filled";
+export { flash28Regular } from "./flash28Regular";
+export { flash32Filled } from "./flash32Filled";
+export { flash32Regular } from "./flash32Regular";

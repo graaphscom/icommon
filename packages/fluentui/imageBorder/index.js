@@ -1,0 +1,12 @@
+export { imageBorder16Filled } from "./imageBorder16Filled";
+export { imageBorder16Regular } from "./imageBorder16Regular";
+export { imageBorder20Filled } from "./imageBorder20Filled";
+export { imageBorder20Regular } from "./imageBorder20Regular";
+export { imageBorder24Filled } from "./imageBorder24Filled";
+export { imageBorder24Regular } from "./imageBorder24Regular";
+export { imageBorder28Filled } from "./imageBorder28Filled";
+export { imageBorder28Regular } from "./imageBorder28Regular";
+export { imageBorder32Filled } from "./imageBorder32Filled";
+export { imageBorder32Regular } from "./imageBorder32Regular";
+export { imageBorder48Filled } from "./imageBorder48Filled";
+export { imageBorder48Regular } from "./imageBorder48Regular";

@@ -1,0 +1,10 @@
+export { clipboardBrush16Filled } from "./clipboardBrush16Filled";
+export { clipboardBrush16Regular } from "./clipboardBrush16Regular";
+export { clipboardBrush20Filled } from "./clipboardBrush20Filled";
+export { clipboardBrush20Regular } from "./clipboardBrush20Regular";
+export { clipboardBrush24Filled } from "./clipboardBrush24Filled";
+export { clipboardBrush24Regular } from "./clipboardBrush24Regular";
+export { clipboardBrush28Filled } from "./clipboardBrush28Filled";
+export { clipboardBrush28Regular } from "./clipboardBrush28Regular";
+export { clipboardBrush32Filled } from "./clipboardBrush32Filled";
+export { clipboardBrush32Regular } from "./clipboardBrush32Regular";

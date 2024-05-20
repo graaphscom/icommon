@@ -1,0 +1,10 @@
+export { slideSearch16Filled } from "./slideSearch16Filled";
+export { slideSearch16Regular } from "./slideSearch16Regular";
+export { slideSearch20Filled } from "./slideSearch20Filled";
+export { slideSearch20Regular } from "./slideSearch20Regular";
+export { slideSearch24Filled } from "./slideSearch24Filled";
+export { slideSearch24Regular } from "./slideSearch24Regular";
+export { slideSearch28Filled } from "./slideSearch28Filled";
+export { slideSearch28Regular } from "./slideSearch28Regular";
+export { slideSearch32Filled } from "./slideSearch32Filled";
+export { slideSearch32Regular } from "./slideSearch32Regular";

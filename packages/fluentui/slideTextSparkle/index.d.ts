@@ -1,0 +1,12 @@
+export { slideTextSparkle16Filled } from "./slideTextSparkle16Filled";
+export { slideTextSparkle16Regular } from "./slideTextSparkle16Regular";
+export { slideTextSparkle20Filled } from "./slideTextSparkle20Filled";
+export { slideTextSparkle20Regular } from "./slideTextSparkle20Regular";
+export { slideTextSparkle24Filled } from "./slideTextSparkle24Filled";
+export { slideTextSparkle24Regular } from "./slideTextSparkle24Regular";
+export { slideTextSparkle28Filled } from "./slideTextSparkle28Filled";
+export { slideTextSparkle28Regular } from "./slideTextSparkle28Regular";
+export { slideTextSparkle32Filled } from "./slideTextSparkle32Filled";
+export { slideTextSparkle32Regular } from "./slideTextSparkle32Regular";
+export { slideTextSparkle48Filled } from "./slideTextSparkle48Filled";
+export { slideTextSparkle48Regular } from "./slideTextSparkle48Regular";

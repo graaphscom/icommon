@@ -1,0 +1,12 @@
+export { personSync16Filled } from "./personSync16Filled";
+export { personSync16Regular } from "./personSync16Regular";
+export { personSync20Filled } from "./personSync20Filled";
+export { personSync20Regular } from "./personSync20Regular";
+export { personSync24Filled } from "./personSync24Filled";
+export { personSync24Regular } from "./personSync24Regular";
+export { personSync28Filled } from "./personSync28Filled";
+export { personSync28Regular } from "./personSync28Regular";
+export { personSync32Filled } from "./personSync32Filled";
+export { personSync32Regular } from "./personSync32Regular";
+export { personSync48Filled } from "./personSync48Filled";
+export { personSync48Regular } from "./personSync48Regular";

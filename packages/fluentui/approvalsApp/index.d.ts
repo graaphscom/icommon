@@ -1,0 +1,10 @@
+export { approvalsApp16Filled } from "./approvalsApp16Filled";
+export { approvalsApp16Regular } from "./approvalsApp16Regular";
+export { approvalsApp20Filled } from "./approvalsApp20Filled";
+export { approvalsApp20Regular } from "./approvalsApp20Regular";
+export { approvalsApp24Filled } from "./approvalsApp24Filled";
+export { approvalsApp24Regular } from "./approvalsApp24Regular";
+export { approvalsApp28Filled } from "./approvalsApp28Filled";
+export { approvalsApp28Regular } from "./approvalsApp28Regular";
+export { approvalsApp32Filled } from "./approvalsApp32Filled";
+export { approvalsApp32Regular } from "./approvalsApp32Regular";

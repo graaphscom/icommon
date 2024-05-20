@@ -1,0 +1,2 @@
+import { IcommonNode } from "@icommon/components/types";
+export declare const installDesktopOutlined20px: IcommonNode;

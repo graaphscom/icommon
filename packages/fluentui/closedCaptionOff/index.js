@@ -1,0 +1,10 @@
+export { closedCaptionOff16Filled } from "./closedCaptionOff16Filled";
+export { closedCaptionOff16Regular } from "./closedCaptionOff16Regular";
+export { closedCaptionOff20Filled } from "./closedCaptionOff20Filled";
+export { closedCaptionOff20Regular } from "./closedCaptionOff20Regular";
+export { closedCaptionOff24Filled } from "./closedCaptionOff24Filled";
+export { closedCaptionOff24Regular } from "./closedCaptionOff24Regular";
+export { closedCaptionOff28Filled } from "./closedCaptionOff28Filled";
+export { closedCaptionOff28Regular } from "./closedCaptionOff28Regular";
+export { closedCaptionOff48Filled } from "./closedCaptionOff48Filled";
+export { closedCaptionOff48Regular } from "./closedCaptionOff48Regular";

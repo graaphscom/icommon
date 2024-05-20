@@ -1,0 +1,10 @@
+export { glanceHorizontal12Filled } from "./glanceHorizontal12Filled";
+export { glanceHorizontal12Regular } from "./glanceHorizontal12Regular";
+export { glanceHorizontal16Filled } from "./glanceHorizontal16Filled";
+export { glanceHorizontal16Regular } from "./glanceHorizontal16Regular";
+export { glanceHorizontal20Filled } from "./glanceHorizontal20Filled";
+export { glanceHorizontal20Regular } from "./glanceHorizontal20Regular";
+export { glanceHorizontal24Filled } from "./glanceHorizontal24Filled";
+export { glanceHorizontal24Regular } from "./glanceHorizontal24Regular";
+export { glanceHorizontal32Filled } from "./glanceHorizontal32Filled";
+export { glanceHorizontal32Regular } from "./glanceHorizontal32Regular";

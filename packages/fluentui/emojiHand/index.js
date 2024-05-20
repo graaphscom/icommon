@@ -1,0 +1,12 @@
+export { emojiHand16Filled } from "./emojiHand16Filled";
+export { emojiHand16Regular } from "./emojiHand16Regular";
+export { emojiHand20Filled } from "./emojiHand20Filled";
+export { emojiHand20Regular } from "./emojiHand20Regular";
+export { emojiHand24Filled } from "./emojiHand24Filled";
+export { emojiHand24Regular } from "./emojiHand24Regular";
+export { emojiHand28Filled } from "./emojiHand28Filled";
+export { emojiHand28Regular } from "./emojiHand28Regular";
+export { emojiHand32Filled } from "./emojiHand32Filled";
+export { emojiHand32Regular } from "./emojiHand32Regular";
+export { emojiHand48Filled } from "./emojiHand48Filled";
+export { emojiHand48Regular } from "./emojiHand48Regular";

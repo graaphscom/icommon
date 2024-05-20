@@ -1,0 +1,14 @@
+export { arrowCircleUp12Filled } from "./arrowCircleUp12Filled";
+export { arrowCircleUp12Regular } from "./arrowCircleUp12Regular";
+export { arrowCircleUp16Filled } from "./arrowCircleUp16Filled";
+export { arrowCircleUp16Regular } from "./arrowCircleUp16Regular";
+export { arrowCircleUp20Filled } from "./arrowCircleUp20Filled";
+export { arrowCircleUp20Regular } from "./arrowCircleUp20Regular";
+export { arrowCircleUp24Filled } from "./arrowCircleUp24Filled";
+export { arrowCircleUp24Regular } from "./arrowCircleUp24Regular";
+export { arrowCircleUp28Filled } from "./arrowCircleUp28Filled";
+export { arrowCircleUp28Regular } from "./arrowCircleUp28Regular";
+export { arrowCircleUp32Filled } from "./arrowCircleUp32Filled";
+export { arrowCircleUp32Regular } from "./arrowCircleUp32Regular";
+export { arrowCircleUp48Filled } from "./arrowCircleUp48Filled";
+export { arrowCircleUp48Regular } from "./arrowCircleUp48Regular";

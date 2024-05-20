@@ -1,0 +1,12 @@
+export { tableBottomRow16Filled } from "./tableBottomRow16Filled";
+export { tableBottomRow16Regular } from "./tableBottomRow16Regular";
+export { tableBottomRow20Filled } from "./tableBottomRow20Filled";
+export { tableBottomRow20Regular } from "./tableBottomRow20Regular";
+export { tableBottomRow24Filled } from "./tableBottomRow24Filled";
+export { tableBottomRow24Regular } from "./tableBottomRow24Regular";
+export { tableBottomRow28Filled } from "./tableBottomRow28Filled";
+export { tableBottomRow28Regular } from "./tableBottomRow28Regular";
+export { tableBottomRow32Filled } from "./tableBottomRow32Filled";
+export { tableBottomRow32Regular } from "./tableBottomRow32Regular";
+export { tableBottomRow48Filled } from "./tableBottomRow48Filled";
+export { tableBottomRow48Regular } from "./tableBottomRow48Regular";

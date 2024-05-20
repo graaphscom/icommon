@@ -1,0 +1,12 @@
+export { moreHorizontal16Filled } from "./moreHorizontal16Filled";
+export { moreHorizontal16Regular } from "./moreHorizontal16Regular";
+export { moreHorizontal20Filled } from "./moreHorizontal20Filled";
+export { moreHorizontal20Regular } from "./moreHorizontal20Regular";
+export { moreHorizontal24Filled } from "./moreHorizontal24Filled";
+export { moreHorizontal24Regular } from "./moreHorizontal24Regular";
+export { moreHorizontal28Filled } from "./moreHorizontal28Filled";
+export { moreHorizontal28Regular } from "./moreHorizontal28Regular";
+export { moreHorizontal32Filled } from "./moreHorizontal32Filled";
+export { moreHorizontal32Regular } from "./moreHorizontal32Regular";
+export { moreHorizontal48Filled } from "./moreHorizontal48Filled";
+export { moreHorizontal48Regular } from "./moreHorizontal48Regular";

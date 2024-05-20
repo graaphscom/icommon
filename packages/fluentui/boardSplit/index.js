@@ -1,0 +1,10 @@
+export { boardSplit16Filled } from "./boardSplit16Filled";
+export { boardSplit16Regular } from "./boardSplit16Regular";
+export { boardSplit20Filled } from "./boardSplit20Filled";
+export { boardSplit20Regular } from "./boardSplit20Regular";
+export { boardSplit24Filled } from "./boardSplit24Filled";
+export { boardSplit24Regular } from "./boardSplit24Regular";
+export { boardSplit28Filled } from "./boardSplit28Filled";
+export { boardSplit28Regular } from "./boardSplit28Regular";
+export { boardSplit48Filled } from "./boardSplit48Filled";
+export { boardSplit48Regular } from "./boardSplit48Regular";

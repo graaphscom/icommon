@@ -1,0 +1,20 @@
+{
+  "name": "@icommon/components",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@icommon/eslint-config": "workspace:^",
+    "@icommon/typescript-config": "workspace:^",
+    "@swc/cli": "^0.3.12",
+    "@types/react": "^18.3.2",
+    "react": "^18.3.1",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "scripts": {
+    "compile": "swc src -d . --strip-leading-paths",
+    "dts": "tsc"
+  }
+}

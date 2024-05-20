@@ -1,0 +1,10 @@
+export { triangleLeft12Filled } from "./triangleLeft12Filled";
+export { triangleLeft12Regular } from "./triangleLeft12Regular";
+export { triangleLeft16Filled } from "./triangleLeft16Filled";
+export { triangleLeft16Regular } from "./triangleLeft16Regular";
+export { triangleLeft20Filled } from "./triangleLeft20Filled";
+export { triangleLeft20Regular } from "./triangleLeft20Regular";
+export { triangleLeft32Filled } from "./triangleLeft32Filled";
+export { triangleLeft32Regular } from "./triangleLeft32Regular";
+export { triangleLeft48Filled } from "./triangleLeft48Filled";
+export { triangleLeft48Regular } from "./triangleLeft48Regular";

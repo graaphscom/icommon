@@ -1,0 +1,10 @@
+export { couch12Filled } from "./couch12Filled";
+export { couch12Regular } from "./couch12Regular";
+export { couch20Filled } from "./couch20Filled";
+export { couch20Regular } from "./couch20Regular";
+export { couch24Filled } from "./couch24Filled";
+export { couch24Regular } from "./couch24Regular";
+export { couch32Filled } from "./couch32Filled";
+export { couch32Regular } from "./couch32Regular";
+export { couch48Filled } from "./couch48Filled";
+export { couch48Regular } from "./couch48Regular";

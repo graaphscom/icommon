@@ -1,0 +1,10 @@
+export { headphonesSoundWave20Filled } from "./headphonesSoundWave20Filled";
+export { headphonesSoundWave20Regular } from "./headphonesSoundWave20Regular";
+export { headphonesSoundWave24Filled } from "./headphonesSoundWave24Filled";
+export { headphonesSoundWave24Regular } from "./headphonesSoundWave24Regular";
+export { headphonesSoundWave28Filled } from "./headphonesSoundWave28Filled";
+export { headphonesSoundWave28Regular } from "./headphonesSoundWave28Regular";
+export { headphonesSoundWave32Filled } from "./headphonesSoundWave32Filled";
+export { headphonesSoundWave32Regular } from "./headphonesSoundWave32Regular";
+export { headphonesSoundWave48Filled } from "./headphonesSoundWave48Filled";
+export { headphonesSoundWave48Regular } from "./headphonesSoundWave48Regular";

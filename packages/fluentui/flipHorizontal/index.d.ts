@@ -1,0 +1,12 @@
+export { flipHorizontal16Filled } from "./flipHorizontal16Filled";
+export { flipHorizontal16Regular } from "./flipHorizontal16Regular";
+export { flipHorizontal20Filled } from "./flipHorizontal20Filled";
+export { flipHorizontal20Regular } from "./flipHorizontal20Regular";
+export { flipHorizontal24Filled } from "./flipHorizontal24Filled";
+export { flipHorizontal24Regular } from "./flipHorizontal24Regular";
+export { flipHorizontal28Filled } from "./flipHorizontal28Filled";
+export { flipHorizontal28Regular } from "./flipHorizontal28Regular";
+export { flipHorizontal32Filled } from "./flipHorizontal32Filled";
+export { flipHorizontal32Regular } from "./flipHorizontal32Regular";
+export { flipHorizontal48Filled } from "./flipHorizontal48Filled";
+export { flipHorizontal48Regular } from "./flipHorizontal48Regular";

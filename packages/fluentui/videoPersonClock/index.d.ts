@@ -1,0 +1,12 @@
+export { videoPersonClock16Filled } from "./videoPersonClock16Filled";
+export { videoPersonClock16Regular } from "./videoPersonClock16Regular";
+export { videoPersonClock20Filled } from "./videoPersonClock20Filled";
+export { videoPersonClock20Regular } from "./videoPersonClock20Regular";
+export { videoPersonClock24Filled } from "./videoPersonClock24Filled";
+export { videoPersonClock24Regular } from "./videoPersonClock24Regular";
+export { videoPersonClock28Filled } from "./videoPersonClock28Filled";
+export { videoPersonClock28Regular } from "./videoPersonClock28Regular";
+export { videoPersonClock32Filled } from "./videoPersonClock32Filled";
+export { videoPersonClock32Regular } from "./videoPersonClock32Regular";
+export { videoPersonClock48Filled } from "./videoPersonClock48Filled";
+export { videoPersonClock48Regular } from "./videoPersonClock48Regular";

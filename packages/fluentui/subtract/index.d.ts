@@ -1,0 +1,12 @@
+export { subtract12Filled } from "./subtract12Filled";
+export { subtract12Regular } from "./subtract12Regular";
+export { subtract16Filled } from "./subtract16Filled";
+export { subtract16Regular } from "./subtract16Regular";
+export { subtract20Filled } from "./subtract20Filled";
+export { subtract20Regular } from "./subtract20Regular";
+export { subtract24Filled } from "./subtract24Filled";
+export { subtract24Regular } from "./subtract24Regular";
+export { subtract28Filled } from "./subtract28Filled";
+export { subtract28Regular } from "./subtract28Regular";
+export { subtract48Filled } from "./subtract48Filled";
+export { subtract48Regular } from "./subtract48Regular";

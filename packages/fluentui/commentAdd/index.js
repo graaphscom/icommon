@@ -1,0 +1,12 @@
+export { commentAdd12Filled } from "./commentAdd12Filled";
+export { commentAdd12Regular } from "./commentAdd12Regular";
+export { commentAdd16Filled } from "./commentAdd16Filled";
+export { commentAdd16Regular } from "./commentAdd16Regular";
+export { commentAdd20Filled } from "./commentAdd20Filled";
+export { commentAdd20Regular } from "./commentAdd20Regular";
+export { commentAdd24Filled } from "./commentAdd24Filled";
+export { commentAdd24Regular } from "./commentAdd24Regular";
+export { commentAdd28Filled } from "./commentAdd28Filled";
+export { commentAdd28Regular } from "./commentAdd28Regular";
+export { commentAdd48Filled } from "./commentAdd48Filled";
+export { commentAdd48Regular } from "./commentAdd48Regular";

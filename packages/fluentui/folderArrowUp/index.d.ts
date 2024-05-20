@@ -1,0 +1,12 @@
+export { folderArrowUp16Filled } from "./folderArrowUp16Filled";
+export { folderArrowUp16Regular } from "./folderArrowUp16Regular";
+export { folderArrowUp20Filled } from "./folderArrowUp20Filled";
+export { folderArrowUp20Regular } from "./folderArrowUp20Regular";
+export { folderArrowUp24Filled } from "./folderArrowUp24Filled";
+export { folderArrowUp24Regular } from "./folderArrowUp24Regular";
+export { folderArrowUp28Filled } from "./folderArrowUp28Filled";
+export { folderArrowUp28Regular } from "./folderArrowUp28Regular";
+export { folderArrowUp32Filled } from "./folderArrowUp32Filled";
+export { folderArrowUp32Regular } from "./folderArrowUp32Regular";
+export { folderArrowUp48Filled } from "./folderArrowUp48Filled";
+export { folderArrowUp48Regular } from "./folderArrowUp48Regular";

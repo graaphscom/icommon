@@ -1,0 +1,12 @@
+export { trophyOff16Filled } from "./trophyOff16Filled";
+export { trophyOff16Regular } from "./trophyOff16Regular";
+export { trophyOff20Filled } from "./trophyOff20Filled";
+export { trophyOff20Regular } from "./trophyOff20Regular";
+export { trophyOff24Filled } from "./trophyOff24Filled";
+export { trophyOff24Regular } from "./trophyOff24Regular";
+export { trophyOff28Filled } from "./trophyOff28Filled";
+export { trophyOff28Regular } from "./trophyOff28Regular";
+export { trophyOff32Filled } from "./trophyOff32Filled";
+export { trophyOff32Regular } from "./trophyOff32Regular";
+export { trophyOff48Filled } from "./trophyOff48Filled";
+export { trophyOff48Regular } from "./trophyOff48Regular";

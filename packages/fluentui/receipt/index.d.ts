@@ -1,0 +1,10 @@
+export { receipt16Filled } from "./receipt16Filled";
+export { receipt16Regular } from "./receipt16Regular";
+export { receipt20Filled } from "./receipt20Filled";
+export { receipt20Regular } from "./receipt20Regular";
+export { receipt24Filled } from "./receipt24Filled";
+export { receipt24Regular } from "./receipt24Regular";
+export { receipt28Filled } from "./receipt28Filled";
+export { receipt28Regular } from "./receipt28Regular";
+export { receipt32Filled } from "./receipt32Filled";
+export { receipt32Regular } from "./receipt32Regular";

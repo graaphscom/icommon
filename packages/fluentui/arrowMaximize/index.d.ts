@@ -1,0 +1,12 @@
+export { arrowMaximize16Filled } from "./arrowMaximize16Filled";
+export { arrowMaximize16Regular } from "./arrowMaximize16Regular";
+export { arrowMaximize20Filled } from "./arrowMaximize20Filled";
+export { arrowMaximize20Regular } from "./arrowMaximize20Regular";
+export { arrowMaximize24Filled } from "./arrowMaximize24Filled";
+export { arrowMaximize24Regular } from "./arrowMaximize24Regular";
+export { arrowMaximize28Filled } from "./arrowMaximize28Filled";
+export { arrowMaximize28Regular } from "./arrowMaximize28Regular";
+export { arrowMaximize32Filled } from "./arrowMaximize32Filled";
+export { arrowMaximize32Regular } from "./arrowMaximize32Regular";
+export { arrowMaximize48Filled } from "./arrowMaximize48Filled";
+export { arrowMaximize48Regular } from "./arrowMaximize48Regular";

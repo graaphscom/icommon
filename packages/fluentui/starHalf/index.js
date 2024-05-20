@@ -1,0 +1,10 @@
+export { starHalf12Filled } from "./starHalf12Filled";
+export { starHalf12Regular } from "./starHalf12Regular";
+export { starHalf16Filled } from "./starHalf16Filled";
+export { starHalf16Regular } from "./starHalf16Regular";
+export { starHalf20Filled } from "./starHalf20Filled";
+export { starHalf20Regular } from "./starHalf20Regular";
+export { starHalf24Filled } from "./starHalf24Filled";
+export { starHalf24Regular } from "./starHalf24Regular";
+export { starHalf28Filled } from "./starHalf28Filled";
+export { starHalf28Regular } from "./starHalf28Regular";

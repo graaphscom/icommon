@@ -1,0 +1,12 @@
+export { shapes16Filled } from "./shapes16Filled";
+export { shapes16Regular } from "./shapes16Regular";
+export { shapes20Filled } from "./shapes20Filled";
+export { shapes20Regular } from "./shapes20Regular";
+export { shapes24Filled } from "./shapes24Filled";
+export { shapes24Regular } from "./shapes24Regular";
+export { shapes28Filled } from "./shapes28Filled";
+export { shapes28Regular } from "./shapes28Regular";
+export { shapes32Filled } from "./shapes32Filled";
+export { shapes32Regular } from "./shapes32Regular";
+export { shapes48Filled } from "./shapes48Filled";
+export { shapes48Regular } from "./shapes48Regular";

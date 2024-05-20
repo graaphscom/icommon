@@ -1,0 +1,14 @@
+export { pin12Filled } from "./pin12Filled";
+export { pin12Regular } from "./pin12Regular";
+export { pin16Filled } from "./pin16Filled";
+export { pin16Regular } from "./pin16Regular";
+export { pin20Filled } from "./pin20Filled";
+export { pin20Regular } from "./pin20Regular";
+export { pin24Filled } from "./pin24Filled";
+export { pin24Regular } from "./pin24Regular";
+export { pin28Filled } from "./pin28Filled";
+export { pin28Regular } from "./pin28Regular";
+export { pin32Filled } from "./pin32Filled";
+export { pin32Regular } from "./pin32Regular";
+export { pin48Filled } from "./pin48Filled";
+export { pin48Regular } from "./pin48Regular";

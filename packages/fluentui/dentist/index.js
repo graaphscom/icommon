@@ -1,0 +1,12 @@
+export { dentist12Filled } from "./dentist12Filled";
+export { dentist12Regular } from "./dentist12Regular";
+export { dentist16Filled } from "./dentist16Filled";
+export { dentist16Regular } from "./dentist16Regular";
+export { dentist20Filled } from "./dentist20Filled";
+export { dentist20Regular } from "./dentist20Regular";
+export { dentist24Filled } from "./dentist24Filled";
+export { dentist24Regular } from "./dentist24Regular";
+export { dentist28Filled } from "./dentist28Filled";
+export { dentist28Regular } from "./dentist28Regular";
+export { dentist48Filled } from "./dentist48Filled";
+export { dentist48Regular } from "./dentist48Regular";

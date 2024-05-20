@@ -1,0 +1,10 @@
+export { documentArrowLeft16Filled } from "./documentArrowLeft16Filled";
+export { documentArrowLeft16Regular } from "./documentArrowLeft16Regular";
+export { documentArrowLeft20Filled } from "./documentArrowLeft20Filled";
+export { documentArrowLeft20Regular } from "./documentArrowLeft20Regular";
+export { documentArrowLeft24Filled } from "./documentArrowLeft24Filled";
+export { documentArrowLeft24Regular } from "./documentArrowLeft24Regular";
+export { documentArrowLeft28Filled } from "./documentArrowLeft28Filled";
+export { documentArrowLeft28Regular } from "./documentArrowLeft28Regular";
+export { documentArrowLeft48Filled } from "./documentArrowLeft48Filled";
+export { documentArrowLeft48Regular } from "./documentArrowLeft48Regular";

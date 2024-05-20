@@ -1,0 +1,10 @@
+export { flagOff16Filled } from "./flagOff16Filled";
+export { flagOff16Regular } from "./flagOff16Regular";
+export { flagOff20Filled } from "./flagOff20Filled";
+export { flagOff20Regular } from "./flagOff20Regular";
+export { flagOff24Filled } from "./flagOff24Filled";
+export { flagOff24Regular } from "./flagOff24Regular";
+export { flagOff28Filled } from "./flagOff28Filled";
+export { flagOff28Regular } from "./flagOff28Regular";
+export { flagOff48Filled } from "./flagOff48Filled";
+export { flagOff48Regular } from "./flagOff48Regular";

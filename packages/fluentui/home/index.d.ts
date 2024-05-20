@@ -1,0 +1,14 @@
+export { home12Filled } from "./home12Filled";
+export { home12Regular } from "./home12Regular";
+export { home16Filled } from "./home16Filled";
+export { home16Regular } from "./home16Regular";
+export { home20Filled } from "./home20Filled";
+export { home20Regular } from "./home20Regular";
+export { home24Filled } from "./home24Filled";
+export { home24Regular } from "./home24Regular";
+export { home28Filled } from "./home28Filled";
+export { home28Regular } from "./home28Regular";
+export { home32Filled } from "./home32Filled";
+export { home32Regular } from "./home32Regular";
+export { home48Filled } from "./home48Filled";
+export { home48Regular } from "./home48Regular";

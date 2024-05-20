@@ -1,0 +1,10 @@
+export { contactCardGroup16Filled } from "./contactCardGroup16Filled";
+export { contactCardGroup16Regular } from "./contactCardGroup16Regular";
+export { contactCardGroup20Filled } from "./contactCardGroup20Filled";
+export { contactCardGroup20Regular } from "./contactCardGroup20Regular";
+export { contactCardGroup24Filled } from "./contactCardGroup24Filled";
+export { contactCardGroup24Regular } from "./contactCardGroup24Regular";
+export { contactCardGroup28Filled } from "./contactCardGroup28Filled";
+export { contactCardGroup28Regular } from "./contactCardGroup28Regular";
+export { contactCardGroup48Filled } from "./contactCardGroup48Filled";
+export { contactCardGroup48Regular } from "./contactCardGroup48Regular";

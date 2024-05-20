@@ -1,0 +1,11 @@
+{
+  "name": "@icommon/fontawesome",
+  "version": "1.0.0",
+  "license": "CC BY 4.0",
+  "devDependencies": {
+    "@icommon/components": "workspace:^"
+  },
+  "peerDependencies": {
+    "@icommon/components": "workspace:^"
+  }
+}

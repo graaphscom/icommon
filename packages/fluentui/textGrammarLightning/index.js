@@ -1,0 +1,10 @@
+export { textGrammarLightning16Filled } from "./textGrammarLightning16Filled";
+export { textGrammarLightning16Regular } from "./textGrammarLightning16Regular";
+export { textGrammarLightning20Filled } from "./textGrammarLightning20Filled";
+export { textGrammarLightning20Regular } from "./textGrammarLightning20Regular";
+export { textGrammarLightning24Filled } from "./textGrammarLightning24Filled";
+export { textGrammarLightning24Regular } from "./textGrammarLightning24Regular";
+export { textGrammarLightning28Filled } from "./textGrammarLightning28Filled";
+export { textGrammarLightning28Regular } from "./textGrammarLightning28Regular";
+export { textGrammarLightning32Filled } from "./textGrammarLightning32Filled";
+export { textGrammarLightning32Regular } from "./textGrammarLightning32Regular";

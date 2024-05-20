@@ -1,0 +1,12 @@
+export { cloudCheckmark16Filled } from "./cloudCheckmark16Filled";
+export { cloudCheckmark16Regular } from "./cloudCheckmark16Regular";
+export { cloudCheckmark20Filled } from "./cloudCheckmark20Filled";
+export { cloudCheckmark20Regular } from "./cloudCheckmark20Regular";
+export { cloudCheckmark24Filled } from "./cloudCheckmark24Filled";
+export { cloudCheckmark24Regular } from "./cloudCheckmark24Regular";
+export { cloudCheckmark28Filled } from "./cloudCheckmark28Filled";
+export { cloudCheckmark28Regular } from "./cloudCheckmark28Regular";
+export { cloudCheckmark32Filled } from "./cloudCheckmark32Filled";
+export { cloudCheckmark32Regular } from "./cloudCheckmark32Regular";
+export { cloudCheckmark48Filled } from "./cloudCheckmark48Filled";
+export { cloudCheckmark48Regular } from "./cloudCheckmark48Regular";

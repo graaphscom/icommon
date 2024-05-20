@@ -1,0 +1,12 @@
+export { mention12Filled } from "./mention12Filled";
+export { mention12Regular } from "./mention12Regular";
+export { mention16Filled } from "./mention16Filled";
+export { mention16Regular } from "./mention16Regular";
+export { mention20Filled } from "./mention20Filled";
+export { mention20Regular } from "./mention20Regular";
+export { mention24Filled } from "./mention24Filled";
+export { mention24Regular } from "./mention24Regular";
+export { mention32Filled } from "./mention32Filled";
+export { mention32Regular } from "./mention32Regular";
+export { mention48Filled } from "./mention48Filled";
+export { mention48Regular } from "./mention48Regular";

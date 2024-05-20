@@ -1,0 +1,10 @@
+export { toggleLeft16Filled } from "./toggleLeft16Filled";
+export { toggleLeft16Regular } from "./toggleLeft16Regular";
+export { toggleLeft20Filled } from "./toggleLeft20Filled";
+export { toggleLeft20Regular } from "./toggleLeft20Regular";
+export { toggleLeft24Filled } from "./toggleLeft24Filled";
+export { toggleLeft24Regular } from "./toggleLeft24Regular";
+export { toggleLeft28Filled } from "./toggleLeft28Filled";
+export { toggleLeft28Regular } from "./toggleLeft28Regular";
+export { toggleLeft48Filled } from "./toggleLeft48Filled";
+export { toggleLeft48Regular } from "./toggleLeft48Regular";

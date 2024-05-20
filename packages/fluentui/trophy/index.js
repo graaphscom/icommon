@@ -1,0 +1,12 @@
+export { trophy16Filled } from "./trophy16Filled";
+export { trophy16Regular } from "./trophy16Regular";
+export { trophy20Filled } from "./trophy20Filled";
+export { trophy20Regular } from "./trophy20Regular";
+export { trophy24Filled } from "./trophy24Filled";
+export { trophy24Regular } from "./trophy24Regular";
+export { trophy28Filled } from "./trophy28Filled";
+export { trophy28Regular } from "./trophy28Regular";
+export { trophy32Filled } from "./trophy32Filled";
+export { trophy32Regular } from "./trophy32Regular";
+export { trophy48Filled } from "./trophy48Filled";
+export { trophy48Regular } from "./trophy48Regular";
