@@ -1,2 +1,2 @@
 import { IcommonNode } from "@icommon/components/types";
-export declare const export: IcommonNode;
+export declare const __export: IcommonNode;

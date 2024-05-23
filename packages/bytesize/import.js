@@ -1,4 +1,4 @@
-export var import = [
+export var __import = [
   "svg",
   {
     "fill": "none",
