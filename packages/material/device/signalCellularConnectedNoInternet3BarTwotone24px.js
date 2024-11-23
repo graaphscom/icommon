@@ -18,7 +18,7 @@ export var signalCellularConnectedNoInternet3BarTwotone24px = [
       "path",
       {
         "d": "M22 8V2L2 22h16V8h4z",
-        "fill-opacity": ".3"
+        "fillOpacity": ".3"
       }
     ],
     [

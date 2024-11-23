@@ -9,6 +9,7 @@ export { chat24Regular } from "./chat24Regular";
 export { chat28Filled } from "./chat28Filled";
 export { chat28Regular } from "./chat28Regular";
 export { chat32Filled } from "./chat32Filled";
+export { chat32Light } from "./chat32Light";
 export { chat32Regular } from "./chat32Regular";
 export { chat48Filled } from "./chat48Filled";
 export { chat48Regular } from "./chat48Regular";

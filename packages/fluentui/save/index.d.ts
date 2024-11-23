@@ -7,4 +7,5 @@ export { save24Regular } from "./save24Regular";
 export { save28Filled } from "./save28Filled";
 export { save28Regular } from "./save28Regular";
 export { save32Filled } from "./save32Filled";
+export { save32Light } from "./save32Light";
 export { save32Regular } from "./save32Regular";

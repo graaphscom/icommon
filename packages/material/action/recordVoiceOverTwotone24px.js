@@ -1,22 +1,40 @@
 export var recordVoiceOverTwotone24px = [
-  "g",
+  "svg",
   {
-    "opacity": ".3"
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
   },
   [
     [
-      "circle",
+      "path",
       {
-        "cx": "9",
-        "cy": "9",
-        "r": "2"
+        "d": "M0 0h24v24H0V0z",
+        "fill": "none"
       }
     ],
     [
-      "path",
+      "g",
       {
-        "d": "M9 17c-2.69 0-5.77 1.28-6 2h12c-.2-.71-3.3-2-6-2z"
-      }
+        "opacity": ".3"
+      },
+      [
+        [
+          "circle",
+          {
+            "cx": "9",
+            "cy": "9",
+            "r": "2"
+          }
+        ],
+        [
+          "path",
+          {
+            "d": "M9 17c-2.69 0-5.77 1.28-6 2h12c-.2-.71-3.3-2-6-2z"
+          }
+        ]
+      ]
     ],
     [
       "path",

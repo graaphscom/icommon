@@ -4,3 +4,4 @@ export { mailRewind20Filled } from "./mailRewind20Filled";
 export { mailRewind20Regular } from "./mailRewind20Regular";
 export { mailRewind24Filled } from "./mailRewind24Filled";
 export { mailRewind24Regular } from "./mailRewind24Regular";
+export { mailRewind32Light } from "./mailRewind32Light";

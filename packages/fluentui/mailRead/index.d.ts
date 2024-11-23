@@ -7,6 +7,7 @@ export { mailRead24Regular } from "./mailRead24Regular";
 export { mailRead28Filled } from "./mailRead28Filled";
 export { mailRead28Regular } from "./mailRead28Regular";
 export { mailRead32Filled } from "./mailRead32Filled";
+export { mailRead32Light } from "./mailRead32Light";
 export { mailRead32Regular } from "./mailRead32Regular";
 export { mailRead48Filled } from "./mailRead48Filled";
 export { mailRead48Regular } from "./mailRead48Regular";

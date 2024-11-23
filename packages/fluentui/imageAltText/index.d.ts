@@ -4,3 +4,4 @@ export { imageAltText20Filled } from "./imageAltText20Filled";
 export { imageAltText20Regular } from "./imageAltText20Regular";
 export { imageAltText24Filled } from "./imageAltText24Filled";
 export { imageAltText24Regular } from "./imageAltText24Regular";
+export { imageAltText32Light } from "./imageAltText32Light";

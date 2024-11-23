@@ -9,6 +9,7 @@ export { checkmark24Regular } from "./checkmark24Regular";
 export { checkmark28Filled } from "./checkmark28Filled";
 export { checkmark28Regular } from "./checkmark28Regular";
 export { checkmark32Filled } from "./checkmark32Filled";
+export { checkmark32Light } from "./checkmark32Light";
 export { checkmark32Regular } from "./checkmark32Regular";
 export { checkmark48Filled } from "./checkmark48Filled";
 export { checkmark48Regular } from "./checkmark48Regular";

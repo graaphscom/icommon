@@ -9,6 +9,7 @@ export { lockClosed24Regular } from "./lockClosed24Regular";
 export { lockClosed28Filled } from "./lockClosed28Filled";
 export { lockClosed28Regular } from "./lockClosed28Regular";
 export { lockClosed32Filled } from "./lockClosed32Filled";
+export { lockClosed32Light } from "./lockClosed32Light";
 export { lockClosed32Regular } from "./lockClosed32Regular";
 export { lockClosed48Filled } from "./lockClosed48Filled";
 export { lockClosed48Regular } from "./lockClosed48Regular";

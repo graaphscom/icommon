@@ -8,3 +8,7 @@ export { hatGraduation24Filled } from "./hatGraduation24Filled";
 export { hatGraduation24Regular } from "./hatGraduation24Regular";
 export { hatGraduation28Filled } from "./hatGraduation28Filled";
 export { hatGraduation28Regular } from "./hatGraduation28Regular";
+export { hatGraduation32Filled } from "./hatGraduation32Filled";
+export { hatGraduation32Regular } from "./hatGraduation32Regular";
+export { hatGraduation48Filled } from "./hatGraduation48Filled";
+export { hatGraduation48Regular } from "./hatGraduation48Regular";

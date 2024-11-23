@@ -1,7 +1,7 @@
 export var travelExploreRound20px = [
   "svg",
   {
-    "enable-background": "new 0 0 20 20",
+    "enableBackground": "new 0 0 20 20",
     "height": "20",
     "viewBox": "0 0 20 20",
     "width": "20",

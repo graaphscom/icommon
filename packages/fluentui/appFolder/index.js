@@ -7,6 +7,7 @@ export { appFolder24Regular } from "./appFolder24Regular";
 export { appFolder28Filled } from "./appFolder28Filled";
 export { appFolder28Regular } from "./appFolder28Regular";
 export { appFolder32Filled } from "./appFolder32Filled";
+export { appFolder32Light } from "./appFolder32Light";
 export { appFolder32Regular } from "./appFolder32Regular";
 export { appFolder48Filled } from "./appFolder48Filled";
 export { appFolder48Regular } from "./appFolder48Regular";

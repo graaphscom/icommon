@@ -18,7 +18,7 @@ export var batteryCharging90Twotone24px = [
       "path",
       {
         "d": "M15.67 4H14V2h-4v2H8.33C7.6 4 7 4.6 7 5.33V8h5.47L13 7v1h4V5.33C17 4.6 16.4 4 15.67 4z",
-        "fill-opacity": ".3"
+        "fillOpacity": ".3"
       }
     ],
     [

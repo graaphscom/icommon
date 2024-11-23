@@ -273,7 +273,7 @@ export { stretchHorizontally } from "./stretchHorizontally";
 export { stretchVertically } from "./stretchVertically";
 export { strikethrough } from "./strikethrough";
 export { sun } from "./sun";
-export { switch } from "./switch";
+export { __switch } from "./__switch";
 export { symbol } from "./symbol";
 export { table } from "./table";
 export { target } from "./target";

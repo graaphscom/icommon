@@ -7,6 +7,7 @@ export { documentLightning24Regular } from "./documentLightning24Regular";
 export { documentLightning28Filled } from "./documentLightning28Filled";
 export { documentLightning28Regular } from "./documentLightning28Regular";
 export { documentLightning32Filled } from "./documentLightning32Filled";
+export { documentLightning32Light } from "./documentLightning32Light";
 export { documentLightning32Regular } from "./documentLightning32Regular";
 export { documentLightning48Filled } from "./documentLightning48Filled";
 export { documentLightning48Regular } from "./documentLightning48Regular";

@@ -6,3 +6,4 @@ export { arrowHookUpLeft24Filled } from "./arrowHookUpLeft24Filled";
 export { arrowHookUpLeft24Regular } from "./arrowHookUpLeft24Regular";
 export { arrowHookUpLeft28Filled } from "./arrowHookUpLeft28Filled";
 export { arrowHookUpLeft28Regular } from "./arrowHookUpLeft28Regular";
+export { arrowHookUpLeft32Light } from "./arrowHookUpLeft32Light";

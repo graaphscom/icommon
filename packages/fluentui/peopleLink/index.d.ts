@@ -1,0 +1,12 @@
+export { peopleLink16Filled } from "./peopleLink16Filled";
+export { peopleLink16Regular } from "./peopleLink16Regular";
+export { peopleLink20Filled } from "./peopleLink20Filled";
+export { peopleLink20Regular } from "./peopleLink20Regular";
+export { peopleLink24Filled } from "./peopleLink24Filled";
+export { peopleLink24Regular } from "./peopleLink24Regular";
+export { peopleLink28Filled } from "./peopleLink28Filled";
+export { peopleLink28Regular } from "./peopleLink28Regular";
+export { peopleLink32Filled } from "./peopleLink32Filled";
+export { peopleLink32Regular } from "./peopleLink32Regular";
+export { peopleLink48Filled } from "./peopleLink48Filled";
+export { peopleLink48Regular } from "./peopleLink48Regular";

@@ -6,3 +6,4 @@ export { colorFill24Filled } from "./colorFill24Filled";
 export { colorFill24Regular } from "./colorFill24Regular";
 export { colorFill28Filled } from "./colorFill28Filled";
 export { colorFill28Regular } from "./colorFill28Regular";
+export { colorFill32Light } from "./colorFill32Light";

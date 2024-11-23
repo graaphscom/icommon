@@ -9,6 +9,7 @@ export { arrowDown24Regular } from "./arrowDown24Regular";
 export { arrowDown28Filled } from "./arrowDown28Filled";
 export { arrowDown28Regular } from "./arrowDown28Regular";
 export { arrowDown32Filled } from "./arrowDown32Filled";
+export { arrowDown32Light } from "./arrowDown32Light";
 export { arrowDown32Regular } from "./arrowDown32Regular";
 export { arrowDown48Filled } from "./arrowDown48Filled";
 export { arrowDown48Regular } from "./arrowDown48Regular";

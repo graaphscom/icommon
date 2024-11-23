@@ -9,6 +9,7 @@ export { delete24Regular } from "./delete24Regular";
 export { delete28Filled } from "./delete28Filled";
 export { delete28Regular } from "./delete28Regular";
 export { delete32Filled } from "./delete32Filled";
+export { delete32Light } from "./delete32Light";
 export { delete32Regular } from "./delete32Regular";
 export { delete48Filled } from "./delete48Filled";
 export { delete48Regular } from "./delete48Regular";

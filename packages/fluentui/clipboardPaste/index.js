@@ -5,4 +5,5 @@ export { clipboardPaste20Regular } from "./clipboardPaste20Regular";
 export { clipboardPaste24Filled } from "./clipboardPaste24Filled";
 export { clipboardPaste24Regular } from "./clipboardPaste24Regular";
 export { clipboardPaste32Filled } from "./clipboardPaste32Filled";
+export { clipboardPaste32Light } from "./clipboardPaste32Light";
 export { clipboardPaste32Regular } from "./clipboardPaste32Regular";

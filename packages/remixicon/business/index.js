@@ -192,6 +192,8 @@ export { stackFill } from "./stackFill";
 export { stackLine } from "./stackLine";
 export { trademarkFill } from "./trademarkFill";
 export { trademarkLine } from "./trademarkLine";
+export { triangularFlagFill } from "./triangularFlagFill";
+export { triangularFlagLine } from "./triangularFlagLine";
 export { verifiedBadgeFill } from "./verifiedBadgeFill";
 export { verifiedBadgeLine } from "./verifiedBadgeLine";
 export { window2Fill } from "./window2Fill";

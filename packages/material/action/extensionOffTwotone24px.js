@@ -1,7 +1,7 @@
 export var extensionOffTwotone24px = [
   "svg",
   {
-    "enable-background": "new 0 0 24 24",
+    "enableBackground": "new 0 0 24 24",
     "height": "24",
     "viewBox": "0 0 24 24",
     "width": "24",
@@ -20,7 +20,7 @@ export var extensionOffTwotone24px = [
       "path",
       {
         "d": "M18,13v2.17L8.83,6H11V4c0-0.28,0.22-0.5,0.5-0.5S12,3.72,12,4v2h6v6h2 c0.28,0,0.5,0.22,0.5,0.5S20.28,13,20,13H18z M8,12.5c0,1.5-0.83,3.57-3,4.37V19h2.13c0.8-2.17,2.87-3,4.37-3 c0.69,0,1.5,0.18,2.25,0.58l-6.33-6.33C7.82,11,8,11.81,8,12.5z",
-        "enable-background": "new",
+        "enableBackground": "new",
         "opacity": ".3"
       }
     ],

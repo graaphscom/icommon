@@ -4,3 +4,4 @@ export { textboxAlignTopLeft20Filled } from "./textboxAlignTopLeft20Filled";
 export { textboxAlignTopLeft20Regular } from "./textboxAlignTopLeft20Regular";
 export { textboxAlignTopLeft24Filled } from "./textboxAlignTopLeft24Filled";
 export { textboxAlignTopLeft24Regular } from "./textboxAlignTopLeft24Regular";
+export { textboxAlignTopLeft32Light } from "./textboxAlignTopLeft32Light";

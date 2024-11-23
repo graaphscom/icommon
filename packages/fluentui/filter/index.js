@@ -9,4 +9,5 @@ export { filter24Regular } from "./filter24Regular";
 export { filter28Filled } from "./filter28Filled";
 export { filter28Regular } from "./filter28Regular";
 export { filter32Filled } from "./filter32Filled";
+export { filter32Light } from "./filter32Light";
 export { filter32Regular } from "./filter32Regular";

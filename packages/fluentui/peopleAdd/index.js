@@ -7,4 +7,5 @@ export { peopleAdd24Regular } from "./peopleAdd24Regular";
 export { peopleAdd28Filled } from "./peopleAdd28Filled";
 export { peopleAdd28Regular } from "./peopleAdd28Regular";
 export { peopleAdd32Filled } from "./peopleAdd32Filled";
+export { peopleAdd32Light } from "./peopleAdd32Light";
 export { peopleAdd32Regular } from "./peopleAdd32Regular";

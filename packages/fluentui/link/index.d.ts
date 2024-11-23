@@ -9,6 +9,7 @@ export { link24Regular } from "./link24Regular";
 export { link28Filled } from "./link28Filled";
 export { link28Regular } from "./link28Regular";
 export { link32Filled } from "./link32Filled";
+export { link32Light } from "./link32Light";
 export { link32Regular } from "./link32Regular";
 export { link48Filled } from "./link48Filled";
 export { link48Regular } from "./link48Regular";

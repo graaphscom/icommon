@@ -7,6 +7,7 @@ export { pinOff24Regular } from "./pinOff24Regular";
 export { pinOff28Filled } from "./pinOff28Filled";
 export { pinOff28Regular } from "./pinOff28Regular";
 export { pinOff32Filled } from "./pinOff32Filled";
+export { pinOff32Light } from "./pinOff32Light";
 export { pinOff32Regular } from "./pinOff32Regular";
 export { pinOff48Filled } from "./pinOff48Filled";
 export { pinOff48Regular } from "./pinOff48Regular";

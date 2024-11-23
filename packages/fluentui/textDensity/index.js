@@ -7,4 +7,5 @@ export { textDensity24Regular } from "./textDensity24Regular";
 export { textDensity28Filled } from "./textDensity28Filled";
 export { textDensity28Regular } from "./textDensity28Regular";
 export { textDensity32Filled } from "./textDensity32Filled";
+export { textDensity32Light } from "./textDensity32Light";
 export { textDensity32Regular } from "./textDensity32Regular";

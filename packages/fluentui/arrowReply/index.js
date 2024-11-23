@@ -7,6 +7,7 @@ export { arrowReply24Regular } from "./arrowReply24Regular";
 export { arrowReply28Filled } from "./arrowReply28Filled";
 export { arrowReply28Regular } from "./arrowReply28Regular";
 export { arrowReply32Filled } from "./arrowReply32Filled";
+export { arrowReply32Light } from "./arrowReply32Light";
 export { arrowReply32Regular } from "./arrowReply32Regular";
 export { arrowReply48Filled } from "./arrowReply48Filled";
 export { arrowReply48Regular } from "./arrowReply48Regular";

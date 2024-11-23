@@ -47,7 +47,6 @@ export { h5 } from "./h5";
 export { h6 } from "./h6";
 export { hand } from "./hand";
 export { hashtag } from "./hashtag";
-export { heading 2 } from "./heading 2";
 export { heading } from "./heading";
 export { indentDecrease } from "./indentDecrease";
 export { indentIncrease } from "./indentIncrease";

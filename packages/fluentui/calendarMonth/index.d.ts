@@ -5,4 +5,5 @@ export { calendarMonth24Regular } from "./calendarMonth24Regular";
 export { calendarMonth28Filled } from "./calendarMonth28Filled";
 export { calendarMonth28Regular } from "./calendarMonth28Regular";
 export { calendarMonth32Filled } from "./calendarMonth32Filled";
+export { calendarMonth32Light } from "./calendarMonth32Light";
 export { calendarMonth32Regular } from "./calendarMonth32Regular";

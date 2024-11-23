@@ -6,3 +6,4 @@ export { calendarWorkWeek24Filled } from "./calendarWorkWeek24Filled";
 export { calendarWorkWeek24Regular } from "./calendarWorkWeek24Regular";
 export { calendarWorkWeek28Filled } from "./calendarWorkWeek28Filled";
 export { calendarWorkWeek28Regular } from "./calendarWorkWeek28Regular";
+export { calendarWorkWeek32Light } from "./calendarWorkWeek32Light";

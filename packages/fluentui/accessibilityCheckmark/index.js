@@ -5,6 +5,7 @@ export { accessibilityCheckmark24Regular } from "./accessibilityCheckmark24Regul
 export { accessibilityCheckmark28Filled } from "./accessibilityCheckmark28Filled";
 export { accessibilityCheckmark28Regular } from "./accessibilityCheckmark28Regular";
 export { accessibilityCheckmark32Filled } from "./accessibilityCheckmark32Filled";
+export { accessibilityCheckmark32Light } from "./accessibilityCheckmark32Light";
 export { accessibilityCheckmark32Regular } from "./accessibilityCheckmark32Regular";
 export { accessibilityCheckmark48Filled } from "./accessibilityCheckmark48Filled";
 export { accessibilityCheckmark48Regular } from "./accessibilityCheckmark48Regular";

@@ -9,6 +9,7 @@ export { compose24Regular } from "./compose24Regular";
 export { compose28Filled } from "./compose28Filled";
 export { compose28Regular } from "./compose28Regular";
 export { compose32Filled } from "./compose32Filled";
+export { compose32Light } from "./compose32Light";
 export { compose32Regular } from "./compose32Regular";
 export { compose48Filled } from "./compose48Filled";
 export { compose48Regular } from "./compose48Regular";

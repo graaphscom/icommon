@@ -9,6 +9,7 @@ export { peopleCommunity24Regular } from "./peopleCommunity24Regular";
 export { peopleCommunity28Filled } from "./peopleCommunity28Filled";
 export { peopleCommunity28Regular } from "./peopleCommunity28Regular";
 export { peopleCommunity32Filled } from "./peopleCommunity32Filled";
+export { peopleCommunity32Light } from "./peopleCommunity32Light";
 export { peopleCommunity32Regular } from "./peopleCommunity32Regular";
 export { peopleCommunity48Filled } from "./peopleCommunity48Filled";
 export { peopleCommunity48Regular } from "./peopleCommunity48Regular";

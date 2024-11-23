@@ -7,6 +7,7 @@ export { flag24Regular } from "./flag24Regular";
 export { flag28Filled } from "./flag28Filled";
 export { flag28Regular } from "./flag28Regular";
 export { flag32Filled } from "./flag32Filled";
+export { flag32Light } from "./flag32Light";
 export { flag32Regular } from "./flag32Regular";
 export { flag48Filled } from "./flag48Filled";
 export { flag48Regular } from "./flag48Regular";

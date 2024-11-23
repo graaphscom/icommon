@@ -9,6 +9,7 @@ export { clock24Regular } from "./clock24Regular";
 export { clock28Filled } from "./clock28Filled";
 export { clock28Regular } from "./clock28Regular";
 export { clock32Filled } from "./clock32Filled";
+export { clock32Light } from "./clock32Light";
 export { clock32Regular } from "./clock32Regular";
 export { clock48Filled } from "./clock48Filled";
 export { clock48Regular } from "./clock48Regular";

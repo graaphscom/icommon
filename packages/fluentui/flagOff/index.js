@@ -6,5 +6,6 @@ export { flagOff24Filled } from "./flagOff24Filled";
 export { flagOff24Regular } from "./flagOff24Regular";
 export { flagOff28Filled } from "./flagOff28Filled";
 export { flagOff28Regular } from "./flagOff28Regular";
+export { flagOff32Light } from "./flagOff32Light";
 export { flagOff48Filled } from "./flagOff48Filled";
 export { flagOff48Regular } from "./flagOff48Regular";

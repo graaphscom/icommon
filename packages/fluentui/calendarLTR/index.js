@@ -9,6 +9,7 @@ export { calendarLtr24Regular } from "./calendarLtr24Regular";
 export { calendarLtr28Filled } from "./calendarLtr28Filled";
 export { calendarLtr28Regular } from "./calendarLtr28Regular";
 export { calendarLtr32Filled } from "./calendarLtr32Filled";
+export { calendarLtr32Light } from "./calendarLtr32Light";
 export { calendarLtr32Regular } from "./calendarLtr32Regular";
 export { calendarLtr48Filled } from "./calendarLtr48Filled";
 export { calendarLtr48Regular } from "./calendarLtr48Regular";

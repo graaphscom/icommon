@@ -6,3 +6,6 @@ export { mailAlert24Filled } from "./mailAlert24Filled";
 export { mailAlert24Regular } from "./mailAlert24Regular";
 export { mailAlert28Filled } from "./mailAlert28Filled";
 export { mailAlert28Regular } from "./mailAlert28Regular";
+export { mailAlert32Filled } from "./mailAlert32Filled";
+export { mailAlert32Light } from "./mailAlert32Light";
+export { mailAlert32Regular } from "./mailAlert32Regular";

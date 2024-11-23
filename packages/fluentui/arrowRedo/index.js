@@ -7,6 +7,7 @@ export { arrowRedo24Regular } from "./arrowRedo24Regular";
 export { arrowRedo28Filled } from "./arrowRedo28Filled";
 export { arrowRedo28Regular } from "./arrowRedo28Regular";
 export { arrowRedo32Filled } from "./arrowRedo32Filled";
+export { arrowRedo32Light } from "./arrowRedo32Light";
 export { arrowRedo32Regular } from "./arrowRedo32Regular";
 export { arrowRedo48Filled } from "./arrowRedo48Filled";
 export { arrowRedo48Regular } from "./arrowRedo48Regular";

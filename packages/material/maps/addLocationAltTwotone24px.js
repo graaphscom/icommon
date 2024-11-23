@@ -1,7 +1,7 @@
 export var addLocationAltTwotone24px = [
   "svg",
   {
-    "enable-background": "new 0 0 24 24",
+    "enableBackground": "new 0 0 24 24",
     "height": "24",
     "viewBox": "0 0 24 24",
     "width": "24",
@@ -20,7 +20,7 @@ export var addLocationAltTwotone24px = [
       "path",
       {
         "d": "M14,4.8V7h3v3h1.41c0.06,0.39,0.09,0.79,0.09,1.2c0,2.57-2.1,5.79-6.16,9.51L12,21.01l-0.34-0.31 C7.6,16.99,5.5,13.77,5.5,11.2c0-3.84,2.82-6.7,6.5-6.7C12.7,4.5,13.37,4.6,14,4.8z",
-        "fill-opacity": ".3"
+        "fillOpacity": ".3"
       }
     ],
     [

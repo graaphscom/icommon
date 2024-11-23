@@ -7,4 +7,5 @@ export { calendarMultiple24Regular } from "./calendarMultiple24Regular";
 export { calendarMultiple28Filled } from "./calendarMultiple28Filled";
 export { calendarMultiple28Regular } from "./calendarMultiple28Regular";
 export { calendarMultiple32Filled } from "./calendarMultiple32Filled";
+export { calendarMultiple32Light } from "./calendarMultiple32Light";
 export { calendarMultiple32Regular } from "./calendarMultiple32Regular";

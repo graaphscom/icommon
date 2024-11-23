@@ -7,6 +7,7 @@ export { settings24Regular } from "./settings24Regular";
 export { settings28Filled } from "./settings28Filled";
 export { settings28Regular } from "./settings28Regular";
 export { settings32Filled } from "./settings32Filled";
+export { settings32Light } from "./settings32Light";
 export { settings32Regular } from "./settings32Regular";
 export { settings48Filled } from "./settings48Filled";
 export { settings48Regular } from "./settings48Regular";

@@ -8,7 +8,6 @@ export var square = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "20",
         "rx": "1",
         "width": "20",

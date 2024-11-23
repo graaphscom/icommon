@@ -6,3 +6,4 @@ export { calendarDataBar24Filled } from "./calendarDataBar24Filled";
 export { calendarDataBar24Regular } from "./calendarDataBar24Regular";
 export { calendarDataBar28Filled } from "./calendarDataBar28Filled";
 export { calendarDataBar28Regular } from "./calendarDataBar28Regular";
+export { calendarDataBar32Light } from "./calendarDataBar32Light";

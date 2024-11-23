@@ -6,3 +6,4 @@ export { immersiveReader24Filled } from "./immersiveReader24Filled";
 export { immersiveReader24Regular } from "./immersiveReader24Regular";
 export { immersiveReader28Filled } from "./immersiveReader28Filled";
 export { immersiveReader28Regular } from "./immersiveReader28Regular";
+export { immersiveReader32Light } from "./immersiveReader32Light";

@@ -7,6 +7,7 @@ export { personFeedback24Regular } from "./personFeedback24Regular";
 export { personFeedback28Filled } from "./personFeedback28Filled";
 export { personFeedback28Regular } from "./personFeedback28Regular";
 export { personFeedback32Filled } from "./personFeedback32Filled";
+export { personFeedback32Light } from "./personFeedback32Light";
 export { personFeedback32Regular } from "./personFeedback32Regular";
 export { personFeedback48Filled } from "./personFeedback48Filled";
 export { personFeedback48Regular } from "./personFeedback48Regular";

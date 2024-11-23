@@ -1,7 +1,6 @@
 export var microsoft = [
   "svg",
   {
-    "data-name": "Layer 1",
     "viewBox": "0 0 24 24",
     "xmlns": "http://www.w3.org/2000/svg"
   },
@@ -9,7 +8,6 @@ export var microsoft = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "9.503",
         "width": "9.503",
         "x": "2",
@@ -19,7 +17,6 @@ export var microsoft = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "9.503",
         "width": "9.503",
         "x": "12.493",
@@ -29,7 +26,6 @@ export var microsoft = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "9.503",
         "width": "9.503",
         "x": "2",
@@ -39,7 +35,6 @@ export var microsoft = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "9.503",
         "width": "9.503",
         "x": "12.493",

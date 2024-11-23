@@ -7,6 +7,7 @@ export { arrowReplyAll24Regular } from "./arrowReplyAll24Regular";
 export { arrowReplyAll28Filled } from "./arrowReplyAll28Filled";
 export { arrowReplyAll28Regular } from "./arrowReplyAll28Regular";
 export { arrowReplyAll32Filled } from "./arrowReplyAll32Filled";
+export { arrowReplyAll32Light } from "./arrowReplyAll32Light";
 export { arrowReplyAll32Regular } from "./arrowReplyAll32Regular";
 export { arrowReplyAll48Filled } from "./arrowReplyAll48Filled";
 export { arrowReplyAll48Regular } from "./arrowReplyAll48Regular";

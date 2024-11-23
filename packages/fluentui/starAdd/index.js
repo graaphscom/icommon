@@ -6,3 +6,4 @@ export { starAdd24Filled } from "./starAdd24Filled";
 export { starAdd24Regular } from "./starAdd24Regular";
 export { starAdd28Filled } from "./starAdd28Filled";
 export { starAdd28Regular } from "./starAdd28Regular";
+export { starAdd32Light } from "./starAdd32Light";

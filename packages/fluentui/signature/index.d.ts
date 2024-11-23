@@ -7,4 +7,5 @@ export { signature24Regular } from "./signature24Regular";
 export { signature28Filled } from "./signature28Filled";
 export { signature28Regular } from "./signature28Regular";
 export { signature32Filled } from "./signature32Filled";
+export { signature32Light } from "./signature32Light";
 export { signature32Regular } from "./signature32Regular";

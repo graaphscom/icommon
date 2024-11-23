@@ -7,6 +7,7 @@ export { calendarSparkle24Regular } from "./calendarSparkle24Regular";
 export { calendarSparkle28Filled } from "./calendarSparkle28Filled";
 export { calendarSparkle28Regular } from "./calendarSparkle28Regular";
 export { calendarSparkle32Filled } from "./calendarSparkle32Filled";
+export { calendarSparkle32Light } from "./calendarSparkle32Light";
 export { calendarSparkle32Regular } from "./calendarSparkle32Regular";
 export { calendarSparkle48Filled } from "./calendarSparkle48Filled";
 export { calendarSparkle48Regular } from "./calendarSparkle48Regular";

@@ -4,3 +4,8 @@ export { cursor20Filled } from "./cursor20Filled";
 export { cursor20Regular } from "./cursor20Regular";
 export { cursor24Filled } from "./cursor24Filled";
 export { cursor24Regular } from "./cursor24Regular";
+export { cursor28Filled } from "./cursor28Filled";
+export { cursor28Regular } from "./cursor28Regular";
+export { cursor32Filled } from "./cursor32Filled";
+export { cursor32Light } from "./cursor32Light";
+export { cursor32Regular } from "./cursor32Regular";

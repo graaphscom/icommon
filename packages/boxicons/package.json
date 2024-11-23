@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "license": "CC 4.0",
   "devDependencies": {
-    "@icommon/components": "workspace:^"
+    "@icommon/components": "workspace:^",
+    "typescript": "^5.4.5"
   },
   "peerDependencies": {
     "@icommon/components": "workspace:^"

@@ -7,6 +7,7 @@ export { arrowUndo24Regular } from "./arrowUndo24Regular";
 export { arrowUndo28Filled } from "./arrowUndo28Filled";
 export { arrowUndo28Regular } from "./arrowUndo28Regular";
 export { arrowUndo32Filled } from "./arrowUndo32Filled";
+export { arrowUndo32Light } from "./arrowUndo32Light";
 export { arrowUndo32Regular } from "./arrowUndo32Regular";
 export { arrowUndo48Filled } from "./arrowUndo48Filled";
 export { arrowUndo48Regular } from "./arrowUndo48Regular";

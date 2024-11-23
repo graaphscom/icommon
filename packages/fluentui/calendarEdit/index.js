@@ -5,4 +5,5 @@ export { calendarEdit20Regular } from "./calendarEdit20Regular";
 export { calendarEdit24Filled } from "./calendarEdit24Filled";
 export { calendarEdit24Regular } from "./calendarEdit24Regular";
 export { calendarEdit32Filled } from "./calendarEdit32Filled";
+export { calendarEdit32Light } from "./calendarEdit32Light";
 export { calendarEdit32Regular } from "./calendarEdit32Regular";

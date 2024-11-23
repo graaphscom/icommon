@@ -1,3 +1,5 @@
+export { panelRight12Filled } from "./panelRight12Filled";
+export { panelRight12Regular } from "./panelRight12Regular";
 export { panelRight16Filled } from "./panelRight16Filled";
 export { panelRight16Regular } from "./panelRight16Regular";
 export { panelRight20Filled } from "./panelRight20Filled";

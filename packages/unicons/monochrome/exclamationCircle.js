@@ -8,7 +8,6 @@ export var exclamationCircle = [
     [
       "circle",
       {
-        "class": "uim-tertiary",
         "cx": "12",
         "cy": "12",
         "r": "10"
@@ -17,7 +16,6 @@ export var exclamationCircle = [
     [
       "circle",
       {
-        "class": "uim-primary",
         "cx": "12",
         "cy": "16",
         "r": "1"
@@ -26,7 +24,6 @@ export var exclamationCircle = [
     [
       "path",
       {
-        "class": "uim-primary",
         "d": "M12 13a1 1 0 0 1-1-1V8a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1Z"
       }
     ]

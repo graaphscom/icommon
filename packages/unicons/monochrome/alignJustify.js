@@ -8,7 +8,6 @@ export var alignJustify = [
     [
       "path",
       {
-        "class": "uim-primary",
         "d": "M21 7H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2zm0 4H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2zm0 4H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2zm0 4H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2z"
       }
     ]

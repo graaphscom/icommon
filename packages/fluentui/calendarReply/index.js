@@ -6,3 +6,4 @@ export { calendarReply24Filled } from "./calendarReply24Filled";
 export { calendarReply24Regular } from "./calendarReply24Regular";
 export { calendarReply28Filled } from "./calendarReply28Filled";
 export { calendarReply28Regular } from "./calendarReply28Regular";
+export { calendarReply32Light } from "./calendarReply32Light";

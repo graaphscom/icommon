@@ -9,6 +9,7 @@ export { pin24Regular } from "./pin24Regular";
 export { pin28Filled } from "./pin28Filled";
 export { pin28Regular } from "./pin28Regular";
 export { pin32Filled } from "./pin32Filled";
+export { pin32Light } from "./pin32Light";
 export { pin32Regular } from "./pin32Regular";
 export { pin48Filled } from "./pin48Filled";
 export { pin48Regular } from "./pin48Regular";

@@ -7,4 +7,5 @@ export { mailMultiple24Regular } from "./mailMultiple24Regular";
 export { mailMultiple28Filled } from "./mailMultiple28Filled";
 export { mailMultiple28Regular } from "./mailMultiple28Regular";
 export { mailMultiple32Filled } from "./mailMultiple32Filled";
+export { mailMultiple32Light } from "./mailMultiple32Light";
 export { mailMultiple32Regular } from "./mailMultiple32Regular";

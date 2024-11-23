@@ -7,4 +7,5 @@ export { broom24Regular } from "./broom24Regular";
 export { broom28Filled } from "./broom28Filled";
 export { broom28Regular } from "./broom28Regular";
 export { broom32Filled } from "./broom32Filled";
+export { broom32Light } from "./broom32Light";
 export { broom32Regular } from "./broom32Regular";

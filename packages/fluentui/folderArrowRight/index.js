@@ -7,6 +7,7 @@ export { folderArrowRight24Regular } from "./folderArrowRight24Regular";
 export { folderArrowRight28Filled } from "./folderArrowRight28Filled";
 export { folderArrowRight28Regular } from "./folderArrowRight28Regular";
 export { folderArrowRight32Filled } from "./folderArrowRight32Filled";
+export { folderArrowRight32Light } from "./folderArrowRight32Light";
 export { folderArrowRight32Regular } from "./folderArrowRight32Regular";
 export { folderArrowRight48Filled } from "./folderArrowRight48Filled";
 export { folderArrowRight48Regular } from "./folderArrowRight48Regular";

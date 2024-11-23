@@ -8,5 +8,8 @@ export { comment24Filled } from "./comment24Filled";
 export { comment24Regular } from "./comment24Regular";
 export { comment28Filled } from "./comment28Filled";
 export { comment28Regular } from "./comment28Regular";
+export { comment32Filled } from "./comment32Filled";
+export { comment32Light } from "./comment32Light";
+export { comment32Regular } from "./comment32Regular";
 export { comment48Filled } from "./comment48Filled";
 export { comment48Regular } from "./comment48Regular";

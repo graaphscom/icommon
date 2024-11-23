@@ -7,4 +7,5 @@ export { folderMail24Regular } from "./folderMail24Regular";
 export { folderMail28Filled } from "./folderMail28Filled";
 export { folderMail28Regular } from "./folderMail28Regular";
 export { folderMail32Filled } from "./folderMail32Filled";
+export { folderMail32Light } from "./folderMail32Light";
 export { folderMail32Regular } from "./folderMail32Regular";

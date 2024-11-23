@@ -4,3 +4,7 @@ export { battery1020Filled } from "./battery1020Filled";
 export { battery1020Regular } from "./battery1020Regular";
 export { battery1024Filled } from "./battery1024Filled";
 export { battery1024Regular } from "./battery1024Regular";
+export { battery1028Filled } from "./battery1028Filled";
+export { battery1028Regular } from "./battery1028Regular";
+export { battery1032Filled } from "./battery1032Filled";
+export { battery1032Regular } from "./battery1032Regular";

@@ -5,4 +5,5 @@ export { clockAlarm20Regular } from "./clockAlarm20Regular";
 export { clockAlarm24Filled } from "./clockAlarm24Filled";
 export { clockAlarm24Regular } from "./clockAlarm24Regular";
 export { clockAlarm32Filled } from "./clockAlarm32Filled";
+export { clockAlarm32Light } from "./clockAlarm32Light";
 export { clockAlarm32Regular } from "./clockAlarm32Regular";

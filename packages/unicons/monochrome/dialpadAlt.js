@@ -8,7 +8,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -19,7 +18,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -30,7 +28,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -41,7 +38,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -52,7 +48,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -63,7 +58,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -74,7 +68,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -85,7 +78,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -96,7 +88,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",
@@ -107,7 +98,6 @@ export var dialpadAlt = [
     [
       "rect",
       {
-        "class": "uim-primary",
         "height": "4",
         "rx": ".545",
         "width": "4",

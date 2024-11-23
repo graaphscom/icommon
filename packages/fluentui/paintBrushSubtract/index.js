@@ -1,0 +1,10 @@
+export { paintBrushSubtract16Filled } from "./paintBrushSubtract16Filled";
+export { paintBrushSubtract16Regular } from "./paintBrushSubtract16Regular";
+export { paintBrushSubtract20Filled } from "./paintBrushSubtract20Filled";
+export { paintBrushSubtract20Regular } from "./paintBrushSubtract20Regular";
+export { paintBrushSubtract24Filled } from "./paintBrushSubtract24Filled";
+export { paintBrushSubtract24Regular } from "./paintBrushSubtract24Regular";
+export { paintBrushSubtract28Filled } from "./paintBrushSubtract28Filled";
+export { paintBrushSubtract28Regular } from "./paintBrushSubtract28Regular";
+export { paintBrushSubtract32Filled } from "./paintBrushSubtract32Filled";
+export { paintBrushSubtract32Regular } from "./paintBrushSubtract32Regular";

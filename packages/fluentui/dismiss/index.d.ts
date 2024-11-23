@@ -9,6 +9,7 @@ export { dismiss24Regular } from "./dismiss24Regular";
 export { dismiss28Filled } from "./dismiss28Filled";
 export { dismiss28Regular } from "./dismiss28Regular";
 export { dismiss32Filled } from "./dismiss32Filled";
+export { dismiss32Light } from "./dismiss32Light";
 export { dismiss32Regular } from "./dismiss32Regular";
 export { dismiss48Filled } from "./dismiss48Filled";
 export { dismiss48Regular } from "./dismiss48Regular";

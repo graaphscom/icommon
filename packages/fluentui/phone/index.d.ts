@@ -9,6 +9,7 @@ export { phone24Regular } from "./phone24Regular";
 export { phone28Filled } from "./phone28Filled";
 export { phone28Regular } from "./phone28Regular";
 export { phone32Filled } from "./phone32Filled";
+export { phone32Light } from "./phone32Light";
 export { phone32Regular } from "./phone32Regular";
 export { phone48Filled } from "./phone48Filled";
 export { phone48Regular } from "./phone48Regular";

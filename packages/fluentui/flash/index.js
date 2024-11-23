@@ -7,4 +7,5 @@ export { flash24Regular } from "./flash24Regular";
 export { flash28Filled } from "./flash28Filled";
 export { flash28Regular } from "./flash28Regular";
 export { flash32Filled } from "./flash32Filled";
+export { flash32Light } from "./flash32Light";
 export { flash32Regular } from "./flash32Regular";

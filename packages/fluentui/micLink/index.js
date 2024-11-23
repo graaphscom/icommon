@@ -1,0 +1,12 @@
+export { micLink16Filled } from "./micLink16Filled";
+export { micLink16Regular } from "./micLink16Regular";
+export { micLink20Filled } from "./micLink20Filled";
+export { micLink20Regular } from "./micLink20Regular";
+export { micLink24Filled } from "./micLink24Filled";
+export { micLink24Regular } from "./micLink24Regular";
+export { micLink28Filled } from "./micLink28Filled";
+export { micLink28Regular } from "./micLink28Regular";
+export { micLink32Filled } from "./micLink32Filled";
+export { micLink32Regular } from "./micLink32Regular";
+export { micLink48Filled } from "./micLink48Filled";
+export { micLink48Regular } from "./micLink48Regular";

@@ -1,0 +1,12 @@
+export { searchSparkle16Filled } from "./searchSparkle16Filled";
+export { searchSparkle16Regular } from "./searchSparkle16Regular";
+export { searchSparkle20Filled } from "./searchSparkle20Filled";
+export { searchSparkle20Regular } from "./searchSparkle20Regular";
+export { searchSparkle24Filled } from "./searchSparkle24Filled";
+export { searchSparkle24Regular } from "./searchSparkle24Regular";
+export { searchSparkle28Filled } from "./searchSparkle28Filled";
+export { searchSparkle28Regular } from "./searchSparkle28Regular";
+export { searchSparkle32Filled } from "./searchSparkle32Filled";
+export { searchSparkle32Regular } from "./searchSparkle32Regular";
+export { searchSparkle48Filled } from "./searchSparkle48Filled";
+export { searchSparkle48Regular } from "./searchSparkle48Regular";

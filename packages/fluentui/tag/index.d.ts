@@ -7,4 +7,5 @@ export { tag24Regular } from "./tag24Regular";
 export { tag28Filled } from "./tag28Filled";
 export { tag28Regular } from "./tag28Regular";
 export { tag32Filled } from "./tag32Filled";
+export { tag32Light } from "./tag32Light";
 export { tag32Regular } from "./tag32Regular";

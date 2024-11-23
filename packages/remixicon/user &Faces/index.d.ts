@@ -94,6 +94,8 @@ export { userHeartLine } from "./userHeartLine";
 export { userLine } from "./userLine";
 export { userLocationFill } from "./userLocationFill";
 export { userLocationLine } from "./userLocationLine";
+export { userMinusFill } from "./userMinusFill";
+export { userMinusLine } from "./userMinusLine";
 export { userReceived2Fill } from "./userReceived2Fill";
 export { userReceived2Line } from "./userReceived2Line";
 export { userReceivedFill } from "./userReceivedFill";

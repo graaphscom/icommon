@@ -7,6 +7,7 @@ export { options24Regular } from "./options24Regular";
 export { options28Filled } from "./options28Filled";
 export { options28Regular } from "./options28Regular";
 export { options32Filled } from "./options32Filled";
+export { options32Light } from "./options32Light";
 export { options32Regular } from "./options32Regular";
 export { options48Filled } from "./options48Filled";
 export { options48Regular } from "./options48Regular";

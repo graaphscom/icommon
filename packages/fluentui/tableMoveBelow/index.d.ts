@@ -6,3 +6,4 @@ export { tableMoveBelow24Filled } from "./tableMoveBelow24Filled";
 export { tableMoveBelow24Regular } from "./tableMoveBelow24Regular";
 export { tableMoveBelow28Filled } from "./tableMoveBelow28Filled";
 export { tableMoveBelow28Regular } from "./tableMoveBelow28Regular";
+export { tableMoveBelow32Light } from "./tableMoveBelow32Light";

@@ -6,3 +6,4 @@ export { mailList24Filled } from "./mailList24Filled";
 export { mailList24Regular } from "./mailList24Regular";
 export { mailList28Filled } from "./mailList28Filled";
 export { mailList28Regular } from "./mailList28Regular";
+export { mailList32Light } from "./mailList32Light";

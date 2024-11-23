@@ -1,0 +1,12 @@
+export { personSoundSpatial16Filled } from "./personSoundSpatial16Filled";
+export { personSoundSpatial16Regular } from "./personSoundSpatial16Regular";
+export { personSoundSpatial20Filled } from "./personSoundSpatial20Filled";
+export { personSoundSpatial20Regular } from "./personSoundSpatial20Regular";
+export { personSoundSpatial24Filled } from "./personSoundSpatial24Filled";
+export { personSoundSpatial24Regular } from "./personSoundSpatial24Regular";
+export { personSoundSpatial28Filled } from "./personSoundSpatial28Filled";
+export { personSoundSpatial28Regular } from "./personSoundSpatial28Regular";
+export { personSoundSpatial32Filled } from "./personSoundSpatial32Filled";
+export { personSoundSpatial32Regular } from "./personSoundSpatial32Regular";
+export { personSoundSpatial48Filled } from "./personSoundSpatial48Filled";
+export { personSoundSpatial48Regular } from "./personSoundSpatial48Regular";

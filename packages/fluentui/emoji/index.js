@@ -7,6 +7,7 @@ export { emoji24Regular } from "./emoji24Regular";
 export { emoji28Filled } from "./emoji28Filled";
 export { emoji28Regular } from "./emoji28Regular";
 export { emoji32Filled } from "./emoji32Filled";
+export { emoji32Light } from "./emoji32Light";
 export { emoji32Regular } from "./emoji32Regular";
 export { emoji48Filled } from "./emoji48Filled";
 export { emoji48Regular } from "./emoji48Regular";

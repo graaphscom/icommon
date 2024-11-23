@@ -5,4 +5,5 @@ export { copy20Regular } from "./copy20Regular";
 export { copy24Filled } from "./copy24Filled";
 export { copy24Regular } from "./copy24Regular";
 export { copy32Filled } from "./copy32Filled";
+export { copy32Light } from "./copy32Light";
 export { copy32Regular } from "./copy32Regular";

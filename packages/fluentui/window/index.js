@@ -7,6 +7,7 @@ export { window24Regular } from "./window24Regular";
 export { window28Filled } from "./window28Filled";
 export { window28Regular } from "./window28Regular";
 export { window32Filled } from "./window32Filled";
+export { window32Light } from "./window32Light";
 export { window32Regular } from "./window32Regular";
 export { window48Filled } from "./window48Filled";
 export { window48Regular } from "./window48Regular";

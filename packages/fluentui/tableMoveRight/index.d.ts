@@ -6,3 +6,4 @@ export { tableMoveRight24Filled } from "./tableMoveRight24Filled";
 export { tableMoveRight24Regular } from "./tableMoveRight24Regular";
 export { tableMoveRight28Filled } from "./tableMoveRight28Filled";
 export { tableMoveRight28Regular } from "./tableMoveRight28Regular";
+export { tableMoveRight32Light } from "./tableMoveRight32Light";

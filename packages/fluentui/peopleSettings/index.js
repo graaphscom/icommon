@@ -4,3 +4,4 @@ export { peopleSettings24Filled } from "./peopleSettings24Filled";
 export { peopleSettings24Regular } from "./peopleSettings24Regular";
 export { peopleSettings28Filled } from "./peopleSettings28Filled";
 export { peopleSettings28Regular } from "./peopleSettings28Regular";
+export { peopleSettings32Light } from "./peopleSettings32Light";

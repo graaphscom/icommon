@@ -18,7 +18,7 @@ export var signalCellular3BarTwotone24px = [
       "path",
       {
         "d": "M2 22h20V2L2 22z",
-        "fill-opacity": ".3"
+        "fillOpacity": ".3"
       }
     ],
     [

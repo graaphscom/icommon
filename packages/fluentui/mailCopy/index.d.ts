@@ -3,4 +3,5 @@ export { mailCopy20Regular } from "./mailCopy20Regular";
 export { mailCopy24Filled } from "./mailCopy24Filled";
 export { mailCopy24Regular } from "./mailCopy24Regular";
 export { mailCopy32Filled } from "./mailCopy32Filled";
+export { mailCopy32Light } from "./mailCopy32Light";
 export { mailCopy32Regular } from "./mailCopy32Regular";

@@ -1,0 +1,12 @@
+export { chatArrowBackDown16Filled } from "./chatArrowBackDown16Filled";
+export { chatArrowBackDown16Regular } from "./chatArrowBackDown16Regular";
+export { chatArrowBackDown20Filled } from "./chatArrowBackDown20Filled";
+export { chatArrowBackDown20Regular } from "./chatArrowBackDown20Regular";
+export { chatArrowBackDown24Filled } from "./chatArrowBackDown24Filled";
+export { chatArrowBackDown24Regular } from "./chatArrowBackDown24Regular";
+export { chatArrowBackDown28Filled } from "./chatArrowBackDown28Filled";
+export { chatArrowBackDown28Regular } from "./chatArrowBackDown28Regular";
+export { chatArrowBackDown32Filled } from "./chatArrowBackDown32Filled";
+export { chatArrowBackDown32Regular } from "./chatArrowBackDown32Regular";
+export { chatArrowBackDown48Filled } from "./chatArrowBackDown48Filled";
+export { chatArrowBackDown48Regular } from "./chatArrowBackDown48Regular";

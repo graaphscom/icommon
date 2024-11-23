@@ -9,6 +9,7 @@ export { mail24Regular } from "./mail24Regular";
 export { mail28Filled } from "./mail28Filled";
 export { mail28Regular } from "./mail28Regular";
 export { mail32Filled } from "./mail32Filled";
+export { mail32Light } from "./mail32Light";
 export { mail32Regular } from "./mail32Regular";
 export { mail48Filled } from "./mail48Filled";
 export { mail48Regular } from "./mail48Regular";

@@ -1,0 +1,10 @@
+export { personBoardAdd16Filled } from "./personBoardAdd16Filled";
+export { personBoardAdd16Regular } from "./personBoardAdd16Regular";
+export { personBoardAdd20Filled } from "./personBoardAdd20Filled";
+export { personBoardAdd20Regular } from "./personBoardAdd20Regular";
+export { personBoardAdd24Filled } from "./personBoardAdd24Filled";
+export { personBoardAdd24Regular } from "./personBoardAdd24Regular";
+export { personBoardAdd28Filled } from "./personBoardAdd28Filled";
+export { personBoardAdd28Regular } from "./personBoardAdd28Regular";
+export { personBoardAdd32Filled } from "./personBoardAdd32Filled";
+export { personBoardAdd32Regular } from "./personBoardAdd32Regular";

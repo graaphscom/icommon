@@ -7,4 +7,5 @@ export { personProhibited24Regular } from "./personProhibited24Regular";
 export { personProhibited28Filled } from "./personProhibited28Filled";
 export { personProhibited28Regular } from "./personProhibited28Regular";
 export { personProhibited32Filled } from "./personProhibited32Filled";
+export { personProhibited32Light } from "./personProhibited32Light";
 export { personProhibited32Regular } from "./personProhibited32Regular";

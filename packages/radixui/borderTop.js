@@ -11,10 +11,10 @@ export var borderTop = [
     [
       "path",
       {
-        "clip-rule": "evenodd",
+        "clipRule": "evenodd",
         "d": "M14 1.75L1 1.75L1 0.249999L14 0.25L14 1.75Z",
         "fill": "currentColor",
-        "fill-rule": "evenodd"
+        "fillRule": "evenodd"
       }
     ],
     [

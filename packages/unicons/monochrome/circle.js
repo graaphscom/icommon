@@ -8,7 +8,6 @@ export var circle = [
     [
       "circle",
       {
-        "class": "uim-primary",
         "cx": "12",
         "cy": "12",
         "r": "10"

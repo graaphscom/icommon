@@ -1,0 +1,10 @@
+export { notepadSparkle16Filled } from "./notepadSparkle16Filled";
+export { notepadSparkle16Regular } from "./notepadSparkle16Regular";
+export { notepadSparkle20Filled } from "./notepadSparkle20Filled";
+export { notepadSparkle20Regular } from "./notepadSparkle20Regular";
+export { notepadSparkle24Filled } from "./notepadSparkle24Filled";
+export { notepadSparkle24Regular } from "./notepadSparkle24Regular";
+export { notepadSparkle28Filled } from "./notepadSparkle28Filled";
+export { notepadSparkle28Regular } from "./notepadSparkle28Regular";
+export { notepadSparkle32Filled } from "./notepadSparkle32Filled";
+export { notepadSparkle32Regular } from "./notepadSparkle32Regular";

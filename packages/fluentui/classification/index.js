@@ -5,4 +5,5 @@ export { classification20Regular } from "./classification20Regular";
 export { classification24Filled } from "./classification24Filled";
 export { classification24Regular } from "./classification24Regular";
 export { classification32Filled } from "./classification32Filled";
+export { classification32Light } from "./classification32Light";
 export { classification32Regular } from "./classification32Regular";

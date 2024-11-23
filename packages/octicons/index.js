@@ -2,6 +2,8 @@ export { accessibility16 } from "./accessibility16";
 export { accessibility24 } from "./accessibility24";
 export { accessibilityInset16 } from "./accessibilityInset16";
 export { accessibilityInset24 } from "./accessibilityInset24";
+export { aiModel16 } from "./aiModel16";
+export { aiModel24 } from "./aiModel24";
 export { alert16 } from "./alert16";
 export { alert24 } from "./alert24";
 export { alertFill12 } from "./alertFill12";

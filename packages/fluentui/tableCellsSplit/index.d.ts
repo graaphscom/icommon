@@ -6,3 +6,4 @@ export { tableCellsSplit24Filled } from "./tableCellsSplit24Filled";
 export { tableCellsSplit24Regular } from "./tableCellsSplit24Regular";
 export { tableCellsSplit28Filled } from "./tableCellsSplit28Filled";
 export { tableCellsSplit28Regular } from "./tableCellsSplit28Regular";
+export { tableCellsSplit32Light } from "./tableCellsSplit32Light";

@@ -4,3 +4,4 @@ export { zoomOut20Filled } from "./zoomOut20Filled";
 export { zoomOut20Regular } from "./zoomOut20Regular";
 export { zoomOut24Filled } from "./zoomOut24Filled";
 export { zoomOut24Regular } from "./zoomOut24Regular";
+export { zoomOut32Light } from "./zoomOut32Light";

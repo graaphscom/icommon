@@ -7,4 +7,5 @@ export { important20Regular } from "./important20Regular";
 export { important24Filled } from "./important24Filled";
 export { important24Regular } from "./important24Regular";
 export { important32Filled } from "./important32Filled";
+export { important32Light } from "./important32Light";
 export { important32Regular } from "./important32Regular";

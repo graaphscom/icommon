@@ -7,4 +7,5 @@ export { archiveSettings24Regular } from "./archiveSettings24Regular";
 export { archiveSettings28Filled } from "./archiveSettings28Filled";
 export { archiveSettings28Regular } from "./archiveSettings28Regular";
 export { archiveSettings32Filled } from "./archiveSettings32Filled";
+export { archiveSettings32Light } from "./archiveSettings32Light";
 export { archiveSettings32Regular } from "./archiveSettings32Regular";

@@ -1,0 +1,12 @@
+export { videoUsb16Filled } from "./videoUsb16Filled";
+export { videoUsb16Regular } from "./videoUsb16Regular";
+export { videoUsb20Filled } from "./videoUsb20Filled";
+export { videoUsb20Regular } from "./videoUsb20Regular";
+export { videoUsb24Filled } from "./videoUsb24Filled";
+export { videoUsb24Regular } from "./videoUsb24Regular";
+export { videoUsb28Filled } from "./videoUsb28Filled";
+export { videoUsb28Regular } from "./videoUsb28Regular";
+export { videoUsb32Filled } from "./videoUsb32Filled";
+export { videoUsb32Regular } from "./videoUsb32Regular";
+export { videoUsb48Filled } from "./videoUsb48Filled";
+export { videoUsb48Regular } from "./videoUsb48Regular";

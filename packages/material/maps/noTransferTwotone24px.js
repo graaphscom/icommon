@@ -1,7 +1,7 @@
 export var noTransferTwotone24px = [
   "svg",
   {
-    "enable-background": "new 0 0 24 24",
+    "enableBackground": "new 0 0 24 24",
     "height": "24",
     "viewBox": "0 0 24 24",
     "width": "24",
@@ -20,7 +20,7 @@ export var noTransferTwotone24px = [
       "path",
       {
         "d": "M14.83,12H18v3.17L14.83,12z M9.17,12l5,5H6.63l-0.29-0.27 C6.21,16.62,6,16.37,6,16v-4H9.17z M10,14.5c0-0.83-0.67-1.5-1.5-1.5S7,13.67,7,14.5C7,15.33,7.67,16,8.5,16S10,15.33,10,14.5z M7.82,4.99h9.83C17.11,4.46,15.69,4,12,4C9.6,4,8.17,4.2,7.31,4.48L7.82,4.99z",
-        "enable-background": "new",
+        "enableBackground": "new",
         "opacity": ".3"
       }
     ],

@@ -1,7 +1,7 @@
 export var fileDownloadOffTwotone20px = [
   "svg",
   {
-    "enable-background": "new 0 0 20 20",
+    "enableBackground": "new 0 0 20 20",
     "height": "20",
     "viewBox": "0 0 20 20",
     "width": "20",
@@ -19,7 +19,7 @@ export var fileDownloadOffTwotone20px = [
     [
       "polygon",
       {
-        "enable-background": "new",
+        "enableBackground": "new",
         "opacity": ".3",
         "points": "9.5,4.5 9.5,7.38 10.5,8.38 10.5,4.5"
       }

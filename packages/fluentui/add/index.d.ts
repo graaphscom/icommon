@@ -9,6 +9,7 @@ export { add24Regular } from "./add24Regular";
 export { add28Filled } from "./add28Filled";
 export { add28Regular } from "./add28Regular";
 export { add32Filled } from "./add32Filled";
+export { add32Light } from "./add32Light";
 export { add32Regular } from "./add32Regular";
 export { add48Filled } from "./add48Filled";
 export { add48Regular } from "./add48Regular";

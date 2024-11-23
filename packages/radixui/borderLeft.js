@@ -11,10 +11,10 @@ export var borderLeft = [
     [
       "path",
       {
-        "clip-rule": "evenodd",
+        "clipRule": "evenodd",
         "d": "M1.75 1L1.75 14L0.249999 14L0.25 1L1.75 1Z",
         "fill": "currentColor",
-        "fill-rule": "evenodd"
+        "fillRule": "evenodd"
       }
     ],
     [

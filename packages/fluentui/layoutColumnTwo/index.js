@@ -5,4 +5,5 @@ export { layoutColumnTwo20Regular } from "./layoutColumnTwo20Regular";
 export { layoutColumnTwo24Filled } from "./layoutColumnTwo24Filled";
 export { layoutColumnTwo24Regular } from "./layoutColumnTwo24Regular";
 export { layoutColumnTwo32Filled } from "./layoutColumnTwo32Filled";
+export { layoutColumnTwo32Light } from "./layoutColumnTwo32Light";
 export { layoutColumnTwo32Regular } from "./layoutColumnTwo32Regular";

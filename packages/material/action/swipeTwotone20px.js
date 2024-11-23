@@ -1,7 +1,7 @@
 export var swipeTwotone20px = [
   "svg",
   {
-    "enable-background": "new 0 0 20 20",
+    "enableBackground": "new 0 0 20 20",
     "height": "20",
     "viewBox": "0 0 20 20",
     "width": "20",
@@ -20,7 +20,7 @@ export var swipeTwotone20px = [
       "path",
       {
         "d": "M14.22,12.7l-2.58-1.2H9.5V7c0-0.28-0.22-0.5-0.5-0.5S8.5,6.72,8.5,7v7.42 l-3.04-0.76L5.12,14l3.5,3.5h5.26l0.61-4.29C14.53,13,14.42,12.79,14.22,12.7z",
-        "enable-background": "new",
+        "enableBackground": "new",
         "opacity": ".3"
       }
     ],

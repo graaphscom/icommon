@@ -1,0 +1,12 @@
+export { personHome16Filled } from "./personHome16Filled";
+export { personHome16Regular } from "./personHome16Regular";
+export { personHome20Filled } from "./personHome20Filled";
+export { personHome20Regular } from "./personHome20Regular";
+export { personHome24Filled } from "./personHome24Filled";
+export { personHome24Regular } from "./personHome24Regular";
+export { personHome28Filled } from "./personHome28Filled";
+export { personHome28Regular } from "./personHome28Regular";
+export { personHome32Filled } from "./personHome32Filled";
+export { personHome32Regular } from "./personHome32Regular";
+export { personHome48Filled } from "./personHome48Filled";
+export { personHome48Regular } from "./personHome48Regular";

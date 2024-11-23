@@ -8,3 +8,6 @@ export { toolbox24Filled } from "./toolbox24Filled";
 export { toolbox24Regular } from "./toolbox24Regular";
 export { toolbox28Filled } from "./toolbox28Filled";
 export { toolbox28Regular } from "./toolbox28Regular";
+export { toolbox32Filled } from "./toolbox32Filled";
+export { toolbox32Light } from "./toolbox32Light";
+export { toolbox32Regular } from "./toolbox32Regular";

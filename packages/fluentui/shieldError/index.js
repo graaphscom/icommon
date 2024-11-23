@@ -4,3 +4,4 @@ export { shieldError20Filled } from "./shieldError20Filled";
 export { shieldError20Regular } from "./shieldError20Regular";
 export { shieldError24Filled } from "./shieldError24Filled";
 export { shieldError24Regular } from "./shieldError24Regular";
+export { shieldError32Light } from "./shieldError32Light";

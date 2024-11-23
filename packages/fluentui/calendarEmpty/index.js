@@ -7,6 +7,7 @@ export { calendarEmpty24Regular } from "./calendarEmpty24Regular";
 export { calendarEmpty28Filled } from "./calendarEmpty28Filled";
 export { calendarEmpty28Regular } from "./calendarEmpty28Regular";
 export { calendarEmpty32Filled } from "./calendarEmpty32Filled";
+export { calendarEmpty32Light } from "./calendarEmpty32Light";
 export { calendarEmpty32Regular } from "./calendarEmpty32Regular";
 export { calendarEmpty48Filled } from "./calendarEmpty48Filled";
 export { calendarEmpty48Regular } from "./calendarEmpty48Regular";

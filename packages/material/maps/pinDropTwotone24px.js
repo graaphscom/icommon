@@ -1,7 +1,7 @@
 export var pinDropTwotone24px = [
   "svg",
   {
-    "enable-background": "new 0 0 24 24",
+    "enableBackground": "new 0 0 24 24",
     "height": "24",
     "viewBox": "0 0 24 24",
     "width": "24",
@@ -19,7 +19,7 @@ export var pinDropTwotone24px = [
       "path",
       {
         "d": "M12 3C9.19 3 6 5.11 6 9.13c0 2.68 2 5.49 6 8.44 4-2.95 6-5.77 6-8.44C18 5.11 14.81 3 12 3z",
-        "fill-opacity": ".3"
+        "fillOpacity": ".3"
       }
     ],
     [

@@ -9,6 +9,7 @@ export { rectangleLandscape24Regular } from "./rectangleLandscape24Regular";
 export { rectangleLandscape28Filled } from "./rectangleLandscape28Filled";
 export { rectangleLandscape28Regular } from "./rectangleLandscape28Regular";
 export { rectangleLandscape32Filled } from "./rectangleLandscape32Filled";
+export { rectangleLandscape32Light } from "./rectangleLandscape32Light";
 export { rectangleLandscape32Regular } from "./rectangleLandscape32Regular";
 export { rectangleLandscape48Filled } from "./rectangleLandscape48Filled";
 export { rectangleLandscape48Regular } from "./rectangleLandscape48Regular";

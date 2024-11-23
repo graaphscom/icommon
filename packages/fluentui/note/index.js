@@ -6,5 +6,6 @@ export { note24Filled } from "./note24Filled";
 export { note24Regular } from "./note24Regular";
 export { note28Filled } from "./note28Filled";
 export { note28Regular } from "./note28Regular";
+export { note32Light } from "./note32Light";
 export { note48Filled } from "./note48Filled";
 export { note48Regular } from "./note48Regular";

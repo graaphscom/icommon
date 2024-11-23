@@ -7,4 +7,5 @@ export { attach20Regular } from "./attach20Regular";
 export { attach24Filled } from "./attach24Filled";
 export { attach24Regular } from "./attach24Regular";
 export { attach32Filled } from "./attach32Filled";
+export { attach32Light } from "./attach32Light";
 export { attach32Regular } from "./attach32Regular";

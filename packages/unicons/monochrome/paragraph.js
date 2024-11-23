@@ -8,7 +8,6 @@ export var paragraph = [
     [
       "path",
       {
-        "class": "uim-primary",
         "d": "M13 15.5H3a1 1 0 0 1 0-2h10a1 1 0 0 1 0 2zm8-5H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2z"
       }
     ]

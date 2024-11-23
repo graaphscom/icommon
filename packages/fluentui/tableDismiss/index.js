@@ -6,3 +6,4 @@ export { tableDismiss24Filled } from "./tableDismiss24Filled";
 export { tableDismiss24Regular } from "./tableDismiss24Regular";
 export { tableDismiss28Filled } from "./tableDismiss28Filled";
 export { tableDismiss28Regular } from "./tableDismiss28Regular";
+export { tableDismiss32Light } from "./tableDismiss32Light";

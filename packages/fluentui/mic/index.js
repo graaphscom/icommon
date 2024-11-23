@@ -7,6 +7,7 @@ export { mic24Regular } from "./mic24Regular";
 export { mic28Filled } from "./mic28Filled";
 export { mic28Regular } from "./mic28Regular";
 export { mic32Filled } from "./mic32Filled";
+export { mic32Light } from "./mic32Light";
 export { mic32Regular } from "./mic32Regular";
 export { mic48Filled } from "./mic48Filled";
 export { mic48Regular } from "./mic48Regular";

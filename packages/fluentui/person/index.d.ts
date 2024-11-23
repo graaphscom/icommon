@@ -9,6 +9,7 @@ export { person24Regular } from "./person24Regular";
 export { person28Filled } from "./person28Filled";
 export { person28Regular } from "./person28Regular";
 export { person32Filled } from "./person32Filled";
+export { person32Light } from "./person32Light";
 export { person32Regular } from "./person32Regular";
 export { person48Filled } from "./person48Filled";
 export { person48Regular } from "./person48Regular";

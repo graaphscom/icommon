@@ -9,6 +9,7 @@ export { arrowClockwise24Regular } from "./arrowClockwise24Regular";
 export { arrowClockwise28Filled } from "./arrowClockwise28Filled";
 export { arrowClockwise28Regular } from "./arrowClockwise28Regular";
 export { arrowClockwise32Filled } from "./arrowClockwise32Filled";
+export { arrowClockwise32Light } from "./arrowClockwise32Light";
 export { arrowClockwise32Regular } from "./arrowClockwise32Regular";
 export { arrowClockwise48Filled } from "./arrowClockwise48Filled";
 export { arrowClockwise48Regular } from "./arrowClockwise48Regular";

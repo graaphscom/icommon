@@ -7,6 +7,7 @@ export { arrowForward24Regular } from "./arrowForward24Regular";
 export { arrowForward28Filled } from "./arrowForward28Filled";
 export { arrowForward28Regular } from "./arrowForward28Regular";
 export { arrowForward32Filled } from "./arrowForward32Filled";
+export { arrowForward32Light } from "./arrowForward32Light";
 export { arrowForward32Regular } from "./arrowForward32Regular";
 export { arrowForward48Filled } from "./arrowForward48Filled";
 export { arrowForward48Regular } from "./arrowForward48Regular";

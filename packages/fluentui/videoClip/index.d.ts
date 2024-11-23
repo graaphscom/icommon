@@ -7,6 +7,7 @@ export { videoClip24Regular } from "./videoClip24Regular";
 export { videoClip28Filled } from "./videoClip28Filled";
 export { videoClip28Regular } from "./videoClip28Regular";
 export { videoClip32Filled } from "./videoClip32Filled";
+export { videoClip32Light } from "./videoClip32Light";
 export { videoClip32Regular } from "./videoClip32Regular";
 export { videoClip48Filled } from "./videoClip48Filled";
 export { videoClip48Regular } from "./videoClip48Regular";

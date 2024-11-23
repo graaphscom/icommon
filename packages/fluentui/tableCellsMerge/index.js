@@ -6,3 +6,4 @@ export { tableCellsMerge24Filled } from "./tableCellsMerge24Filled";
 export { tableCellsMerge24Regular } from "./tableCellsMerge24Regular";
 export { tableCellsMerge28Filled } from "./tableCellsMerge28Filled";
 export { tableCellsMerge28Regular } from "./tableCellsMerge28Regular";
+export { tableCellsMerge32Light } from "./tableCellsMerge32Light";
