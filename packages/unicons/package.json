@@ -4,6 +4,7 @@
   "license": "IconScout Simple License",
   "devDependencies": {
     "@icommon/components": "workspace:^",
+    "@icommon/typescript-config": "workspace:^",
     "typescript": "^5.4.5"
   },
   "peerDependencies": {

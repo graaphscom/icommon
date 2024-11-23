@@ -26,6 +26,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -35,6 +38,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -74,6 +80,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.7.2
         version: 5.7.2
@@ -83,6 +92,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -92,6 +104,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -101,6 +116,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -110,6 +128,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -119,6 +140,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
@@ -130,6 +154,9 @@ importers:
       '@icommon/components':
         specifier: workspace:^
         version: link:../components
+      '@icommon/typescript-config':
+        specifier: workspace:^
+        version: link:../typescript-config
       typescript:
         specifier: ^5.4.5
         version: 5.4.5
