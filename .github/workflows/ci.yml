@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: ['main']
+
+jobs:
+  check_types:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v3
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'pnpm'
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Check types
+        run: pnpm run check-types

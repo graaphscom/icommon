@@ -2,6 +2,9 @@
   "name": "@icommon/fontawesome",
   "version": "1.0.0",
   "license": "CC BY 4.0",
+  "scripts": {
+    "check-types": "tsc"
+  },
   "devDependencies": {
     "@icommon/components": "workspace:^",
     "@icommon/typescript-config": "workspace:^",

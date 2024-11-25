@@ -2,6 +2,9 @@
   "name": "@icommon/unicons",
   "version": "1.0.0",
   "license": "IconScout Simple License",
+  "scripts": {
+    "check-types": "tsc"
+  },
   "devDependencies": {
     "@icommon/components": "workspace:^",
     "@icommon/typescript-config": "workspace:^",

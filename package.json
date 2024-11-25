@@ -1,8 +1,6 @@
 {
   "scripts": {
-    "build": "turbo run build",
-    "dev": "turbo run dev",
-    "lint": "turbo run lint",
+    "check-types": "turbo run check-types",
     "format": "prettier --write \"packages/components/src/**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
