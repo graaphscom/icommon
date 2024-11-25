@@ -2,6 +2,16 @@
   "name": "@icommon/components",
   "version": "1.0.0",
   "license": "MIT",
+  "exports": {
+    "./types": "./dist/types.d.ts",
+    "./icommon": {
+      "types": "./dist/icommon.d.ts",
+      "default": "./dist/icommon.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc && swc src -d dist --strip-leading-paths"
+  },
   "devDependencies": {
     "@icommon/eslint-config": "workspace:^",
     "@icommon/typescript-config": "workspace:^",
@@ -12,9 +22,5 @@
   },
   "peerDependencies": {
     "react": "^18.3.1"
-  },
-  "scripts": {
-    "compile": "swc src -d . --strip-leading-paths",
-    "dts": "tsc"
   }
 }

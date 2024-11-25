@@ -1,9 +1,7 @@
 {
   "extends": "@icommon/typescript-config/react.json",
-  "include": [
-    "src"
-  ],
+  "include": ["src"],
   "compilerOptions": {
-    "outDir": "."
+    "outDir": "dist"
   }
 }
