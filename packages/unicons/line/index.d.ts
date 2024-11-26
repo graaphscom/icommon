@@ -1000,7 +1000,7 @@ export { snapchatGhost } from "./snapchatGhost";
 export { snapchatSquare } from "./snapchatSquare";
 export { snowFlake } from "./snowFlake";
 export { snowflakeAlt } from "./snowflakeAlt";
-export { snowflake } from "./snowflake";
+export { snowflakeV2 } from "./snowflakeV2";
 export { socialDistancing } from "./socialDistancing";
 export { sortAmountDown } from "./sortAmountDown";
 export { sortAmountUp } from "./sortAmountUp";

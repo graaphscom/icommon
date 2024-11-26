@@ -1,2 +1,2 @@
 import { IcommonNode } from "@icommon/components/types";
-export declare const snowflake: IcommonNode;
+export declare const snowFlake: IcommonNode;

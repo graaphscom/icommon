@@ -1,2 +1,2 @@
 import { IcommonNode } from "@icommon/components/types";
-export declare const signout: IcommonNode;
+export declare const signOut: IcommonNode;

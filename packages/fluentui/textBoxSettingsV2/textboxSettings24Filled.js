@@ -1,4 +1,4 @@
-export var textBoxSettings24Filled = [
+export var textboxSettings24Filled = [
   "svg",
   {
     "fill": "none",

@@ -1,2 +1,2 @@
 import { IcommonNode } from "@icommon/components/types";
-export declare const reorder20Regular: IcommonNode;
+export declare const reOrder20Regular: IcommonNode;

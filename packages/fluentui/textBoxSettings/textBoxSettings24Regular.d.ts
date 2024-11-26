@@ -1,2 +1,2 @@
 import { IcommonNode } from "@icommon/components/types";
-export declare const textboxSettings24Regular: IcommonNode;
+export declare const textBoxSettings24Regular: IcommonNode;

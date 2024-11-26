@@ -1,4 +1,4 @@
-export var signOut = [
+export var signoutV2 = [
   "svg",
   {
     "viewBox": "0 0 24 24",

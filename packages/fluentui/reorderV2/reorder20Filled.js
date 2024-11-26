@@ -1,4 +1,4 @@
-export var reOrder20Filled = [
+export var reorder20Filled = [
   "svg",
   {
     "fill": "none",

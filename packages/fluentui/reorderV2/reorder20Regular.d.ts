@@ -1,2 +1,2 @@
 import { IcommonNode } from "@icommon/components/types";
-export declare const signIn: IcommonNode;
+export declare const reorder20Regular: IcommonNode;

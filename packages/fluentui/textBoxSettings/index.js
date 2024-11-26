@@ -1,4 +1,4 @@
-export { textboxSettings20Filled } from "./textboxSettings20Filled";
-export { textboxSettings20Regular } from "./textboxSettings20Regular";
-export { textboxSettings24Filled } from "./textboxSettings24Filled";
-export { textboxSettings24Regular } from "./textboxSettings24Regular";
+export { textBoxSettings20Filled } from "./textBoxSettings20Filled";
+export { textBoxSettings20Regular } from "./textBoxSettings20Regular";
+export { textBoxSettings24Filled } from "./textBoxSettings24Filled";
+export { textBoxSettings24Regular } from "./textBoxSettings24Regular";

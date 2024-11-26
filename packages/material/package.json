@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "Apache License 2.0",
   "scripts": {
-    "check-types": "tsc"
+    "check-types": "NODE_OPTIONS=--max-old-space-size=5120 tsc"
   },
   "devDependencies": {
     "@icommon/components": "workspace:^",
