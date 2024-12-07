@@ -1,10 +1,5 @@
-import React, {
-  AllHTMLAttributes,
-  CSSProperties,
-  type FC,
-  type ReactElement,
-} from 'react';
-import { type IcommonNode } from './types';
+import React, { AllHTMLAttributes, CSSProperties, type FC } from 'react';
+import { IcommonProps } from './types';
 
 export function Icommon({
   node,
@@ -13,7 +8,7 @@ export function Icommon({
   size,
   fallbackSize = '24',
   omitFill = false,
-}: IcommonProps): ReactElement {
+}: IcommonProps): JSX.Element {
   const Component = node[0] as unknown as FC<AllHTMLAttributes<unknown>>;
   const { style, fill, ...noStyleProps } = node[1];
   const styleObj =
@@ -52,12 +47,3 @@ const cssStringToProperties = (css: string): CSSProperties =>
       [cssProp.replace(/-./g, (x) => x[1].toUpperCase())]: cssVal,
     };
   }, {});
-
-interface IcommonProps {
-  node: IcommonNode;
-  width?: string;
-  height?: string;
-  size?: string;
-  fallbackSize?: string;
-  omitFill?: boolean;
-}
