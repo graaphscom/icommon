@@ -12,9 +12,10 @@ export function Icommon({
   height,
   size,
   fallbackSize = '24',
+  omitFill = false,
 }: IcommonProps): ReactElement {
   const Component = node[0] as unknown as FC<AllHTMLAttributes<unknown>>;
-  const { style, ...noStyleProps } = node[1];
+  const { style, fill, ...noStyleProps } = node[1];
   const styleObj =
     typeof style == 'string' ? cssStringToProperties(style) : undefined;
 
@@ -31,11 +32,14 @@ export function Icommon({
         ...(width && { width }),
         ...(height && { height }),
         ...(!width && !height && size && { width: size, height: size }),
+        ...(!omitFill && { fill }),
         style: styleObj,
       }}
     >
       {/* eslint-disable-next-line react/no-array-index-key -- idx used because node doesn't have any better candidate */}
-      {node[2]?.map((v, idx) => <Icommon node={v} key={idx} />)}
+      {node[2]?.map((v, idx) => (
+        <Icommon node={v} key={idx} omitFill={omitFill} />
+      ))}
     </Component>
   );
 }
@@ -55,4 +59,5 @@ interface IcommonProps {
   height?: string;
   size?: string;
   fallbackSize?: string;
+  omitFill?: boolean;
 }
