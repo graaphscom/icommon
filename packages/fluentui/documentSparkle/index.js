@@ -1,0 +1,16 @@
+export { documentSparkle16Filled } from "./documentSparkle16Filled";
+export { documentSparkle16Regular } from "./documentSparkle16Regular";
+export { documentSparkle20Filled } from "./documentSparkle20Filled";
+export { documentSparkle20Regular } from "./documentSparkle20Regular";
+export { documentSparkle24Filled } from "./documentSparkle24Filled";
+export { documentSparkle24Light } from "./documentSparkle24Light";
+export { documentSparkle24Regular } from "./documentSparkle24Regular";
+export { documentSparkle28Filled } from "./documentSparkle28Filled";
+export { documentSparkle28Light } from "./documentSparkle28Light";
+export { documentSparkle28Regular } from "./documentSparkle28Regular";
+export { documentSparkle32Filled } from "./documentSparkle32Filled";
+export { documentSparkle32Light } from "./documentSparkle32Light";
+export { documentSparkle32Regular } from "./documentSparkle32Regular";
+export { documentSparkle48Filled } from "./documentSparkle48Filled";
+export { documentSparkle48Light } from "./documentSparkle48Light";
+export { documentSparkle48Regular } from "./documentSparkle48Regular";
