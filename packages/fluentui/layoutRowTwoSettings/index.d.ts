@@ -1,9 +1,0 @@
-export { layoutRowTwoSettings20Filled } from "./layoutRowTwoSettings20Filled";
-export { layoutRowTwoSettings20Regular } from "./layoutRowTwoSettings20Regular";
-export { layoutRowTwoSettings24Filled } from "./layoutRowTwoSettings24Filled";
-export { layoutRowTwoSettings24Regular } from "./layoutRowTwoSettings24Regular";
-export { layoutRowTwoSettings28Filled } from "./layoutRowTwoSettings28Filled";
-export { layoutRowTwoSettings28Regular } from "./layoutRowTwoSettings28Regular";
-export { layoutRowTwoSettings32Filled } from "./layoutRowTwoSettings32Filled";
-export { layoutRowTwoSettings32Light } from "./layoutRowTwoSettings32Light";
-export { layoutRowTwoSettings32Regular } from "./layoutRowTwoSettings32Regular";
