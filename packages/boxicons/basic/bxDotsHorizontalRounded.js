@@ -1,0 +1,16 @@
+export var bxDotsHorizontalRounded = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M12 10a2 2 0 1 0 0 4 2 2 0 1 0 0-4M18 10a2 2 0 1 0 0 4 2 2 0 1 0 0-4M6 10a2 2 0 1 0 0 4 2 2 0 1 0 0-4"
+      }
+    ]
+  ]
+]

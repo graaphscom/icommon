@@ -1,0 +1,29 @@
+export var bxCupboardAlt = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m20,2h-7v10h8V3c0-.55-.45-1-1-1Zm-4,7h-2v-2h2v2Z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "m11,2h-7c-.55,0-1,.45-1,1v9h8V2Zm-1,7h-2v-2h2v2Z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "m3,21c0,.55.45,1,1,1h16c.55,0,1-.45,1-1v-7H3v7Zm8-6h2v2h-2v-2Z"
+      }
+    ]
+  ]
+]

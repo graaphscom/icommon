@@ -1,0 +1,23 @@
+export var bxMinusPlus = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M19 13 13 13 13 7 11 7 11 13 5 13 5 15 11 15 11 21 13 21 13 15 19 15 19 13z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M5 3H19V5H5z"
+      }
+    ]
+  ]
+]

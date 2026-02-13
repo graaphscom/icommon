@@ -1,0 +1,16 @@
+export var bxArrowDownLeftStrokeSquare = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m-4 11v2H8V9h2v3.59l4.29-4.29 1.41 1.41L11.41 14z"
+      }
+    ]
+  ]
+]

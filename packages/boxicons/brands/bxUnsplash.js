@@ -1,0 +1,16 @@
+export var bxUnsplash = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M8.625 8.063V3h6.75v5.063zm6.75 2.812H21V21H3V10.875h5.625v5.063h6.75z"
+      }
+    ]
+  ]
+]

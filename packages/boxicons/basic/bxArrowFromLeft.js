@@ -1,0 +1,23 @@
+export var bxArrowFromLeft = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M15 11 8 11 8 13 15 13 15 17 21 12 15 7 15 11z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M4 4H6V20H4z"
+      }
+    ]
+  ]
+]

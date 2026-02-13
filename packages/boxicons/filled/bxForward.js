@@ -1,0 +1,17 @@
+export var bxForward = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m5,14c0-2.21,1.79-4,4-4h6v4l6-5-6-5v4h-6c-3.31,0-6,2.69-6,6v6h2v-6Z"
+      }
+    ]
+  ]
+]

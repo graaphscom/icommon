@@ -1,0 +1,17 @@
+export var bxRotateSquareCw = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m18,4h-3v2h3v12H6V6h2v3l5-4L8,1v3h-2c-1.1,0-2,.9-2,2v12c0,1.1.9,2,2,2h12c1.1,0,2-.9,2-2V6c0-1.1-.9-2-2-2Z"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,23 @@
+export var bxLaptopAlt = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 19H22V21H2z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "m5,18h14c1.1,0,2-.9,2-2V6c0-1.1-.9-2-2-2H5c-1.1,0-2,.9-2,2v10c0,1.1.9,2,2,2Zm5-12h4v1h-4v-1Z"
+      }
+    ]
+  ]
+]

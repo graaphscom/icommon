@@ -1,0 +1,17 @@
+export var bxClock = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m12,2C6.58,2,2,6.58,2,12s4.58,10,10,10,10-4.58,10-10S17.42,2,12,2Zm5,11h-6v-6h2v4h4v2Z"
+      }
+    ]
+  ]
+]

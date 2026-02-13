@@ -1,0 +1,23 @@
+export var bxArrowFromLeftStroke = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M4 4H6V20H4z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M12.29 6.71 16.59 11 8 11 8 13 16.59 13 12.29 17.29 13.71 18.71 20.41 12 13.71 5.29 12.29 6.71z"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,16 @@
+export var bxCaretLeftSquare = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M3 19c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2zM14 7v10l-6-5z"
+      }
+    ]
+  ]
+]

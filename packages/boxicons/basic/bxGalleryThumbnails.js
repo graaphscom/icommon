@@ -1,0 +1,16 @@
+export var bxGalleryThumbnails = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M19 3H5c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2m0 12H5V5h14zM10 19h4v2h-4zM4 19h4v2H4zM16 19h4v2h-4z"
+      }
+    ]
+  ]
+]

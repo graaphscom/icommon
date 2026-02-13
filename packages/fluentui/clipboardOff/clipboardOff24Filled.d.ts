@@ -1,0 +1,2 @@
+import { IcommonNode } from "@icommon/components/types";
+export declare const clipboardOff24Filled: IcommonNode;

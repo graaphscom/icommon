@@ -1,0 +1,16 @@
+export var bxMathAlt = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M6 9.22V11h2V8h3V6H8V3H6v3H3v2h3zM18.78 18H21v-2h-8v2h5.779999999999999M4.04 20.04l.7.7 8-8 8-8-.7-.7-.71-.71-8 8-8 8z"
+      }
+    ]
+  ]
+]

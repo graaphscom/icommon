@@ -1,0 +1,23 @@
+export var bxArrowInDownCircleHalf = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M11 2 11 9 7 9 12 15 17 9 13 9 13 2 11 2z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "m5,13h-2c0,4.96,4.04,9,9,9s9-4.04,9-9h-2c0,3.86-3.14,7-7,7s-7-3.14-7-7Z"
+      }
+    ]
+  ]
+]

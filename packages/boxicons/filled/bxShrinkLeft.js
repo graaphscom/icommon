@@ -1,0 +1,16 @@
+export var bxShrinkLeft = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M13 22h2v-7h7v-2h-9zM11 2H9v7H2v2h9z"
+      }
+    ]
+  ]
+]

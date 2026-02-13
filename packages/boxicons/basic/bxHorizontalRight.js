@@ -1,0 +1,41 @@
+export var bxHorizontalRight = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M13 11 8 11 8 13 13 13 13 16 17 12 13 8 13 11z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M19 3H21V6H19z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M19 8H21V11H19z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M19 13H21V16H19z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M19 18H21V21H19z"
+      }
+    ]
+  ]
+]

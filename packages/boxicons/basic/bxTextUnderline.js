@@ -1,0 +1,16 @@
+export var bxTextUnderline = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M5 18h14v2H5zM17 8V4H7v4h2V6h2v8H9v2h6v-2h-2V6h2v2z"
+      }
+    ]
+  ]
+]

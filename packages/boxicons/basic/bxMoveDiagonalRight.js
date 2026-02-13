@@ -1,0 +1,16 @@
+export var bxMoveDiagonalRight = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M6 13H4v6c0 .55.45 1 1 1h6v-2H7.41L18 7.41V11h2V5c0-.55-.45-1-1-1h-6v2h3.59L6 16.59z"
+      }
+    ]
+  ]
+]

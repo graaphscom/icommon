@@ -1,0 +1,16 @@
+export var bxCircleThreeQuarterAlt = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M12 22c5.51 0 10-4.49 10-10S17.51 2 12 2c-.55 0-1 .45-1 1v8H3c-.55 0-1 .45-1 1 0 5.51 4.49 10 10 10"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,16 @@
+export var bxSignal2 = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M3 15h2v5H3zM7 12h2v8H7z"
+      }
+    ]
+  ]
+]

@@ -11,7 +11,7 @@ export var triangleLeft = [
     [
       "path",
       {
-        "d": "M9 4L9 11L4.5 7.5L9 4Z",
+        "d": "M4.5 7.5L9 4L9 11L4.5 7.5Z",
         "fill": "currentColor"
       }
     ]

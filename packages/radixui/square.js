@@ -11,10 +11,8 @@ export var square = [
     [
       "path",
       {
-        "clipRule": "evenodd",
-        "d": "M1 1H1.5H13.5H14V1.5V13.5V14H13.5H1.5H1V13.5V1.5V1ZM2 2V13H13V2H2Z",
-        "fill": "currentColor",
-        "fillRule": "evenodd"
+        "d": "M14 14H1V1H14V14ZM2 13H13V2H2V13Z",
+        "fill": "currentColor"
       }
     ]
   ]

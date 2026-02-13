@@ -1,0 +1,16 @@
+export var bxArrowLeftCircle = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2m4 11h-4v3l-4-4 4-4v3h4z"
+      }
+    ]
+  ]
+]

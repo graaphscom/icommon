@@ -1,0 +1,16 @@
+export var bxGalleryHorizontal = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M8 21h8c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2M8 5h8v14H8zM20 4h2v16h-2zM2 4h2v16H2z"
+      }
+    ]
+  ]
+]

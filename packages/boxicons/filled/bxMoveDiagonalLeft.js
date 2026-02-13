@@ -1,0 +1,16 @@
+export var bxMoveDiagonalLeft = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M20 20v-7l-2.79 2.79-9-9L11 4H4v7l2.79-2.79 9 9L13 20z"
+      }
+    ]
+  ]
+]

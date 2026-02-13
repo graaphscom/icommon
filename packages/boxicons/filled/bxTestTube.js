@@ -1,0 +1,17 @@
+export var bxTestTube = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m18,2H6v2h1v13c0,2.76,2.24,5,5,5s5-2.24,5-5v-1h-4v-2h4v-2h-4v-2h4v-2h-4v-2h4v-2h1v-2Z"
+      }
+    ]
+  ]
+]

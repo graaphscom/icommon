@@ -1,0 +1,17 @@
+export var bxTrafficBarrier = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m21,6h-3v-3h-2v3h-8v-3h-2v3h-3c-.55,0-1,.45-1,1v8c0,.55.45,1,1,1h3v5h2v-5h8v5h2v-5h3c.55,0,1-.45,1-1V7c0-.55-.45-1-1-1Zm-13.62,2h2.24l-3,6h-2.24l3-6Zm2,6l3-6h2.24l-3,6h-2.24Zm8-6h2.24l-3,6h-2.24l3-6Z"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,41 @@
+export var bxParagraphSpacing = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 8H15V10H2z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M2 4H15V6H2z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M2 12H15V14H2z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M22 22 22 14 17 18 22 22z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M2 16H15V20H2z"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,16 @@
+export var bxPlus = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M11 17v4h2v-8h8v-2h-8V3h-2v8H3v2h8v4"
+      }
+    ]
+  ]
+]

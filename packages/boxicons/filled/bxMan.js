@@ -1,0 +1,23 @@
+export var bxMan = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M12 2A2 2 0 1 0 12 6 2 2 0 1 0 12 2z"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "m10,22h4v-7h2v-7c0-.55-.45-1-1-1h-6c-.55,0-1,.45-1,1v7h2v7Z"
+      }
+    ]
+  ]
+]

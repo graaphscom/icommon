@@ -1,0 +1,16 @@
+export var bxTextHeight = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m22 10-4-4-4 4h3v4h-3l4 4 4-4h-3v-4zM4 8h2v8H4v2h6v-2H8V8h2v2h2V6H2v4h2z"
+      }
+    ]
+  ]
+]

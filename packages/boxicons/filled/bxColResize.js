@@ -1,0 +1,16 @@
+export var bxColResize = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M11 2h2v20h-2zM17 17l5-5-5-5zM7 17V7l-5 5z"
+      }
+    ]
+  ]
+]

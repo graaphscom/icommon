@@ -1,0 +1,16 @@
+export var bxExpandLeft = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M10 19h9v-9h-2v7h-7zM7 7h7V5H5v9h2z"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,84 @@
+export var flag16Color = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M3.5 14C3.22386 14 3 13.7761 3 13.5V9.5H4V13.5C4 13.7761 3.77614 14 3.5 14Z",
+        "fill": "url(#paint0_linear_72095_9513)"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M13 10H3.5C3.22386 10 3 9.77614 3 9.5V2.5C3 2.22386 3.22386 2 3.5 2H13C13.4067 2 13.6432 2.45968 13.4069 2.79062L11.1145 6L13.4069 9.20938C13.6432 9.54032 13.4067 10 13 10Z",
+        "fill": "url(#paint1_linear_72095_9513)"
+      }
+    ],
+    [
+      "defs",
+      {},
+      [
+        [
+          "linearGradient",
+          {
+            "gradientUnits": "userSpaceOnUse",
+            "id": "paint0_linear_72095_9513",
+            "x1": "4",
+            "x2": "3.68998",
+            "y1": "15.4464",
+            "y2": "9.65947"
+          },
+          [
+            [
+              "stop",
+              {
+                "stopColor": "#889096"
+              }
+            ],
+            [
+              "stop",
+              {
+                "offset": "1",
+                "stopColor": "#63686E"
+              }
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "gradientUnits": "userSpaceOnUse",
+            "id": "paint1_linear_72095_9513",
+            "x1": "0.702932",
+            "x2": "5.16934",
+            "y1": "-0.285714",
+            "y2": "10.4745"
+          },
+          [
+            [
+              "stop",
+              {
+                "stopColor": "#F97DBD"
+              }
+            ],
+            [
+              "stop",
+              {
+                "offset": "1",
+                "stopColor": "#D7257D"
+              }
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]

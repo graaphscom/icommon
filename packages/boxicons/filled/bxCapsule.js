@@ -1,0 +1,17 @@
+export var bxCapsule = [
+  "svg",
+  {
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m15,5h-6c-3.86,0-7,3.14-7,7s3.14,7,7,7h6c3.86,0,7-3.14,7-7s-3.14-7-7-7Z"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,16 @@
+export var bxDotsVertical = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M10 10h4v4h-4zM10 16h4v4h-4zM10 4h4v4h-4z"
+      }
+    ]
+  ]
+]

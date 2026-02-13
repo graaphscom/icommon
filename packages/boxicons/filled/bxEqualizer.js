@@ -1,0 +1,16 @@
+export var bxEqualizer = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M11 8h2v8h-2zM19 10h2v4h-2zM15 5h2v14h-2zM7 3h2v18H7zM3 9h2v6H3z"
+      }
+    ]
+  ]
+]

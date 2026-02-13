@@ -1,0 +1,38 @@
+export var bxGridCircleDiagonalRight = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M17 3a4 4 0 1 0 0 8 4 4 0 1 0 0-8M7 13a4 4 0 1 0 0 8 4 4 0 1 0 0-8"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "8",
+        "rx": "1.5",
+        "ry": "1.5",
+        "width": "8",
+        "x": "3",
+        "y": "3"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "8",
+        "rx": "1.5",
+        "ry": "1.5",
+        "width": "8",
+        "x": "13",
+        "y": "13"
+      }
+    ]
+  ]
+]

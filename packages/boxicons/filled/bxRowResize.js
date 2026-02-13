@@ -1,0 +1,16 @@
+export var bxRowResize = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 11h20v2H2zM12 22l5-5H7zM17 7l-5-5-5 5z"
+      }
+    ]
+  ]
+]

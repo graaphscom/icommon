@@ -1,0 +1,16 @@
+export var bxCursorCrosshair = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M11 3h2v7h-2zM11 14h2v7h-2zM14 11h7v2h-7zM3 11h7v2H3z"
+      }
+    ]
+  ]
+]

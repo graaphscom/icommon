@@ -1,0 +1,16 @@
+export var bxArch = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M21 7H3v13H2v2h7v-7c0-.51.18-3 3-3s2.99 2.5 3 3v7h7v-2h-1zM2 2h20v3H2z"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,16 @@
+export var bxArrowDownRightStroke = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M17 8h-2v5.59l-6.29-6.3-1.42 1.42 6.3 6.29H8v2h9z"
+      }
+    ]
+  ]
+]

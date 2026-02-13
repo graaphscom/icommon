@@ -1,0 +1,16 @@
+export var bxArrowUpRight = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m11.79 10.79-4.5 4.5 1.42 1.42 4.5-4.5L17 16V7H8z"
+      }
+    ]
+  ]
+]

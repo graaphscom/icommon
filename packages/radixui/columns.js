@@ -11,10 +11,8 @@ export var columns = [
     [
       "path",
       {
-        "clipRule": "evenodd",
-        "d": "M2.14998 14V1H0.849976V14H2.14998ZM6.14998 14V1H4.84998V14H6.14998ZM10.15 1V14H8.84998V1H10.15ZM14.15 14V1H12.85V14H14.15Z",
-        "fill": "currentColor",
-        "fillRule": "evenodd"
+        "d": "M2.15079 14H0.850006V1H2.15079V14ZM6.15079 14H4.85001V1H6.15079V14ZM10.1508 14H8.85001V1H10.1508V14ZM14.1508 14H12.85V1H14.1508V14Z",
+        "fill": "currentColor"
       }
     ]
   ]

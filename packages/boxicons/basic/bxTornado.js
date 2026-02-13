@@ -1,0 +1,16 @@
+export var bxTornado = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 3h20v2H2zM5 7h15v2H5zM7 11h12v2H7zM9 15h7v2H9zM8 19h4v2H8z"
+      }
+    ]
+  ]
+]

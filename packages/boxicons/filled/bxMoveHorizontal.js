@@ -1,0 +1,16 @@
+export var bxMoveHorizontal = [
+  "svg",
+  {
+    "height": "24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M7 13h10v4l5-5-5-5v4H7V7l-5 5 5 5z"
+      }
+    ]
+  ]
+]

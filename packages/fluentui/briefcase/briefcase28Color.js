@@ -1,0 +1,194 @@
+export var briefcase28Color = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "28",
+    "viewBox": "0 0 28 28",
+    "width": "28",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M16.7461 2.5C17.9887 2.5 18.9961 3.50736 18.9961 4.75V7H19L14 10L9 7L8.99609 6.99805V4.75C8.99609 3.50736 10.0035 2.5 11.2461 2.5H16.7461ZM11.2461 4C10.8319 4 10.4961 4.33579 10.4961 4.75V7H17.4961V4.75C17.4961 4.33579 17.1603 4 16.7461 4H11.2461Z",
+        "fill": "url(#paint0_linear_75401_31981)",
+        "fillRule": "evenodd"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M3 13H25V20.25C25 22.3211 23.3211 24 21.25 24H6.75C4.67893 24 3 22.3211 3 20.25V13Z",
+        "fill": "url(#paint1_linear_75401_31981)"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M3 13H25V20.25C25 22.3211 23.3211 24 21.25 24H6.75C4.67893 24 3 22.3211 3 20.25V13Z",
+        "fill": "url(#paint2_radial_75401_31981)"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M3 10.75C3 8.67893 4.67893 7 6.75 7H21.25C23.3211 7 25 8.67893 25 10.75V14.75C25 15.9926 23.9926 17 22.75 17H5.25C4.00736 17 3 15.9926 3 14.75V10.75Z",
+        "fill": "url(#paint3_linear_75401_31981)"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M15.2461 13.5156H12.7383C12.0458 13.5156 11.4844 14.0735 11.4844 14.7617V17.2539C11.4844 17.9421 12.0458 18.5 12.7383 18.5H15.2461C15.9386 18.5 16.5 17.9421 16.5 17.2539V14.7617C16.5 14.0735 15.9386 13.5156 15.2461 13.5156Z",
+        "fill": "url(#paint4_linear_75401_31981)"
+      }
+    ],
+    [
+      "defs",
+      {},
+      [
+        [
+          "linearGradient",
+          {
+            "gradientUnits": "userSpaceOnUse",
+            "id": "paint0_linear_75401_31981",
+            "x1": "8.5421",
+            "x2": "11.1839",
+            "y1": "3.25",
+            "y2": "11.2045"
+          },
+          [
+            [
+              "stop",
+              {
+                "stopColor": "#0094F0"
+              }
+            ],
+            [
+              "stop",
+              {
+                "offset": "1",
+                "stopColor": "#163697"
+              }
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "gradientUnits": "userSpaceOnUse",
+            "id": "paint1_linear_75401_31981",
+            "x1": "3.78571",
+            "x2": "9.72786",
+            "y1": "15.0625",
+            "y2": "35.3248"
+          },
+          [
+            [
+              "stop",
+              {
+                "stopColor": "#0FAFFF"
+              }
+            ],
+            [
+              "stop",
+              {
+                "offset": "1",
+                "stopColor": "#CC23D1"
+              }
+            ]
+          ]
+        ],
+        [
+          "radialGradient",
+          {
+            "cx": "0",
+            "cy": "0",
+            "gradientTransform": "translate(14 13) rotate(90) scale(11 24.5223)",
+            "gradientUnits": "userSpaceOnUse",
+            "id": "paint2_radial_75401_31981",
+            "r": "1"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0.336754",
+                "stopColor": "#194694"
+              }
+            ],
+            [
+              "stop",
+              {
+                "offset": "0.74691",
+                "stopColor": "#367AF2",
+                "stopOpacity": "0"
+              }
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "gradientUnits": "userSpaceOnUse",
+            "id": "paint3_linear_75401_31981",
+            "x1": "5.2",
+            "x2": "16.2578",
+            "y1": "7.41511",
+            "y2": "19.722"
+          },
+          [
+            [
+              "stop",
+              {
+                "stopColor": "#80F1E6"
+              }
+            ],
+            [
+              "stop",
+              {
+                "offset": "0.551691",
+                "stopColor": "#40C4F5"
+              }
+            ],
+            [
+              "stop",
+              {
+                "offset": "1",
+                "stopColor": "#00A2FA"
+              }
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "gradientUnits": "userSpaceOnUse",
+            "id": "paint4_linear_75401_31981",
+            "x1": "13.9922",
+            "x2": "13.9922",
+            "y1": "13.5156",
+            "y2": "18.5"
+          },
+          [
+            [
+              "stop",
+              {
+                "stopColor": "#B8F5FF"
+              }
+            ],
+            [
+              "stop",
+              {
+                "offset": "0.843749",
+                "stopColor": "#7CECFF"
+              }
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]
