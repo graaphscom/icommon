@@ -11,4 +11,5 @@ export interface IcommonProps {
   size?: string;
   fallbackSize?: string;
   omitFill?: boolean;
+  viewBox?: string;
 }

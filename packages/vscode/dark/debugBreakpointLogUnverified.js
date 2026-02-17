@@ -1,0 +1,21 @@
+export var debugBreakpointLogUnverified = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M3.02039 7.97961L8 3L12.9796 7.97961L8 12.9592L3.02039 7.97961ZM8 10.7696L10.79 7.97961L8 5.18956L5.20996 7.97961L8 10.7696Z",
+        "fill": "#848484",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

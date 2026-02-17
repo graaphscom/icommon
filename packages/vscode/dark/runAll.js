@@ -1,0 +1,21 @@
+export var runAll = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M10.9146 8.24024L2 14.4805V2L10.9146 8.24024ZM2.995 12.5684L9.18093 8.24024L2.995 3.91209V12.5684ZM5.5 14.4805V13.2511L12.6809 8.24024L5.5 3.22935V2L14.4146 8.24024L5.5 14.4805Z",
+        "fill": "#C5C5C5",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

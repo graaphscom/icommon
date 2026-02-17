@@ -1,0 +1,38 @@
+export var laptopMinimalCheck = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 20h20"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "m9 10 2 2 4-4"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "12",
+        "rx": "2",
+        "width": "18",
+        "x": "3",
+        "y": "4"
+      }
+    ]
+  ]
+]

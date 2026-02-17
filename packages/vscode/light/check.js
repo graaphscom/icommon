@@ -1,0 +1,21 @@
+export var check = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M14.4318 3.3232L5.96175 13.3232L5.17104 13.2874L1.82104 8.5174L2.63939 7.94268L5.61722 12.1827L13.6687 2.67688L14.4318 3.3232Z",
+        "fill": "#424242",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

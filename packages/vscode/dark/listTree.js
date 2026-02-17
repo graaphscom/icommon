@@ -1,0 +1,50 @@
+export var listTree = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M14 3V4H2V3H14Z",
+        "fill": "#C5C5C5"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M13 6V7H6V6H13Z",
+        "fill": "#C5C5C5"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M13 9V10H5V9H13Z",
+        "fill": "#C5C5C5"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M13 12V13H5V12H13Z",
+        "fill": "#C5C5C5"
+      }
+    ],
+    [
+      "rect",
+      {
+        "fill": "#C5C5C5",
+        "height": "9",
+        "width": "1",
+        "x": "5",
+        "y": "4"
+      }
+    ]
+  ]
+]

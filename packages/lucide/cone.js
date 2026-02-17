@@ -1,0 +1,31 @@
+export var cone = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m20.9 18.55-8-15.98a1 1 0 0 0-1.8 0l-8 15.98"
+      }
+    ],
+    [
+      "ellipse",
+      {
+        "cx": "12",
+        "cy": "19",
+        "rx": "9",
+        "ry": "3"
+      }
+    ]
+  ]
+]

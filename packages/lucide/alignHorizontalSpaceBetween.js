@@ -1,0 +1,48 @@
+export var alignHorizontalSpaceBetween = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "rect",
+      {
+        "height": "14",
+        "rx": "2",
+        "width": "6",
+        "x": "3",
+        "y": "5"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "10",
+        "rx": "2",
+        "width": "6",
+        "x": "15",
+        "y": "7"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M3 2v20"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M21 2v20"
+      }
+    ]
+  ]
+]

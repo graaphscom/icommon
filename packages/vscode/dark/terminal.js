@@ -1,0 +1,21 @@
+export var terminal = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M3 1.5L1.5 3V21L3 22.5H21L22.5 21V3L21 1.5H3ZM3 21V3H21V21H3ZM8.65649 16.99L9.6937 18.0513L14.954 12.8078V11.8965L9.69398 6.63641L8.65856 7.69591L13.2486 12.3979L8.65649 16.99Z",
+        "fill": "#C5C5C5",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

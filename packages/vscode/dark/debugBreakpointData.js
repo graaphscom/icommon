@@ -1,0 +1,19 @@
+export var debugBreakpointData = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M12.2376 7.99988L9.9282 11.9999H5.3094L3 7.99988L5.3094 3.99988H9.9282L12.2376 7.99988Z",
+        "fill": "#E51400"
+      }
+    ]
+  ]
+]

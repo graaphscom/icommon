@@ -1,0 +1,46 @@
+export var tornado = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M21 4H3"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M18 8H6"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M19 12H9"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M16 16h-6"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M11 20H9"
+      }
+    ]
+  ]
+]

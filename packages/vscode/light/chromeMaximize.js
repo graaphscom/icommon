@@ -1,0 +1,19 @@
+export var chromeMaximize = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M3.00024 3V13H13.0002V3H3.00024ZM12.0002 12H4.00024V4H12.0002V12Z",
+        "fill": "#424242"
+      }
+    ]
+  ]
+]

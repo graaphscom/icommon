@@ -1,0 +1,21 @@
+export var arrowUp = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M13.8536 6.99999L8.85359 2H8.14648L3.14648 6.99999L3.85359 7.7071L8.00003 3.56066V14H9.00003V3.56066L13.1465 7.7071L13.8536 6.99999Z",
+        "fill": "#C5C5C5",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

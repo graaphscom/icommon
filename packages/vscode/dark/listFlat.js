@@ -1,0 +1,26 @@
+export var listFlat = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 10V9H14V10H2ZM2 6H14V7H2V6ZM14 3V4H2V3H14Z",
+        "fill": "#C5C5C5"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M2 12V13H14V12H2Z",
+        "fill": "#C5C5C5"
+      }
+    ]
+  ]
+]

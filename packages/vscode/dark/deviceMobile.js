@@ -1,0 +1,21 @@
+export var deviceMobile = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M4.5 1H12.5L13 1.5V14.5L12.5 15H4.5L4 14.5V1.5L4.5 1ZM5 14H12V2H5V14ZM7.5 12H9.5V13H7.5V12Z",
+        "fill": "#C5C5C5",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

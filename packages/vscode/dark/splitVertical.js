@@ -1,0 +1,19 @@
+export var splitVertical = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M14 1H3L2 2V13L3 14H14L15 13V2L14 1ZM14 13H3V8H14V13ZM14 7H3V2H14V7Z",
+        "fill": "#C5C5C5"
+      }
+    ]
+  ]
+]

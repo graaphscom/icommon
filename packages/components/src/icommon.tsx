@@ -13,6 +13,7 @@ export const Icommon = ({
   size,
   fallbackSize = '24',
   omitFill = false,
+  viewBox
 }: IcommonProps): ReactNode => {
   const Component = node[0] as unknown as FC<AllHTMLAttributes<unknown>>;
   const { style, fill, ...noStyleProps } = node[1];
@@ -29,6 +30,7 @@ export const Icommon = ({
             width: fallbackSize,
             height: fallbackSize,
           }),
+        ...(viewBox && { viewBox }),
         ...(width && { width }),
         ...(height && { height }),
         ...(!width && !height && size && { width: size, height: size }),

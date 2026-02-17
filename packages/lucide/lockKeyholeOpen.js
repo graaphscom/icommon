@@ -1,0 +1,40 @@
+export var lockKeyholeOpen = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "circle",
+      {
+        "cx": "12",
+        "cy": "16",
+        "r": "1"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "12",
+        "rx": "2",
+        "width": "18",
+        "x": "3",
+        "y": "10"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M7 10V7a5 5 0 0 1 9.33-2.5"
+      }
+    ]
+  ]
+]

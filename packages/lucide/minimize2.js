@@ -1,0 +1,40 @@
+export var minimize2 = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "m14 10 7-7"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M20 10h-6V4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "m3 21 7-7"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M4 14h6v6"
+      }
+    ]
+  ]
+]

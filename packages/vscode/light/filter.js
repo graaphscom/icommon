@@ -1,0 +1,21 @@
+export var filter = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M15.0002 2V3.66963L10.0002 8.42874V14H6.00024V8.42874L1.00024 3.66963V2H15.0002ZM7.00024 8V13H9.00024V8L14.0002 3.24089V3H2.00024V3.24089L7.00024 8Z",
+        "fill": "#424242",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,19 @@
+export var window = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M14.5 2H1.5L1 2.5V13.5L1.5 14H14.5L15 13.5V2.5L14.5 2ZM14 13H2V6H14V13ZM14 5H2V3H14V5Z",
+        "fill": "#C5C5C5"
+      }
+    ]
+  ]
+]

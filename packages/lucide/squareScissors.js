@@ -1,0 +1,69 @@
+export var squareScissors = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "rect",
+      {
+        "height": "18",
+        "rx": "2",
+        "width": "18",
+        "x": "3",
+        "y": "3"
+      }
+    ],
+    [
+      "circle",
+      {
+        "cx": "8.5",
+        "cy": "8.5",
+        "r": "1.5"
+      }
+    ],
+    [
+      "line",
+      {
+        "x1": "9.56066",
+        "x2": "12",
+        "y1": "9.56066",
+        "y2": "12"
+      }
+    ],
+    [
+      "line",
+      {
+        "x1": "17",
+        "x2": "14.82",
+        "y1": "17",
+        "y2": "14.82"
+      }
+    ],
+    [
+      "circle",
+      {
+        "cx": "8.5",
+        "cy": "15.5",
+        "r": "1.5"
+      }
+    ],
+    [
+      "line",
+      {
+        "x1": "9.56066",
+        "x2": "17",
+        "y1": "14.43934",
+        "y2": "7"
+      }
+    ]
+  ]
+]

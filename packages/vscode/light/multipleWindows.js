@@ -1,0 +1,21 @@
+export var multipleWindows = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M6.00024 1.5L6.50024 1H14.5002L15.0002 1.5V3.5V8.5L14.5002 9H12.0002V8H14.0002V4H7.00024V5H6.00024V3.5V1.5ZM7.00024 2V3H14.0002V2H7.00024ZM1.50024 7L1.00024 7.5V14.5L1.50024 15H9.50024L10.0002 14.5V7.5L9.50024 7H1.50024ZM2.00024 9V8H9.00024V9H2.00024ZM2.00024 10H9.00024V14H2.00024V10Z",
+        "fill": "#424242",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

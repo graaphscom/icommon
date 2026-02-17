@@ -1,0 +1,46 @@
+export var ligature = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M14 12h2v8"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M14 20h4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M6 12h4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M6 20h4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M8 20V8a4 4 0 0 1 7.464-2"
+      }
+    ]
+  ]
+]

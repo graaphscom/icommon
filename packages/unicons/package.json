@@ -3,12 +3,17 @@
   "version": "1.0.0",
   "license": "IconScout Simple License",
   "scripts": {
-    "check-types": "tsc"
+    "check-types": "tsc",
+    "lint": "eslint",
+    "format": "prettier . --check"
   },
   "devDependencies": {
     "@icommon/components": "workspace:^",
     "@icommon/typescript-config": "workspace:^",
-    "typescript": "^5.4.5"
+    "eslint": "^10.0.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3"
   },
   "peerDependencies": {
     "@icommon/components": "workspace:^"

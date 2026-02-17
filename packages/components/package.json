@@ -10,17 +10,22 @@
     }
   },
   "scripts": {
-    "build": "tsc && swc src -d dist --strip-leading-paths"
+    "build": "tsc && swc src -d dist --strip-leading-paths",
+    "lint": "eslint",
+    "format": "prettier . --check"
   },
   "devDependencies": {
     "@icommon/eslint-config": "workspace:^",
     "@icommon/typescript-config": "workspace:^",
-    "@swc/cli": "^0.5.2",
-    "@types/react": "^19.0.1",
-    "react": "^19.0.0",
-    "typescript": "^5.7.2"
+    "@swc/cli": "^0.8.0",
+    "@types/react": "^19.2.14",
+    "eslint": "^10.0.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.8.1",
+    "react": "^19.2.4",
+    "typescript": "^5.9.3"
   },
   "peerDependencies": {
-    "react": "^19.0.0"
+    "react": "^19.2.4"
   }
 }

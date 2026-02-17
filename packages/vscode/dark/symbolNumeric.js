@@ -1,0 +1,21 @@
+export var symbolNumeric = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M11 1V5H15V6H11L11 10H15V11H11V15H10V11H6V15H5L5 11H1V10H5L5 6H1V5H5L5 1H6V5H10V1H11ZM6 6L6 10H10L10 6H6Z",
+        "fill": "#C5C5C5",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,32 @@
+export var squareM = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M8 16V8.5a.5.5 0 0 1 .9-.3l2.7 3.599a.5.5 0 0 0 .8 0l2.7-3.6a.5.5 0 0 1 .9.3V16"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "18",
+        "rx": "2",
+        "width": "18",
+        "x": "3",
+        "y": "3"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,19 @@
+export var debugStop = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M2 2V14H14V2H2ZM12.75 12.75H3.25V3.25H12.75V12.75Z",
+        "fill": "#F48771"
+      }
+    ]
+  ]
+]

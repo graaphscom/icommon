@@ -1,0 +1,19 @@
+export var triangleUp = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M14 10.4403L13.5866 11L2.39328 11L2 10.4607L7.62689 5L8.45378 5L14 10.4403Z",
+        "fill": "#C5C5C5"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,21 @@
+export var symbolRuler = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M4.00024 1L3.00024 2V14L4.00024 15H12.0002L13.0002 14V2L12.0002 1H4.00024ZM4.00024 3V2H12.0002V14H4.00024V13H6.00024V12H4.00024V10H8.00024V9H4.00024V7H6.00024V6H4.00024V4H8.00024V3H4.00024Z",
+        "fill": "#424242",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

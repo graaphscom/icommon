@@ -1,0 +1,60 @@
+export var group = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M3 7V5c0-1.1.9-2 2-2h2"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M17 3h2c1.1 0 2 .9 2 2v2"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M21 17v2c0 1.1-.9 2-2 2h-2"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M7 21H5c-1.1 0-2-.9-2-2v-2"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "5",
+        "rx": "1",
+        "width": "7",
+        "x": "7",
+        "y": "7"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "5",
+        "rx": "1",
+        "width": "7",
+        "x": "10",
+        "y": "12"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,74 @@
+export var keyboardMusic = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "rect",
+      {
+        "height": "16",
+        "rx": "2",
+        "width": "20",
+        "x": "2",
+        "y": "4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M6 8h4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M14 8h.01"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M18 8h.01"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M2 12h20"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M6 12v4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M10 12v4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M14 12v4"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M18 12v4"
+      }
+    ]
+  ]
+]

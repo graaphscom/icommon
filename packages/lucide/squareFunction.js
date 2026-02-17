@@ -1,0 +1,39 @@
+export var squareFunction = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "rect",
+      {
+        "height": "18",
+        "rx": "2",
+        "ry": "2",
+        "width": "18",
+        "x": "3",
+        "y": "3"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M9 17c2 0 2.8-1 2.8-2.8V10c0-2 1-3.3 3.2-3"
+      }
+    ],
+    [
+      "path",
+      {
+        "d": "M9 11.2h5.7"
+      }
+    ]
+  ]
+]

@@ -1,0 +1,21 @@
+export var listUnordered = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "16",
+    "viewBox": "0 0 16 16",
+    "width": "16",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "clipRule": "evenodd",
+        "d": "M2 3H1V4H2V3ZM2 6H1V7H2V6ZM1 9H2V10H1V9ZM2 12H1V13H2V12ZM4 3H15V4H4V3ZM15 6H4V7H15V6ZM4 9H15V10H4V9ZM15 12H4V13H15V12Z",
+        "fill": "#C5C5C5",
+        "fillRule": "evenodd"
+      }
+    ]
+  ]
+]

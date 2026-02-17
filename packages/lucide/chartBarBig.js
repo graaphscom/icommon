@@ -1,0 +1,42 @@
+export var chartBarBig = [
+  "svg",
+  {
+    "fill": "none",
+    "height": "24",
+    "stroke": "currentColor",
+    "strokeLinecap": "round",
+    "strokeLinejoin": "round",
+    "strokeWidth": "2",
+    "viewBox": "0 0 24 24",
+    "width": "24",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "path",
+      {
+        "d": "M3 3v16a2 2 0 0 0 2 2h16"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "4",
+        "rx": "1",
+        "width": "9",
+        "x": "7",
+        "y": "13"
+      }
+    ],
+    [
+      "rect",
+      {
+        "height": "4",
+        "rx": "1",
+        "width": "12",
+        "x": "7",
+        "y": "5"
+      }
+    ]
+  ]
+]
