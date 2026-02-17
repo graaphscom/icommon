@@ -1,4 +1,4 @@
 {
   "extends": "@icommon/typescript-config/icons.json",
-  "include": ["**/*.d.ts", "**/*.js"]
+  "include": ["dist/**/*.d.ts", "dist/**/*.js"]
 }
