@@ -1,7 +1,9 @@
 {
   "name": "@icommon/vscode",
   "version": "1.0.0",
-  "license": "Attribution 4.0 International",
+  "license": "Attribution 4.0 International","exports": {
+    "./*": "./dist/*"
+  },
   "scripts": {
     "check-types": "tsc",
     "lint": "eslint",

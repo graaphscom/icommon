@@ -2,6 +2,9 @@
   "name": "@icommon/unicons",
   "version": "1.0.0",
   "license": "IconScout Simple License",
+  "exports": {
+    "./*": "./dist/*"
+  },
   "scripts": {
     "check-types": "tsc",
     "lint": "eslint",

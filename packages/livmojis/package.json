@@ -2,6 +2,9 @@
   "name": "@icommon/livmojis",
   "version": "1.0.0",
   "license": "CC-BY-NC-SA",
+  "exports": {
+    "./*": "./dist/*"
+  },
   "scripts": {
     "check-types": "tsc",
     "lint": "eslint",

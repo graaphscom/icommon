@@ -2,6 +2,9 @@
   "name": "@icommon/fluentui",
   "version": "1.0.0",
   "license": "MIT",
+  "exports": {
+    "./*": "./dist/*"
+  },
   "scripts": {
     "check-types": "tsc",
     "lint": "eslint",

@@ -2,6 +2,9 @@
   "name": "@icommon/boxicons",
   "version": "1.0.0",
   "license": "CC 4.0",
+  "exports": {
+    "./*": "./dist/*"
+  },
   "scripts": {
     "check-types": "tsc",
     "lint": "eslint",
