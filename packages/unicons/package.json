@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "license": "IconScout Simple License",
   "exports": {
-    "./*": "./dist/*"
+    "./*": {
+      "import": "./dist/*.js",
+      "types": "./dist/*.d.ts"
+    }
   },
   "scripts": {
     "check-types": "tsc",

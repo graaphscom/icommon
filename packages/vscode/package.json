@@ -1,8 +1,12 @@
 {
   "name": "@icommon/vscode",
   "version": "1.0.0",
-  "license": "Attribution 4.0 International","exports": {
-    "./*": "./dist/*"
+  "license": "Attribution 4.0 International",
+  "exports": {
+    "./*": {
+      "import": "./dist/*.js",
+      "types": "./dist/*.d.ts"
+    }
   },
   "scripts": {
     "check-types": "tsc",

@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "license": "Apache License 2.0",
   "exports": {
-    "./*": "./dist/*"
+    "./*": {
+      "import": "./dist/*.js",
+      "types": "./dist/*.d.ts"
+    }
   },
   "scripts": {
     "check-types": "NODE_OPTIONS=--max-old-space-size=5120 tsc",

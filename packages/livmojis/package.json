@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "license": "CC-BY-NC-SA",
   "exports": {
-    "./*": "./dist/*"
+    "./*": {
+      "import": "./dist/*.js",
+      "types": "./dist/*.d.ts"
+    }
   },
   "scripts": {
     "check-types": "tsc",
