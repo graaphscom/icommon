@@ -10,8 +10,8 @@
   },
   "scripts": {
     "check-types": "tsc",
-    "lint": "eslint",
-    "format": "prettier . --check"
+    "lint": "eslint dist/",
+    "format": "prettier dist/ --check"
   },
   "devDependencies": {
     "@icommon/components": "workspace:^",
