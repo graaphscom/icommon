@@ -21,4 +21,4 @@ export var stayCurrentPortraitSharp24px = [
       }
     ]
   ]
-]
+];

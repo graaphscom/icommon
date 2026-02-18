@@ -21,4 +21,4 @@ export var assessmentOutlined24px = [
       }
     ]
   ]
-]
+];

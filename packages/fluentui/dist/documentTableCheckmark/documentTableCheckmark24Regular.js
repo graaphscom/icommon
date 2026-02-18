@@ -16,4 +16,4 @@ export var documentTableCheckmark24Regular = [
       }
     ]
   ]
-]
+];

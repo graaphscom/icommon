@@ -21,4 +21,4 @@ export var sdStorageOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var houseboatOutlined20px = [
       }
     ]
   ]
-]
+];

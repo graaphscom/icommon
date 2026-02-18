@@ -28,4 +28,4 @@ export var localAirportSharp24px = [
       ]
     ]
   ]
-]
+];

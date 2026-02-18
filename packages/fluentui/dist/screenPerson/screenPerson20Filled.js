@@ -16,4 +16,4 @@ export var screenPerson20Filled = [
       }
     ]
   ]
-]
+];

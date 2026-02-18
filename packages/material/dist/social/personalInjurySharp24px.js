@@ -29,4 +29,4 @@ export var personalInjurySharp24px = [
       ]
     ]
   ]
-]
+];

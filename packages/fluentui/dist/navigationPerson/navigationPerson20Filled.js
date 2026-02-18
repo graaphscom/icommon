@@ -16,4 +16,4 @@ export var navigationPerson20Filled = [
       }
     ]
   ]
-]
+];

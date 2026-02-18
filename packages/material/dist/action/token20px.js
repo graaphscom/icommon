@@ -24,4 +24,4 @@ export var token20px = [
       }
     ]
   ]
-]
+];

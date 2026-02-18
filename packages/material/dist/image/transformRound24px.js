@@ -21,4 +21,4 @@ export var transformRound24px = [
       }
     ]
   ]
-]
+];

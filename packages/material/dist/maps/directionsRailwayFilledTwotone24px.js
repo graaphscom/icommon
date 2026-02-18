@@ -68,4 +68,4 @@ export var directionsRailwayFilledTwotone24px = [
       ]
     ]
   ]
-]
+];

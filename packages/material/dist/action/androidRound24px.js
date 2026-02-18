@@ -40,4 +40,4 @@ export var androidRound24px = [
       ]
     ]
   ]
-]
+];

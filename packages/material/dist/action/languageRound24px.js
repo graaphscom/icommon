@@ -21,4 +21,4 @@ export var languageRound24px = [
       }
     ]
   ]
-]
+];

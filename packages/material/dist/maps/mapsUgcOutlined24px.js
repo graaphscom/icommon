@@ -37,4 +37,4 @@ export var mapsUgcOutlined24px = [
       }
     ]
   ]
-]
+];

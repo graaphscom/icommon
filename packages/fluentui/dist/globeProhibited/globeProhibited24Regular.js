@@ -16,4 +16,4 @@ export var globeProhibited24Regular = [
       }
     ]
   ]
-]
+];

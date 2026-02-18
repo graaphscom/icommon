@@ -16,4 +16,4 @@ export var receiptPlay20Filled = [
       }
     ]
   ]
-]
+];

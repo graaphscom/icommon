@@ -81,4 +81,4 @@ export var noiseControlOffRound24px = [
       ]
     ]
   ]
-]
+];

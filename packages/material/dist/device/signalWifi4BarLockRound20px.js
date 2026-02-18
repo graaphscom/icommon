@@ -29,4 +29,4 @@ export var signalWifi4BarLockRound20px = [
       ]
     ]
   ]
-]
+];

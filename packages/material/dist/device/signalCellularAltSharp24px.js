@@ -21,4 +21,4 @@ export var signalCellularAltSharp24px = [
       }
     ]
   ]
-]
+];

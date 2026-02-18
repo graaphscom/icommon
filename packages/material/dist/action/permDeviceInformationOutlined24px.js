@@ -21,4 +21,4 @@ export var permDeviceInformationOutlined24px = [
       }
     ]
   ]
-]
+];

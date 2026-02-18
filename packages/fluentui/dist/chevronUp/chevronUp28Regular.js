@@ -16,4 +16,4 @@ export var chevronUp28Regular = [
       }
     ]
   ]
-]
+];

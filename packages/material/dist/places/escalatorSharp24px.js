@@ -35,4 +35,4 @@ export var escalatorSharp24px = [
       ]
     ]
   ]
-]
+];

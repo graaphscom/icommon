@@ -46,4 +46,4 @@ export var signalWifiBadRound24px = [
       ]
     ]
   ]
-]
+];

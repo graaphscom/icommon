@@ -21,4 +21,4 @@ export var volumeUpSharp24px = [
       }
     ]
   ]
-]
+];

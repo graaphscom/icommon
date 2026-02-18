@@ -16,4 +16,4 @@ export var peopleList28Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var personPin24px = [
       }
     ]
   ]
-]
+];

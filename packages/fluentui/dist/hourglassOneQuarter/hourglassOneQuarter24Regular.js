@@ -16,4 +16,4 @@ export var hourglassOneQuarter24Regular = [
       }
     ]
   ]
-]
+];

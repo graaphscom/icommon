@@ -16,4 +16,4 @@ export var walletCreditCard32Regular = [
       }
     ]
   ]
-]
+];

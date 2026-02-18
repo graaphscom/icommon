@@ -16,4 +16,4 @@ export var videoClipOptimize28Filled = [
       }
     ]
   ]
-]
+];

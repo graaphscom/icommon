@@ -21,4 +21,4 @@ export var localFloristSharp24px = [
       }
     ]
   ]
-]
+];

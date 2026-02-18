@@ -35,4 +35,4 @@ export var rocketRound20px = [
       ]
     ]
   ]
-]
+];

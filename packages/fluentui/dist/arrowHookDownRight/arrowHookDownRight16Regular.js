@@ -16,4 +16,4 @@ export var arrowHookDownRight16Regular = [
       }
     ]
   ]
-]
+];

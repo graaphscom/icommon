@@ -21,4 +21,4 @@ export var callToActionSharp24px = [
       }
     ]
   ]
-]
+];

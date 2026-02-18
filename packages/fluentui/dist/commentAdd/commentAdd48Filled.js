@@ -16,4 +16,4 @@ export var commentAdd48Filled = [
       }
     ]
   ]
-]
+];

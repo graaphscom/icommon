@@ -29,4 +29,4 @@ export var flutterDashOutlined20px = [
       ]
     ]
   ]
-]
+];

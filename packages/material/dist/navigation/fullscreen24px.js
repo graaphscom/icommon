@@ -21,4 +21,4 @@ export var fullscreen24px = [
       }
     ]
   ]
-]
+];

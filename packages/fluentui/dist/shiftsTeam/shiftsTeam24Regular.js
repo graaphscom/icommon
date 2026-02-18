@@ -16,4 +16,4 @@ export var shiftsTeam24Regular = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var photoCameraTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -14,4 +14,4 @@ export var surroundSoundRound24px = [
       }
     ]
   ]
-]
+];

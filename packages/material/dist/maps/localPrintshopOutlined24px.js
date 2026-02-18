@@ -29,4 +29,4 @@ export var localPrintshopOutlined24px = [
       }
     ]
   ]
-]
+];

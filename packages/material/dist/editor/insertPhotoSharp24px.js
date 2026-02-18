@@ -14,4 +14,4 @@ export var insertPhotoSharp24px = [
       }
     ]
   ]
-]
+];

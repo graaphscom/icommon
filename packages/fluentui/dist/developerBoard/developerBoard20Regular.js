@@ -16,4 +16,4 @@ export var developerBoard20Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var folderCopyRound20px = [
       ]
     ]
   ]
-]
+];

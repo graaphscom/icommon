@@ -51,4 +51,4 @@ export var connectedTvTwotone24px = [
       ]
     ]
   ]
-]
+];

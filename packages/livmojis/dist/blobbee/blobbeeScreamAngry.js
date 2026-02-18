@@ -229,4 +229,4 @@ export var blobbeeScreamAngry = [
       ]
     ]
   ]
-]
+];

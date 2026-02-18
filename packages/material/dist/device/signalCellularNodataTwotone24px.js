@@ -40,4 +40,4 @@ export var signalCellularNodataTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -93,4 +93,4 @@ export var peopleAltRound20px = [
       ]
     ]
   ]
-]
+];

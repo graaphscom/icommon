@@ -41,4 +41,4 @@ export var fort24px = [
       ]
     ]
   ]
-]
+];

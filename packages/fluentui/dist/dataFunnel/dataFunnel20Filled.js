@@ -16,4 +16,4 @@ export var dataFunnel20Filled = [
       }
     ]
   ]
-]
+];

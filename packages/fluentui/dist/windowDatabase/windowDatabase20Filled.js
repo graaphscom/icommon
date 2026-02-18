@@ -16,4 +16,4 @@ export var windowDatabase20Filled = [
       }
     ]
   ]
-]
+];

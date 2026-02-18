@@ -21,4 +21,4 @@ export var confirmationNumberSharp24px = [
       }
     ]
   ]
-]
+];

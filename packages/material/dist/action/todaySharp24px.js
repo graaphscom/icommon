@@ -21,4 +21,4 @@ export var todaySharp24px = [
       }
     ]
   ]
-]
+];

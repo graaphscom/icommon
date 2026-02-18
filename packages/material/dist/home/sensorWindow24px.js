@@ -29,4 +29,4 @@ export var sensorWindow24px = [
       ]
     ]
   ]
-]
+];

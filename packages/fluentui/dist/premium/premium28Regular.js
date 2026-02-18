@@ -16,4 +16,4 @@ export var premium28Regular = [
       }
     ]
   ]
-]
+];

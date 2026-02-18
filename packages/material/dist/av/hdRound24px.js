@@ -14,4 +14,4 @@ export var hdRound24px = [
       }
     ]
   ]
-]
+];

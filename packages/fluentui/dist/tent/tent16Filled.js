@@ -16,4 +16,4 @@ export var tent16Filled = [
       }
     ]
   ]
-]
+];

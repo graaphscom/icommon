@@ -16,4 +16,4 @@ export var fStop16Filled = [
       }
     ]
   ]
-]
+];

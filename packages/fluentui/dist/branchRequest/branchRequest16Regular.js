@@ -16,4 +16,4 @@ export var branchRequest16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var rss24Filled = [
       }
     ]
   ]
-]
+];

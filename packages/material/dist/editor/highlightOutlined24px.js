@@ -21,4 +21,4 @@ export var highlightOutlined24px = [
       }
     ]
   ]
-]
+];

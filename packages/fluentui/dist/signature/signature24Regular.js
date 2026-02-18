@@ -16,4 +16,4 @@ export var signature24Regular = [
       }
     ]
   ]
-]
+];

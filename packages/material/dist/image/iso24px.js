@@ -21,4 +21,4 @@ export var iso24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var upcomingOutlined24px = [
       ]
     ]
   ]
-]
+];

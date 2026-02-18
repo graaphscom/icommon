@@ -21,4 +21,4 @@ export var gestureOutlined24px = [
       }
     ]
   ]
-]
+];

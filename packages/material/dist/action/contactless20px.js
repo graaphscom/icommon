@@ -35,4 +35,4 @@ export var contactless20px = [
       ]
     ]
   ]
-]
+];

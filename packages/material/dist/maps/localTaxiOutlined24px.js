@@ -37,4 +37,4 @@ export var localTaxiOutlined24px = [
       }
     ]
   ]
-]
+];

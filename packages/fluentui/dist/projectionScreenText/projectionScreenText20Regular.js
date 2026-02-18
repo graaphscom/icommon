@@ -16,4 +16,4 @@ export var projectionScreenText20Regular = [
       }
     ]
   ]
-]
+];

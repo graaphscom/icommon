@@ -40,4 +40,4 @@ export var euroTwotone20px = [
       ]
     ]
   ]
-]
+];

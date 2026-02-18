@@ -16,4 +16,4 @@ export var paintBucketBrush24Regular = [
       }
     ]
   ]
-]
+];

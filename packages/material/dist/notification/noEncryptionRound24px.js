@@ -21,4 +21,4 @@ export var noEncryptionRound24px = [
       }
     ]
   ]
-]
+];

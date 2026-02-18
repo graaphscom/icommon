@@ -47,4 +47,4 @@ export var cycloneOutlined24px = [
       ]
     ]
   ]
-]
+];

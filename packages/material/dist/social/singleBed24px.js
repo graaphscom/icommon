@@ -35,4 +35,4 @@ export var singleBed24px = [
       ]
     ]
   ]
-]
+];

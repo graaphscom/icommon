@@ -16,4 +16,4 @@ export var openFolder20Filled = [
       }
     ]
   ]
-]
+];

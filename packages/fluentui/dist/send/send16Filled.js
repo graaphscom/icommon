@@ -16,4 +16,4 @@ export var send16Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var airlineSeatLegroomNormalRound24px = [
       }
     ]
   ]
-]
+];

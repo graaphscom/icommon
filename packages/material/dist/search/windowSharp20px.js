@@ -95,4 +95,4 @@ export var windowSharp20px = [
       ]
     ]
   ]
-]
+];

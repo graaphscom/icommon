@@ -23,4 +23,4 @@ export var disabledByDefault24px = [
       }
     ]
   ]
-]
+];

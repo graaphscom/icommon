@@ -23,4 +23,4 @@ export var developerBoardOffOutlined20px = [
       }
     ]
   ]
-]
+];

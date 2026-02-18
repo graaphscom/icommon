@@ -16,4 +16,4 @@ export var textBulletListSquareSearch20Regular = [
       }
     ]
   ]
-]
+];

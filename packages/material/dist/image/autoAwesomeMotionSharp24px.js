@@ -42,4 +42,4 @@ export var autoAwesomeMotionSharp24px = [
       ]
     ]
   ]
-]
+];

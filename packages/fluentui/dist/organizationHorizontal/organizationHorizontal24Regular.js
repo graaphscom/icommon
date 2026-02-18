@@ -16,4 +16,4 @@ export var organizationHorizontal24Regular = [
       }
     ]
   ]
-]
+];

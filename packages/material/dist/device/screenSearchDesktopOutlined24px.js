@@ -55,4 +55,4 @@ export var screenSearchDesktopOutlined24px = [
       ]
     ]
   ]
-]
+];

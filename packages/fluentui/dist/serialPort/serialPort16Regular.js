@@ -16,4 +16,4 @@ export var serialPort16Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var crop32Round24px = [
       ]
     ]
   ]
-]
+];

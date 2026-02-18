@@ -21,4 +21,4 @@ export var batteryAlertOutlined24px = [
       }
     ]
   ]
-]
+];

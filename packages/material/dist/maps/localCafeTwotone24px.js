@@ -28,4 +28,4 @@ export var localCafeTwotone24px = [
       }
     ]
   ]
-]
+];

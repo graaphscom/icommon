@@ -58,4 +58,4 @@ export var cellular4g24Filled = [
       }
     ]
   ]
-]
+];

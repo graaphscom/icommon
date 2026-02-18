@@ -16,4 +16,4 @@ export var filmstripSplit24Regular = [
       }
     ]
   ]
-]
+];

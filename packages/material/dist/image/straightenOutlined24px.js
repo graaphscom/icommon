@@ -21,4 +21,4 @@ export var straightenOutlined24px = [
       }
     ]
   ]
-]
+];

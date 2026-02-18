@@ -21,4 +21,4 @@ export var groupRound24px = [
       }
     ]
   ]
-]
+];

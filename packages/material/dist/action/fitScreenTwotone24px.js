@@ -44,4 +44,4 @@ export var fitScreenTwotone24px = [
       ]
     ]
   ]
-]
+];

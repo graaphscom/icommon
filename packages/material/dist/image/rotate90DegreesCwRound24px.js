@@ -61,4 +61,4 @@ export var rotate90DegreesCwRound24px = [
       ]
     ]
   ]
-]
+];

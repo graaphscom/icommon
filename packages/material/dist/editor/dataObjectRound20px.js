@@ -47,4 +47,4 @@ export var dataObjectRound20px = [
       ]
     ]
   ]
-]
+];

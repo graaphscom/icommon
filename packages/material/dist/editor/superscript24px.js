@@ -31,4 +31,4 @@ export var superscript24px = [
       ]
     ]
   ]
-]
+];

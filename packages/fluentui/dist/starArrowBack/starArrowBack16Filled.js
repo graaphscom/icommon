@@ -16,4 +16,4 @@ export var starArrowBack16Filled = [
       }
     ]
   ]
-]
+];

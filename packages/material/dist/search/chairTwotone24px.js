@@ -56,4 +56,4 @@ export var chairTwotone24px = [
       ]
     ]
   ]
-]
+];

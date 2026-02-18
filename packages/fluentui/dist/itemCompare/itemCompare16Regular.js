@@ -16,4 +16,4 @@ export var itemCompare16Regular = [
       }
     ]
   ]
-]
+];

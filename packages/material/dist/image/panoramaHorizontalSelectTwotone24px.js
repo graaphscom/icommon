@@ -49,4 +49,4 @@ export var panoramaHorizontalSelectTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var signalWifi4BarSharp24px = [
       }
     ]
   ]
-]
+];

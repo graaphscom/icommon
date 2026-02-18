@@ -23,4 +23,4 @@ export var editCalendarRound24px = [
       }
     ]
   ]
-]
+];

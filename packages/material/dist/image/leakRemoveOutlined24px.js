@@ -21,4 +21,4 @@ export var leakRemoveOutlined24px = [
       }
     ]
   ]
-]
+];

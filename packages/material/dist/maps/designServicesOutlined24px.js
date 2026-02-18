@@ -45,4 +45,4 @@ export var designServicesOutlined24px = [
       ]
     ]
   ]
-]
+];

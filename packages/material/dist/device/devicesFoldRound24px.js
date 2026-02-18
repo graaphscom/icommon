@@ -160,4 +160,4 @@ export var devicesFoldRound24px = [
       ]
     ]
   ]
-]
+];

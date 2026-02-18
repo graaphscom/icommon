@@ -16,4 +16,4 @@ export var midi24Regular = [
       }
     ]
   ]
-]
+];

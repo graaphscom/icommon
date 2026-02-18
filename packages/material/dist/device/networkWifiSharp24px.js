@@ -34,4 +34,4 @@ export var networkWifiSharp24px = [
       ]
     ]
   ]
-]
+];

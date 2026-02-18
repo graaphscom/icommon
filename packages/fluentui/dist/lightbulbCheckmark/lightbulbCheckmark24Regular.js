@@ -16,4 +16,4 @@ export var lightbulbCheckmark24Regular = [
       }
     ]
   ]
-]
+];

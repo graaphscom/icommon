@@ -42,4 +42,4 @@ export var reportOffTwotone24px = [
       }
     ]
   ]
-]
+];

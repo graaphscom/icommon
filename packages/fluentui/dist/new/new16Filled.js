@@ -16,4 +16,4 @@ export var new16Filled = [
       }
     ]
   ]
-]
+];

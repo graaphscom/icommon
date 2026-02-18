@@ -80,4 +80,4 @@ export var __8kTwotone24px = [
       ]
     ]
   ]
-]
+];

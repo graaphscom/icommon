@@ -16,4 +16,4 @@ export var cropInterim24Filled = [
       }
     ]
   ]
-]
+];

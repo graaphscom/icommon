@@ -16,4 +16,4 @@ export var tableLightning24Regular = [
       }
     ]
   ]
-]
+];

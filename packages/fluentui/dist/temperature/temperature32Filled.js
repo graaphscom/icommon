@@ -16,4 +16,4 @@ export var temperature32Filled = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var cookieRound20px = [
       ]
     ]
   ]
-]
+];

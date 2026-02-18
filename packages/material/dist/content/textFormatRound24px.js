@@ -21,4 +21,4 @@ export var textFormatRound24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var keyboardControlKey24px = [
       ]
     ]
   ]
-]
+];

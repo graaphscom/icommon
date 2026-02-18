@@ -16,4 +16,4 @@ export var projectionScreenText16Filled = [
       }
     ]
   ]
-]
+];

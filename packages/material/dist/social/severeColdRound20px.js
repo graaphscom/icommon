@@ -55,4 +55,4 @@ export var severeColdRound20px = [
       ]
     ]
   ]
-]
+];

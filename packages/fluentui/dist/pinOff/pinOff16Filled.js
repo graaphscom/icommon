@@ -16,4 +16,4 @@ export var pinOff16Filled = [
       }
     ]
   ]
-]
+];

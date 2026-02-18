@@ -21,4 +21,4 @@ export var getAppRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailProhibited20Filled = [
       }
     ]
   ]
-]
+];

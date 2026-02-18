@@ -16,4 +16,4 @@ export var starDismiss20Filled = [
       }
     ]
   ]
-]
+];

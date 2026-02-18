@@ -239,4 +239,4 @@ export var neobreadHugDlr = [
       ]
     ]
   ]
-]
+];

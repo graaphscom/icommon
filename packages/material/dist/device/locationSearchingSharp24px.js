@@ -21,4 +21,4 @@ export var locationSearchingSharp24px = [
       }
     ]
   ]
-]
+];

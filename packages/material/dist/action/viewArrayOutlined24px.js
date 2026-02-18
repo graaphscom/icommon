@@ -23,4 +23,4 @@ export var viewArrayOutlined24px = [
       }
     ]
   ]
-]
+];

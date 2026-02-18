@@ -225,4 +225,4 @@ export var face5Round24px = [
       ]
     ]
   ]
-]
+];

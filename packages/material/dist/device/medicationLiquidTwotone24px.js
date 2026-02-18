@@ -133,4 +133,4 @@ export var medicationLiquidTwotone24px = [
       ]
     ]
   ]
-]
+];

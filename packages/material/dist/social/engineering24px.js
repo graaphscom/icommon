@@ -65,4 +65,4 @@ export var engineering24px = [
       ]
     ]
   ]
-]
+];

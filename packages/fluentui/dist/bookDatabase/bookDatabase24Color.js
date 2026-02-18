@@ -257,4 +257,4 @@ export var bookDatabase24Color = [
       ]
     ]
   ]
-]
+];

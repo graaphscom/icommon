@@ -16,4 +16,4 @@ export var textT48Regular = [
       }
     ]
   ]
-]
+];

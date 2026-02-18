@@ -81,4 +81,4 @@ export var checkbox24Color = [
       ]
     ]
   ]
-]
+];

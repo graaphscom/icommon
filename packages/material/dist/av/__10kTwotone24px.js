@@ -77,4 +77,4 @@ export var __10kTwotone24px = [
       ]
     ]
   ]
-]
+];

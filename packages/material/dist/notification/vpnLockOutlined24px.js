@@ -21,4 +21,4 @@ export var vpnLockOutlined24px = [
       }
     ]
   ]
-]
+];

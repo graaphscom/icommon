@@ -71,4 +71,4 @@ export var densitySmallSharp20px = [
       ]
     ]
   ]
-]
+];

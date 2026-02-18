@@ -21,4 +21,4 @@ export var hearingSharp24px = [
       }
     ]
   ]
-]
+];

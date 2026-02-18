@@ -16,4 +16,4 @@ export var imageAdd20Filled = [
       }
     ]
   ]
-]
+];

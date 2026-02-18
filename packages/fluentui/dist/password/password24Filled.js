@@ -16,4 +16,4 @@ export var password24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var lineStyleTwotone24px = [
       }
     ]
   ]
-]
+];

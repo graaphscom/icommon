@@ -40,4 +40,4 @@ export var blenderSharp24px = [
       ]
     ]
   ]
-]
+];

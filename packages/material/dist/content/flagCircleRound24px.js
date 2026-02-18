@@ -49,4 +49,4 @@ export var flagCircleRound24px = [
       ]
     ]
   ]
-]
+];

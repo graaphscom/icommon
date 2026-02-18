@@ -21,4 +21,4 @@ export var localCafe24px = [
       }
     ]
   ]
-]
+];

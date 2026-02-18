@@ -93,4 +93,4 @@ export var chatMultiple24Color = [
       ]
     ]
   ]
-]
+];

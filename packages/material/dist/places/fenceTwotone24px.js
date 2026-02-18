@@ -49,4 +49,4 @@ export var fenceTwotone24px = [
       ]
     ]
   ]
-]
+];

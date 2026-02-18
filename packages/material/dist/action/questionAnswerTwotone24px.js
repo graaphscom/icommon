@@ -28,4 +28,4 @@ export var questionAnswerTwotone24px = [
       }
     ]
   ]
-]
+];

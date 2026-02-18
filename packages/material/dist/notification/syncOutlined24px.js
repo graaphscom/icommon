@@ -21,4 +21,4 @@ export var syncOutlined24px = [
       }
     ]
   ]
-]
+];

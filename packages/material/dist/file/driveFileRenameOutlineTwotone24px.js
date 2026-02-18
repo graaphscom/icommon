@@ -60,4 +60,4 @@ export var driveFileRenameOutlineTwotone24px = [
       ]
     ]
   ]
-]
+];

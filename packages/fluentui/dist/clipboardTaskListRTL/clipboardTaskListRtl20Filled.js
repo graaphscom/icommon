@@ -16,4 +16,4 @@ export var clipboardTaskListRtl20Filled = [
       }
     ]
   ]
-]
+];

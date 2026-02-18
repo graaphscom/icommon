@@ -35,4 +35,4 @@ export var rampRightOutlined24px = [
       ]
     ]
   ]
-]
+];

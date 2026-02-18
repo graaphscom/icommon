@@ -16,4 +16,4 @@ export var saveSync24Regular = [
       }
     ]
   ]
-]
+];

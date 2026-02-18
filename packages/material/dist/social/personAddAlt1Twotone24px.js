@@ -69,4 +69,4 @@ export var personAddAlt1Twotone24px = [
       ]
     ]
   ]
-]
+];

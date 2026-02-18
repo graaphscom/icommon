@@ -16,4 +16,4 @@ export var shareScreenPersonOverlay24Regular = [
       }
     ]
   ]
-]
+];

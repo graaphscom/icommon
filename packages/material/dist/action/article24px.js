@@ -21,4 +21,4 @@ export var article24px = [
       }
     ]
   ]
-]
+];

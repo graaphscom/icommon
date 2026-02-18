@@ -72,4 +72,4 @@ export var personRemoveTwotone20px = [
       ]
     ]
   ]
-]
+];

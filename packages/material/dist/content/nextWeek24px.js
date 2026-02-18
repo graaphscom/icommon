@@ -48,4 +48,4 @@ export var nextWeek24px = [
       ]
     ]
   ]
-]
+];

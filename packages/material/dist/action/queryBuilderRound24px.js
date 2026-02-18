@@ -21,4 +21,4 @@ export var queryBuilderRound24px = [
       }
     ]
   ]
-]
+];

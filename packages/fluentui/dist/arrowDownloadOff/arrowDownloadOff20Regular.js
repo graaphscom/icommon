@@ -16,4 +16,4 @@ export var arrowDownloadOff20Regular = [
       }
     ]
   ]
-]
+];

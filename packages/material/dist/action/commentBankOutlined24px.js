@@ -47,4 +47,4 @@ export var commentBankOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -43,4 +43,4 @@ export var webStoriesRound24px = [
       ]
     ]
   ]
-]
+];

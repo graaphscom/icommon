@@ -21,4 +21,4 @@ export var flightRound24px = [
       }
     ]
   ]
-]
+];

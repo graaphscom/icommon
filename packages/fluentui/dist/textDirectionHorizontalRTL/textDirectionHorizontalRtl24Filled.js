@@ -16,4 +16,4 @@ export var textDirectionHorizontalRtl24Filled = [
       }
     ]
   ]
-]
+];

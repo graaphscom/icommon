@@ -16,4 +16,4 @@ export var folderSync16Filled = [
       }
     ]
   ]
-]
+];

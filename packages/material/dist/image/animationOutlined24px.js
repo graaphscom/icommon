@@ -42,4 +42,4 @@ export var animationOutlined24px = [
       ]
     ]
   ]
-]
+];

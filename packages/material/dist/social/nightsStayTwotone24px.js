@@ -54,4 +54,4 @@ export var nightsStayTwotone24px = [
       ]
     ]
   ]
-]
+];

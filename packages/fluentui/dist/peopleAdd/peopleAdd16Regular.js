@@ -16,4 +16,4 @@ export var peopleAdd16Regular = [
       }
     ]
   ]
-]
+];

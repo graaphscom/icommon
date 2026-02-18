@@ -16,4 +16,4 @@ export var documentFolder20Regular = [
       }
     ]
   ]
-]
+];

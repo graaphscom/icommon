@@ -73,4 +73,4 @@ export var groupAddSharp24px = [
       ]
     ]
   ]
-]
+];

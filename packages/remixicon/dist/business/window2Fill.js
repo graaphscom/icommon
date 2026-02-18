@@ -13,4 +13,4 @@ export var window2Fill = [
       }
     ]
   ]
-]
+];

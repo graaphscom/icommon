@@ -23,4 +23,4 @@ export var groupRemove20px = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var legendToggle20px = [
       ]
     ]
   ]
-]
+];

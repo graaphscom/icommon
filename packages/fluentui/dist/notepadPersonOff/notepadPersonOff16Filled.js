@@ -16,4 +16,4 @@ export var notepadPersonOff16Filled = [
       }
     ]
   ]
-]
+];

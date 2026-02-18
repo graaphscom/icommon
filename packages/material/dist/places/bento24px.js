@@ -29,4 +29,4 @@ export var bento24px = [
       ]
     ]
   ]
-]
+];

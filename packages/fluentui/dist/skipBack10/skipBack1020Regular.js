@@ -16,4 +16,4 @@ export var skipBack1020Regular = [
       }
     ]
   ]
-]
+];

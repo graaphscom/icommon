@@ -16,4 +16,4 @@ export var replay24Filled = [
       }
     ]
   ]
-]
+];

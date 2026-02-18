@@ -16,4 +16,4 @@ export var calendarMonth24Regular = [
       }
     ]
   ]
-]
+];

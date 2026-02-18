@@ -82,4 +82,4 @@ export var showerRound24px = [
       ]
     ]
   ]
-]
+];

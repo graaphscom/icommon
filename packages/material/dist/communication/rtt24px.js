@@ -25,4 +25,4 @@ export var rtt24px = [
       }
     ]
   ]
-]
+];

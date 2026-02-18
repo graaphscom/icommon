@@ -16,4 +16,4 @@ export var matchAppLayout24Filled = [
       }
     ]
   ]
-]
+];

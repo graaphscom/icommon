@@ -16,4 +16,4 @@ export var phonePageHeader20Filled = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var soapTwotone24px = [
       ]
     ]
   ]
-]
+];

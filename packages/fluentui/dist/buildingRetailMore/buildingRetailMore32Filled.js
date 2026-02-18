@@ -16,4 +16,4 @@ export var buildingRetailMore32Filled = [
       }
     ]
   ]
-]
+];

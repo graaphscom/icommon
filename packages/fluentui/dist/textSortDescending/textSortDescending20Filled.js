@@ -16,4 +16,4 @@ export var textSortDescending20Filled = [
       }
     ]
   ]
-]
+];

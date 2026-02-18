@@ -21,4 +21,4 @@ export var tripOriginOutlined24px = [
       }
     ]
   ]
-]
+];

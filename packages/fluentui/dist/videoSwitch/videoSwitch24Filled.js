@@ -16,4 +16,4 @@ export var videoSwitch24Filled = [
       }
     ]
   ]
-]
+];

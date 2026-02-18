@@ -35,4 +35,4 @@ export var swipeVertical20px = [
       ]
     ]
   ]
-]
+];

@@ -37,4 +37,4 @@ export var directionsRailwayFilled24px = [
       ]
     ]
   ]
-]
+];

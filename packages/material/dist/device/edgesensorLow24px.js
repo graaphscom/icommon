@@ -40,4 +40,4 @@ export var edgesensorLow24px = [
       ]
     ]
   ]
-]
+];

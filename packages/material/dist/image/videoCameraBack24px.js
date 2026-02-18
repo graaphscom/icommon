@@ -35,4 +35,4 @@ export var videoCameraBack24px = [
       ]
     ]
   ]
-]
+];

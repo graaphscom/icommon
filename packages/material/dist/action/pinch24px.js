@@ -35,4 +35,4 @@ export var pinch24px = [
       ]
     ]
   ]
-]
+];

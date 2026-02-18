@@ -21,4 +21,4 @@ export var verifiedUserRound24px = [
       }
     ]
   ]
-]
+];

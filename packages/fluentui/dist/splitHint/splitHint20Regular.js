@@ -16,4 +16,4 @@ export var splitHint20Regular = [
       }
     ]
   ]
-]
+];

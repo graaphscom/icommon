@@ -24,4 +24,4 @@ export var startOutlined20px = [
       }
     ]
   ]
-]
+];

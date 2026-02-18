@@ -16,4 +16,4 @@ export var starEmphasis32Regular = [
       }
     ]
   ]
-]
+];

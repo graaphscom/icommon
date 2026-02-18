@@ -53,4 +53,4 @@ export var backupTableRound20px = [
       ]
     ]
   ]
-]
+];

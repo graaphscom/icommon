@@ -21,4 +21,4 @@ export var layersRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var bookInformation20Regular = [
       }
     ]
   ]
-]
+];

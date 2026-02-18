@@ -13,4 +13,4 @@ export var contactsBook3Line = [
       }
     ]
   ]
-]
+];

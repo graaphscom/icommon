@@ -41,4 +41,4 @@ export var libraryAddCheckTwotone24px = [
       ]
     ]
   ]
-]
+];

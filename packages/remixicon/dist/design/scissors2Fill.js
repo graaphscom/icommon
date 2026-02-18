@@ -13,4 +13,4 @@ export var scissors2Fill = [
       }
     ]
   ]
-]
+];

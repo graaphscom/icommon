@@ -16,4 +16,4 @@ export var screenSearch20Regular = [
       }
     ]
   ]
-]
+];

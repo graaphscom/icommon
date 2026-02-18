@@ -23,4 +23,4 @@ export var travelExploreOutlined20px = [
       }
     ]
   ]
-]
+];

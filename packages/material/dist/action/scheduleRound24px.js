@@ -21,4 +21,4 @@ export var scheduleRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var portraitOutlined24px = [
       }
     ]
   ]
-]
+];

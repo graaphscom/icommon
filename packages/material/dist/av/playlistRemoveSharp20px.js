@@ -35,4 +35,4 @@ export var playlistRemoveSharp20px = [
       ]
     ]
   ]
-]
+];

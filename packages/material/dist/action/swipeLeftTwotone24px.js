@@ -42,4 +42,4 @@ export var swipeLeftTwotone24px = [
       ]
     ]
   ]
-]
+];

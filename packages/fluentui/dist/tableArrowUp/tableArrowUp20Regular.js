@@ -16,4 +16,4 @@ export var tableArrowUp20Regular = [
       }
     ]
   ]
-]
+];

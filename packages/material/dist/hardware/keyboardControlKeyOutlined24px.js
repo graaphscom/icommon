@@ -35,4 +35,4 @@ export var keyboardControlKeyOutlined24px = [
       ]
     ]
   ]
-]
+];

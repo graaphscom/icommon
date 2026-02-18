@@ -28,4 +28,4 @@ export var removeFromQueueTwotone24px = [
       }
     ]
   ]
-]
+];

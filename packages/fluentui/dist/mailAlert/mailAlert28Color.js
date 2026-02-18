@@ -415,4 +415,4 @@ export var mailAlert28Color = [
       ]
     ]
   ]
-]
+];

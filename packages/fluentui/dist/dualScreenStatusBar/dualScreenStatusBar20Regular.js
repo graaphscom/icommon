@@ -16,4 +16,4 @@ export var dualScreenStatusBar20Regular = [
       }
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var blindTwotone20px = [
       ]
     ]
   ]
-]
+];

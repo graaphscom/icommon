@@ -28,4 +28,4 @@ export var copyrightTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textboxAlignMiddleRight16Regular = [
       }
     ]
   ]
-]
+];

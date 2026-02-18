@@ -35,4 +35,4 @@ export var playDisabledRound24px = [
       ]
     ]
   ]
-]
+];

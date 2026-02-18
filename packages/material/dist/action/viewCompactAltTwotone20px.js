@@ -84,4 +84,4 @@ export var viewCompactAltTwotone20px = [
       ]
     ]
   ]
-]
+];

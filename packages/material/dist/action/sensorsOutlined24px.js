@@ -23,4 +23,4 @@ export var sensorsOutlined24px = [
       }
     ]
   ]
-]
+];

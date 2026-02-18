@@ -48,4 +48,4 @@ export var parkTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var engine24Regular = [
       }
     ]
   ]
-]
+];

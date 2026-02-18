@@ -16,4 +16,4 @@ export var documentEndnote24Filled = [
       }
     ]
   ]
-]
+];

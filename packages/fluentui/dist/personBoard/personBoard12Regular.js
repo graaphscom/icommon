@@ -16,4 +16,4 @@ export var personBoard12Regular = [
       }
     ]
   ]
-]
+];

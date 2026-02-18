@@ -40,4 +40,4 @@ export var dataSaverOffRound24px = [
       ]
     ]
   ]
-]
+];

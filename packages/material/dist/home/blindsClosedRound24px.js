@@ -43,4 +43,4 @@ export var blindsClosedRound24px = [
       ]
     ]
   ]
-]
+];

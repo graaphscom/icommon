@@ -16,4 +16,4 @@ export var phoneTablet24Filled = [
       }
     ]
   ]
-]
+];

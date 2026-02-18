@@ -21,4 +21,4 @@ export var mergeTypeRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var transitEnterexitRound24px = [
       }
     ]
   ]
-]
+];

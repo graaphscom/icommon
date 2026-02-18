@@ -16,4 +16,4 @@ export var compose16Filled = [
       }
     ]
   ]
-]
+];

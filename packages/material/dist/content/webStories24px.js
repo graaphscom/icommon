@@ -35,4 +35,4 @@ export var webStories24px = [
       ]
     ]
   ]
-]
+];

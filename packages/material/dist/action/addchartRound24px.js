@@ -29,4 +29,4 @@ export var addchartRound24px = [
       ]
     ]
   ]
-]
+];

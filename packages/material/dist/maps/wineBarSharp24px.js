@@ -23,4 +23,4 @@ export var wineBarSharp24px = [
       }
     ]
   ]
-]
+];

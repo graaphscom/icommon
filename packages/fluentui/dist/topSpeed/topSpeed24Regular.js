@@ -16,4 +16,4 @@ export var topSpeed24Regular = [
       }
     ]
   ]
-]
+];

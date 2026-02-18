@@ -59,4 +59,4 @@ export var modeEditRound24px = [
       ]
     ]
   ]
-]
+];

@@ -87,4 +87,4 @@ export var calculateTwotone24px = [
       ]
     ]
   ]
-]
+];

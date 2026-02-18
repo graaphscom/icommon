@@ -236,4 +236,4 @@ export var starSettings32Color = [
       ]
     ]
   ]
-]
+];

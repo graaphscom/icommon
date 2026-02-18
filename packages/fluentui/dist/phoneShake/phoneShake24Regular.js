@@ -16,4 +16,4 @@ export var phoneShake24Regular = [
       }
     ]
   ]
-]
+];

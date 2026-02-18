@@ -21,4 +21,4 @@ export var voiceChatSharp24px = [
       }
     ]
   ]
-]
+];

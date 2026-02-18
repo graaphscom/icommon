@@ -16,4 +16,4 @@ export var listBarTree16Regular = [
       }
     ]
   ]
-]
+];

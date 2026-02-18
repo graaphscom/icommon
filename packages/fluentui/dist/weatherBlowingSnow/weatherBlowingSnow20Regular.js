@@ -16,4 +16,4 @@ export var weatherBlowingSnow20Regular = [
       }
     ]
   ]
-]
+];

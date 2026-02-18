@@ -16,4 +16,4 @@ export var slideContent20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var router24Regular = [
       }
     ]
   ]
-]
+];

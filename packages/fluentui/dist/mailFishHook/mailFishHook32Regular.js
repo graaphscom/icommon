@@ -16,4 +16,4 @@ export var mailFishHook32Regular = [
       }
     ]
   ]
-]
+];

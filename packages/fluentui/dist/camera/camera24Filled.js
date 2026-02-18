@@ -16,4 +16,4 @@ export var camera24Filled = [
       }
     ]
   ]
-]
+];

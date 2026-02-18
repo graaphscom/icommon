@@ -28,4 +28,4 @@ export var arrowDropDownCircleTwotone24px = [
       }
     ]
   ]
-]
+];

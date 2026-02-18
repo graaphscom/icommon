@@ -30,4 +30,4 @@ export var frontHandTwotone20px = [
       }
     ]
   ]
-]
+];

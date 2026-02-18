@@ -21,4 +21,4 @@ export var deleteForeverSharp24px = [
       }
     ]
   ]
-]
+];

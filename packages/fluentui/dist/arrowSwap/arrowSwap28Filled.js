@@ -16,4 +16,4 @@ export var arrowSwap28Filled = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var umbrellaTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -284,4 +284,4 @@ export var premium28Color = [
       ]
     ]
   ]
-]
+];

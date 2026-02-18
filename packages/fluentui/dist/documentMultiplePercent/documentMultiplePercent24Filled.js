@@ -16,4 +16,4 @@ export var documentMultiplePercent24Filled = [
       }
     ]
   ]
-]
+];

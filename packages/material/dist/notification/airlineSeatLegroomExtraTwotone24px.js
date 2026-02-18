@@ -21,4 +21,4 @@ export var airlineSeatLegroomExtraTwotone24px = [
       }
     ]
   ]
-]
+];

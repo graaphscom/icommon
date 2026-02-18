@@ -41,4 +41,4 @@ export var shieldSharp24px = [
       ]
     ]
   ]
-]
+];

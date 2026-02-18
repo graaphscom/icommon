@@ -35,4 +35,4 @@ export var hexagonRound24px = [
       ]
     ]
   ]
-]
+];

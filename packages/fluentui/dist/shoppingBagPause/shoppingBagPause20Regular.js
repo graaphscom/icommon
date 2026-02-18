@@ -16,4 +16,4 @@ export var shoppingBagPause20Regular = [
       }
     ]
   ]
-]
+];

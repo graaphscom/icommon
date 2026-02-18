@@ -35,4 +35,4 @@ export var support24px = [
       ]
     ]
   ]
-]
+];

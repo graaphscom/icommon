@@ -35,4 +35,4 @@ export var polyline20px = [
       ]
     ]
   ]
-]
+];

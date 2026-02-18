@@ -16,4 +16,4 @@ export var column20Regular = [
       }
     ]
   ]
-]
+];

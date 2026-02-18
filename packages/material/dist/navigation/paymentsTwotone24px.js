@@ -54,4 +54,4 @@ export var paymentsTwotone24px = [
       ]
     ]
   ]
-]
+];

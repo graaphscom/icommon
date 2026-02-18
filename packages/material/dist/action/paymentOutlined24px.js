@@ -21,4 +21,4 @@ export var paymentOutlined24px = [
       }
     ]
   ]
-]
+];

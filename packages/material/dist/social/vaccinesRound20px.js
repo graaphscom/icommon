@@ -23,4 +23,4 @@ export var vaccinesRound20px = [
       }
     ]
   ]
-]
+];

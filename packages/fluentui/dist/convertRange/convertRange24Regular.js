@@ -16,4 +16,4 @@ export var convertRange24Regular = [
       }
     ]
   ]
-]
+];

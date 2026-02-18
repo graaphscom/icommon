@@ -181,4 +181,4 @@ export var appsListDetail24Color = [
       ]
     ]
   ]
-]
+];

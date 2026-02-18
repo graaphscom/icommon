@@ -16,4 +16,4 @@ export var layoutColumnOneThirdRightHint20Filled = [
       }
     ]
   ]
-]
+];

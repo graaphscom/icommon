@@ -16,4 +16,4 @@ export var cursorClick24Filled = [
       }
     ]
   ]
-]
+];

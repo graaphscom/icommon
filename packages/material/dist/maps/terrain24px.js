@@ -21,4 +21,4 @@ export var terrain24px = [
       }
     ]
   ]
-]
+];

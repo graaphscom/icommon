@@ -21,4 +21,4 @@ export var developerModeRound24px = [
       }
     ]
   ]
-]
+];

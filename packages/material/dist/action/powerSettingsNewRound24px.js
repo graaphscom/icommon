@@ -21,4 +21,4 @@ export var powerSettingsNewRound24px = [
       }
     ]
   ]
-]
+];

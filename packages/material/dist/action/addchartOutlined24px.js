@@ -29,4 +29,4 @@ export var addchartOutlined24px = [
       ]
     ]
   ]
-]
+];

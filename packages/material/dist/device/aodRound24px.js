@@ -40,4 +40,4 @@ export var aodRound24px = [
       ]
     ]
   ]
-]
+];

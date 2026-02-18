@@ -34,4 +34,4 @@ export var compress24px = [
       }
     ]
   ]
-]
+];

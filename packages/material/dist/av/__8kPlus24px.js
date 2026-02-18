@@ -21,4 +21,4 @@ export var __8kPlus24px = [
       }
     ]
   ]
-]
+];

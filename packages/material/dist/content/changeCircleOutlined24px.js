@@ -23,4 +23,4 @@ export var changeCircleOutlined24px = [
       }
     ]
   ]
-]
+];

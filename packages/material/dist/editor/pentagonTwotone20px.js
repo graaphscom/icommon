@@ -42,4 +42,4 @@ export var pentagonTwotone20px = [
       ]
     ]
   ]
-]
+];

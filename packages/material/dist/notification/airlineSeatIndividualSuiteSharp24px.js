@@ -21,4 +21,4 @@ export var airlineSeatIndividualSuiteSharp24px = [
       }
     ]
   ]
-]
+];

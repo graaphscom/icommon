@@ -29,4 +29,4 @@ export var modelTrainingTwotone24px = [
       ]
     ]
   ]
-]
+];

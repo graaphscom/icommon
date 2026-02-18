@@ -16,4 +16,4 @@ export var bookmarkMultiple16Regular = [
       }
     ]
   ]
-]
+];

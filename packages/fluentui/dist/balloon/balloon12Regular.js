@@ -16,4 +16,4 @@ export var balloon12Regular = [
       }
     ]
   ]
-]
+];

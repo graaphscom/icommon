@@ -40,4 +40,4 @@ export var stormOutlined24px = [
       ]
     ]
   ]
-]
+];

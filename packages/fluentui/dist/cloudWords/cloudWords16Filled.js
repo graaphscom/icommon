@@ -16,4 +16,4 @@ export var cloudWords16Filled = [
       }
     ]
   ]
-]
+];

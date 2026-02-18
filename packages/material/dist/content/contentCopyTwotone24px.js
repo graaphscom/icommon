@@ -28,4 +28,4 @@ export var contentCopyTwotone24px = [
       }
     ]
   ]
-]
+];

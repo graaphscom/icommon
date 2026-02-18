@@ -21,4 +21,4 @@ export var signalCellularNoSimRound24px = [
       }
     ]
   ]
-]
+];

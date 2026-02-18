@@ -35,4 +35,4 @@ export var pentagon24px = [
       ]
     ]
   ]
-]
+];

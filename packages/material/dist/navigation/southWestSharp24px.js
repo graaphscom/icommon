@@ -23,4 +23,4 @@ export var southWestSharp24px = [
       }
     ]
   ]
-]
+];

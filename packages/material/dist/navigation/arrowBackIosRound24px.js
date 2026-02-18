@@ -22,4 +22,4 @@ export var arrowBackIosRound24px = [
       }
     ]
   ]
-]
+];

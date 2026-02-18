@@ -35,4 +35,4 @@ export var phpSharp24px = [
       ]
     ]
   ]
-]
+];

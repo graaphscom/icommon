@@ -16,4 +16,4 @@ export var appRecent20Filled = [
       }
     ]
   ]
-]
+];

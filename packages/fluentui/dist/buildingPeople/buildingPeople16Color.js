@@ -487,4 +487,4 @@ export var buildingPeople16Color = [
       ]
     ]
   ]
-]
+];

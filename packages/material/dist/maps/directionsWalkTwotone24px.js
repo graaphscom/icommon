@@ -21,4 +21,4 @@ export var directionsWalkTwotone24px = [
       }
     ]
   ]
-]
+];

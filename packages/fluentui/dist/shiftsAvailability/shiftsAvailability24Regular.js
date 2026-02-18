@@ -16,4 +16,4 @@ export var shiftsAvailability24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentMargins24Regular = [
       }
     ]
   ]
-]
+];

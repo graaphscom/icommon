@@ -49,4 +49,4 @@ export var man4Sharp20px = [
       ]
     ]
   ]
-]
+];

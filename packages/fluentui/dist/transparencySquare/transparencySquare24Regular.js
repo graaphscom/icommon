@@ -16,4 +16,4 @@ export var transparencySquare24Regular = [
       }
     ]
   ]
-]
+];

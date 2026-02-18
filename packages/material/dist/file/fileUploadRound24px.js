@@ -35,4 +35,4 @@ export var fileUploadRound24px = [
       ]
     ]
   ]
-]
+];

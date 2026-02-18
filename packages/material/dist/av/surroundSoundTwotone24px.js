@@ -86,4 +86,4 @@ export var surroundSoundTwotone24px = [
       ]
     ]
   ]
-]
+];

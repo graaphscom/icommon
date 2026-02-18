@@ -35,4 +35,4 @@ export var difference24px = [
       ]
     ]
   ]
-]
+];

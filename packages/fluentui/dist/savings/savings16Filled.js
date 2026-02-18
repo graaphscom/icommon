@@ -16,4 +16,4 @@ export var savings16Filled = [
       }
     ]
   ]
-]
+];

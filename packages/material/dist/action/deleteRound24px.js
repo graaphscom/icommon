@@ -21,4 +21,4 @@ export var deleteRound24px = [
       }
     ]
   ]
-]
+];

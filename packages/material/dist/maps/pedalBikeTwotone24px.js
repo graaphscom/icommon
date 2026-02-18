@@ -35,4 +35,4 @@ export var pedalBikeTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var launchTwotone24px = [
       }
     ]
   ]
-]
+];

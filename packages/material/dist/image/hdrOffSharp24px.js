@@ -21,4 +21,4 @@ export var hdrOffSharp24px = [
       }
     ]
   ]
-]
+];

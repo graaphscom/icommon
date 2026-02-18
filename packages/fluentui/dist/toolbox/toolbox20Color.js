@@ -181,4 +181,4 @@ export var toolbox20Color = [
       ]
     ]
   ]
-]
+];

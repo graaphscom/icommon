@@ -16,4 +16,4 @@ export var personWarning20Regular = [
       }
     ]
   ]
-]
+];

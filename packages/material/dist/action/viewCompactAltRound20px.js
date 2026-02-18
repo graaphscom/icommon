@@ -41,4 +41,4 @@ export var viewCompactAltRound20px = [
       ]
     ]
   ]
-]
+];

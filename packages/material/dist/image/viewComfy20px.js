@@ -62,4 +62,4 @@ export var viewComfy20px = [
       ]
     ]
   ]
-]
+];

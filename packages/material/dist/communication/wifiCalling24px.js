@@ -47,4 +47,4 @@ export var wifiCalling24px = [
       ]
     ]
   ]
-]
+];

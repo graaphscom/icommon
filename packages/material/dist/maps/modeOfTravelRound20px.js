@@ -23,4 +23,4 @@ export var modeOfTravelRound20px = [
       }
     ]
   ]
-]
+];

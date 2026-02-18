@@ -16,4 +16,4 @@ export var columnSingle16Regular = [
       }
     ]
   ]
-]
+];

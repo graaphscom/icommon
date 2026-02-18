@@ -16,4 +16,4 @@ export var panelLeftHeader16Filled = [
       }
     ]
   ]
-]
+];

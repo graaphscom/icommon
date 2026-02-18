@@ -16,4 +16,4 @@ export var fullScreenMinimize16Filled = [
       }
     ]
   ]
-]
+];

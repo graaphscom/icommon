@@ -16,4 +16,4 @@ export var deleteDismiss24Filled = [
       }
     ]
   ]
-]
+];

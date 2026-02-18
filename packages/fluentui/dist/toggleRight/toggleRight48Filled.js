@@ -16,4 +16,4 @@ export var toggleRight48Filled = [
       }
     ]
   ]
-]
+];

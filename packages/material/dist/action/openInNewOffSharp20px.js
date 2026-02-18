@@ -23,4 +23,4 @@ export var openInNewOffSharp20px = [
       }
     ]
   ]
-]
+];

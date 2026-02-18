@@ -16,4 +16,4 @@ export var sportCricketBat20Filled = [
       }
     ]
   ]
-]
+];

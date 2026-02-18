@@ -16,4 +16,4 @@ export var animalRabbit20Regular = [
       }
     ]
   ]
-]
+];

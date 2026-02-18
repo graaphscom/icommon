@@ -24,4 +24,4 @@ export var textIncreaseOutlined20px = [
       }
     ]
   ]
-]
+];

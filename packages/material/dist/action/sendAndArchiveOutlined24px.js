@@ -59,4 +59,4 @@ export var sendAndArchiveOutlined24px = [
       ]
     ]
   ]
-]
+];

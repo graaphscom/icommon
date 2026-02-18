@@ -23,4 +23,4 @@ export var accountTreeRound24px = [
       }
     ]
   ]
-]
+];

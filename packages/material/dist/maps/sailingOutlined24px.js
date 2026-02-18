@@ -23,4 +23,4 @@ export var sailingOutlined24px = [
       }
     ]
   ]
-]
+];

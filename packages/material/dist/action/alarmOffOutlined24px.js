@@ -21,4 +21,4 @@ export var alarmOffOutlined24px = [
       }
     ]
   ]
-]
+];

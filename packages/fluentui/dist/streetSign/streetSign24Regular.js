@@ -16,4 +16,4 @@ export var streetSign24Regular = [
       }
     ]
   ]
-]
+];

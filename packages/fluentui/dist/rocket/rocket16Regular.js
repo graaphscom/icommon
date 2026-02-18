@@ -16,4 +16,4 @@ export var rocket16Regular = [
       }
     ]
   ]
-]
+];

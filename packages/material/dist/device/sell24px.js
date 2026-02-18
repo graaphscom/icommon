@@ -34,4 +34,4 @@ export var sell24px = [
       ]
     ]
   ]
-]
+];

@@ -118,4 +118,4 @@ export var personStarburst20Color = [
       ]
     ]
   ]
-]
+];

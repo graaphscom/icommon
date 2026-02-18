@@ -21,4 +21,4 @@ export var controlPointRound24px = [
       }
     ]
   ]
-]
+];

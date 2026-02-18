@@ -16,4 +16,4 @@ export var circleHint16Filled = [
       }
     ]
   ]
-]
+];

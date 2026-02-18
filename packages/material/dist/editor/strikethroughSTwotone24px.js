@@ -21,4 +21,4 @@ export var strikethroughSTwotone24px = [
       }
     ]
   ]
-]
+];

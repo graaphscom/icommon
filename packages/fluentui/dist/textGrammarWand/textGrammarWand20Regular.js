@@ -16,4 +16,4 @@ export var textGrammarWand20Regular = [
       }
     ]
   ]
-]
+];

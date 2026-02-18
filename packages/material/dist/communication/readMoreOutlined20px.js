@@ -69,4 +69,4 @@ export var readMoreOutlined20px = [
       ]
     ]
   ]
-]
+];

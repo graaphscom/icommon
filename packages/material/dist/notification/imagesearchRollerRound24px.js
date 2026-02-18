@@ -41,4 +41,4 @@ export var imagesearchRollerRound24px = [
       ]
     ]
   ]
-]
+];

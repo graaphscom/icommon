@@ -35,4 +35,4 @@ export var currencyYenRound20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var arrowLeft24px = [
       }
     ]
   ]
-]
+];

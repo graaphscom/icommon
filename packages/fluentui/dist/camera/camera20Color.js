@@ -190,4 +190,4 @@ export var camera20Color = [
       ]
     ]
   ]
-]
+];

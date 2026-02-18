@@ -223,4 +223,4 @@ export var sendClock32Color = [
       ]
     ]
   ]
-]
+];

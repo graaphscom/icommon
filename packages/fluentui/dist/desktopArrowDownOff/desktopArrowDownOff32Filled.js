@@ -16,4 +16,4 @@ export var desktopArrowDownOff32Filled = [
       }
     ]
   ]
-]
+];

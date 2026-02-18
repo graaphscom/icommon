@@ -40,4 +40,4 @@ export var __4gMobiledataOutlined24px = [
       ]
     ]
   ]
-]
+];

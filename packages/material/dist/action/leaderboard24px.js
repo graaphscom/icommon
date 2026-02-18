@@ -29,4 +29,4 @@ export var leaderboard24px = [
       ]
     ]
   ]
-]
+];

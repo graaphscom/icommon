@@ -41,4 +41,4 @@ export var cleaningServicesOutlined24px = [
       ]
     ]
   ]
-]
+];

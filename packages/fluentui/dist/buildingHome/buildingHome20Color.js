@@ -382,4 +382,4 @@ export var buildingHome20Color = [
       ]
     ]
   ]
-]
+];

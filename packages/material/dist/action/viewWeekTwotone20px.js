@@ -30,4 +30,4 @@ export var viewWeekTwotone20px = [
       }
     ]
   ]
-]
+];

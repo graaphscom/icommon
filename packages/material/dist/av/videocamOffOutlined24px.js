@@ -21,4 +21,4 @@ export var videocamOffOutlined24px = [
       }
     ]
   ]
-]
+];

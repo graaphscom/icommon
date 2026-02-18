@@ -16,4 +16,4 @@ export var info16Regular = [
       }
     ]
   ]
-]
+];

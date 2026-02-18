@@ -31,4 +31,4 @@ export var twoWheeler20px = [
       ]
     ]
   ]
-]
+];

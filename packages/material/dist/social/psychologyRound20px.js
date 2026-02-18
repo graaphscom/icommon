@@ -47,4 +47,4 @@ export var psychologyRound20px = [
       ]
     ]
   ]
-]
+];

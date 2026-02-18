@@ -16,4 +16,4 @@ export var dataBarVertical20Regular = [
       }
     ]
   ]
-]
+];

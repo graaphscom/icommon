@@ -47,4 +47,4 @@ export var savedSearchTwotone24px = [
       ]
     ]
   ]
-]
+];

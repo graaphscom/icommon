@@ -49,4 +49,4 @@ export var rollerShadesClosedRound24px = [
       ]
     ]
   ]
-]
+];

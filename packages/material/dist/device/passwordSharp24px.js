@@ -40,4 +40,4 @@ export var passwordSharp24px = [
       ]
     ]
   ]
-]
+];

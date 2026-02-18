@@ -61,4 +61,4 @@ export var thunderstormRound24px = [
       ]
     ]
   ]
-]
+];

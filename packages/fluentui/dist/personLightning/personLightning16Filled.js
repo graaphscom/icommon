@@ -16,4 +16,4 @@ export var personLightning16Filled = [
       }
     ]
   ]
-]
+];

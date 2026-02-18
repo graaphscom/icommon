@@ -16,4 +16,4 @@ export var hd24Regular = [
       }
     ]
   ]
-]
+];

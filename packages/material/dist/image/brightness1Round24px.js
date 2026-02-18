@@ -55,4 +55,4 @@ export var brightness1Round24px = [
       ]
     ]
   ]
-]
+];

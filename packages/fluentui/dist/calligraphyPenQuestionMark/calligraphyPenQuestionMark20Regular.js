@@ -23,4 +23,4 @@ export var calligraphyPenQuestionMark20Regular = [
       }
     ]
   ]
-]
+];

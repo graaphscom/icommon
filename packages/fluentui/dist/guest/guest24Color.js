@@ -163,4 +163,4 @@ export var guest24Color = [
       ]
     ]
   ]
-]
+];

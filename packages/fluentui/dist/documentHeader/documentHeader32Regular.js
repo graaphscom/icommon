@@ -16,4 +16,4 @@ export var documentHeader32Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var spaceBarRound24px = [
       }
     ]
   ]
-]
+];

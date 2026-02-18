@@ -47,4 +47,4 @@ export var miscellaneousServices20px = [
       ]
     ]
   ]
-]
+];

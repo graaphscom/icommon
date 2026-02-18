@@ -16,4 +16,4 @@ export var channelAdd28Regular = [
       }
     ]
   ]
-]
+];

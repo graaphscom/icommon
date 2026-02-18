@@ -34,4 +34,4 @@ export var dashboardCustomizeRound24px = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var desktopAccessDisabledTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -31,4 +31,4 @@ export var speech = [
       }
     ]
   ]
-]
+];

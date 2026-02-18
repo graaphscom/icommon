@@ -21,4 +21,4 @@ export var chevronLeft24px = [
       }
     ]
   ]
-]
+];

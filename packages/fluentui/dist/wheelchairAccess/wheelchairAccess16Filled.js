@@ -16,4 +16,4 @@ export var wheelchairAccess16Filled = [
       }
     ]
   ]
-]
+];

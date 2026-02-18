@@ -34,4 +34,4 @@ export var airplaneTicketSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var videoChatOutlined20px = [
       ]
     ]
   ]
-]
+];

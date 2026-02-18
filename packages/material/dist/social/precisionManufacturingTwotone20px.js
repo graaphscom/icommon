@@ -57,4 +57,4 @@ export var precisionManufacturingTwotone20px = [
       ]
     ]
   ]
-]
+];

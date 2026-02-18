@@ -35,4 +35,4 @@ export var sdRound24px = [
       ]
     ]
   ]
-]
+];

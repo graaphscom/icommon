@@ -21,4 +21,4 @@ export var scanner24px = [
       }
     ]
   ]
-]
+];

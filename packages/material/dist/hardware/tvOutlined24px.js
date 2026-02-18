@@ -21,4 +21,4 @@ export var tvOutlined24px = [
       }
     ]
   ]
-]
+];

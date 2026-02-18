@@ -66,4 +66,4 @@ export var ampStories24px = [
       ]
     ]
   ]
-]
+];

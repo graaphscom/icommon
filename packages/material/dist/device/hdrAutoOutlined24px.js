@@ -34,4 +34,4 @@ export var hdrAutoOutlined24px = [
       ]
     ]
   ]
-]
+];

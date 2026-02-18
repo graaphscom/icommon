@@ -53,4 +53,4 @@ export var motionPhotosOffSharp24px = [
       ]
     ]
   ]
-]
+];

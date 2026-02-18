@@ -21,4 +21,4 @@ export var gpsNotFixedRound24px = [
       }
     ]
   ]
-]
+];

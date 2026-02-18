@@ -67,4 +67,4 @@ export var modeEditTwotone24px = [
       ]
     ]
   ]
-]
+];

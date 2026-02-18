@@ -30,4 +30,4 @@ export var calligraphyPenQuestionMark20Filled = [
       }
     ]
   ]
-]
+];

@@ -61,4 +61,4 @@ export var spatialTrackingRound20px = [
       ]
     ]
   ]
-]
+];

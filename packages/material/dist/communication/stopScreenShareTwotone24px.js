@@ -35,4 +35,4 @@ export var stopScreenShareTwotone24px = [
       }
     ]
   ]
-]
+];

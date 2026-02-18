@@ -41,4 +41,4 @@ export var approvalSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var darkTheme24Filled = [
       }
     ]
   ]
-]
+];

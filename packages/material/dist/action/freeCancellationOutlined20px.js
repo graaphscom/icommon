@@ -23,4 +23,4 @@ export var freeCancellationOutlined20px = [
       }
     ]
   ]
-]
+];

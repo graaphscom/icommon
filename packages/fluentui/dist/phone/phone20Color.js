@@ -88,4 +88,4 @@ export var phone20Color = [
       ]
     ]
   ]
-]
+];

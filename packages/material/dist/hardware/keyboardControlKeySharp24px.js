@@ -35,4 +35,4 @@ export var keyboardControlKeySharp24px = [
       ]
     ]
   ]
-]
+];

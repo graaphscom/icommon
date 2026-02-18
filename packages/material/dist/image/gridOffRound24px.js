@@ -21,4 +21,4 @@ export var gridOffRound24px = [
       }
     ]
   ]
-]
+];

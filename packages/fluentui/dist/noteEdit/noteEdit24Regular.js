@@ -16,4 +16,4 @@ export var noteEdit24Regular = [
       }
     ]
   ]
-]
+];

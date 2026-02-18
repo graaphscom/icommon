@@ -16,4 +16,4 @@ export var button20Regular = [
       }
     ]
   ]
-]
+];

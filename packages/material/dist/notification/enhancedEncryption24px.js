@@ -28,4 +28,4 @@ export var enhancedEncryption24px = [
       }
     ]
   ]
-]
+];

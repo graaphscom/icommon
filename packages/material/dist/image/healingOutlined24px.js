@@ -21,4 +21,4 @@ export var healingOutlined24px = [
       }
     ]
   ]
-]
+];

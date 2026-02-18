@@ -36,4 +36,4 @@ export var localOfferTwotone24px = [
       }
     ]
   ]
-]
+];

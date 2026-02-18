@@ -16,4 +16,4 @@ export var tableCellCenter24Filled = [
       }
     ]
   ]
-]
+];

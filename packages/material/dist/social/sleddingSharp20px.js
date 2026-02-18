@@ -23,4 +23,4 @@ export var sleddingSharp20px = [
       }
     ]
   ]
-]
+];

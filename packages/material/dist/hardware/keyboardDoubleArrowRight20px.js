@@ -47,4 +47,4 @@ export var keyboardDoubleArrowRight20px = [
       ]
     ]
   ]
-]
+];

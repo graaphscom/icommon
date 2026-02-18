@@ -21,4 +21,4 @@ export var localParkingSharp24px = [
       }
     ]
   ]
-]
+];

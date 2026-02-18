@@ -21,4 +21,4 @@ export var dialerSipRound24px = [
       }
     ]
   ]
-]
+];

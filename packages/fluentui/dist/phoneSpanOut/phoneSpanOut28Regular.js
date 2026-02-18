@@ -16,4 +16,4 @@ export var phoneSpanOut28Regular = [
       }
     ]
   ]
-]
+];

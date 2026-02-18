@@ -21,4 +21,4 @@ export var cancelPresentationOutlined24px = [
       }
     ]
   ]
-]
+];

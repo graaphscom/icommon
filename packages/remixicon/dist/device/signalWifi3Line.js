@@ -13,4 +13,4 @@ export var signalWifi3Line = [
       }
     ]
   ]
-]
+];

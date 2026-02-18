@@ -48,4 +48,4 @@ export var autoFixNormalRound24px = [
       ]
     ]
   ]
-]
+];

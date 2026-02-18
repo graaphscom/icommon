@@ -16,4 +16,4 @@ export var documentBulletListArrowLeft16Regular = [
       }
     ]
   ]
-]
+];

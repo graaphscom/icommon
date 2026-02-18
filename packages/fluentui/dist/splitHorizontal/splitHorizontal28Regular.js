@@ -16,4 +16,4 @@ export var splitHorizontal28Regular = [
       }
     ]
   ]
-]
+];

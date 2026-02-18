@@ -35,4 +35,4 @@ export var fireplaceSharp20px = [
       ]
     ]
   ]
-]
+];

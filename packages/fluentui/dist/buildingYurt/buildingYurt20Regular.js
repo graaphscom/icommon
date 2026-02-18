@@ -16,4 +16,4 @@ export var buildingYurt20Regular = [
       }
     ]
   ]
-]
+];

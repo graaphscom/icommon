@@ -16,4 +16,4 @@ export var checkmarkCircleSparkle20Regular = [
       }
     ]
   ]
-]
+];

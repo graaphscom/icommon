@@ -21,4 +21,4 @@ export var playForWorkRound24px = [
       }
     ]
   ]
-]
+];

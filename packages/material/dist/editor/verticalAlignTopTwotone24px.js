@@ -21,4 +21,4 @@ export var verticalAlignTopTwotone24px = [
       }
     ]
   ]
-]
+];

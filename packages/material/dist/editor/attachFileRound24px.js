@@ -21,4 +21,4 @@ export var attachFileRound24px = [
       }
     ]
   ]
-]
+];

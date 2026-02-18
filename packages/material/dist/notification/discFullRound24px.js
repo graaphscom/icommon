@@ -21,4 +21,4 @@ export var discFullRound24px = [
       }
     ]
   ]
-]
+];

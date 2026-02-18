@@ -29,4 +29,4 @@ export var browserUpdatedTwotone20px = [
       ]
     ]
   ]
-]
+];

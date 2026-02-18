@@ -21,4 +21,4 @@ export var explore24px = [
       }
     ]
   ]
-]
+];

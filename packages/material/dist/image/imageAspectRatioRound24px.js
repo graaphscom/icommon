@@ -21,4 +21,4 @@ export var imageAspectRatioRound24px = [
       }
     ]
   ]
-]
+];

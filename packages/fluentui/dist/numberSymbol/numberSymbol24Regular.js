@@ -16,4 +16,4 @@ export var numberSymbol24Regular = [
       }
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var medicalServicesRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var predictions20Regular = [
       }
     ]
   ]
-]
+];

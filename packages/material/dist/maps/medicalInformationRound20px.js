@@ -35,4 +35,4 @@ export var medicalInformationRound20px = [
       ]
     ]
   ]
-]
+];

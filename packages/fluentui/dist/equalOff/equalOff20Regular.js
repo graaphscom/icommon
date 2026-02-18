@@ -16,4 +16,4 @@ export var equalOff20Regular = [
       }
     ]
   ]
-]
+];

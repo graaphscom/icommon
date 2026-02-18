@@ -16,4 +16,4 @@ export var mailRead24Filled = [
       }
     ]
   ]
-]
+];

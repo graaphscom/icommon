@@ -34,4 +34,4 @@ export var shortcutRound24px = [
       ]
     ]
   ]
-]
+];

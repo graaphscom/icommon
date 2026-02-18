@@ -21,4 +21,4 @@ export var localMoviesOutlined24px = [
       }
     ]
   ]
-]
+];

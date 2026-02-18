@@ -16,4 +16,4 @@ export var clipboardDay24Regular = [
       }
     ]
   ]
-]
+];

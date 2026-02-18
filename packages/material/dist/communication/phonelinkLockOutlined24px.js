@@ -21,4 +21,4 @@ export var phonelinkLockOutlined24px = [
       }
     ]
   ]
-]
+];

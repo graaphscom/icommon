@@ -16,4 +16,4 @@ export var alignLeft24Regular = [
       }
     ]
   ]
-]
+];

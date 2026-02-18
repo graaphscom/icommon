@@ -451,4 +451,4 @@ export var designIdeas16Color = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var borderTopTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var imageSearchRound24px = [
       }
     ]
   ]
-]
+];

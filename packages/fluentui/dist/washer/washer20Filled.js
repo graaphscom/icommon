@@ -16,4 +16,4 @@ export var washer20Filled = [
       }
     ]
   ]
-]
+];

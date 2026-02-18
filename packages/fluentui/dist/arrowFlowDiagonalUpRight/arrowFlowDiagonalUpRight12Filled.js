@@ -16,4 +16,4 @@ export var arrowFlowDiagonalUpRight12Filled = [
       }
     ]
   ]
-]
+];

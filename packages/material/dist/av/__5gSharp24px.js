@@ -47,4 +47,4 @@ export var __5gSharp24px = [
       ]
     ]
   ]
-]
+];

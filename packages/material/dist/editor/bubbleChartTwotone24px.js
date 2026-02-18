@@ -46,4 +46,4 @@ export var bubbleChartTwotone24px = [
       }
     ]
   ]
-]
+];

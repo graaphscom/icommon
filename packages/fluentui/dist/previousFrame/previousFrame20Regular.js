@@ -16,4 +16,4 @@ export var previousFrame20Regular = [
       }
     ]
   ]
-]
+];

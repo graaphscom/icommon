@@ -23,4 +23,4 @@ export var lightMode24px = [
       }
     ]
   ]
-]
+];

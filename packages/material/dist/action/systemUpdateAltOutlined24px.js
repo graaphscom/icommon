@@ -21,4 +21,4 @@ export var systemUpdateAltOutlined24px = [
       }
     ]
   ]
-]
+];

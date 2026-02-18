@@ -16,4 +16,4 @@ export var arrowWrapUpToDown32Filled = [
       }
     ]
   ]
-]
+];

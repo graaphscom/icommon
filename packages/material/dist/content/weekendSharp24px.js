@@ -21,4 +21,4 @@ export var weekendSharp24px = [
       }
     ]
   ]
-]
+];

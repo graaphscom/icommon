@@ -16,4 +16,4 @@ export var swipeRight24Filled = [
       }
     ]
   ]
-]
+];

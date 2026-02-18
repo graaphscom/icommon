@@ -21,4 +21,4 @@ export var localHotelOutlined24px = [
       }
     ]
   ]
-]
+];

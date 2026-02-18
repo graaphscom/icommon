@@ -60,4 +60,4 @@ export var agricultureTwotone20px = [
       ]
     ]
   ]
-]
+];

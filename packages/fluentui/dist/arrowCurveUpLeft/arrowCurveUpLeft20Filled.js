@@ -16,4 +16,4 @@ export var arrowCurveUpLeft20Filled = [
       }
     ]
   ]
-]
+];

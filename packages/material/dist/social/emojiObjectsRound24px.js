@@ -53,4 +53,4 @@ export var emojiObjectsRound24px = [
       ]
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var viewAgendaRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var archiveSettings28Filled = [
       }
     ]
   ]
-]
+];

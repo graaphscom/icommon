@@ -152,4 +152,4 @@ export var devicesFoldRound20px = [
       ]
     ]
   ]
-]
+];

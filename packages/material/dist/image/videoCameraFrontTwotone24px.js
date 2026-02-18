@@ -48,4 +48,4 @@ export var videoCameraFrontTwotone24px = [
       ]
     ]
   ]
-]
+];

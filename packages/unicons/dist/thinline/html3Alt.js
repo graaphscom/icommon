@@ -13,4 +13,4 @@ export var html3Alt = [
       }
     ]
   ]
-]
+];

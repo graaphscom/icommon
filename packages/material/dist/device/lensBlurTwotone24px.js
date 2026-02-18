@@ -40,4 +40,4 @@ export var lensBlurTwotone24px = [
       ]
     ]
   ]
-]
+];

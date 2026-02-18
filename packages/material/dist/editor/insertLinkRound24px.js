@@ -21,4 +21,4 @@ export var insertLinkRound24px = [
       }
     ]
   ]
-]
+];

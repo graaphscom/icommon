@@ -35,4 +35,4 @@ export var singleBedOutlined24px = [
       ]
     ]
   ]
-]
+];

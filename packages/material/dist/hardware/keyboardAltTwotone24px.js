@@ -131,4 +131,4 @@ export var keyboardAltTwotone24px = [
       ]
     ]
   ]
-]
+];

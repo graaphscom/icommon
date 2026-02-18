@@ -21,4 +21,4 @@ export var folderOpenSharp24px = [
       }
     ]
   ]
-]
+];

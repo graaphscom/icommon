@@ -16,4 +16,4 @@ export var squareMultiple32Filled = [
       }
     ]
   ]
-]
+];

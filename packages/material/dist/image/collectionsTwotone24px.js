@@ -28,4 +28,4 @@ export var collectionsTwotone24px = [
       }
     ]
   ]
-]
+];

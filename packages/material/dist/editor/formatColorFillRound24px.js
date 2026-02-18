@@ -56,4 +56,4 @@ export var formatColorFillRound24px = [
       ]
     ]
   ]
-]
+];

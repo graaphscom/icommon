@@ -23,4 +23,4 @@ export var walkieTalkie20Filled = [
       }
     ]
   ]
-]
+];

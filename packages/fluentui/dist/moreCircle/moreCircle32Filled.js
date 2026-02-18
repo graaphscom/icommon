@@ -16,4 +16,4 @@ export var moreCircle32Filled = [
       }
     ]
   ]
-]
+];

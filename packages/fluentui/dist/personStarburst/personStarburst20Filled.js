@@ -16,4 +16,4 @@ export var personStarburst20Filled = [
       }
     ]
   ]
-]
+];

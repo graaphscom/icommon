@@ -16,4 +16,4 @@ export var groupReturn20Regular = [
       }
     ]
   ]
-]
+];

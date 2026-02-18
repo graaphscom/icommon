@@ -29,4 +29,4 @@ export var naturePeopleRound24px = [
       }
     ]
   ]
-]
+];

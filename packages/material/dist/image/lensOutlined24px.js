@@ -21,4 +21,4 @@ export var lensOutlined24px = [
       }
     ]
   ]
-]
+];

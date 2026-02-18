@@ -35,4 +35,4 @@ export var photoCameraFrontSharp24px = [
       ]
     ]
   ]
-]
+];

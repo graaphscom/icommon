@@ -23,4 +23,4 @@ export var cribOutlined24px = [
       }
     ]
   ]
-]
+];

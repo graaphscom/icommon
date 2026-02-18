@@ -53,4 +53,4 @@ export var architecture20px = [
       ]
     ]
   ]
-]
+];

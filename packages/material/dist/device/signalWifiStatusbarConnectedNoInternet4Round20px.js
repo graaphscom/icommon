@@ -23,4 +23,4 @@ export var signalWifiStatusbarConnectedNoInternet4Round20px = [
       }
     ]
   ]
-]
+];

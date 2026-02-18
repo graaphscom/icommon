@@ -21,4 +21,4 @@ export var desktopMacSharp24px = [
       }
     ]
   ]
-]
+];

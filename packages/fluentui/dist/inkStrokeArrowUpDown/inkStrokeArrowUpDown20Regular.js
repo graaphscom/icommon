@@ -16,4 +16,4 @@ export var inkStrokeArrowUpDown20Regular = [
       }
     ]
   ]
-]
+];

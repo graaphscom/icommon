@@ -51,4 +51,4 @@ export var constructionOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -77,4 +77,4 @@ export var castleOutlined24px = [
       ]
     ]
   ]
-]
+];

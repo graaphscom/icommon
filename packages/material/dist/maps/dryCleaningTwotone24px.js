@@ -53,4 +53,4 @@ export var dryCleaningTwotone24px = [
       ]
     ]
   ]
-]
+];

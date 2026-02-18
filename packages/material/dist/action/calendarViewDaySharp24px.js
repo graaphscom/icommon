@@ -21,4 +21,4 @@ export var calendarViewDaySharp24px = [
       }
     ]
   ]
-]
+];

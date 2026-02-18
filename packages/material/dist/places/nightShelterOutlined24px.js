@@ -23,4 +23,4 @@ export var nightShelterOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var volumeDown24px = [
       }
     ]
   ]
-]
+];

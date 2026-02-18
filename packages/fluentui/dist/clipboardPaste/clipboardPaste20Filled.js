@@ -16,4 +16,4 @@ export var clipboardPaste20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personHome48Filled = [
       }
     ]
   ]
-]
+];

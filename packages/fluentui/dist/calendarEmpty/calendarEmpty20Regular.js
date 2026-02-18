@@ -16,4 +16,4 @@ export var calendarEmpty20Regular = [
       }
     ]
   ]
-]
+];

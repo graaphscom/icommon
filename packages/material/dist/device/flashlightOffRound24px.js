@@ -52,4 +52,4 @@ export var flashlightOffRound24px = [
       ]
     ]
   ]
-]
+];

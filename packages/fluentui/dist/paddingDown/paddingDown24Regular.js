@@ -16,4 +16,4 @@ export var paddingDown24Regular = [
       }
     ]
   ]
-]
+];

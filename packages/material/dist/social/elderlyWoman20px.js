@@ -47,4 +47,4 @@ export var elderlyWoman20px = [
       ]
     ]
   ]
-]
+];

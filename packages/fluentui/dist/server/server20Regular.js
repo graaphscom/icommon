@@ -16,4 +16,4 @@ export var server20Regular = [
       }
     ]
   ]
-]
+];

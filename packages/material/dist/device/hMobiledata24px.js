@@ -40,4 +40,4 @@ export var hMobiledata24px = [
       ]
     ]
   ]
-]
+];

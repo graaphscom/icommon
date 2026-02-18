@@ -16,4 +16,4 @@ export var replay32Regular = [
       }
     ]
   ]
-]
+];

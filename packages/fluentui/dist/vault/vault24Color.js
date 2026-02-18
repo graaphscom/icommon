@@ -190,4 +190,4 @@ export var vault24Color = [
       ]
     ]
   ]
-]
+];

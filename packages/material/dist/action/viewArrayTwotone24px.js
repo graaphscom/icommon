@@ -33,4 +33,4 @@ export var viewArrayTwotone24px = [
       }
     ]
   ]
-]
+];

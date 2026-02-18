@@ -16,4 +16,4 @@ export var peopleCommunication16Regular = [
       }
     ]
   ]
-]
+];

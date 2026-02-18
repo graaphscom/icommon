@@ -47,4 +47,4 @@ export var dataArraySharp24px = [
       ]
     ]
   ]
-]
+];

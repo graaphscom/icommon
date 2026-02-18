@@ -16,4 +16,4 @@ export var connected28Filled = [
       }
     ]
   ]
-]
+];

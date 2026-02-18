@@ -16,4 +16,4 @@ export var panelBottomContract20Filled = [
       }
     ]
   ]
-]
+];

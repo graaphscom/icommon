@@ -21,4 +21,4 @@ export var cropRotateSharp24px = [
       }
     ]
   ]
-]
+];

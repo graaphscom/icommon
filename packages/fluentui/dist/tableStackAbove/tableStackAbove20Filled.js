@@ -16,4 +16,4 @@ export var tableStackAbove20Filled = [
       }
     ]
   ]
-]
+];

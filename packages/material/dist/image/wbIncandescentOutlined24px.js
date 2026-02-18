@@ -21,4 +21,4 @@ export var wbIncandescentOutlined24px = [
       }
     ]
   ]
-]
+];

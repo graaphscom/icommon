@@ -46,4 +46,4 @@ export var doDisturb24px = [
       ]
     ]
   ]
-]
+];

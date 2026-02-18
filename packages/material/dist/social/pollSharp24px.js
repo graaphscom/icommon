@@ -21,4 +21,4 @@ export var pollSharp24px = [
       }
     ]
   ]
-]
+];

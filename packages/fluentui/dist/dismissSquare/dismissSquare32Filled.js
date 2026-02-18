@@ -16,4 +16,4 @@ export var dismissSquare32Filled = [
       }
     ]
   ]
-]
+];

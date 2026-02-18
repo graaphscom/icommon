@@ -16,4 +16,4 @@ export var calendarArrowCounterclockwise16Filled = [
       }
     ]
   ]
-]
+];

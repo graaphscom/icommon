@@ -252,4 +252,4 @@ export var documentAdd20Color = [
       ]
     ]
   ]
-]
+];

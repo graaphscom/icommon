@@ -21,4 +21,4 @@ export var fullscreenExit24px = [
       }
     ]
   ]
-]
+];

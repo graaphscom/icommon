@@ -55,4 +55,4 @@ export var noLuggageTwotone24px = [
       ]
     ]
   ]
-]
+];

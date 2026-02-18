@@ -21,4 +21,4 @@ export var exitToAppSharp24px = [
       }
     ]
   ]
-]
+];

@@ -38,4 +38,4 @@ export var screenLockLandscapeRound24px = [
       {}
     ]
   ]
-]
+];

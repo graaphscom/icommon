@@ -16,4 +16,4 @@ export var folderMail24Regular = [
       }
     ]
   ]
-]
+];

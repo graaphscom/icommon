@@ -78,4 +78,4 @@ export var viewCompactAltOutlined20px = [
       ]
     ]
   ]
-]
+];

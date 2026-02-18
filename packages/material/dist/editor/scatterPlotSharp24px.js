@@ -32,4 +32,4 @@ export var scatterPlotSharp24px = [
       }
     ]
   ]
-]
+];

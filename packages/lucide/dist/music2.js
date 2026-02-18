@@ -27,4 +27,4 @@ export var music2 = [
       }
     ]
   ]
-]
+];

@@ -42,4 +42,4 @@ export var dangerousTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var viewCompactAltSharp24px = [
       ]
     ]
   ]
-]
+];

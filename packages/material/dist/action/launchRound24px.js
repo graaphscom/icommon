@@ -21,4 +21,4 @@ export var launchRound24px = [
       }
     ]
   ]
-]
+];

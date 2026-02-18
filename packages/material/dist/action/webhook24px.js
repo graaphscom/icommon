@@ -35,4 +35,4 @@ export var webhook24px = [
       ]
     ]
   ]
-]
+];

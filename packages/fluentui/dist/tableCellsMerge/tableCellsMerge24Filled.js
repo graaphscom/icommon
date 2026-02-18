@@ -16,4 +16,4 @@ export var tableCellsMerge24Filled = [
       }
     ]
   ]
-]
+];

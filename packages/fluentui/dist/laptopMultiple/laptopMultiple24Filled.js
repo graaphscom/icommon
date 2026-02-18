@@ -16,4 +16,4 @@ export var laptopMultiple24Filled = [
       }
     ]
   ]
-]
+];

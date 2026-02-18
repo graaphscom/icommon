@@ -16,4 +16,4 @@ export var arrowCounterclockwise48Filled = [
       }
     ]
   ]
-]
+];

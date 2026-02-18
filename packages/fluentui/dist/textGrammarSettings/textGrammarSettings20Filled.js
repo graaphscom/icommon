@@ -16,4 +16,4 @@ export var textGrammarSettings20Filled = [
       }
     ]
   ]
-]
+];

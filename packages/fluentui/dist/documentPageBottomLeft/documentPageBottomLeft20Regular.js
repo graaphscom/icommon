@@ -16,4 +16,4 @@ export var documentPageBottomLeft20Regular = [
       }
     ]
   ]
-]
+];

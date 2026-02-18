@@ -35,4 +35,4 @@ export var sosTwotone24px = [
       ]
     ]
   ]
-]
+];

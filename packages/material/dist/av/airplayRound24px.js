@@ -14,4 +14,4 @@ export var airplayRound24px = [
       }
     ]
   ]
-]
+];

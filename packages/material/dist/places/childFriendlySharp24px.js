@@ -21,4 +21,4 @@ export var childFriendlySharp24px = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var laptopChromebookTwotone24px = [
       }
     ]
   ]
-]
+];

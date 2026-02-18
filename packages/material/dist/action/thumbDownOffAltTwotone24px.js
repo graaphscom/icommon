@@ -58,4 +58,4 @@ export var thumbDownOffAltTwotone24px = [
       ]
     ]
   ]
-]
+];

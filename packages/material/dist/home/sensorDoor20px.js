@@ -29,4 +29,4 @@ export var sensorDoor20px = [
       ]
     ]
   ]
-]
+];

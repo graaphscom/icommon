@@ -16,4 +16,4 @@ export var imageReflection24Filled = [
       }
     ]
   ]
-]
+];

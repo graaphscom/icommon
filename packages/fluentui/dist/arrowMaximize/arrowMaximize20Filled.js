@@ -16,4 +16,4 @@ export var arrowMaximize20Filled = [
       }
     ]
   ]
-]
+];

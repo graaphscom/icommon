@@ -41,4 +41,4 @@ export var imagesearchRollerSharp24px = [
       ]
     ]
   ]
-]
+];

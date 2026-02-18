@@ -16,4 +16,4 @@ export var shiftsDay24Regular = [
       }
     ]
   ]
-]
+];

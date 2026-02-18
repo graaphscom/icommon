@@ -16,4 +16,4 @@ export var textboxRotate9024Filled = [
       }
     ]
   ]
-]
+];

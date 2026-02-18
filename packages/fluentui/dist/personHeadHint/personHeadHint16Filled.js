@@ -16,4 +16,4 @@ export var personHeadHint16Filled = [
       }
     ]
   ]
-]
+];

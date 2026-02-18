@@ -21,4 +21,4 @@ export var bluetoothSharp24px = [
       }
     ]
   ]
-]
+];

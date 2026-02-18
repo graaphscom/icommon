@@ -71,4 +71,4 @@ export var viewComfyTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var editLock20Filled = [
       }
     ]
   ]
-]
+];

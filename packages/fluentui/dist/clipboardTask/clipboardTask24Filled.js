@@ -16,4 +16,4 @@ export var clipboardTask24Filled = [
       }
     ]
   ]
-]
+];

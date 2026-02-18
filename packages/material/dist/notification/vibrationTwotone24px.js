@@ -28,4 +28,4 @@ export var vibrationTwotone24px = [
       }
     ]
   ]
-]
+];

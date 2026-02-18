@@ -21,4 +21,4 @@ export var selectAllTwotone24px = [
       }
     ]
   ]
-]
+];

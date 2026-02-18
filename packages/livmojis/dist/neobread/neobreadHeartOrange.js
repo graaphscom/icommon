@@ -169,4 +169,4 @@ export var neobreadHeartOrange = [
       }
     ]
   ]
-]
+];

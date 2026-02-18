@@ -16,4 +16,4 @@ export var caretRight20Regular = [
       }
     ]
   ]
-]
+];

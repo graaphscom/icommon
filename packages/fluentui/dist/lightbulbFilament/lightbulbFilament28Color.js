@@ -415,4 +415,4 @@ export var lightbulbFilament28Color = [
       ]
     ]
   ]
-]
+];

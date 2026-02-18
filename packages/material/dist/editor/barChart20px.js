@@ -62,4 +62,4 @@ export var barChart20px = [
       ]
     ]
   ]
-]
+];

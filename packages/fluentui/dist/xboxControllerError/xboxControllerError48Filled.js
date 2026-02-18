@@ -16,4 +16,4 @@ export var xboxControllerError48Filled = [
       }
     ]
   ]
-]
+];

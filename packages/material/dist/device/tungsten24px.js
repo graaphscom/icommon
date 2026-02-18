@@ -87,4 +87,4 @@ export var tungsten24px = [
       ]
     ]
   ]
-]
+];

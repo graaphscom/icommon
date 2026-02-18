@@ -35,4 +35,4 @@ export var currencyPoundSharp24px = [
       ]
     ]
   ]
-]
+];

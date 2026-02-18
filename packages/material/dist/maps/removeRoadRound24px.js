@@ -79,4 +79,4 @@ export var removeRoadRound24px = [
       ]
     ]
   ]
-]
+];

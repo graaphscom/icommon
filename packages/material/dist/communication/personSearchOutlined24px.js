@@ -53,4 +53,4 @@ export var personSearchOutlined24px = [
       ]
     ]
   ]
-]
+];

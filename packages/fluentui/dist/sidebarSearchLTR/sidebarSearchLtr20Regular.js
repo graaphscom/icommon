@@ -16,4 +16,4 @@ export var sidebarSearchLtr20Regular = [
       }
     ]
   ]
-]
+];

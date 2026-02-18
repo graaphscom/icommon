@@ -40,4 +40,4 @@ export var waterRound24px = [
       ]
     ]
   ]
-]
+];

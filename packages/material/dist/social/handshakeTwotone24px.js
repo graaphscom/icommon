@@ -42,4 +42,4 @@ export var handshakeTwotone24px = [
       ]
     ]
   ]
-]
+];

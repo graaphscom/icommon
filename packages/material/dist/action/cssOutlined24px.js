@@ -35,4 +35,4 @@ export var cssOutlined24px = [
       ]
     ]
   ]
-]
+];

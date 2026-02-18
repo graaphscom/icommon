@@ -16,4 +16,4 @@ export var dualScreenVibrate24Filled = [
       }
     ]
   ]
-]
+];

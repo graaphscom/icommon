@@ -16,4 +16,4 @@ export var textAlignRightRotate9016Filled = [
       }
     ]
   ]
-]
+];

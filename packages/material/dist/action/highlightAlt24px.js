@@ -21,4 +21,4 @@ export var highlightAlt24px = [
       }
     ]
   ]
-]
+];

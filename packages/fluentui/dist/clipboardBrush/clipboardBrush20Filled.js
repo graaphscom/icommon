@@ -16,4 +16,4 @@ export var clipboardBrush20Filled = [
       }
     ]
   ]
-]
+];

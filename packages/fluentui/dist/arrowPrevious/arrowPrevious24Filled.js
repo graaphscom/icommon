@@ -16,4 +16,4 @@ export var arrowPrevious24Filled = [
       }
     ]
   ]
-]
+];

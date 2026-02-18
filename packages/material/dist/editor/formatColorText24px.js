@@ -35,4 +35,4 @@ export var formatColorText24px = [
       ]
     ]
   ]
-]
+];

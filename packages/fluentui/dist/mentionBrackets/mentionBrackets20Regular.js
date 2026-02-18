@@ -16,4 +16,4 @@ export var mentionBrackets20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var resize28Filled = [
       }
     ]
   ]
-]
+];

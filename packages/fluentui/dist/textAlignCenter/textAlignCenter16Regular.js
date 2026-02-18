@@ -16,4 +16,4 @@ export var textAlignCenter16Regular = [
       }
     ]
   ]
-]
+];

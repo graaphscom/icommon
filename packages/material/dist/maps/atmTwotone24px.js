@@ -21,4 +21,4 @@ export var atmTwotone24px = [
       }
     ]
   ]
-]
+];

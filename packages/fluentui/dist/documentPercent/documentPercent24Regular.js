@@ -16,4 +16,4 @@ export var documentPercent24Regular = [
       }
     ]
   ]
-]
+];

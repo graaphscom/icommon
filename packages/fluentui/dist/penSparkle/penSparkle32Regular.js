@@ -16,4 +16,4 @@ export var penSparkle32Regular = [
       }
     ]
   ]
-]
+];

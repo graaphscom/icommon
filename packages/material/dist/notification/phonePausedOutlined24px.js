@@ -21,4 +21,4 @@ export var phonePausedOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dishwasher20Filled = [
       }
     ]
   ]
-]
+];

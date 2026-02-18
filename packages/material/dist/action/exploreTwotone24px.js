@@ -28,4 +28,4 @@ export var exploreTwotone24px = [
       }
     ]
   ]
-]
+];

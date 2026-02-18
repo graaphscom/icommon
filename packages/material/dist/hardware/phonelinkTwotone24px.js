@@ -28,4 +28,4 @@ export var phonelinkTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var handDraw28Filled = [
       }
     ]
   ]
-]
+];

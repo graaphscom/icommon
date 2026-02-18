@@ -21,4 +21,4 @@ export var accountTree24px = [
       }
     ]
   ]
-]
+];

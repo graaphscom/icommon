@@ -77,4 +77,4 @@ export var hiveRound20px = [
       ]
     ]
   ]
-]
+];

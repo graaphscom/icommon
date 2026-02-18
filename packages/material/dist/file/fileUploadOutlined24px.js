@@ -35,4 +35,4 @@ export var fileUploadOutlined24px = [
       ]
     ]
   ]
-]
+];

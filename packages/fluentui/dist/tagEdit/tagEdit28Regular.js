@@ -16,4 +16,4 @@ export var tagEdit28Regular = [
       }
     ]
   ]
-]
+];

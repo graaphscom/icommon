@@ -29,4 +29,4 @@ export var subscriptOutlined24px = [
       ]
     ]
   ]
-]
+];

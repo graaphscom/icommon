@@ -16,4 +16,4 @@ export var chevronDoubleDown16Regular = [
       }
     ]
   ]
-]
+];

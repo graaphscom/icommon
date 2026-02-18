@@ -55,4 +55,4 @@ export var comment16Color = [
       ]
     ]
   ]
-]
+];

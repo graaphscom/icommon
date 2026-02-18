@@ -13,4 +13,4 @@ export var emotion2Line = [
       }
     ]
   ]
-]
+];

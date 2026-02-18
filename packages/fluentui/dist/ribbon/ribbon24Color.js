@@ -82,4 +82,4 @@ export var ribbon24Color = [
       ]
     ]
   ]
-]
+];

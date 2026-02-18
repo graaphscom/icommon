@@ -35,4 +35,4 @@ export var numbersSharp24px = [
       ]
     ]
   ]
-]
+];

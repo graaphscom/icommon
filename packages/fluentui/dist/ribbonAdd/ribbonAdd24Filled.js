@@ -16,4 +16,4 @@ export var ribbonAdd24Filled = [
       }
     ]
   ]
-]
+];

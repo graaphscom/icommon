@@ -21,4 +21,4 @@ export var pages24px = [
       }
     ]
   ]
-]
+];

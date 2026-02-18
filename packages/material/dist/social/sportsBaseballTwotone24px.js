@@ -62,4 +62,4 @@ export var sportsBaseballTwotone24px = [
       ]
     ]
   ]
-]
+];

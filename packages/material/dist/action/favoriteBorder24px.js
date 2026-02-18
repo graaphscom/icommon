@@ -21,4 +21,4 @@ export var favoriteBorder24px = [
       }
     ]
   ]
-]
+];

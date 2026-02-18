@@ -79,4 +79,4 @@ export var wbTwilightSharp24px = [
       ]
     ]
   ]
-]
+];

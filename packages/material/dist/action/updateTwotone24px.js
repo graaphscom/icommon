@@ -41,4 +41,4 @@ export var updateTwotone24px = [
       ]
     ]
   ]
-]
+];

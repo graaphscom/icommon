@@ -21,4 +21,4 @@ export var phoneIphone24px = [
       }
     ]
   ]
-]
+];

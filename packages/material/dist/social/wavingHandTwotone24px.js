@@ -30,4 +30,4 @@ export var wavingHandTwotone24px = [
       }
     ]
   ]
-]
+];

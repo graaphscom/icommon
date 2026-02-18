@@ -355,4 +355,4 @@ export var buildingGovernmentSearch32Color = [
       ]
     ]
   ]
-]
+];

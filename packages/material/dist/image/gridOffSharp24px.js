@@ -21,4 +21,4 @@ export var gridOffSharp24px = [
       }
     ]
   ]
-]
+];

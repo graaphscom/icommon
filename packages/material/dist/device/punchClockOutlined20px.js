@@ -54,4 +54,4 @@ export var punchClockOutlined20px = [
       ]
     ]
   ]
-]
+];

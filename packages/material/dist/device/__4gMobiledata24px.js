@@ -40,4 +40,4 @@ export var __4gMobiledata24px = [
       ]
     ]
   ]
-]
+];

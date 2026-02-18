@@ -16,4 +16,4 @@ export var emojiLaugh24Filled = [
       }
     ]
   ]
-]
+];

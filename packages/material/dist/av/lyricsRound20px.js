@@ -47,4 +47,4 @@ export var lyricsRound20px = [
       ]
     ]
   ]
-]
+];

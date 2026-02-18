@@ -43,4 +43,4 @@ export var forkRightRound24px = [
       ]
     ]
   ]
-]
+];

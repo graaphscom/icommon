@@ -21,4 +21,4 @@ export var addBoxRound24px = [
       }
     ]
   ]
-]
+];

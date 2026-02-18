@@ -49,4 +49,4 @@ export var historyEduRound24px = [
       ]
     ]
   ]
-]
+];

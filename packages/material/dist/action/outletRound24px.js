@@ -23,4 +23,4 @@ export var outletRound24px = [
       }
     ]
   ]
-]
+];

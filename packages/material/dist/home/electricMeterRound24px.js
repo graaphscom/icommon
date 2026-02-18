@@ -43,4 +43,4 @@ export var electricMeterRound24px = [
       ]
     ]
   ]
-]
+];

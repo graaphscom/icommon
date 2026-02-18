@@ -21,4 +21,4 @@ export var hdrWeakOutlined24px = [
       }
     ]
   ]
-]
+];

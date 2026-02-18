@@ -342,4 +342,4 @@ export var mailClock16Color = [
       ]
     ]
   ]
-]
+];

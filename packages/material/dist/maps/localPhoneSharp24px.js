@@ -21,4 +21,4 @@ export var localPhoneSharp24px = [
       }
     ]
   ]
-]
+];

@@ -31,4 +31,4 @@ export var notificationAddSharp24px = [
       ]
     ]
   ]
-]
+];

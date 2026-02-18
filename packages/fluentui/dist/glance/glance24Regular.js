@@ -16,4 +16,4 @@ export var glance24Regular = [
       }
     ]
   ]
-]
+];

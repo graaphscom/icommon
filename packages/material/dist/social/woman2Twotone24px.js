@@ -55,4 +55,4 @@ export var woman2Twotone24px = [
       ]
     ]
   ]
-]
+];

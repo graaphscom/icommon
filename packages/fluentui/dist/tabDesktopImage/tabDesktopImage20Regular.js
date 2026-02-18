@@ -16,4 +16,4 @@ export var tabDesktopImage20Regular = [
       }
     ]
   ]
-]
+];

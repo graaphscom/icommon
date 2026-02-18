@@ -35,4 +35,4 @@ export var addLinkSharp24px = [
       ]
     ]
   ]
-]
+];

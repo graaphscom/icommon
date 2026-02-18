@@ -21,4 +21,4 @@ export var editAttributes24px = [
       }
     ]
   ]
-]
+];

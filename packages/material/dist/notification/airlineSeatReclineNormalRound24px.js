@@ -21,4 +21,4 @@ export var airlineSeatReclineNormalRound24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var drawOutlined20px = [
       }
     ]
   ]
-]
+];

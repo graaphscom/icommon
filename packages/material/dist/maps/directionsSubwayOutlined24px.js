@@ -37,4 +37,4 @@ export var directionsSubwayOutlined24px = [
       }
     ]
   ]
-]
+];

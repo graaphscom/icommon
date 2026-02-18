@@ -16,4 +16,4 @@ export var folderMultiple16Filled = [
       }
     ]
   ]
-]
+];

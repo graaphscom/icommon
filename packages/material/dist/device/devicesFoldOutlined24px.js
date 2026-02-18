@@ -146,4 +146,4 @@ export var devicesFoldOutlined24px = [
       ]
     ]
   ]
-]
+];

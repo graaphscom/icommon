@@ -35,4 +35,4 @@ export var rampLeftTwotone24px = [
       ]
     ]
   ]
-]
+];

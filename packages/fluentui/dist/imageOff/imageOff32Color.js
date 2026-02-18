@@ -188,4 +188,4 @@ export var imageOff32Color = [
       ]
     ]
   ]
-]
+];

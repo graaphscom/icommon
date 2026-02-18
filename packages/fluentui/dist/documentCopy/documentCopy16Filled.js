@@ -16,4 +16,4 @@ export var documentCopy16Filled = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var homeMax24px = [
       ]
     ]
   ]
-]
+];

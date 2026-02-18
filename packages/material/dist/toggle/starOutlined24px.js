@@ -41,4 +41,4 @@ export var starOutlined24px = [
       ]
     ]
   ]
-]
+];

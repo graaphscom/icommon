@@ -35,4 +35,4 @@ export var attractions24px = [
       ]
     ]
   ]
-]
+];

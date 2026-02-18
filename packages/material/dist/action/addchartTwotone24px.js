@@ -29,4 +29,4 @@ export var addchartTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var reportProblemOutlined24px = [
       }
     ]
   ]
-]
+];

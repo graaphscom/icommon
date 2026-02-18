@@ -16,4 +16,4 @@ export var noteAdd16Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var switchAccessShortcutAddSharp24px = [
       }
     ]
   ]
-]
+];

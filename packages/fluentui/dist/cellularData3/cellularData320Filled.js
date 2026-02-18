@@ -16,4 +16,4 @@ export var cellularData320Filled = [
       }
     ]
   ]
-]
+];

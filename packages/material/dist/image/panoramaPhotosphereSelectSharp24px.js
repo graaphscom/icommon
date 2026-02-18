@@ -41,4 +41,4 @@ export var panoramaPhotosphereSelectSharp24px = [
       ]
     ]
   ]
-]
+];

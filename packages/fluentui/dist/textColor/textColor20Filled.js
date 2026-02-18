@@ -16,4 +16,4 @@ export var textColor20Filled = [
       }
     ]
   ]
-]
+];

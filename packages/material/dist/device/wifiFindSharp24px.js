@@ -59,4 +59,4 @@ export var wifiFindSharp24px = [
       ]
     ]
   ]
-]
+];

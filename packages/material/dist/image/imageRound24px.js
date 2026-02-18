@@ -21,4 +21,4 @@ export var imageRound24px = [
       }
     ]
   ]
-]
+];

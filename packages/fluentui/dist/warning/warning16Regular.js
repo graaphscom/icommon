@@ -16,4 +16,4 @@ export var warning16Regular = [
       }
     ]
   ]
-]
+];

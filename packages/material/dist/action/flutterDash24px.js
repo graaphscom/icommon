@@ -29,4 +29,4 @@ export var flutterDash24px = [
       ]
     ]
   ]
-]
+];

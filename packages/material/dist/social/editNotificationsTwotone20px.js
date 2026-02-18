@@ -30,4 +30,4 @@ export var editNotificationsTwotone20px = [
       }
     ]
   ]
-]
+];

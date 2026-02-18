@@ -61,4 +61,4 @@ export var flakyTwotone20px = [
       ]
     ]
   ]
-]
+];

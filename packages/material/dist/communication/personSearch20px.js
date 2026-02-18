@@ -55,4 +55,4 @@ export var personSearch20px = [
       ]
     ]
   ]
-]
+];

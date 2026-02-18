@@ -16,4 +16,4 @@ export var location12Filled = [
       }
     ]
   ]
-]
+];

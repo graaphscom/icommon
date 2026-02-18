@@ -16,4 +16,4 @@ export var cubeSync20Regular = [
       }
     ]
   ]
-]
+];

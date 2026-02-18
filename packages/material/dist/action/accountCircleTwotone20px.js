@@ -55,4 +55,4 @@ export var accountCircleTwotone20px = [
       ]
     ]
   ]
-]
+];

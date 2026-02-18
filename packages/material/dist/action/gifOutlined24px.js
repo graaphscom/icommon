@@ -21,4 +21,4 @@ export var gifOutlined24px = [
       }
     ]
   ]
-]
+];

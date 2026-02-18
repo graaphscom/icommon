@@ -35,4 +35,4 @@ export var folderDeleteSharp24px = [
       ]
     ]
   ]
-]
+];

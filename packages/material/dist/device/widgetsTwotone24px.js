@@ -28,4 +28,4 @@ export var widgetsTwotone24px = [
       }
     ]
   ]
-]
+];

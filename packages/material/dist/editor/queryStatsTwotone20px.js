@@ -23,4 +23,4 @@ export var queryStatsTwotone20px = [
       }
     ]
   ]
-]
+];

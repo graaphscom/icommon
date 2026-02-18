@@ -16,4 +16,4 @@ export var presenter16Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailRewind20Filled = [
       }
     ]
   ]
-]
+];

@@ -71,4 +71,4 @@ export var displaySettings20px = [
       ]
     ]
   ]
-]
+];

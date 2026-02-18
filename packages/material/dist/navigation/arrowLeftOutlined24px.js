@@ -22,4 +22,4 @@ export var arrowLeftOutlined24px = [
       }
     ]
   ]
-]
+];

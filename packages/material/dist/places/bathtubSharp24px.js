@@ -61,4 +61,4 @@ export var bathtubSharp24px = [
       ]
     ]
   ]
-]
+];

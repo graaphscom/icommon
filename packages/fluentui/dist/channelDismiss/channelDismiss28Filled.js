@@ -16,4 +16,4 @@ export var channelDismiss28Filled = [
       }
     ]
   ]
-]
+];

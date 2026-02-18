@@ -34,4 +34,4 @@ export var bloodtypeRound24px = [
       ]
     ]
   ]
-]
+];

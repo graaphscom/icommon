@@ -29,4 +29,4 @@ export var historyToggleOffTwotone20px = [
       ]
     ]
   ]
-]
+];

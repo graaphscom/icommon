@@ -21,4 +21,4 @@ export var schoolRound24px = [
       }
     ]
   ]
-]
+];

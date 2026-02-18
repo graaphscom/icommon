@@ -35,4 +35,4 @@ export var addCard24px = [
       ]
     ]
   ]
-]
+];

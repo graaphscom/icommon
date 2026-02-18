@@ -16,4 +16,4 @@ export var arrowCircleUpSparkle24Filled = [
       }
     ]
   ]
-]
+];

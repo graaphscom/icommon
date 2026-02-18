@@ -76,4 +76,4 @@ export var fluorescentRound24px = [
       ]
     ]
   ]
-]
+];

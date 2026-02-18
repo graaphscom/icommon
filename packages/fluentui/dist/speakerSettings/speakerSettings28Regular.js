@@ -16,4 +16,4 @@ export var speakerSettings28Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var electricBikeTwotone24px = [
       ]
     ]
   ]
-]
+];

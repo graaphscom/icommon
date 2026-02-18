@@ -16,4 +16,4 @@ export var dock24Regular = [
       }
     ]
   ]
-]
+];

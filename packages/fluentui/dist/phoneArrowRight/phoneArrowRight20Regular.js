@@ -16,4 +16,4 @@ export var phoneArrowRight20Regular = [
       }
     ]
   ]
-]
+];

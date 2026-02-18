@@ -23,4 +23,4 @@ export var hiking20px = [
       }
     ]
   ]
-]
+];

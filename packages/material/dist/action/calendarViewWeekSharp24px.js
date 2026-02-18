@@ -34,4 +34,4 @@ export var calendarViewWeekSharp24px = [
       ]
     ]
   ]
-]
+];

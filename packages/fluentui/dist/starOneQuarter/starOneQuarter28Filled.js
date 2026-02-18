@@ -16,4 +16,4 @@ export var starOneQuarter28Filled = [
       }
     ]
   ]
-]
+];

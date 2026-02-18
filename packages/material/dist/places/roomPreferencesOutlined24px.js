@@ -29,4 +29,4 @@ export var roomPreferencesOutlined24px = [
       ]
     ]
   ]
-]
+];

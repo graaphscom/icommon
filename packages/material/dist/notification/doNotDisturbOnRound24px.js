@@ -41,4 +41,4 @@ export var doNotDisturbOnRound24px = [
       ]
     ]
   ]
-]
+];

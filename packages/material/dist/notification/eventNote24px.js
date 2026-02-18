@@ -21,4 +21,4 @@ export var eventNote24px = [
       }
     ]
   ]
-]
+];

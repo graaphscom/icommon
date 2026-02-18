@@ -49,4 +49,4 @@ export var touchAppTwotone24px = [
       ]
     ]
   ]
-]
+];

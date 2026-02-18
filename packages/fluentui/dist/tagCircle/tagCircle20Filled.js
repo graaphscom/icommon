@@ -16,4 +16,4 @@ export var tagCircle20Filled = [
       }
     ]
   ]
-]
+];

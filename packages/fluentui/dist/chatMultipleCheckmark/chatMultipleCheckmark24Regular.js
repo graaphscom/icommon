@@ -16,4 +16,4 @@ export var chatMultipleCheckmark24Regular = [
       }
     ]
   ]
-]
+];

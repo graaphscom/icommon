@@ -59,4 +59,4 @@ export var macroOff24px = [
       ]
     ]
   ]
-]
+];

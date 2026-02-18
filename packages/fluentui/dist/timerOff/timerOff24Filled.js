@@ -16,4 +16,4 @@ export var timerOff24Filled = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var horizontalRuleSharp24px = [
       ]
     ]
   ]
-]
+];

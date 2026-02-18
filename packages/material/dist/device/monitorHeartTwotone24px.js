@@ -67,4 +67,4 @@ export var monitorHeartTwotone24px = [
       ]
     ]
   ]
-]
+];

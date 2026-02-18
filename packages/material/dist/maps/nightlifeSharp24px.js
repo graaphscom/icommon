@@ -47,4 +47,4 @@ export var nightlifeSharp24px = [
       ]
     ]
   ]
-]
+];

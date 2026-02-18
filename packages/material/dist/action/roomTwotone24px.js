@@ -36,4 +36,4 @@ export var roomTwotone24px = [
       }
     ]
   ]
-]
+];

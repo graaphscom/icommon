@@ -16,4 +16,4 @@ export var lineStyleSketch24Regular = [
       }
     ]
   ]
-]
+];

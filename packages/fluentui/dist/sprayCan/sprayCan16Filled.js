@@ -16,4 +16,4 @@ export var sprayCan16Filled = [
       }
     ]
   ]
-]
+];

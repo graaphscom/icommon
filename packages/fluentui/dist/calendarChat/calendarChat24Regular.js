@@ -16,4 +16,4 @@ export var calendarChat24Regular = [
       }
     ]
   ]
-]
+];

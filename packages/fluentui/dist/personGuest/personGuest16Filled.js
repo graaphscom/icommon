@@ -16,4 +16,4 @@ export var personGuest16Filled = [
       }
     ]
   ]
-]
+];

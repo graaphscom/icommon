@@ -21,4 +21,4 @@ export var moreHorizOutlined24px = [
       }
     ]
   ]
-]
+];

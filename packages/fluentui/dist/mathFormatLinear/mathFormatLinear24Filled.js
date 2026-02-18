@@ -16,4 +16,4 @@ export var mathFormatLinear24Filled = [
       }
     ]
   ]
-]
+];

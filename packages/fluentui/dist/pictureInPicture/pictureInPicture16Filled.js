@@ -16,4 +16,4 @@ export var pictureInPicture16Filled = [
       }
     ]
   ]
-]
+];

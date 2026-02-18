@@ -53,4 +53,4 @@ export var markAsUnreadSharp20px = [
       ]
     ]
   ]
-]
+];

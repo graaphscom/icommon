@@ -21,4 +21,4 @@ export var notInterestedSharp24px = [
       }
     ]
   ]
-]
+];

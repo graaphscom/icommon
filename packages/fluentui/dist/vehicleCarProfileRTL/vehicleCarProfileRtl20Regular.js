@@ -16,4 +16,4 @@ export var vehicleCarProfileRtl20Regular = [
       }
     ]
   ]
-]
+];

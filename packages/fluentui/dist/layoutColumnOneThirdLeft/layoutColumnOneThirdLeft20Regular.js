@@ -16,4 +16,4 @@ export var layoutColumnOneThirdLeft20Regular = [
       }
     ]
   ]
-]
+];

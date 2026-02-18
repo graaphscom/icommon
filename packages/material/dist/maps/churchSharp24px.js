@@ -41,4 +41,4 @@ export var churchSharp24px = [
       ]
     ]
   ]
-]
+];

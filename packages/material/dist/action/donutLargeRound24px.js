@@ -21,4 +21,4 @@ export var donutLargeRound24px = [
       }
     ]
   ]
-]
+];

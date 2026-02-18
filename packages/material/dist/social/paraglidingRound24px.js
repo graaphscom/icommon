@@ -23,4 +23,4 @@ export var paraglidingRound24px = [
       }
     ]
   ]
-]
+];

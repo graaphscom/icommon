@@ -23,4 +23,4 @@ export var runningWithErrorsTwotone20px = [
       }
     ]
   ]
-]
+];

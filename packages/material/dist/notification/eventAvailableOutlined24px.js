@@ -21,4 +21,4 @@ export var eventAvailableOutlined24px = [
       }
     ]
   ]
-]
+];

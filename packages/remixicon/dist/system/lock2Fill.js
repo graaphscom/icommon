@@ -13,4 +13,4 @@ export var lock2Fill = [
       }
     ]
   ]
-]
+];

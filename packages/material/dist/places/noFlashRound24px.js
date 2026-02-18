@@ -29,4 +29,4 @@ export var noFlashRound24px = [
       ]
     ]
   ]
-]
+];

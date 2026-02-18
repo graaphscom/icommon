@@ -53,4 +53,4 @@ export var lunchDiningRound20px = [
       ]
     ]
   ]
-]
+];

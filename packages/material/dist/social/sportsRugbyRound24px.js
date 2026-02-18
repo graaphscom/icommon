@@ -49,4 +49,4 @@ export var sportsRugbyRound24px = [
       ]
     ]
   ]
-]
+];

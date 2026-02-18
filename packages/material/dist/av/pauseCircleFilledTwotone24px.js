@@ -86,4 +86,4 @@ export var pauseCircleFilledTwotone24px = [
       ]
     ]
   ]
-]
+];

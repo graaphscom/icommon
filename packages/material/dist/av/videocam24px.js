@@ -21,4 +21,4 @@ export var videocam24px = [
       }
     ]
   ]
-]
+];

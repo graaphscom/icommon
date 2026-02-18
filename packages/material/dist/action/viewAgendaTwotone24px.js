@@ -68,4 +68,4 @@ export var viewAgendaTwotone24px = [
       ]
     ]
   ]
-]
+];

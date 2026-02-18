@@ -23,4 +23,4 @@ export var northSharp24px = [
       }
     ]
   ]
-]
+];

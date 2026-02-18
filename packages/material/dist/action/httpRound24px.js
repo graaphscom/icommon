@@ -22,4 +22,4 @@ export var httpRound24px = [
       }
     ]
   ]
-]
+];

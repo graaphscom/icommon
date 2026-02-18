@@ -44,4 +44,4 @@ export var rectangleSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var permMediaOutlined24px = [
       }
     ]
   ]
-]
+];

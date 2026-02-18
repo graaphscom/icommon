@@ -42,4 +42,4 @@ export var dryCleaningOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var scanPerson28Regular = [
       }
     ]
   ]
-]
+];

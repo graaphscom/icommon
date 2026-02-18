@@ -21,4 +21,4 @@ export var wcRound24px = [
       }
     ]
   ]
-]
+];

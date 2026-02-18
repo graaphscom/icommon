@@ -16,4 +16,4 @@ export var textFont24Regular = [
       }
     ]
   ]
-]
+];

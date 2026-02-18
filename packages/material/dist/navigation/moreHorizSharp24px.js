@@ -21,4 +21,4 @@ export var moreHorizSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var speakerBluetooth28Filled = [
       }
     ]
   ]
-]
+];

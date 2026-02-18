@@ -21,4 +21,4 @@ export var localActivityRound24px = [
       }
     ]
   ]
-]
+];

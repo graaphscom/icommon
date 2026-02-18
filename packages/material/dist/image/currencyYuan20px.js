@@ -35,4 +35,4 @@ export var currencyYuan20px = [
       ]
     ]
   ]
-]
+];

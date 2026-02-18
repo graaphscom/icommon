@@ -21,4 +21,4 @@ export var formatListBulletedRound24px = [
       }
     ]
   ]
-]
+];

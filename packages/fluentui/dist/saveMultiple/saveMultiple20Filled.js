@@ -16,4 +16,4 @@ export var saveMultiple20Filled = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var highlightAltTwotone24px = [
       ]
     ]
   ]
-]
+];

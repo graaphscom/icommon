@@ -220,4 +220,4 @@ export var calendarCancel16Color = [
       ]
     ]
   ]
-]
+];

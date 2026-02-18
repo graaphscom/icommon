@@ -21,4 +21,4 @@ export var trendingDownSharp24px = [
       }
     ]
   ]
-]
+];

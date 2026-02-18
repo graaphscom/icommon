@@ -35,4 +35,4 @@ export var viewCompactOutlined20px = [
       ]
     ]
   ]
-]
+];

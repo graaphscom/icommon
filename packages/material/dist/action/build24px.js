@@ -22,4 +22,4 @@ export var build24px = [
       }
     ]
   ]
-]
+];

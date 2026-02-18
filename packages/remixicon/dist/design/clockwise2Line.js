@@ -13,4 +13,4 @@ export var clockwise2Line = [
       }
     ]
   ]
-]
+];

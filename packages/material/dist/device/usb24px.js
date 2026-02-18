@@ -21,4 +21,4 @@ export var usb24px = [
       }
     ]
   ]
-]
+];

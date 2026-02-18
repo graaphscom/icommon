@@ -68,4 +68,4 @@ export var queueMusic20px = [
       ]
     ]
   ]
-]
+];

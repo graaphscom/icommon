@@ -21,4 +21,4 @@ export var callSplitTwotone24px = [
       }
     ]
   ]
-]
+];

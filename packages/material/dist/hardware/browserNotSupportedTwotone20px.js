@@ -47,4 +47,4 @@ export var browserNotSupportedTwotone20px = [
       ]
     ]
   ]
-]
+];

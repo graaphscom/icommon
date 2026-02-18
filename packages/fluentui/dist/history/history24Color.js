@@ -81,4 +81,4 @@ export var history24Color = [
       ]
     ]
   ]
-]
+];

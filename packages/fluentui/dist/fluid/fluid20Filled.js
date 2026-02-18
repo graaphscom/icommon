@@ -16,4 +16,4 @@ export var fluid20Filled = [
       }
     ]
   ]
-]
+];

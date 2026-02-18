@@ -21,4 +21,4 @@ export var repeatTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var call48Regular = [
       }
     ]
   ]
-]
+];

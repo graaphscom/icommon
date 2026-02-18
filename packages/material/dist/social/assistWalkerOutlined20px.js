@@ -50,4 +50,4 @@ export var assistWalkerOutlined20px = [
       ]
     ]
   ]
-]
+];

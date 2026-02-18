@@ -22,4 +22,4 @@ export var menuOpenSharp24px = [
       }
     ]
   ]
-]
+];

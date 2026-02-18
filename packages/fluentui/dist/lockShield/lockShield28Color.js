@@ -188,4 +188,4 @@ export var lockShield28Color = [
       ]
     ]
   ]
-]
+];

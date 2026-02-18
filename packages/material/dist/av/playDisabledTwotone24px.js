@@ -49,4 +49,4 @@ export var playDisabledTwotone24px = [
       ]
     ]
   ]
-]
+];

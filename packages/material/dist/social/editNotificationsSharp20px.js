@@ -29,4 +29,4 @@ export var editNotificationsSharp20px = [
       ]
     ]
   ]
-]
+];

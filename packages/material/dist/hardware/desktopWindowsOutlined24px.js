@@ -21,4 +21,4 @@ export var desktopWindowsOutlined24px = [
       }
     ]
   ]
-]
+];

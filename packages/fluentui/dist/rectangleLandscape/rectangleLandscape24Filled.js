@@ -16,4 +16,4 @@ export var rectangleLandscape24Filled = [
       }
     ]
   ]
-]
+];

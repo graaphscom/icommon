@@ -16,4 +16,4 @@ export var documentSave20Regular = [
       }
     ]
   ]
-]
+];

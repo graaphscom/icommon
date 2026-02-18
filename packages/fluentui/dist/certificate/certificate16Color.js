@@ -183,4 +183,4 @@ export var certificate16Color = [
       ]
     ]
   ]
-]
+];

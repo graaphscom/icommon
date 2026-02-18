@@ -59,4 +59,4 @@ export var candlestickChartRound20px = [
       ]
     ]
   ]
-]
+];

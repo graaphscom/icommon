@@ -21,4 +21,4 @@ export var localMovies24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var timeAndWeather20Filled = [
       }
     ]
   ]
-]
+];

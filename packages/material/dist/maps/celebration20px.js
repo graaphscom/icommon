@@ -76,4 +76,4 @@ export var celebration20px = [
       ]
     ]
   ]
-]
+];

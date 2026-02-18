@@ -34,4 +34,4 @@ export var coffeeRound24px = [
       ]
     ]
   ]
-]
+];

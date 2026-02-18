@@ -34,4 +34,4 @@ export var manageSearch24px = [
       ]
     ]
   ]
-]
+];

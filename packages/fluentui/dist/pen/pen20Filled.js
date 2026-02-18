@@ -16,4 +16,4 @@ export var pen20Filled = [
       }
     ]
   ]
-]
+];

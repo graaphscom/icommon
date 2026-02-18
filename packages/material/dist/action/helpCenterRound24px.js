@@ -29,4 +29,4 @@ export var helpCenterRound24px = [
       ]
     ]
   ]
-]
+];

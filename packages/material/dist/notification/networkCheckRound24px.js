@@ -21,4 +21,4 @@ export var networkCheckRound24px = [
       }
     ]
   ]
-]
+];

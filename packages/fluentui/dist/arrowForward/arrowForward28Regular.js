@@ -16,4 +16,4 @@ export var arrowForward28Regular = [
       }
     ]
   ]
-]
+];

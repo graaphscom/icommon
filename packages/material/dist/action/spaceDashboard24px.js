@@ -23,4 +23,4 @@ export var spaceDashboard24px = [
       }
     ]
   ]
-]
+];

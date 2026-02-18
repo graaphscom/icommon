@@ -23,4 +23,4 @@ export var southTwotone24px = [
       }
     ]
   ]
-]
+];

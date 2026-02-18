@@ -21,4 +21,4 @@ export var newReleasesSharp24px = [
       }
     ]
   ]
-]
+];

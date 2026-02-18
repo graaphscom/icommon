@@ -16,4 +16,4 @@ export var rename20Filled = [
       }
     ]
   ]
-]
+];

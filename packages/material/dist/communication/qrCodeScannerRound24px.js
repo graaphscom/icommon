@@ -23,4 +23,4 @@ export var qrCodeScannerRound24px = [
       }
     ]
   ]
-]
+];

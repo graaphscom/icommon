@@ -48,4 +48,4 @@ export var hardwareRound20px = [
       ]
     ]
   ]
-]
+];

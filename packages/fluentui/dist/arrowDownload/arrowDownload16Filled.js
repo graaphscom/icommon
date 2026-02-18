@@ -16,4 +16,4 @@ export var arrowDownload16Filled = [
       }
     ]
   ]
-]
+];

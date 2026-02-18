@@ -23,4 +23,4 @@ export var hikingOutlined20px = [
       }
     ]
   ]
-]
+];

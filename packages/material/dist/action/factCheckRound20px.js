@@ -36,4 +36,4 @@ export var factCheckRound20px = [
       ]
     ]
   ]
-]
+];

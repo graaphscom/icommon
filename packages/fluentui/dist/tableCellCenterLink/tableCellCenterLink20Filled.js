@@ -16,4 +16,4 @@ export var tableCellCenterLink20Filled = [
       }
     ]
   ]
-]
+];

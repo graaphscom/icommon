@@ -16,4 +16,4 @@ export var linkEdit16Filled = [
       }
     ]
   ]
-]
+];

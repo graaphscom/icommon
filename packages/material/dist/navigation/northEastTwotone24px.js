@@ -23,4 +23,4 @@ export var northEastTwotone24px = [
       }
     ]
   ]
-]
+];

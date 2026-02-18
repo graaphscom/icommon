@@ -72,4 +72,4 @@ export var celebrationRound24px = [
       ]
     ]
   ]
-]
+];

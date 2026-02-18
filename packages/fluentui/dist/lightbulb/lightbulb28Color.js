@@ -162,4 +162,4 @@ export var lightbulb28Color = [
       ]
     ]
   ]
-]
+];

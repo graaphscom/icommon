@@ -14,4 +14,4 @@ export var bxKeyframeEaseIn = [
       }
     ]
   ]
-]
+];

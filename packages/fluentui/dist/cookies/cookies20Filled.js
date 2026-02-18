@@ -16,4 +16,4 @@ export var cookies20Filled = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var volumeDownTwotone24px = [
       }
     ]
   ]
-]
+];

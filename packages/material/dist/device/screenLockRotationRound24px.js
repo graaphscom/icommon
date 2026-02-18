@@ -52,4 +52,4 @@ export var screenLockRotationRound24px = [
       ]
     ]
   ]
-]
+];

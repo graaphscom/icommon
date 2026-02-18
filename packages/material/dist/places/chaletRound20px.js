@@ -23,4 +23,4 @@ export var chaletRound20px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var formatOverlineTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var cameraSwitch20Regular = [
       }
     ]
   ]
-]
+];

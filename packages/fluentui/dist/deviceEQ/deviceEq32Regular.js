@@ -16,4 +16,4 @@ export var deviceEq32Regular = [
       }
     ]
   ]
-]
+];

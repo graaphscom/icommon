@@ -35,4 +35,4 @@ export var currencyYuanRound24px = [
       ]
     ]
   ]
-]
+];

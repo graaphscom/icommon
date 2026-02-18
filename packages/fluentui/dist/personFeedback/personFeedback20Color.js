@@ -159,4 +159,4 @@ export var personFeedback20Color = [
       ]
     ]
   ]
-]
+];

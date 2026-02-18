@@ -81,4 +81,4 @@ export var clock32Color = [
       ]
     ]
   ]
-]
+];

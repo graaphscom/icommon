@@ -16,4 +16,4 @@ export var checkmarkSquare24Filled = [
       }
     ]
   ]
-]
+];

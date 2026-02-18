@@ -21,4 +21,4 @@ export var sentimentVerySatisfiedRound24px = [
       }
     ]
   ]
-]
+];

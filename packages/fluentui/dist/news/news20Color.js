@@ -257,4 +257,4 @@ export var news20Color = [
       ]
     ]
   ]
-]
+];

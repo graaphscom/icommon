@@ -16,4 +16,4 @@ export var databaseCheckmark20Regular = [
       }
     ]
   ]
-]
+];

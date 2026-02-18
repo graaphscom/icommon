@@ -21,4 +21,4 @@ export var offlineBolt24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var musicNoteSharp24px = [
       }
     ]
   ]
-]
+];

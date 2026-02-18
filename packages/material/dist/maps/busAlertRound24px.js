@@ -60,4 +60,4 @@ export var busAlertRound24px = [
       ]
     ]
   ]
-]
+];

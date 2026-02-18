@@ -16,4 +16,4 @@ export var colorFill24Filled = [
       }
     ]
   ]
-]
+];

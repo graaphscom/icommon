@@ -21,4 +21,4 @@ export var moodOutlined24px = [
       }
     ]
   ]
-]
+];

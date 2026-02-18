@@ -47,4 +47,4 @@ export var photoAlbumRound20px = [
       ]
     ]
   ]
-]
+];

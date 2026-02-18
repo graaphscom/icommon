@@ -16,4 +16,4 @@ export var presenceOffline12Regular = [
       }
     ]
   ]
-]
+];

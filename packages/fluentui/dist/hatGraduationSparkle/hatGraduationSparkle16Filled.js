@@ -16,4 +16,4 @@ export var hatGraduationSparkle16Filled = [
       }
     ]
   ]
-]
+];

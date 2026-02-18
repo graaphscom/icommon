@@ -16,4 +16,4 @@ export var personPill24Filled = [
       }
     ]
   ]
-]
+];

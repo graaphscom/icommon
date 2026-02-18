@@ -23,4 +23,4 @@ export var transgenderOutlined20px = [
       }
     ]
   ]
-]
+];

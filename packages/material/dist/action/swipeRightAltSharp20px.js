@@ -35,4 +35,4 @@ export var swipeRightAltSharp20px = [
       ]
     ]
   ]
-]
+];

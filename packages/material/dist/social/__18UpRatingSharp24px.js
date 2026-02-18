@@ -59,4 +59,4 @@ export var __18UpRatingSharp24px = [
       ]
     ]
   ]
-]
+];

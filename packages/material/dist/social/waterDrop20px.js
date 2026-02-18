@@ -23,4 +23,4 @@ export var waterDrop20px = [
       }
     ]
   ]
-]
+];

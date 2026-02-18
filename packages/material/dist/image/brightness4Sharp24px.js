@@ -21,4 +21,4 @@ export var brightness4Sharp24px = [
       }
     ]
   ]
-]
+];

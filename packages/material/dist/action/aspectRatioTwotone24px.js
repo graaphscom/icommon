@@ -28,4 +28,4 @@ export var aspectRatioTwotone24px = [
       }
     ]
   ]
-]
+];

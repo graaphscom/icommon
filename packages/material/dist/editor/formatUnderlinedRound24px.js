@@ -21,4 +21,4 @@ export var formatUnderlinedRound24px = [
       }
     ]
   ]
-]
+];

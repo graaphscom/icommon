@@ -21,4 +21,4 @@ export var findReplaceOutlined24px = [
       }
     ]
   ]
-]
+];

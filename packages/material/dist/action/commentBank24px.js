@@ -35,4 +35,4 @@ export var commentBank24px = [
       ]
     ]
   ]
-]
+];

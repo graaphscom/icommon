@@ -41,4 +41,4 @@ export var forkRight20px = [
       ]
     ]
   ]
-]
+];

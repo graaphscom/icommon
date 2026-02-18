@@ -16,4 +16,4 @@ export var cubeMultiple20Regular = [
       }
     ]
   ]
-]
+];

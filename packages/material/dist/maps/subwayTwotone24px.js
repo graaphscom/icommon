@@ -28,4 +28,4 @@ export var subwayTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var downloadDoneRound24px = [
       }
     ]
   ]
-]
+];

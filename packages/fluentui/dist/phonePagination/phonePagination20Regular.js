@@ -16,4 +16,4 @@ export var phonePagination20Regular = [
       }
     ]
   ]
-]
+];

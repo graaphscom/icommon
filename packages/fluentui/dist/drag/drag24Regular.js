@@ -16,4 +16,4 @@ export var drag24Regular = [
       }
     ]
   ]
-]
+];

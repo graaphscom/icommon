@@ -42,4 +42,4 @@ export var squareFootOutlined20px = [
       ]
     ]
   ]
-]
+];

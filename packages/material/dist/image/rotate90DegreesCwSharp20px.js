@@ -53,4 +53,4 @@ export var rotate90DegreesCwSharp20px = [
       ]
     ]
   ]
-]
+];

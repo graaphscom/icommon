@@ -71,4 +71,4 @@ export var sportsGolfRound20px = [
       ]
     ]
   ]
-]
+];

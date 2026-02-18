@@ -53,4 +53,4 @@ export var rawOnTwotone24px = [
       ]
     ]
   ]
-]
+];

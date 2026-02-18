@@ -350,4 +350,4 @@ export var peopleHome20Color = [
       ]
     ]
   ]
-]
+];

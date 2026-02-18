@@ -51,4 +51,4 @@ export var notebookAdd24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var burstModeSharp24px = [
       }
     ]
   ]
-]
+];

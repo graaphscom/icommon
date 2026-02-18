@@ -35,4 +35,4 @@ export var pauseCircleSharp20px = [
       ]
     ]
   ]
-]
+];

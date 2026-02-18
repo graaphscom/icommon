@@ -30,4 +30,4 @@ export var emojiEventsTwotone24px = [
       }
     ]
   ]
-]
+];

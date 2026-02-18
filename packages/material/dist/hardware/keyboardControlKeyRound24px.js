@@ -43,4 +43,4 @@ export var keyboardControlKeyRound24px = [
       ]
     ]
   ]
-]
+];

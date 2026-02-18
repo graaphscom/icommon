@@ -47,4 +47,4 @@ export var strikethroughS24px = [
       ]
     ]
   ]
-]
+];

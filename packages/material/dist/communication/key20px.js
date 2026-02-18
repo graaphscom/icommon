@@ -35,4 +35,4 @@ export var key20px = [
       ]
     ]
   ]
-]
+];

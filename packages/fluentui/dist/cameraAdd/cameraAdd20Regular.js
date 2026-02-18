@@ -16,4 +16,4 @@ export var cameraAdd20Regular = [
       }
     ]
   ]
-]
+];

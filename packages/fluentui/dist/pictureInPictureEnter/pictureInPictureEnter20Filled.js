@@ -16,4 +16,4 @@ export var pictureInPictureEnter20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var headset20Regular = [
       }
     ]
   ]
-]
+];

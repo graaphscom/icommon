@@ -21,4 +21,4 @@ export var lockOpenRound24px = [
       }
     ]
   ]
-]
+];

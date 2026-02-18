@@ -21,4 +21,4 @@ export var favoriteBorderSharp24px = [
       }
     ]
   ]
-]
+];

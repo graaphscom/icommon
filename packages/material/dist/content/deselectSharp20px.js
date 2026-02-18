@@ -35,4 +35,4 @@ export var deselectSharp20px = [
       ]
     ]
   ]
-]
+];

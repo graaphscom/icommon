@@ -16,4 +16,4 @@ export var lottery20Regular = [
       }
     ]
   ]
-]
+];

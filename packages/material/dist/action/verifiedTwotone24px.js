@@ -54,4 +54,4 @@ export var verifiedTwotone24px = [
       ]
     ]
   ]
-]
+];

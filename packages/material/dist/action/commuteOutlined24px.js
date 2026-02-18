@@ -21,4 +21,4 @@ export var commuteOutlined24px = [
       }
     ]
   ]
-]
+];

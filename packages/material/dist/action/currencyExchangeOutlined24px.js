@@ -35,4 +35,4 @@ export var currencyExchangeOutlined24px = [
       ]
     ]
   ]
-]
+];

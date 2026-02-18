@@ -16,4 +16,4 @@ export var personHeart32Filled = [
       }
     ]
   ]
-]
+];

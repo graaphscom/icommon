@@ -23,4 +23,4 @@ export var skateboardingRound24px = [
       }
     ]
   ]
-]
+];

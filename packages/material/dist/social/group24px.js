@@ -21,4 +21,4 @@ export var group24px = [
       }
     ]
   ]
-]
+];

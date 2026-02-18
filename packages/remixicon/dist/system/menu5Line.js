@@ -13,4 +13,4 @@ export var menu5Line = [
       }
     ]
   ]
-]
+];

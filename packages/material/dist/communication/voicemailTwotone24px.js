@@ -21,4 +21,4 @@ export var voicemailTwotone24px = [
       }
     ]
   ]
-]
+];

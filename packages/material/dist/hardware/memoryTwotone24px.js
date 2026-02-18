@@ -28,4 +28,4 @@ export var memoryTwotone24px = [
       }
     ]
   ]
-]
+];

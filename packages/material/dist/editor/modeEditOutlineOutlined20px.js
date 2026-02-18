@@ -47,4 +47,4 @@ export var modeEditOutlineOutlined20px = [
       ]
     ]
   ]
-]
+];

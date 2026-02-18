@@ -46,4 +46,4 @@ export var chairSharp24px = [
       ]
     ]
   ]
-]
+];

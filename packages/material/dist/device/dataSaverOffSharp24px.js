@@ -40,4 +40,4 @@ export var dataSaverOffSharp24px = [
       ]
     ]
   ]
-]
+];

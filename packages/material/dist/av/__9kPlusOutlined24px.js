@@ -59,4 +59,4 @@ export var __9kPlusOutlined24px = [
       ]
     ]
   ]
-]
+];

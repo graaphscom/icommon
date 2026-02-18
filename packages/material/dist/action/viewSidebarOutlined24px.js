@@ -35,4 +35,4 @@ export var viewSidebarOutlined24px = [
       ]
     ]
   ]
-]
+];

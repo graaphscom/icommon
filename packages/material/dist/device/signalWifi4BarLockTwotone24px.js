@@ -46,4 +46,4 @@ export var signalWifi4BarLockTwotone24px = [
       ]
     ]
   ]
-]
+];

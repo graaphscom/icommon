@@ -21,4 +21,4 @@ export var gavelOutlined24px = [
       }
     ]
   ]
-]
+];

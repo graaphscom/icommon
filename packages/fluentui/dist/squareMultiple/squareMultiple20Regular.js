@@ -16,4 +16,4 @@ export var squareMultiple20Regular = [
       }
     ]
   ]
-]
+];

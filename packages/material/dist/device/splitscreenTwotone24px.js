@@ -66,4 +66,4 @@ export var splitscreenTwotone24px = [
       ]
     ]
   ]
-]
+];

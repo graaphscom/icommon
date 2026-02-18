@@ -29,4 +29,4 @@ export var priorityHighTwotone24px = [
       }
     ]
   ]
-]
+];

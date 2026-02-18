@@ -35,4 +35,4 @@ export var deselect24px = [
       ]
     ]
   ]
-]
+];

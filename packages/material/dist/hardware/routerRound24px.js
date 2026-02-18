@@ -14,4 +14,4 @@ export var routerRound24px = [
       }
     ]
   ]
-]
+];

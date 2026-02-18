@@ -16,4 +16,4 @@ export var beakerAdd24Regular = [
       }
     ]
   ]
-]
+];

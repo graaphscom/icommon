@@ -16,4 +16,4 @@ export var circleHintDismiss20Filled = [
       }
     ]
   ]
-]
+];

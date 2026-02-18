@@ -325,4 +325,4 @@ export var peopleTeam24Color = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var localPizza24px = [
       }
     ]
   ]
-]
+];

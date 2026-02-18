@@ -21,4 +21,4 @@ export var favoriteOutlined24px = [
       }
     ]
   ]
-]
+];

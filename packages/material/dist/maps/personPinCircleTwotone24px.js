@@ -29,4 +29,4 @@ export var personPinCircleTwotone24px = [
       }
     ]
   ]
-]
+];

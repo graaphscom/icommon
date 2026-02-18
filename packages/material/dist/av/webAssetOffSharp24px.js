@@ -23,4 +23,4 @@ export var webAssetOffSharp24px = [
       }
     ]
   ]
-]
+];

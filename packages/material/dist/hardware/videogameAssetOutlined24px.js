@@ -37,4 +37,4 @@ export var videogameAssetOutlined24px = [
       }
     ]
   ]
-]
+];

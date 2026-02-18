@@ -29,4 +29,4 @@ export var viewModuleSharp24px = [
       ]
     ]
   ]
-]
+];

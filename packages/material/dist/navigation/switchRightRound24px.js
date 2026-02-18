@@ -24,4 +24,4 @@ export var switchRightRound24px = [
       }
     ]
   ]
-]
+];

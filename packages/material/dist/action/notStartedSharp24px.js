@@ -29,4 +29,4 @@ export var notStartedSharp24px = [
       ]
     ]
   ]
-]
+];

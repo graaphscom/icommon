@@ -16,4 +16,4 @@ export var documentCatchUp16Filled = [
       }
     ]
   ]
-]
+];

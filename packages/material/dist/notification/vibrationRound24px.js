@@ -21,4 +21,4 @@ export var vibrationRound24px = [
       }
     ]
   ]
-]
+];

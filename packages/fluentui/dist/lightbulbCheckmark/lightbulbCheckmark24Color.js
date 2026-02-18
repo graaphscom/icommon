@@ -276,4 +276,4 @@ export var lightbulbCheckmark24Color = [
       ]
     ]
   ]
-]
+];

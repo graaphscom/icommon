@@ -16,4 +16,4 @@ export var next16Filled = [
       }
     ]
   ]
-]
+];

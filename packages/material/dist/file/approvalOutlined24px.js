@@ -41,4 +41,4 @@ export var approvalOutlined24px = [
       ]
     ]
   ]
-]
+];

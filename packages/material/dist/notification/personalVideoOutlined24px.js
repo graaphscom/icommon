@@ -21,4 +21,4 @@ export var personalVideoOutlined24px = [
       }
     ]
   ]
-]
+];

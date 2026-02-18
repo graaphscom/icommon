@@ -103,4 +103,4 @@ export var flagPrideIntersexInclusiveProgress28Filled = [
       }
     ]
   ]
-]
+];

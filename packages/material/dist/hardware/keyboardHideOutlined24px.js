@@ -21,4 +21,4 @@ export var keyboardHideOutlined24px = [
       }
     ]
   ]
-]
+];

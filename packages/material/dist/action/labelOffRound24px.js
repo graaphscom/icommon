@@ -21,4 +21,4 @@ export var labelOffRound24px = [
       }
     ]
   ]
-]
+];

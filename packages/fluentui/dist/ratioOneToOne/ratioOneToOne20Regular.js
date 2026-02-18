@@ -16,4 +16,4 @@ export var ratioOneToOne20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var bookOpenLightbulb24Regular = [
       }
     ]
   ]
-]
+];

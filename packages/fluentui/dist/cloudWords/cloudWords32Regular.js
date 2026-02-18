@@ -16,4 +16,4 @@ export var cloudWords32Regular = [
       }
     ]
   ]
-]
+];

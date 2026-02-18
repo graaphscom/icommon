@@ -210,4 +210,4 @@ export var mailMultiple28Color = [
       ]
     ]
   ]
-]
+];

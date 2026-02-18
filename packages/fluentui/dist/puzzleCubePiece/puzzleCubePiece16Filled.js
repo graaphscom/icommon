@@ -16,4 +16,4 @@ export var puzzleCubePiece16Filled = [
       }
     ]
   ]
-]
+];

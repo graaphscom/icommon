@@ -16,4 +16,4 @@ export var bookExclamationMark20Regular = [
       }
     ]
   ]
-]
+];

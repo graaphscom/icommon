@@ -65,4 +65,4 @@ export var cellTower24px = [
       ]
     ]
   ]
-]
+];

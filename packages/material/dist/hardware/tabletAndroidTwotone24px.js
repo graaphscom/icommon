@@ -28,4 +28,4 @@ export var tabletAndroidTwotone24px = [
       }
     ]
   ]
-]
+];

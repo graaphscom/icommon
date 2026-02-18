@@ -16,4 +16,4 @@ export var dentist12Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var moreHoriz24px = [
       }
     ]
   ]
-]
+];

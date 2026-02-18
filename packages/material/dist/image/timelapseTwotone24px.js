@@ -28,4 +28,4 @@ export var timelapseTwotone24px = [
       }
     ]
   ]
-]
+];

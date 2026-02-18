@@ -35,4 +35,4 @@ export var numbersRound20px = [
       ]
     ]
   ]
-]
+];

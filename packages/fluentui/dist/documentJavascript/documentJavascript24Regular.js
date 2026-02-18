@@ -16,4 +16,4 @@ export var documentJavascript24Regular = [
       }
     ]
   ]
-]
+];

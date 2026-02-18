@@ -35,4 +35,4 @@ export var signLanguageRound20px = [
       ]
     ]
   ]
-]
+];

@@ -182,4 +182,4 @@ export var arrowTrendingLines20Color = [
       ]
     ]
   ]
-]
+];

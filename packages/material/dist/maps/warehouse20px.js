@@ -35,4 +35,4 @@ export var warehouse20px = [
       ]
     ]
   ]
-]
+];

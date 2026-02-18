@@ -59,4 +59,4 @@ export var electricalServicesOutlined24px = [
       ]
     ]
   ]
-]
+];

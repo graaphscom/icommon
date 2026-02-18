@@ -23,4 +23,4 @@ export var newLabelRound20px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var accessibilityCheckmark24Regular = [
       }
     ]
   ]
-]
+];

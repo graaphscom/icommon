@@ -16,4 +16,4 @@ export var weatherSnowflake24Regular = [
       }
     ]
   ]
-]
+];

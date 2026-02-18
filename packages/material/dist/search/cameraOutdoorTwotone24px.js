@@ -34,4 +34,4 @@ export var cameraOutdoorTwotone24px = [
       ]
     ]
   ]
-]
+];

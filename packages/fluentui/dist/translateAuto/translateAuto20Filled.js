@@ -16,4 +16,4 @@ export var translateAuto20Filled = [
       }
     ]
   ]
-]
+];

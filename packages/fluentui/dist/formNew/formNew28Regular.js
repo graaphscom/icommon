@@ -16,4 +16,4 @@ export var formNew28Regular = [
       }
     ]
   ]
-]
+];

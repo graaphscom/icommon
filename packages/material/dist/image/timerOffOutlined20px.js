@@ -63,4 +63,4 @@ export var timerOffOutlined20px = [
       ]
     ]
   ]
-]
+];

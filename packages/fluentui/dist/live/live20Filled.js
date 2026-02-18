@@ -16,4 +16,4 @@ export var live20Filled = [
       }
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var medicalServicesOutlined20px = [
       ]
     ]
   ]
-]
+];

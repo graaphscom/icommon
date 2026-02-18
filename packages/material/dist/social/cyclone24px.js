@@ -47,4 +47,4 @@ export var cyclone24px = [
       ]
     ]
   ]
-]
+];

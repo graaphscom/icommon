@@ -16,4 +16,4 @@ export var documentOnePage24Regular = [
       }
     ]
   ]
-]
+];

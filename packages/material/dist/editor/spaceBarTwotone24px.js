@@ -21,4 +21,4 @@ export var spaceBarTwotone24px = [
       }
     ]
   ]
-]
+];

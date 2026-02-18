@@ -16,4 +16,4 @@ export var arrowSortUpLines20Regular = [
       }
     ]
   ]
-]
+];

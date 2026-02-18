@@ -16,4 +16,4 @@ export var toolbox12Regular = [
       }
     ]
   ]
-]
+];

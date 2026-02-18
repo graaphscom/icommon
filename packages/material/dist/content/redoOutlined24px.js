@@ -21,4 +21,4 @@ export var redoOutlined24px = [
       }
     ]
   ]
-]
+];

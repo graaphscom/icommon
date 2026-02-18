@@ -54,4 +54,4 @@ export var __18UpRatingOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var globeAdd20Filled = [
       }
     ]
   ]
-]
+];

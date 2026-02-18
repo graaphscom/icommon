@@ -21,4 +21,4 @@ export var clearAllOutlined24px = [
       }
     ]
   ]
-]
+];

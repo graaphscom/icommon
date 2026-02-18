@@ -42,4 +42,4 @@ export var directionsBoatRound24px = [
       ]
     ]
   ]
-]
+];

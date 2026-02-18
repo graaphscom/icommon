@@ -16,4 +16,4 @@ export var cursorClick20Regular = [
       }
     ]
   ]
-]
+];

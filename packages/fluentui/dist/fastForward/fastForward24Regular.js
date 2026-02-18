@@ -16,4 +16,4 @@ export var fastForward24Regular = [
       }
     ]
   ]
-]
+];

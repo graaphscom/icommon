@@ -13,4 +13,4 @@ export var puzzle2Line = [
       }
     ]
   ]
-]
+];

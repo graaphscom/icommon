@@ -53,4 +53,4 @@ export var speakerPhoneRound24px = [
       ]
     ]
   ]
-]
+];

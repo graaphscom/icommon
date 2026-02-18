@@ -16,4 +16,4 @@ export var flashOff20Filled = [
       }
     ]
   ]
-]
+];

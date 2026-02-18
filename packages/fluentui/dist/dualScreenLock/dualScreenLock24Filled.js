@@ -16,4 +16,4 @@ export var dualScreenLock24Filled = [
       }
     ]
   ]
-]
+];

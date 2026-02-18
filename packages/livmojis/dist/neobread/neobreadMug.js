@@ -156,4 +156,4 @@ export var neobreadMug = [
       }
     ]
   ]
-]
+];

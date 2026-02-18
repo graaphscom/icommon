@@ -23,4 +23,4 @@ export var locationPin24px = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var webhookOutlined20px = [
       ]
     ]
   ]
-]
+];

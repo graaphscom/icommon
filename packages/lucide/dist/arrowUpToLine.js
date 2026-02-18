@@ -31,4 +31,4 @@ export var arrowUpToLine = [
       }
     ]
   ]
-]
+];

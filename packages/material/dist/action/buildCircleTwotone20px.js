@@ -54,4 +54,4 @@ export var buildCircleTwotone20px = [
       ]
     ]
   ]
-]
+];

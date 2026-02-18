@@ -35,4 +35,4 @@ export var parkSharp20px = [
       ]
     ]
   ]
-]
+];

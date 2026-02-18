@@ -35,4 +35,4 @@ export var shuffleOnSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var logout24px = [
       }
     ]
   ]
-]
+];

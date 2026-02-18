@@ -16,4 +16,4 @@ export var stackOff28Filled = [
       }
     ]
   ]
-]
+];

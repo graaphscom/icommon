@@ -28,4 +28,4 @@ export var airplanemodeActiveRound24px = [
       ]
     ]
   ]
-]
+];

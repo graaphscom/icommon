@@ -42,4 +42,4 @@ export var photoCameraBackTwotone24px = [
       ]
     ]
   ]
-]
+];

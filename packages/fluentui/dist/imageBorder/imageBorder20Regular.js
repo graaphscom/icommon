@@ -16,4 +16,4 @@ export var imageBorder20Regular = [
       }
     ]
   ]
-]
+];

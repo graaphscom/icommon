@@ -16,4 +16,4 @@ export var pin48Regular = [
       }
     ]
   ]
-]
+];

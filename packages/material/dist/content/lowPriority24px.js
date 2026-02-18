@@ -21,4 +21,4 @@ export var lowPriority24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shoppingBag24Regular = [
       }
     ]
   ]
-]
+];

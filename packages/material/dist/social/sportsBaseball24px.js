@@ -71,4 +71,4 @@ export var sportsBaseball24px = [
       ]
     ]
   ]
-]
+];

@@ -63,4 +63,4 @@ export var downloadForOfflineTwotone24px = [
       ]
     ]
   ]
-]
+];

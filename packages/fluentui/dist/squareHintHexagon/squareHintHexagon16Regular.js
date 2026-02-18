@@ -16,4 +16,4 @@ export var squareHintHexagon16Regular = [
       }
     ]
   ]
-]
+];

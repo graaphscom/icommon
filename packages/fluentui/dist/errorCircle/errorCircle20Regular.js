@@ -16,4 +16,4 @@ export var errorCircle20Regular = [
       }
     ]
   ]
-]
+];

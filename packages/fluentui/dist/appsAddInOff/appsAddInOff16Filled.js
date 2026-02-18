@@ -16,4 +16,4 @@ export var appsAddInOff16Filled = [
       }
     ]
   ]
-]
+];

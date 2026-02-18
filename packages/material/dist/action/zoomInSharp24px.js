@@ -21,4 +21,4 @@ export var zoomInSharp24px = [
       }
     ]
   ]
-]
+];

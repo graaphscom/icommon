@@ -16,4 +16,4 @@ export var shield28Regular = [
       }
     ]
   ]
-]
+];

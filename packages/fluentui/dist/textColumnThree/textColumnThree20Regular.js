@@ -16,4 +16,4 @@ export var textColumnThree20Regular = [
       }
     ]
   ]
-]
+];

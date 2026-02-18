@@ -29,4 +29,4 @@ export var tableView24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var straightenSharp24px = [
       }
     ]
   ]
-]
+];

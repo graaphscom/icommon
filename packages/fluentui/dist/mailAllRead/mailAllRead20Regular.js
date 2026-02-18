@@ -16,4 +16,4 @@ export var mailAllRead20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var doDisturbOutlined24px = [
       }
     ]
   ]
-]
+];

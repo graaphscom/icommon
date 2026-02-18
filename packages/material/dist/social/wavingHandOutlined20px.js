@@ -23,4 +23,4 @@ export var wavingHandOutlined20px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var acUnitTwotone24px = [
       }
     ]
   ]
-]
+];

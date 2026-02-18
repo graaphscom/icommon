@@ -13,4 +13,4 @@ export var anticlockwise2Line = [
       }
     ]
   ]
-]
+];

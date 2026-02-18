@@ -47,4 +47,4 @@ export var mosque24px = [
       ]
     ]
   ]
-]
+];

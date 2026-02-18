@@ -30,4 +30,4 @@ export var catchingPokemonTwotone20px = [
       }
     ]
   ]
-]
+];

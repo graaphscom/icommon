@@ -16,4 +16,4 @@ export var presenceUnknown20Regular = [
       }
     ]
   ]
-]
+];

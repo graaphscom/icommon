@@ -21,4 +21,4 @@ export var personAddDisabledOutlined24px = [
       }
     ]
   ]
-]
+];

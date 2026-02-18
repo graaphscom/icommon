@@ -76,4 +76,4 @@ export var groups3Outlined20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var localLanguage16Filled = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var doNotStepSharp24px = [
       ]
     ]
   ]
-]
+];

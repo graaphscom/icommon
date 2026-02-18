@@ -16,4 +16,4 @@ export var tableInsertColumn28Regular = [
       }
     ]
   ]
-]
+];

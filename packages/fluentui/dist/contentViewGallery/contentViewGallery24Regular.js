@@ -16,4 +16,4 @@ export var contentViewGallery24Regular = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var draftsTwotone24px = [
       }
     ]
   ]
-]
+];

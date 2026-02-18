@@ -16,4 +16,4 @@ export var dividerShort20Filled = [
       }
     ]
   ]
-]
+];

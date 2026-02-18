@@ -55,4 +55,4 @@ export var fastForwardOutlined24px = [
       ]
     ]
   ]
-]
+];

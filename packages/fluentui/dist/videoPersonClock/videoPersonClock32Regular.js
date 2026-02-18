@@ -16,4 +16,4 @@ export var videoPersonClock32Regular = [
       }
     ]
   ]
-]
+];

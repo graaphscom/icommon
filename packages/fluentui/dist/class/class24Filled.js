@@ -16,4 +16,4 @@ export var class24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var flipToBackOutlined24px = [
       }
     ]
   ]
-]
+];

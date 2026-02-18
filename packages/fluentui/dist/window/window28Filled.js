@@ -16,4 +16,4 @@ export var window28Filled = [
       }
     ]
   ]
-]
+];

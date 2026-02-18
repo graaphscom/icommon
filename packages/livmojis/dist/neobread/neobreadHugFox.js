@@ -208,4 +208,4 @@ export var neobreadHugFox = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentSignature28Filled = [
       }
     ]
   ]
-]
+];

@@ -24,4 +24,4 @@ export var videogameAssetOffSharp20px = [
       }
     ]
   ]
-]
+];

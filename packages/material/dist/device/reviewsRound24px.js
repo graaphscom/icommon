@@ -34,4 +34,4 @@ export var reviewsRound24px = [
       ]
     ]
   ]
-]
+];

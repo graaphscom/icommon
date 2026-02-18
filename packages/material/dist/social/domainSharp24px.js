@@ -21,4 +21,4 @@ export var domainSharp24px = [
       }
     ]
   ]
-]
+];

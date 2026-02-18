@@ -65,4 +65,4 @@ export var broadcastOnHome20px = [
       ]
     ]
   ]
-]
+];

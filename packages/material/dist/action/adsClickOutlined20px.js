@@ -23,4 +23,4 @@ export var adsClickOutlined20px = [
       }
     ]
   ]
-]
+];

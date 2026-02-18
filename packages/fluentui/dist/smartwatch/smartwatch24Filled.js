@@ -16,4 +16,4 @@ export var smartwatch24Filled = [
       }
     ]
   ]
-]
+];

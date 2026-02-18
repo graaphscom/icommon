@@ -56,4 +56,4 @@ export var moveUpSharp24px = [
       ]
     ]
   ]
-]
+];

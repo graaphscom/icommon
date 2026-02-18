@@ -53,4 +53,4 @@ export var barChartRound20px = [
       ]
     ]
   ]
-]
+];

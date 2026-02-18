@@ -37,4 +37,4 @@ export var childCareOutlined24px = [
       }
     ]
   ]
-]
+];

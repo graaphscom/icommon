@@ -47,4 +47,4 @@ export var lockPersonOutlined24px = [
       ]
     ]
   ]
-]
+];

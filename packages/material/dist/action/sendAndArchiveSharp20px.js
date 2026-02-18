@@ -59,4 +59,4 @@ export var sendAndArchiveSharp20px = [
       ]
     ]
   ]
-]
+];

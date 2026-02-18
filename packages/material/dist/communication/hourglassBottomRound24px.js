@@ -43,4 +43,4 @@ export var hourglassBottomRound24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var timer10Round24px = [
       }
     ]
   ]
-]
+];

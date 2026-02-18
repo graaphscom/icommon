@@ -35,4 +35,4 @@ export var swipeUpAltSharp24px = [
       ]
     ]
   ]
-]
+];

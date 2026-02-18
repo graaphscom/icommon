@@ -23,4 +23,4 @@ export var northWest24px = [
       }
     ]
   ]
-]
+];

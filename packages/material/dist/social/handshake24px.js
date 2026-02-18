@@ -35,4 +35,4 @@ export var handshake24px = [
       ]
     ]
   ]
-]
+];

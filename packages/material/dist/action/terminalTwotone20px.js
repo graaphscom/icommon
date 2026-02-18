@@ -63,4 +63,4 @@ export var terminalTwotone20px = [
       ]
     ]
   ]
-]
+];

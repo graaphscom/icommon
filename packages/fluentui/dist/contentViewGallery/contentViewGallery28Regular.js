@@ -16,4 +16,4 @@ export var contentViewGallery28Regular = [
       }
     ]
   ]
-]
+];

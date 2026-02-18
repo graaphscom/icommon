@@ -21,4 +21,4 @@ export var noteAddSharp24px = [
       }
     ]
   ]
-]
+];

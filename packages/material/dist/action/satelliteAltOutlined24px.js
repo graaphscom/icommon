@@ -35,4 +35,4 @@ export var satelliteAltOutlined24px = [
       ]
     ]
   ]
-]
+];

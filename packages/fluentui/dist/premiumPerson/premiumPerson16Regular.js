@@ -16,4 +16,4 @@ export var premiumPerson16Regular = [
       }
     ]
   ]
-]
+];

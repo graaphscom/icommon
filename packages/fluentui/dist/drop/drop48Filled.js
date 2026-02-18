@@ -16,4 +16,4 @@ export var drop48Filled = [
       }
     ]
   ]
-]
+];

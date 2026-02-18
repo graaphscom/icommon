@@ -33,4 +33,4 @@ export var viewCarouselTwotone20px = [
       }
     ]
   ]
-]
+];

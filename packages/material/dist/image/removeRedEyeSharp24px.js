@@ -21,4 +21,4 @@ export var removeRedEyeSharp24px = [
       }
     ]
   ]
-]
+];

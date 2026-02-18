@@ -14,4 +14,4 @@ export var triangleDown16 = [
       }
     ]
   ]
-]
+];

@@ -71,4 +71,4 @@ export var tornadoRound20px = [
       ]
     ]
   ]
-]
+];

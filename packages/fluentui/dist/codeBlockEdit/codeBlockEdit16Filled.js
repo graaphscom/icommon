@@ -16,4 +16,4 @@ export var codeBlockEdit16Filled = [
       }
     ]
   ]
-]
+];

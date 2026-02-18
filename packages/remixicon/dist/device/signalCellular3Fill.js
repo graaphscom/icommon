@@ -13,4 +13,4 @@ export var signalCellular3Fill = [
       }
     ]
   ]
-]
+];

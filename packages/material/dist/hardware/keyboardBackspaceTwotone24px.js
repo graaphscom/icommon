@@ -21,4 +21,4 @@ export var keyboardBackspaceTwotone24px = [
       }
     ]
   ]
-]
+];

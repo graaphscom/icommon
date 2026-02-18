@@ -29,4 +29,4 @@ export var compassCalibration24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var medicalServicesOutlined24px = [
       ]
     ]
   ]
-]
+];

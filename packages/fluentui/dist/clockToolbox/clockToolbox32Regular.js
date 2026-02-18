@@ -16,4 +16,4 @@ export var clockToolbox32Regular = [
       }
     ]
   ]
-]
+];

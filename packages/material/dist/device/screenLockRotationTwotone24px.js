@@ -21,4 +21,4 @@ export var screenLockRotationTwotone24px = [
       }
     ]
   ]
-]
+];

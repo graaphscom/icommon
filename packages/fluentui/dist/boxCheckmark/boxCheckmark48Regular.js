@@ -16,4 +16,4 @@ export var boxCheckmark48Regular = [
       }
     ]
   ]
-]
+];

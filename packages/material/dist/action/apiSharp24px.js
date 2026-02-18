@@ -29,4 +29,4 @@ export var apiSharp24px = [
       ]
     ]
   ]
-]
+];

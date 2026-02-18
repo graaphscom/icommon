@@ -16,4 +16,4 @@ export var desktopOff20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personSubtract16Filled = [
       }
     ]
   ]
-]
+];

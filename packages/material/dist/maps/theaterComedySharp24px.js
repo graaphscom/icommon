@@ -47,4 +47,4 @@ export var theaterComedySharp24px = [
       ]
     ]
   ]
-]
+];

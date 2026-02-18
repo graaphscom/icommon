@@ -41,4 +41,4 @@ export var cloudSyncRound20px = [
       ]
     ]
   ]
-]
+];

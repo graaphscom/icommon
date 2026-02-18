@@ -35,4 +35,4 @@ export var playCircleOutlined24px = [
       ]
     ]
   ]
-]
+];

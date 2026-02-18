@@ -21,4 +21,4 @@ export var draftsOutlined24px = [
       }
     ]
   ]
-]
+];

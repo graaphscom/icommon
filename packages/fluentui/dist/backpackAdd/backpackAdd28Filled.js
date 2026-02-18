@@ -16,4 +16,4 @@ export var backpackAdd28Filled = [
       }
     ]
   ]
-]
+];

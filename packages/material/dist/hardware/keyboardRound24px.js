@@ -14,4 +14,4 @@ export var keyboardRound24px = [
       }
     ]
   ]
-]
+];

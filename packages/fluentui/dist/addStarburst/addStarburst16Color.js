@@ -97,4 +97,4 @@ export var addStarburst16Color = [
       ]
     ]
   ]
-]
+];

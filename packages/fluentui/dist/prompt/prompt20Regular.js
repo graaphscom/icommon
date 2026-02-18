@@ -16,4 +16,4 @@ export var prompt20Regular = [
       }
     ]
   ]
-]
+];

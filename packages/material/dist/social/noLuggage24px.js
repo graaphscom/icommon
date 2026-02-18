@@ -23,4 +23,4 @@ export var noLuggage24px = [
       }
     ]
   ]
-]
+];

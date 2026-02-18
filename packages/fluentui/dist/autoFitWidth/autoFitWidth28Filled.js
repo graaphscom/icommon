@@ -16,4 +16,4 @@ export var autoFitWidth28Filled = [
       }
     ]
   ]
-]
+];

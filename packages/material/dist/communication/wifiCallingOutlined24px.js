@@ -59,4 +59,4 @@ export var wifiCallingOutlined24px = [
       ]
     ]
   ]
-]
+];

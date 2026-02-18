@@ -21,4 +21,4 @@ export var flashOnRound24px = [
       }
     ]
   ]
-]
+];

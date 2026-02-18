@@ -16,4 +16,4 @@ export var textColumnTwo24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var titleOutlined24px = [
       }
     ]
   ]
-]
+];

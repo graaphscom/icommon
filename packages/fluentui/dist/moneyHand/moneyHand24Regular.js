@@ -16,4 +16,4 @@ export var moneyHand24Regular = [
       }
     ]
   ]
-]
+];

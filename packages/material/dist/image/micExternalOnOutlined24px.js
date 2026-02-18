@@ -47,4 +47,4 @@ export var micExternalOnOutlined24px = [
       ]
     ]
   ]
-]
+];

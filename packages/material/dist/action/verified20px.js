@@ -35,4 +35,4 @@ export var verified20px = [
       ]
     ]
   ]
-]
+];

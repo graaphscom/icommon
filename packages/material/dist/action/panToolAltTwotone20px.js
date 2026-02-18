@@ -42,4 +42,4 @@ export var panToolAltTwotone20px = [
       ]
     ]
   ]
-]
+];

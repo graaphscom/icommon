@@ -16,4 +16,4 @@ export var tagReset20Filled = [
       }
     ]
   ]
-]
+];

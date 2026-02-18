@@ -16,4 +16,4 @@ export var bookDismiss16Regular = [
       }
     ]
   ]
-]
+];

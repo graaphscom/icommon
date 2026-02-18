@@ -61,4 +61,4 @@ export var nightsStayRound24px = [
       ]
     ]
   ]
-]
+];

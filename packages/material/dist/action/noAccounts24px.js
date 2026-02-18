@@ -47,4 +47,4 @@ export var noAccounts24px = [
       ]
     ]
   ]
-]
+];

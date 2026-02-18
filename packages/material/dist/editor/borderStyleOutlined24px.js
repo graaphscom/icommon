@@ -21,4 +21,4 @@ export var borderStyleOutlined24px = [
       }
     ]
   ]
-]
+];

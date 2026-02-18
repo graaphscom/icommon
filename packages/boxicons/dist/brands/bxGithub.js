@@ -15,4 +15,4 @@ export var bxGithub = [
       }
     ]
   ]
-]
+];

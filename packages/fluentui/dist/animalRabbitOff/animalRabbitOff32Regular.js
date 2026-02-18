@@ -16,4 +16,4 @@ export var animalRabbitOff32Regular = [
       }
     ]
   ]
-]
+];

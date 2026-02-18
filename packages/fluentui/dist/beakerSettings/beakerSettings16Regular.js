@@ -16,4 +16,4 @@ export var beakerSettings16Regular = [
       }
     ]
   ]
-]
+];

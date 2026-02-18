@@ -21,4 +21,4 @@ export var cameraRearOutlined24px = [
       }
     ]
   ]
-]
+];

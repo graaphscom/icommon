@@ -16,4 +16,4 @@ export var folderAdd28Regular = [
       }
     ]
   ]
-]
+];

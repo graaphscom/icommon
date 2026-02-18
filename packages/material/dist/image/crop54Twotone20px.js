@@ -35,4 +35,4 @@ export var crop54Twotone20px = [
       ]
     ]
   ]
-]
+];

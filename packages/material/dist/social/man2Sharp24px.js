@@ -49,4 +49,4 @@ export var man2Sharp24px = [
       ]
     ]
   ]
-]
+];

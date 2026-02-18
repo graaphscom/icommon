@@ -21,4 +21,4 @@ export var borderClearRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var filePresent24px = [
       }
     ]
   ]
-]
+];

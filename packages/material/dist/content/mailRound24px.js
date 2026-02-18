@@ -21,4 +21,4 @@ export var mailRound24px = [
       }
     ]
   ]
-]
+];

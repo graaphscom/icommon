@@ -23,4 +23,4 @@ export var newLabel20px = [
       }
     ]
   ]
-]
+];

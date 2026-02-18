@@ -16,4 +16,4 @@ export var weatherSunnyHigh48Regular = [
       }
     ]
   ]
-]
+];

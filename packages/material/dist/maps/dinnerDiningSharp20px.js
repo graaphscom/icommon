@@ -48,4 +48,4 @@ export var dinnerDiningSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var panelLeftFocusRight28Filled = [
       }
     ]
   ]
-]
+];

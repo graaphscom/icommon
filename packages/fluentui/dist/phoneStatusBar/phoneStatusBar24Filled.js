@@ -16,4 +16,4 @@ export var phoneStatusBar24Filled = [
       }
     ]
   ]
-]
+];

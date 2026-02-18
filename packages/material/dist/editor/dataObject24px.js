@@ -47,4 +47,4 @@ export var dataObject24px = [
       ]
     ]
   ]
-]
+];

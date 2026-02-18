@@ -28,4 +28,4 @@ export var horizontalSplitTwotone24px = [
       }
     ]
   ]
-]
+];

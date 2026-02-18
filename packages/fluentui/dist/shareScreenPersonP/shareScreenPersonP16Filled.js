@@ -16,4 +16,4 @@ export var shareScreenPersonP16Filled = [
       }
     ]
   ]
-]
+];

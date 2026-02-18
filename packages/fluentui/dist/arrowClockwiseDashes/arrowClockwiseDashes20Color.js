@@ -551,4 +551,4 @@ export var arrowClockwiseDashes20Color = [
       ]
     ]
   ]
-]
+];

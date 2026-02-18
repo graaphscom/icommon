@@ -23,4 +23,4 @@ export var editNote24px = [
       }
     ]
   ]
-]
+];

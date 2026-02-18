@@ -28,4 +28,4 @@ export var speakerGroupRound24px = [
       }
     ]
   ]
-]
+];

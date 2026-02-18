@@ -23,4 +23,4 @@ export var downhillSkiingSharp24px = [
       }
     ]
   ]
-]
+];

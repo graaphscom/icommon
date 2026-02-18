@@ -16,4 +16,4 @@ export var peopleTeamDelete24Regular = [
       }
     ]
   ]
-]
+];

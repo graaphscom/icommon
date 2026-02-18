@@ -16,4 +16,4 @@ export var sendBeaker28Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var dateRangeRound24px = [
       }
     ]
   ]
-]
+];

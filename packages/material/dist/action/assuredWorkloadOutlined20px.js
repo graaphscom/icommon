@@ -78,4 +78,4 @@ export var assuredWorkloadOutlined20px = [
       ]
     ]
   ]
-]
+];

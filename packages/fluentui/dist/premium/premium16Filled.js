@@ -16,4 +16,4 @@ export var premium16Filled = [
       }
     ]
   ]
-]
+];

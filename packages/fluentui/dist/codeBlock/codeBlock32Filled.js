@@ -16,4 +16,4 @@ export var codeBlock32Filled = [
       }
     ]
   ]
-]
+];

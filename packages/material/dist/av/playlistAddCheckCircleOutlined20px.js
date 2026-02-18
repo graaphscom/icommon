@@ -23,4 +23,4 @@ export var playlistAddCheckCircleOutlined20px = [
       }
     ]
   ]
-]
+];

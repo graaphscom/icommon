@@ -23,4 +23,4 @@ export var archiveClock16Regular = [
       }
     ]
   ]
-]
+];

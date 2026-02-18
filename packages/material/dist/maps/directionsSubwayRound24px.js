@@ -21,4 +21,4 @@ export var directionsSubwayRound24px = [
       }
     ]
   ]
-]
+];

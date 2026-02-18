@@ -80,4 +80,4 @@ export var formatListBulletedAdd24px = [
       ]
     ]
   ]
-]
+];

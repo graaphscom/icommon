@@ -16,4 +16,4 @@ export var tableSettings28Filled = [
       }
     ]
   ]
-]
+];

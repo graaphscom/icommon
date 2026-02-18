@@ -23,4 +23,4 @@ export var crueltyFreeSharp24px = [
       }
     ]
   ]
-]
+];

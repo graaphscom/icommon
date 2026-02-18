@@ -24,4 +24,4 @@ export var lockResetOutlined20px = [
       }
     ]
   ]
-]
+];

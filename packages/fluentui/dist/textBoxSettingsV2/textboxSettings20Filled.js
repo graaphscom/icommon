@@ -16,4 +16,4 @@ export var textboxSettings20Filled = [
       }
     ]
   ]
-]
+];

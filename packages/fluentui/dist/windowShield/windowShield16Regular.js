@@ -16,4 +16,4 @@ export var windowShield16Regular = [
       }
     ]
   ]
-]
+];

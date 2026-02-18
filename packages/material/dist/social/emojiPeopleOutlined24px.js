@@ -53,4 +53,4 @@ export var emojiPeopleOutlined24px = [
       ]
     ]
   ]
-]
+];

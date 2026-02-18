@@ -51,4 +51,4 @@ export var constructionSharp20px = [
       ]
     ]
   ]
-]
+];

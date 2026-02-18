@@ -16,4 +16,4 @@ export var pollHorizontal24Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var facebookRound24px = [
       }
     ]
   ]
-]
+];

@@ -22,4 +22,4 @@ export var headsetMic24px = [
       }
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var man2Sharp20px = [
       ]
     ]
   ]
-]
+];

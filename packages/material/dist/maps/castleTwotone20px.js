@@ -66,4 +66,4 @@ export var castleTwotone20px = [
       ]
     ]
   ]
-]
+];

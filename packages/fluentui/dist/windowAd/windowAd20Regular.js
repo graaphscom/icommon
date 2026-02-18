@@ -16,4 +16,4 @@ export var windowAd20Regular = [
       }
     ]
   ]
-]
+];

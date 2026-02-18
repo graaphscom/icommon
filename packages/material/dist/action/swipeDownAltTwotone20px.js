@@ -44,4 +44,4 @@ export var swipeDownAltTwotone20px = [
       ]
     ]
   ]
-]
+];

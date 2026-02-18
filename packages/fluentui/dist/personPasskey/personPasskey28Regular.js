@@ -16,4 +16,4 @@ export var personPasskey28Regular = [
       }
     ]
   ]
-]
+];

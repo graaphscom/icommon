@@ -135,4 +135,4 @@ export var neobreadLaughTears = [
       }
     ]
   ]
-]
+];

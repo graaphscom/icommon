@@ -28,4 +28,4 @@ export var assignmentLateTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var router24px = [
       }
     ]
   ]
-]
+];

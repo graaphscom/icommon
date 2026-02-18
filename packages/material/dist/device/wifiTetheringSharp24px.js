@@ -21,4 +21,4 @@ export var wifiTetheringSharp24px = [
       }
     ]
   ]
-]
+];

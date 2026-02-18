@@ -21,4 +21,4 @@ export var directionsRailway24px = [
       }
     ]
   ]
-]
+];

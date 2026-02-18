@@ -16,4 +16,4 @@ export var arrowPrevious12Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var syncAltSharp24px = [
       ]
     ]
   ]
-]
+];

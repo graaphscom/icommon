@@ -81,4 +81,4 @@ export var coPresentRound24px = [
       ]
     ]
   ]
-]
+];

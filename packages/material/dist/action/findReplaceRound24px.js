@@ -21,4 +21,4 @@ export var findReplaceRound24px = [
       }
     ]
   ]
-]
+];

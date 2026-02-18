@@ -21,4 +21,4 @@ export var restaurantOutlined24px = [
       }
     ]
   ]
-]
+];

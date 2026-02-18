@@ -23,4 +23,4 @@ export var timer3SelectSharp24px = [
       }
     ]
   ]
-]
+];

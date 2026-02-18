@@ -16,4 +16,4 @@ export var desktopEdit20Filled = [
       }
     ]
   ]
-]
+];

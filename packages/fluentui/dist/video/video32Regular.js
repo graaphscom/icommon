@@ -16,4 +16,4 @@ export var video32Regular = [
       }
     ]
   ]
-]
+];

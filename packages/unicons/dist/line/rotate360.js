@@ -12,4 +12,4 @@ export var rotate360 = [
       }
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var militaryTechTwotone24px = [
       ]
     ]
   ]
-]
+];

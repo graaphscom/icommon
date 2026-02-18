@@ -29,4 +29,4 @@ export var subscriptTwotone24px = [
       ]
     ]
   ]
-]
+];

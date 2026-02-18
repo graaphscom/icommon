@@ -16,4 +16,4 @@ export var xboxControllerError24Regular = [
       }
     ]
   ]
-]
+];

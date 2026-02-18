@@ -89,4 +89,4 @@ export var personSearchTwotone20px = [
       ]
     ]
   ]
-]
+];

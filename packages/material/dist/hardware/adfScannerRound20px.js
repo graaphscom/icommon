@@ -35,4 +35,4 @@ export var adfScannerRound20px = [
       ]
     ]
   ]
-]
+];

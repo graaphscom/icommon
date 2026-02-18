@@ -16,4 +16,4 @@ export var maximize16Filled = [
       }
     ]
   ]
-]
+];

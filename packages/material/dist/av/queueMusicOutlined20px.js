@@ -68,4 +68,4 @@ export var queueMusicOutlined20px = [
       ]
     ]
   ]
-]
+];

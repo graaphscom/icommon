@@ -40,4 +40,4 @@ export var hdrOnSelectOutlined24px = [
       ]
     ]
   ]
-]
+];

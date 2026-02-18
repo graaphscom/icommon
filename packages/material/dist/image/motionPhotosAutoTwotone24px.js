@@ -23,4 +23,4 @@ export var motionPhotosAutoTwotone24px = [
       }
     ]
   ]
-]
+];

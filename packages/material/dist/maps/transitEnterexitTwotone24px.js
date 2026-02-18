@@ -21,4 +21,4 @@ export var transitEnterexitTwotone24px = [
       }
     ]
   ]
-]
+];

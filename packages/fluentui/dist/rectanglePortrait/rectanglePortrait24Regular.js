@@ -16,4 +16,4 @@ export var rectanglePortrait24Regular = [
       }
     ]
   ]
-]
+];

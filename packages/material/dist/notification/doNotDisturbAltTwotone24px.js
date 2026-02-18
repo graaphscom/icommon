@@ -47,4 +47,4 @@ export var doNotDisturbAltTwotone24px = [
       ]
     ]
   ]
-]
+];

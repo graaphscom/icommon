@@ -29,4 +29,4 @@ export var horizontalRuleRound20px = [
       ]
     ]
   ]
-]
+];

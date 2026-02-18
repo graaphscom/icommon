@@ -16,4 +16,4 @@ export var personAdd48Filled = [
       }
     ]
   ]
-]
+];

@@ -83,4 +83,4 @@ export var editRoad24px = [
       ]
     ]
   ]
-]
+];

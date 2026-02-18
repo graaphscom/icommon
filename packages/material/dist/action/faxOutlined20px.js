@@ -107,4 +107,4 @@ export var faxOutlined20px = [
       ]
     ]
   ]
-]
+];

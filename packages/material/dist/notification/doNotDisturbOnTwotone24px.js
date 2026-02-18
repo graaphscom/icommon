@@ -64,4 +64,4 @@ export var doNotDisturbOnTwotone24px = [
       ]
     ]
   ]
-]
+];

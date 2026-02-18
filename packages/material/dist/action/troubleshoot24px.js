@@ -47,4 +47,4 @@ export var troubleshoot24px = [
       ]
     ]
   ]
-]
+];

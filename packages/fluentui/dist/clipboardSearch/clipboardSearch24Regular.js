@@ -16,4 +16,4 @@ export var clipboardSearch24Regular = [
       }
     ]
   ]
-]
+];

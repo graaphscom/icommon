@@ -21,4 +21,4 @@ export var highQualityOutlined24px = [
       }
     ]
   ]
-]
+];

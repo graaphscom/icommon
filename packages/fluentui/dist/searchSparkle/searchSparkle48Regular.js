@@ -16,4 +16,4 @@ export var searchSparkle48Regular = [
       }
     ]
   ]
-]
+];

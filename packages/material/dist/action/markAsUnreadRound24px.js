@@ -46,4 +46,4 @@ export var markAsUnreadRound24px = [
       ]
     ]
   ]
-]
+];

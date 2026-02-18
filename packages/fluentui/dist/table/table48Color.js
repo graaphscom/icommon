@@ -85,4 +85,4 @@ export var table48Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var phoneChat16Regular = [
       }
     ]
   ]
-]
+];

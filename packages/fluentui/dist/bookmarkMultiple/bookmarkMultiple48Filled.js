@@ -16,4 +16,4 @@ export var bookmarkMultiple48Filled = [
       }
     ]
   ]
-]
+];

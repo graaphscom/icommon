@@ -21,4 +21,4 @@ export var __3dRotationRound24px = [
       }
     ]
   ]
-]
+];

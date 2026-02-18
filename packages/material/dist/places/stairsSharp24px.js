@@ -42,4 +42,4 @@ export var stairsSharp24px = [
       ]
     ]
   ]
-]
+];

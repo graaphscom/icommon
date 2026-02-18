@@ -21,4 +21,4 @@ export var appsRound24px = [
       }
     ]
   ]
-]
+];

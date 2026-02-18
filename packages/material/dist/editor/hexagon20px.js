@@ -35,4 +35,4 @@ export var hexagon20px = [
       ]
     ]
   ]
-]
+];

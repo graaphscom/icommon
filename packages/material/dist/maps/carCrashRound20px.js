@@ -41,4 +41,4 @@ export var carCrashRound20px = [
       ]
     ]
   ]
-]
+];

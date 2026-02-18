@@ -88,4 +88,4 @@ export var warning28Color = [
       ]
     ]
   ]
-]
+];

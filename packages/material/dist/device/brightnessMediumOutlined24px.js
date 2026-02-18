@@ -21,4 +21,4 @@ export var brightnessMediumOutlined24px = [
       }
     ]
   ]
-]
+];

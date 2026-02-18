@@ -21,4 +21,4 @@ export var autorenew24px = [
       }
     ]
   ]
-]
+];

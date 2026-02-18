@@ -16,4 +16,4 @@ export var slideTextTitle20Regular = [
       }
     ]
   ]
-]
+];

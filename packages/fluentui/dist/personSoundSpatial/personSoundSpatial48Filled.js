@@ -16,4 +16,4 @@ export var personSoundSpatial48Filled = [
       }
     ]
   ]
-]
+];

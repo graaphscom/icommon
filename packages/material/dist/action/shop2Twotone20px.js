@@ -61,4 +61,4 @@ export var shop2Twotone20px = [
       ]
     ]
   ]
-]
+];

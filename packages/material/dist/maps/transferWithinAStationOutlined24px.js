@@ -21,4 +21,4 @@ export var transferWithinAStationOutlined24px = [
       }
     ]
   ]
-]
+];

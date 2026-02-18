@@ -94,4 +94,4 @@ export var tungstenTwotone24px = [
       ]
     ]
   ]
-]
+];

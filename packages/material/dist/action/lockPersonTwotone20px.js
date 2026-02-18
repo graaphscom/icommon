@@ -54,4 +54,4 @@ export var lockPersonTwotone20px = [
       ]
     ]
   ]
-]
+];

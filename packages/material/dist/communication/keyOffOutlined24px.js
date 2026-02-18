@@ -41,4 +41,4 @@ export var keyOffOutlined24px = [
       ]
     ]
   ]
-]
+];

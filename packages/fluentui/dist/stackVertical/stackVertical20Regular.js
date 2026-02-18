@@ -16,4 +16,4 @@ export var stackVertical20Regular = [
       }
     ]
   ]
-]
+];

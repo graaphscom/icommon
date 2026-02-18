@@ -23,4 +23,4 @@ export var cribSharp24px = [
       }
     ]
   ]
-]
+];

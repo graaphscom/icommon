@@ -41,4 +41,4 @@ export var touchAppRound24px = [
       ]
     ]
   ]
-]
+];

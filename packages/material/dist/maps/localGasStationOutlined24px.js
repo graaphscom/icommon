@@ -21,4 +21,4 @@ export var localGasStationOutlined24px = [
       }
     ]
   ]
-]
+];

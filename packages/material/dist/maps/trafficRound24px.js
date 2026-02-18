@@ -21,4 +21,4 @@ export var trafficRound24px = [
       }
     ]
   ]
-]
+];

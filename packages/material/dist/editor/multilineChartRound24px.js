@@ -21,4 +21,4 @@ export var multilineChartRound24px = [
       }
     ]
   ]
-]
+];

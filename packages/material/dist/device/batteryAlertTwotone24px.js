@@ -21,4 +21,4 @@ export var batteryAlertTwotone24px = [
       }
     ]
   ]
-]
+];

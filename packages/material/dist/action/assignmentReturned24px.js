@@ -21,4 +21,4 @@ export var assignmentReturned24px = [
       }
     ]
   ]
-]
+];

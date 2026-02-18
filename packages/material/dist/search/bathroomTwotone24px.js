@@ -101,4 +101,4 @@ export var bathroomTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var photoLibraryTwotone24px = [
       }
     ]
   ]
-]
+];

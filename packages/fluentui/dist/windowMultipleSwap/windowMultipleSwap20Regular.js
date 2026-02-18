@@ -16,4 +16,4 @@ export var windowMultipleSwap20Regular = [
       }
     ]
   ]
-]
+];

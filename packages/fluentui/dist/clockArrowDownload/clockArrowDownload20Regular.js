@@ -16,4 +16,4 @@ export var clockArrowDownload20Regular = [
       }
     ]
   ]
-]
+];

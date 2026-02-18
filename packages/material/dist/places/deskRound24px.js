@@ -43,4 +43,4 @@ export var deskRound24px = [
       ]
     ]
   ]
-]
+];

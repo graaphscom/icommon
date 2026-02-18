@@ -16,4 +16,4 @@ export var cloudArchive28Regular = [
       }
     ]
   ]
-]
+];

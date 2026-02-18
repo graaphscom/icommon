@@ -16,4 +16,4 @@ export var tableSplit20Filled = [
       }
     ]
   ]
-]
+];

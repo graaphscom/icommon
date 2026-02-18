@@ -16,4 +16,4 @@ export var windowPlay20Filled = [
       }
     ]
   ]
-]
+];

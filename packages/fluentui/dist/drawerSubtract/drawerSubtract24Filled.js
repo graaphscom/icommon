@@ -16,4 +16,4 @@ export var drawerSubtract24Filled = [
       }
     ]
   ]
-]
+];

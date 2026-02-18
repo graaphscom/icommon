@@ -16,4 +16,4 @@ export var serialPortOff20Regular = [
       }
     ]
   ]
-]
+];

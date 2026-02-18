@@ -54,4 +54,4 @@ export var hvacTwotone20px = [
       ]
     ]
   ]
-]
+];

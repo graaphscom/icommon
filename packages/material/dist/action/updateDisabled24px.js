@@ -29,4 +29,4 @@ export var updateDisabled24px = [
       }
     ]
   ]
-]
+];

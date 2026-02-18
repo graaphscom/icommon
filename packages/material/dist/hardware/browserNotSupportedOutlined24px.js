@@ -47,4 +47,4 @@ export var browserNotSupportedOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var alertOn24Regular = [
       }
     ]
   ]
-]
+];

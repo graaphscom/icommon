@@ -21,4 +21,4 @@ export var permCameraMicSharp24px = [
       }
     ]
   ]
-]
+];

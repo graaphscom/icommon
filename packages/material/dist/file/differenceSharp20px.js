@@ -35,4 +35,4 @@ export var differenceSharp20px = [
       ]
     ]
   ]
-]
+];

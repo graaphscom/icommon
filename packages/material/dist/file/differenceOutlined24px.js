@@ -35,4 +35,4 @@ export var differenceOutlined24px = [
       ]
     ]
   ]
-]
+];

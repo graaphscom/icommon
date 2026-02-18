@@ -30,4 +30,4 @@ export var webAssetOffTwotone24px = [
       }
     ]
   ]
-]
+];

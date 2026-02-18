@@ -16,4 +16,4 @@ export var arrowCircleDownSplit24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var windowNew16Filled = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var shoppingBagTwotone24px = [
       ]
     ]
   ]
-]
+];

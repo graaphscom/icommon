@@ -16,4 +16,4 @@ export var slideMicrophone20Filled = [
       }
     ]
   ]
-]
+];

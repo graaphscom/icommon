@@ -21,4 +21,4 @@ export var movieCreationRound24px = [
       }
     ]
   ]
-]
+];

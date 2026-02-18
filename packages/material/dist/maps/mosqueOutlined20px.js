@@ -36,4 +36,4 @@ export var mosqueOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -106,4 +106,4 @@ export var neobreadFingerguns = [
       }
     ]
   ]
-]
+];

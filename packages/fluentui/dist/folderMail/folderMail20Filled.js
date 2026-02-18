@@ -16,4 +16,4 @@ export var folderMail20Filled = [
       }
     ]
   ]
-]
+];

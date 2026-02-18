@@ -21,4 +21,4 @@ export var euroSymbolTwotone24px = [
       }
     ]
   ]
-]
+];

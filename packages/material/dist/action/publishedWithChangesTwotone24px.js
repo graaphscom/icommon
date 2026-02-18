@@ -23,4 +23,4 @@ export var publishedWithChangesTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var formatColorTextOutlined24px = [
       ]
     ]
   ]
-]
+];

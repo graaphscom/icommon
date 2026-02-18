@@ -30,4 +30,4 @@ export var spaceDashboardTwotone24px = [
       }
     ]
   ]
-]
+];

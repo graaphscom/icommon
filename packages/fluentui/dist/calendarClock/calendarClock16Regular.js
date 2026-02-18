@@ -16,4 +16,4 @@ export var calendarClock16Regular = [
       }
     ]
   ]
-]
+];

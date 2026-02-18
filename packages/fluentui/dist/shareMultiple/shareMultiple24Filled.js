@@ -16,4 +16,4 @@ export var shareMultiple24Filled = [
       }
     ]
   ]
-]
+];

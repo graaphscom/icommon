@@ -16,4 +16,4 @@ export var calendarToday20Regular = [
       }
     ]
   ]
-]
+];

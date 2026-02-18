@@ -16,4 +16,4 @@ export var autocorrect32Filled = [
       }
     ]
   ]
-]
+];

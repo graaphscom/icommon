@@ -35,4 +35,4 @@ export var nextPlanRound20px = [
       ]
     ]
   ]
-]
+];

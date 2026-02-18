@@ -16,4 +16,4 @@ export var tableSwitch20Filled = [
       }
     ]
   ]
-]
+];

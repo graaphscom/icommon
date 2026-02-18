@@ -40,4 +40,4 @@ export var hPlusMobiledataRound24px = [
       ]
     ]
   ]
-]
+];

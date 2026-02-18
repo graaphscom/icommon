@@ -86,4 +86,4 @@ export var addRoad24px = [
       ]
     ]
   ]
-]
+];

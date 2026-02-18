@@ -53,4 +53,4 @@ export var videoSettingsOutlined24px = [
       ]
     ]
   ]
-]
+];

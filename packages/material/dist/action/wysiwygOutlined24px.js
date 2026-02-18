@@ -29,4 +29,4 @@ export var wysiwygOutlined24px = [
       ]
     ]
   ]
-]
+];

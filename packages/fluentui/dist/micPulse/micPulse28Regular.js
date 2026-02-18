@@ -16,4 +16,4 @@ export var micPulse28Regular = [
       }
     ]
   ]
-]
+];

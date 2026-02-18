@@ -16,4 +16,4 @@ export var personQuestionMark20Regular = [
       }
     ]
   ]
-]
+];

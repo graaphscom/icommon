@@ -21,4 +21,4 @@ export var home24px = [
       }
     ]
   ]
-]
+];

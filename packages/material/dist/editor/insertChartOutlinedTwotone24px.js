@@ -21,4 +21,4 @@ export var insertChartOutlinedTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -59,4 +59,4 @@ export var sendAndArchiveRound24px = [
       ]
     ]
   ]
-]
+];

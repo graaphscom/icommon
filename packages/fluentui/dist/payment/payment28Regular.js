@@ -16,4 +16,4 @@ export var payment28Regular = [
       }
     ]
   ]
-]
+];

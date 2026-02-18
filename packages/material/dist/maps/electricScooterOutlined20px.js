@@ -54,4 +54,4 @@ export var electricScooterOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personArrowLeft20Regular = [
       }
     ]
   ]
-]
+];

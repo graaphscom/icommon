@@ -21,4 +21,4 @@ export var favoriteRound24px = [
       }
     ]
   ]
-]
+];

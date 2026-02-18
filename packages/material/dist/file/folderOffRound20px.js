@@ -47,4 +47,4 @@ export var folderOffRound20px = [
       ]
     ]
   ]
-]
+];

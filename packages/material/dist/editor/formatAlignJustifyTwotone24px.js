@@ -21,4 +21,4 @@ export var formatAlignJustifyTwotone24px = [
       }
     ]
   ]
-]
+];

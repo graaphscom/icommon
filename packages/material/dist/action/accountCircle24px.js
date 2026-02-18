@@ -35,4 +35,4 @@ export var accountCircle24px = [
       ]
     ]
   ]
-]
+];

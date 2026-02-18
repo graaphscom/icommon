@@ -21,4 +21,4 @@ export var notificationImportantTwotone24px = [
       }
     ]
   ]
-]
+];

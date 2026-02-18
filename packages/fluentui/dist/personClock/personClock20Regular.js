@@ -16,4 +16,4 @@ export var personClock20Regular = [
       }
     ]
   ]
-]
+];

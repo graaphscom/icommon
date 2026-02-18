@@ -16,4 +16,4 @@ export var starThreeQuarter24Regular = [
       }
     ]
   ]
-]
+];

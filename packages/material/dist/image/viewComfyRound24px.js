@@ -35,4 +35,4 @@ export var viewComfyRound24px = [
       ]
     ]
   ]
-]
+];

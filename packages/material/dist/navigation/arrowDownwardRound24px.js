@@ -21,4 +21,4 @@ export var arrowDownwardRound24px = [
       }
     ]
   ]
-]
+];

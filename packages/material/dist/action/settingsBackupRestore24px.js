@@ -21,4 +21,4 @@ export var settingsBackupRestore24px = [
       }
     ]
   ]
-]
+];

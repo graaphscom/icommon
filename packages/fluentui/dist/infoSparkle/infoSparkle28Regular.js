@@ -16,4 +16,4 @@ export var infoSparkle28Regular = [
       }
     ]
   ]
-]
+];

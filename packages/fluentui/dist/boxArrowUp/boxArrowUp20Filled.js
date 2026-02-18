@@ -16,4 +16,4 @@ export var boxArrowUp20Filled = [
       }
     ]
   ]
-]
+];

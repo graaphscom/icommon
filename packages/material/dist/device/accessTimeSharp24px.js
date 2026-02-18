@@ -21,4 +21,4 @@ export var accessTimeSharp24px = [
       }
     ]
   ]
-]
+];

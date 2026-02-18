@@ -49,4 +49,4 @@ export var churchRound24px = [
       ]
     ]
   ]
-]
+];

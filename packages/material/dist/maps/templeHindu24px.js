@@ -53,4 +53,4 @@ export var templeHindu24px = [
       ]
     ]
   ]
-]
+];

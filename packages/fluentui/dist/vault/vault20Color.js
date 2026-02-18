@@ -191,4 +191,4 @@ export var vault20Color = [
       ]
     ]
   ]
-]
+];

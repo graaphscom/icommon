@@ -16,4 +16,4 @@ export var spatulaSpoon24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var locationSettings48Filled = [
       }
     ]
   ]
-]
+];

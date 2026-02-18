@@ -35,4 +35,4 @@ export var personPinCircleRound24px = [
       ]
     ]
   ]
-]
+];

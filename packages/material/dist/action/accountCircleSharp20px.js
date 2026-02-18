@@ -41,4 +41,4 @@ export var accountCircleSharp20px = [
       ]
     ]
   ]
-]
+];

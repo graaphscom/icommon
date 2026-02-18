@@ -28,4 +28,4 @@ export var feedbackTwotone24px = [
       }
     ]
   ]
-]
+];

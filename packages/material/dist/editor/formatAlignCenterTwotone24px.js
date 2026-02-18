@@ -21,4 +21,4 @@ export var formatAlignCenterTwotone24px = [
       }
     ]
   ]
-]
+];

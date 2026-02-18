@@ -16,4 +16,4 @@ export var tableDeleteColumn28Filled = [
       }
     ]
   ]
-]
+];

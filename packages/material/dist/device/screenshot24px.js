@@ -40,4 +40,4 @@ export var screenshot24px = [
       ]
     ]
   ]
-]
+];

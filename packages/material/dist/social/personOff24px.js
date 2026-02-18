@@ -29,4 +29,4 @@ export var personOff24px = [
       ]
     ]
   ]
-]
+];

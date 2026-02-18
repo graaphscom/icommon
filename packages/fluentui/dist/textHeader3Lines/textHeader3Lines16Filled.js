@@ -16,4 +16,4 @@ export var textHeader3Lines16Filled = [
       }
     ]
   ]
-]
+];

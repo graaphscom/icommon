@@ -16,4 +16,4 @@ export var scanText48Regular = [
       }
     ]
   ]
-]
+];

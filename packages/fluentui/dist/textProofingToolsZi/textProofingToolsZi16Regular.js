@@ -16,4 +16,4 @@ export var textProofingToolsZi16Regular = [
       }
     ]
   ]
-]
+];

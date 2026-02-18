@@ -41,4 +41,4 @@ export var keyboardCommandKeyTwotone24px = [
       ]
     ]
   ]
-]
+];

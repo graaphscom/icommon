@@ -16,4 +16,4 @@ export var bugProhibited20Regular = [
       }
     ]
   ]
-]
+];

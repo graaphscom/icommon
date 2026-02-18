@@ -48,4 +48,4 @@ export var fiberNew24px = [
       ]
     ]
   ]
-]
+];

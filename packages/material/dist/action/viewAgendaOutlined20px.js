@@ -48,4 +48,4 @@ export var viewAgendaOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var musicNote2Play20Regular = [
       }
     ]
   ]
-]
+];

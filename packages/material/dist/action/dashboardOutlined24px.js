@@ -21,4 +21,4 @@ export var dashboardOutlined24px = [
       }
     ]
   ]
-]
+];

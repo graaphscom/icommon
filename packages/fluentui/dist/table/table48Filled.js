@@ -16,4 +16,4 @@ export var table48Filled = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var landscapeTwotone24px = [
       }
     ]
   ]
-]
+];

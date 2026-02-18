@@ -21,4 +21,4 @@ export var turnedInNotOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var holidayVillageOutlined20px = [
       }
     ]
   ]
-]
+];

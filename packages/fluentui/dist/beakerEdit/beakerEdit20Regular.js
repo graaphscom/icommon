@@ -16,4 +16,4 @@ export var beakerEdit20Regular = [
       }
     ]
   ]
-]
+];

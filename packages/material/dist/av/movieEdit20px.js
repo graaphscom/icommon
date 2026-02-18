@@ -71,4 +71,4 @@ export var movieEdit20px = [
       ]
     ]
   ]
-]
+];

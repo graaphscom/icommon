@@ -43,4 +43,4 @@ export var fireplaceRound24px = [
       ]
     ]
   ]
-]
+];

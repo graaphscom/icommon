@@ -16,4 +16,4 @@ export var coinMultiple24Regular = [
       }
     ]
   ]
-]
+];

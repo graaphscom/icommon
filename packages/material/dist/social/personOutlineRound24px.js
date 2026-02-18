@@ -21,4 +21,4 @@ export var personOutlineRound24px = [
       }
     ]
   ]
-]
+];

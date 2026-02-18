@@ -21,4 +21,4 @@ export var descriptionRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var verifiedUserOutlined24px = [
       }
     ]
   ]
-]
+];

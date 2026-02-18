@@ -16,4 +16,4 @@ export var readingListAdd16Regular = [
       }
     ]
   ]
-]
+];

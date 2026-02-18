@@ -16,4 +16,4 @@ export var clipboardNumber12320Regular = [
       }
     ]
   ]
-]
+];

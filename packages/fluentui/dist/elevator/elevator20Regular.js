@@ -16,4 +16,4 @@ export var elevator20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var checkBoxOutlineBlankOutlined24px = [
       }
     ]
   ]
-]
+];

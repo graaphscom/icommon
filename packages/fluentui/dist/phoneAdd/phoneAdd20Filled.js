@@ -16,4 +16,4 @@ export var phoneAdd20Filled = [
       }
     ]
   ]
-]
+];

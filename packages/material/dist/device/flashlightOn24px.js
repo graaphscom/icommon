@@ -49,4 +49,4 @@ export var flashlightOn24px = [
       ]
     ]
   ]
-]
+];

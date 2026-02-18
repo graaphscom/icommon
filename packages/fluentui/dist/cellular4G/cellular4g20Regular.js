@@ -16,4 +16,4 @@ export var cellular4g20Regular = [
       }
     ]
   ]
-]
+];

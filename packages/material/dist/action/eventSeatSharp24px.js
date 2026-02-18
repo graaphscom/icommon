@@ -21,4 +21,4 @@ export var eventSeatSharp24px = [
       }
     ]
   ]
-]
+];

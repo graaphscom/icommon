@@ -16,4 +16,4 @@ export var leafThree24Regular = [
       }
     ]
   ]
-]
+];

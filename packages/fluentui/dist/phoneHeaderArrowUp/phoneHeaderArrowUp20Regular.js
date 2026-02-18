@@ -16,4 +16,4 @@ export var phoneHeaderArrowUp20Regular = [
       }
     ]
   ]
-]
+];

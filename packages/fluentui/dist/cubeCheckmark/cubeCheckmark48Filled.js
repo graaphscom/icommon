@@ -16,4 +16,4 @@ export var cubeCheckmark48Filled = [
       }
     ]
   ]
-]
+];

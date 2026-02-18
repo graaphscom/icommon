@@ -16,4 +16,4 @@ export var chevronCircleRight12Filled = [
       }
     ]
   ]
-]
+];

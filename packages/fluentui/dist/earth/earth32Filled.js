@@ -16,4 +16,4 @@ export var earth32Filled = [
       }
     ]
   ]
-]
+];

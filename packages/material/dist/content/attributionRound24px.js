@@ -29,4 +29,4 @@ export var attributionRound24px = [
       }
     ]
   ]
-]
+];

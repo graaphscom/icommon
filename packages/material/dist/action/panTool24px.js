@@ -47,4 +47,4 @@ export var panTool24px = [
       ]
     ]
   ]
-]
+];

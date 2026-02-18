@@ -16,4 +16,4 @@ export var drinkMargarita16Regular = [
       }
     ]
   ]
-]
+];

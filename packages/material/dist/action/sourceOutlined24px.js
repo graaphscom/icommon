@@ -29,4 +29,4 @@ export var sourceOutlined24px = [
       ]
     ]
   ]
-]
+];

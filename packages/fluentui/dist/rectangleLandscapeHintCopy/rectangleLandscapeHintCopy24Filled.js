@@ -16,4 +16,4 @@ export var rectangleLandscapeHintCopy24Filled = [
       }
     ]
   ]
-]
+];

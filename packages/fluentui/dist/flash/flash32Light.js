@@ -16,4 +16,4 @@ export var flash32Light = [
       }
     ]
   ]
-]
+];

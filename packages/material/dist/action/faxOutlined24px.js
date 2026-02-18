@@ -88,4 +88,4 @@ export var faxOutlined24px = [
       ]
     ]
   ]
-]
+];

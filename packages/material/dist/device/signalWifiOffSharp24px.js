@@ -21,4 +21,4 @@ export var signalWifiOffSharp24px = [
       }
     ]
   ]
-]
+];

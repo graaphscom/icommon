@@ -23,4 +23,4 @@ export var shifts16Regular = [
       }
     ]
   ]
-]
+];

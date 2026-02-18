@@ -21,4 +21,4 @@ export var wifiOff24px = [
       }
     ]
   ]
-]
+];

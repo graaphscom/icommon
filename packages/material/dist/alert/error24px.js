@@ -21,4 +21,4 @@ export var error24px = [
       }
     ]
   ]
-]
+];

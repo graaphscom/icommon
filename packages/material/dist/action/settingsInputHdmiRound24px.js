@@ -35,4 +35,4 @@ export var settingsInputHdmiRound24px = [
       ]
     ]
   ]
-]
+];

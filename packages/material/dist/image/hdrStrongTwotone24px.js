@@ -28,4 +28,4 @@ export var hdrStrongTwotone24px = [
       }
     ]
   ]
-]
+];

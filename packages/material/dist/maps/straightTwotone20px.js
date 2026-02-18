@@ -35,4 +35,4 @@ export var straightTwotone20px = [
       ]
     ]
   ]
-]
+];

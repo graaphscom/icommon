@@ -23,4 +23,4 @@ export var safetyDividerOutlined24px = [
       }
     ]
   ]
-]
+];

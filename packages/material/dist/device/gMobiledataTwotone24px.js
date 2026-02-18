@@ -40,4 +40,4 @@ export var gMobiledataTwotone24px = [
       ]
     ]
   ]
-]
+];

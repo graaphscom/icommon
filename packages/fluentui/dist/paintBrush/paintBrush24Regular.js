@@ -16,4 +16,4 @@ export var paintBrush24Regular = [
       }
     ]
   ]
-]
+];

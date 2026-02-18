@@ -59,4 +59,4 @@ export var outdoorGrillRound20px = [
       ]
     ]
   ]
-]
+];

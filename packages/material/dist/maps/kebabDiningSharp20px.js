@@ -23,4 +23,4 @@ export var kebabDiningSharp20px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var columnSingleCompare16Regular = [
       }
     ]
   ]
-]
+];

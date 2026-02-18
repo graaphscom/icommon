@@ -28,4 +28,4 @@ export var exposureTwotone24px = [
       }
     ]
   ]
-]
+];

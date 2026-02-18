@@ -43,4 +43,4 @@ export var questionMarkRound24px = [
       ]
     ]
   ]
-]
+];

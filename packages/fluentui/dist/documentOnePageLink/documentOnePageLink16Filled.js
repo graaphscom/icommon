@@ -16,4 +16,4 @@ export var documentOnePageLink16Filled = [
       }
     ]
   ]
-]
+];

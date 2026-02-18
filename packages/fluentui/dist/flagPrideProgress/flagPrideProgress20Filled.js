@@ -86,4 +86,4 @@ export var flagPrideProgress20Filled = [
       }
     ]
   ]
-]
+];

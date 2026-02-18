@@ -16,4 +16,4 @@ export var arrowStepOver20Regular = [
       }
     ]
   ]
-]
+];

@@ -73,4 +73,4 @@ export var lightbulbSharp24px = [
       ]
     ]
   ]
-]
+];

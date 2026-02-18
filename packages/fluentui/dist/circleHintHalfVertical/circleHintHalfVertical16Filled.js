@@ -16,4 +16,4 @@ export var circleHintHalfVertical16Filled = [
       }
     ]
   ]
-]
+];

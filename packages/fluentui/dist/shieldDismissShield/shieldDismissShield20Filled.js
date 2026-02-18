@@ -16,4 +16,4 @@ export var shieldDismissShield20Filled = [
       }
     ]
   ]
-]
+];

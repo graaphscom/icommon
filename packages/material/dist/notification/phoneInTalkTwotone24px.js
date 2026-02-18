@@ -28,4 +28,4 @@ export var phoneInTalkTwotone24px = [
       }
     ]
   ]
-]
+];

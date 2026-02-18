@@ -21,4 +21,4 @@ export var callReceivedOutlined24px = [
       }
     ]
   ]
-]
+];

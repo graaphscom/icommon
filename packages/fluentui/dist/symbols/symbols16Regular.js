@@ -16,4 +16,4 @@ export var symbols16Regular = [
       }
     ]
   ]
-]
+];

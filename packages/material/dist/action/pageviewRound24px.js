@@ -21,4 +21,4 @@ export var pageviewRound24px = [
       }
     ]
   ]
-]
+];

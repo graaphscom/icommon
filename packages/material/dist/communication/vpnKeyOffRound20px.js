@@ -35,4 +35,4 @@ export var vpnKeyOffRound20px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var addModeratorSharp24px = [
       ]
     ]
   ]
-]
+];

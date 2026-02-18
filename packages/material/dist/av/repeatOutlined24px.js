@@ -21,4 +21,4 @@ export var repeatOutlined24px = [
       }
     ]
   ]
-]
+];

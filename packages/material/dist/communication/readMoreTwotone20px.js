@@ -68,4 +68,4 @@ export var readMoreTwotone20px = [
       ]
     ]
   ]
-]
+];

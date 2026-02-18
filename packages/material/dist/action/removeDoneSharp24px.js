@@ -35,4 +35,4 @@ export var removeDoneSharp24px = [
       ]
     ]
   ]
-]
+];

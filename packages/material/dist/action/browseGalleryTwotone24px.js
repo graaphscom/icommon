@@ -60,4 +60,4 @@ export var browseGalleryTwotone24px = [
       ]
     ]
   ]
-]
+];

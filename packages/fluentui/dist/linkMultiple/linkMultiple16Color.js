@@ -307,4 +307,4 @@ export var linkMultiple16Color = [
       ]
     ]
   ]
-]
+];

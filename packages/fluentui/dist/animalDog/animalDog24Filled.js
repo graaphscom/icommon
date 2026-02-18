@@ -16,4 +16,4 @@ export var animalDog24Filled = [
       }
     ]
   ]
-]
+];

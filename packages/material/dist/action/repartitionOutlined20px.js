@@ -48,4 +48,4 @@ export var repartitionOutlined20px = [
       ]
     ]
   ]
-]
+];

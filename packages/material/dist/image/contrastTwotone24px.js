@@ -41,4 +41,4 @@ export var contrastTwotone24px = [
       ]
     ]
   ]
-]
+];

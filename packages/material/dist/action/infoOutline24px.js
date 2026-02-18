@@ -28,4 +28,4 @@ export var infoOutline24px = [
       ]
     ]
   ]
-]
+];

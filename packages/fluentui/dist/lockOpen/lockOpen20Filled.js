@@ -16,4 +16,4 @@ export var lockOpen20Filled = [
       }
     ]
   ]
-]
+];

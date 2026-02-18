@@ -40,4 +40,4 @@ export var batterySaverSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -31,4 +31,4 @@ export var privacyTip20px = [
       ]
     ]
   ]
-]
+];

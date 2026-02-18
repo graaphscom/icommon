@@ -16,4 +16,4 @@ export var brainCircuit48Regular = [
       }
     ]
   ]
-]
+];

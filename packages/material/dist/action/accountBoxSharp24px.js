@@ -35,4 +35,4 @@ export var accountBoxSharp24px = [
       ]
     ]
   ]
-]
+];

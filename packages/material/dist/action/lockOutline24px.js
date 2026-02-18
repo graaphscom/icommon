@@ -48,4 +48,4 @@ export var lockOutline24px = [
       ]
     ]
   ]
-]
+];

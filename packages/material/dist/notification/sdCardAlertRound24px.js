@@ -21,4 +21,4 @@ export var sdCardAlertRound24px = [
       }
     ]
   ]
-]
+];

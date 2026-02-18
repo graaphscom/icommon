@@ -16,4 +16,4 @@ export var personPasskey48Filled = [
       }
     ]
   ]
-]
+];

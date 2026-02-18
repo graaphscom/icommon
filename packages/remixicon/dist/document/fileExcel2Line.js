@@ -13,4 +13,4 @@ export var fileExcel2Line = [
       }
     ]
   ]
-]
+];

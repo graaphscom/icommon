@@ -16,4 +16,4 @@ export var splitVertical48Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var commentNote20Regular = [
       }
     ]
   ]
-]
+];

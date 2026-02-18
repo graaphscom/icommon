@@ -29,4 +29,4 @@ export var personalInjuryRound24px = [
       ]
     ]
   ]
-]
+];

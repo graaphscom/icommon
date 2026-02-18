@@ -30,4 +30,4 @@ export var airplanemodeInactiveTwotone20px = [
       ]
     ]
   ]
-]
+];

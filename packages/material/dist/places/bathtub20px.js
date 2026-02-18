@@ -49,4 +49,4 @@ export var bathtub20px = [
       ]
     ]
   ]
-]
+];

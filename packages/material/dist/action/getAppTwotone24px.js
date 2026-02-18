@@ -28,4 +28,4 @@ export var getAppTwotone24px = [
       }
     ]
   ]
-]
+];

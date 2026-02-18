@@ -16,4 +16,4 @@ export var dualScreenMirror20Filled = [
       }
     ]
   ]
-]
+];

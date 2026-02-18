@@ -21,4 +21,4 @@ export var accessAlarmsRound24px = [
       }
     ]
   ]
-]
+];

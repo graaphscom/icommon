@@ -45,4 +45,4 @@ export var squareTwotone20px = [
       ]
     ]
   ]
-]
+];

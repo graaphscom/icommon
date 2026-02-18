@@ -16,4 +16,4 @@ export var layoutCellFour16Filled = [
       }
     ]
   ]
-]
+];

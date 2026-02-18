@@ -49,4 +49,4 @@ export var selfImprovementTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var walletOutlined24px = [
       ]
     ]
   ]
-]
+];

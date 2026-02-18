@@ -64,4 +64,4 @@ export var face6Twotone20px = [
       ]
     ]
   ]
-]
+];

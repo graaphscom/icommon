@@ -53,4 +53,4 @@ export var densityMediumRound20px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var facebookOutlined24px = [
       }
     ]
   ]
-]
+];

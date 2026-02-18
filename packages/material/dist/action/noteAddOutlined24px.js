@@ -21,4 +21,4 @@ export var noteAddOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var syncProblem24px = [
       }
     ]
   ]
-]
+];

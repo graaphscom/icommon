@@ -97,4 +97,4 @@ export var insertPageBreakTwotone24px = [
       ]
     ]
   ]
-]
+];

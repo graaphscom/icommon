@@ -16,4 +16,4 @@ export var personRibbon24Regular = [
       }
     ]
   ]
-]
+];

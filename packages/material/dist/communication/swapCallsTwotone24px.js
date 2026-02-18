@@ -21,4 +21,4 @@ export var swapCallsTwotone24px = [
       }
     ]
   ]
-]
+];

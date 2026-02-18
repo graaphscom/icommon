@@ -23,4 +23,4 @@ export var nearMeDisabled24px = [
       }
     ]
   ]
-]
+];

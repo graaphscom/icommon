@@ -21,4 +21,4 @@ export var snooze24px = [
       }
     ]
   ]
-]
+];

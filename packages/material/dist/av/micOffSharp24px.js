@@ -21,4 +21,4 @@ export var micOffSharp24px = [
       }
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var sportsMartialArtsTwotone20px = [
       ]
     ]
   ]
-]
+];

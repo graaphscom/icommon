@@ -50,4 +50,4 @@ export var manOutlined20px = [
       ]
     ]
   ]
-]
+];

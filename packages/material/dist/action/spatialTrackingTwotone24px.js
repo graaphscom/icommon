@@ -75,4 +75,4 @@ export var spatialTrackingTwotone24px = [
       ]
     ]
   ]
-]
+];

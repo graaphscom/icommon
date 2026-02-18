@@ -16,4 +16,4 @@ export var fluent32Filled = [
       }
     ]
   ]
-]
+];

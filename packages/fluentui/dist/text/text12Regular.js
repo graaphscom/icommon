@@ -16,4 +16,4 @@ export var text12Regular = [
       }
     ]
   ]
-]
+];

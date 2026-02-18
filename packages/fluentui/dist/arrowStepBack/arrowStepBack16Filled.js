@@ -16,4 +16,4 @@ export var arrowStepBack16Filled = [
       }
     ]
   ]
-]
+];

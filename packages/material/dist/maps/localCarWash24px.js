@@ -21,4 +21,4 @@ export var localCarWash24px = [
       }
     ]
   ]
-]
+];

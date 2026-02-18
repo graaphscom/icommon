@@ -35,4 +35,4 @@ export var adfScannerSharp20px = [
       ]
     ]
   ]
-]
+];

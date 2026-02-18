@@ -41,4 +41,4 @@ export var historyEdu20px = [
       ]
     ]
   ]
-]
+];

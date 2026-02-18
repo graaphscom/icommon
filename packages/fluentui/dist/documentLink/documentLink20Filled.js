@@ -16,4 +16,4 @@ export var documentLink20Filled = [
       }
     ]
   ]
-]
+];

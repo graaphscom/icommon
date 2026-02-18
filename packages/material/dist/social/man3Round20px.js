@@ -47,4 +47,4 @@ export var man3Round20px = [
       ]
     ]
   ]
-]
+];

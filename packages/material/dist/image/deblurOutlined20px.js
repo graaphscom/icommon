@@ -138,4 +138,4 @@ export var deblurOutlined20px = [
       ]
     ]
   ]
-]
+];

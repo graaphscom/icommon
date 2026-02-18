@@ -21,4 +21,4 @@ export var notificationsOutlined24px = [
       }
     ]
   ]
-]
+];

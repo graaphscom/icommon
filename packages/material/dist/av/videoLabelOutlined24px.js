@@ -21,4 +21,4 @@ export var videoLabelOutlined24px = [
       }
     ]
   ]
-]
+];

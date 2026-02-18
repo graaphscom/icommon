@@ -21,4 +21,4 @@ export var layersClearSharp24px = [
       }
     ]
   ]
-]
+];

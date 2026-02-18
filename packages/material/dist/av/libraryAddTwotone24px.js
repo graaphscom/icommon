@@ -28,4 +28,4 @@ export var libraryAddTwotone24px = [
       }
     ]
   ]
-]
+];

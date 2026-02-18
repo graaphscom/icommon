@@ -21,4 +21,4 @@ export var theatersOutlined24px = [
       }
     ]
   ]
-]
+];

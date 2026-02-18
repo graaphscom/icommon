@@ -21,4 +21,4 @@ export var cameraEnhanceSharp24px = [
       }
     ]
   ]
-]
+];

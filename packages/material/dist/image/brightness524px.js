@@ -21,4 +21,4 @@ export var brightness524px = [
       }
     ]
   ]
-]
+];

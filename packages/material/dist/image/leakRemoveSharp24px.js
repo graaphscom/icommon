@@ -21,4 +21,4 @@ export var leakRemoveSharp24px = [
       }
     ]
   ]
-]
+];

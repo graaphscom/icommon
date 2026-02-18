@@ -16,4 +16,4 @@ export var squareEraser20Regular = [
       }
     ]
   ]
-]
+];

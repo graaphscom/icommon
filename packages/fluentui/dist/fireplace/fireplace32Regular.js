@@ -16,4 +16,4 @@ export var fireplace32Regular = [
       }
     ]
   ]
-]
+];

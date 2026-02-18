@@ -29,4 +29,4 @@ export var cameraAltRound24px = [
       }
     ]
   ]
-]
+];

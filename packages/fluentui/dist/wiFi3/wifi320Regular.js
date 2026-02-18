@@ -16,4 +16,4 @@ export var wifi320Regular = [
       }
     ]
   ]
-]
+];

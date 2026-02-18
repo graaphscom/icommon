@@ -16,4 +16,4 @@ export var transmission20Regular = [
       }
     ]
   ]
-]
+];

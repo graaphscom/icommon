@@ -16,4 +16,4 @@ export var selectObjectSkewDismiss24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var addToQueueSharp24px = [
       }
     ]
   ]
-]
+];

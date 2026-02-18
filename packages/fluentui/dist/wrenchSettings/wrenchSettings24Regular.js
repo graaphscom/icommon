@@ -16,4 +16,4 @@ export var wrenchSettings24Regular = [
       }
     ]
   ]
-]
+];

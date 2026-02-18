@@ -21,4 +21,4 @@ export var slowMotionVideoTwotone24px = [
       }
     ]
   ]
-]
+];

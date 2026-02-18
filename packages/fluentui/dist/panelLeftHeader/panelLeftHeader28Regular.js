@@ -16,4 +16,4 @@ export var panelLeftHeader28Regular = [
       }
     ]
   ]
-]
+];

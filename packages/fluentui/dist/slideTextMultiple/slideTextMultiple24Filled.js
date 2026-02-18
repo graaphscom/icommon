@@ -16,4 +16,4 @@ export var slideTextMultiple24Filled = [
       }
     ]
   ]
-]
+];

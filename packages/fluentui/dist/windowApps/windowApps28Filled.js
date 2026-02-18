@@ -16,4 +16,4 @@ export var windowApps28Filled = [
       }
     ]
   ]
-]
+];

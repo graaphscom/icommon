@@ -21,4 +21,4 @@ export var permContactCalendarOutlined24px = [
       }
     ]
   ]
-]
+];

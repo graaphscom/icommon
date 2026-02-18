@@ -16,4 +16,4 @@ export var immersiveReader16Regular = [
       }
     ]
   ]
-]
+];

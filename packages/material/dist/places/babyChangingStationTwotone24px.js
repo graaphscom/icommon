@@ -29,4 +29,4 @@ export var babyChangingStationTwotone24px = [
       ]
     ]
   ]
-]
+];

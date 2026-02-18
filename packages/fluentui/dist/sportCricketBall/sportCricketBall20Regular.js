@@ -16,4 +16,4 @@ export var sportCricketBall20Regular = [
       }
     ]
   ]
-]
+];

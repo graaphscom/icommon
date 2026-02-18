@@ -21,4 +21,4 @@ export var feedbackRound24px = [
       }
     ]
   ]
-]
+];

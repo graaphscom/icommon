@@ -27,4 +27,4 @@ export var pivotTableChart24px = [
       }
     ]
   ]
-]
+];

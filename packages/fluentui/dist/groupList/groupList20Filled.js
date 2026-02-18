@@ -16,4 +16,4 @@ export var groupList20Filled = [
       }
     ]
   ]
-]
+];

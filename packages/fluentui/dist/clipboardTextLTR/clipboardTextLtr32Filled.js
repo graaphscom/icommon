@@ -16,4 +16,4 @@ export var clipboardTextLtr32Filled = [
       }
     ]
   ]
-]
+];

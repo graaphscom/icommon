@@ -36,4 +36,4 @@ export var directionsCarFilledRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var vehicleCarParking24Regular = [
       }
     ]
   ]
-]
+];

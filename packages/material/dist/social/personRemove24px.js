@@ -35,4 +35,4 @@ export var personRemove24px = [
       ]
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var passwordRound24px = [
       ]
     ]
   ]
-]
+];

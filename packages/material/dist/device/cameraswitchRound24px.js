@@ -52,4 +52,4 @@ export var cameraswitchRound24px = [
       ]
     ]
   ]
-]
+];

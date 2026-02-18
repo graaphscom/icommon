@@ -16,4 +16,4 @@ export var batterySaver24Regular = [
       }
     ]
   ]
-]
+];

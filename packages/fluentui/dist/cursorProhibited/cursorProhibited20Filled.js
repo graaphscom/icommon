@@ -16,4 +16,4 @@ export var cursorProhibited20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowCollapseAll16Filled = [
       }
     ]
   ]
-]
+];

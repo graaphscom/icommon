@@ -16,4 +16,4 @@ export var previewLink20Filled = [
       }
     ]
   ]
-]
+];

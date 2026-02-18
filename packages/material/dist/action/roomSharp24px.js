@@ -21,4 +21,4 @@ export var roomSharp24px = [
       }
     ]
   ]
-]
+];

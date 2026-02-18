@@ -16,4 +16,4 @@ export var highlight16Filled = [
       }
     ]
   ]
-]
+];

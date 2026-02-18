@@ -21,4 +21,4 @@ export var strikethroughSOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var seatAdd16Filled = [
       }
     ]
   ]
-]
+];

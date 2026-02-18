@@ -81,4 +81,4 @@ export var fastForwardTwotone24px = [
       ]
     ]
   ]
-]
+];

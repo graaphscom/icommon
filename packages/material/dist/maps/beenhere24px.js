@@ -21,4 +21,4 @@ export var beenhere24px = [
       }
     ]
   ]
-]
+];

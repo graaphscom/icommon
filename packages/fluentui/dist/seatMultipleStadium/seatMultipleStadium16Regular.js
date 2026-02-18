@@ -16,4 +16,4 @@ export var seatMultipleStadium16Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var subjectSharp24px = [
       }
     ]
   ]
-]
+];

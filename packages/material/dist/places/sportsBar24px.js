@@ -23,4 +23,4 @@ export var sportsBar24px = [
       }
     ]
   ]
-]
+];

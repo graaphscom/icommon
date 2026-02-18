@@ -35,4 +35,4 @@ export var walletRound20px = [
       ]
     ]
   ]
-]
+];

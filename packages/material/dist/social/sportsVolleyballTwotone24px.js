@@ -83,4 +83,4 @@ export var sportsVolleyballTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowHookDownRight24Filled = [
       }
     ]
   ]
-]
+];

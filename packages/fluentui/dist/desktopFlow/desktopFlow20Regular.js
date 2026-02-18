@@ -16,4 +16,4 @@ export var desktopFlow20Regular = [
       }
     ]
   ]
-]
+];

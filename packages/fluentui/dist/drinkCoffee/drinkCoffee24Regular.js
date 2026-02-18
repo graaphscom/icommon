@@ -16,4 +16,4 @@ export var drinkCoffee24Regular = [
       }
     ]
   ]
-]
+];

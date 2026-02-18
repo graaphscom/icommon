@@ -21,4 +21,4 @@ export var textFieldsRound24px = [
       }
     ]
   ]
-]
+];

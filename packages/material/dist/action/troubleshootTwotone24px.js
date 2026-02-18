@@ -47,4 +47,4 @@ export var troubleshootTwotone24px = [
       ]
     ]
   ]
-]
+];

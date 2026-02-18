@@ -16,4 +16,4 @@ export var temperatureDegreeFahrenheit20Filled = [
       }
     ]
   ]
-]
+];

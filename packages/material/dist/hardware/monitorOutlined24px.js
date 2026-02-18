@@ -42,4 +42,4 @@ export var monitorOutlined24px = [
       ]
     ]
   ]
-]
+];

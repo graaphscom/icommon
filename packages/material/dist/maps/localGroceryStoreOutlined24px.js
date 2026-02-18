@@ -21,4 +21,4 @@ export var localGroceryStoreOutlined24px = [
       }
     ]
   ]
-]
+];

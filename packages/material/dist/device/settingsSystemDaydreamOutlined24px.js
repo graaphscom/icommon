@@ -21,4 +21,4 @@ export var settingsSystemDaydreamOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var loginSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var unsubscribeRound24px = [
       }
     ]
   ]
-]
+];

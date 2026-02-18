@@ -36,4 +36,4 @@ export var noBackpackSharp24px = [
       ]
     ]
   ]
-]
+];

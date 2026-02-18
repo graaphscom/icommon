@@ -21,4 +21,4 @@ export var doDisturbAltSharp24px = [
       }
     ]
   ]
-]
+];

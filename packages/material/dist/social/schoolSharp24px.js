@@ -21,4 +21,4 @@ export var schoolSharp24px = [
       }
     ]
   ]
-]
+];

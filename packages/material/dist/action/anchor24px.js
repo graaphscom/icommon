@@ -29,4 +29,4 @@ export var anchor24px = [
       ]
     ]
   ]
-]
+];

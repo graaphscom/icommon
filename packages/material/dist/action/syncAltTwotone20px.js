@@ -47,4 +47,4 @@ export var syncAltTwotone20px = [
       ]
     ]
   ]
-]
+];

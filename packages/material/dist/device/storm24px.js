@@ -40,4 +40,4 @@ export var storm24px = [
       ]
     ]
   ]
-]
+];

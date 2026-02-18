@@ -23,4 +23,4 @@ export var ironOutlined24px = [
       }
     ]
   ]
-]
+];

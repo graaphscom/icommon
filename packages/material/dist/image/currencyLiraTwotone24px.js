@@ -35,4 +35,4 @@ export var currencyLiraTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var holidayVillageTwotone20px = [
       }
     ]
   ]
-]
+];

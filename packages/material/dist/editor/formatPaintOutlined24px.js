@@ -21,4 +21,4 @@ export var formatPaintOutlined24px = [
       }
     ]
   ]
-]
+];

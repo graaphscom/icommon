@@ -16,4 +16,4 @@ export var alignDistributeTop16Regular = [
       }
     ]
   ]
-]
+];

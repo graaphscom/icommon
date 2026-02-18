@@ -21,4 +21,4 @@ export var wallpaperRound24px = [
       }
     ]
   ]
-]
+];

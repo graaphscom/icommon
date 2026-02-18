@@ -180,4 +180,4 @@ export var headphones20Color = [
       ]
     ]
   ]
-]
+];

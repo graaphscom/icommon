@@ -49,4 +49,4 @@ export var medication24px = [
       ]
     ]
   ]
-]
+];

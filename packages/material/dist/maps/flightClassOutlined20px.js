@@ -23,4 +23,4 @@ export var flightClassOutlined20px = [
       }
     ]
   ]
-]
+];

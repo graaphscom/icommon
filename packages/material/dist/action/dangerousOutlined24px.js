@@ -34,4 +34,4 @@ export var dangerousOutlined24px = [
       ]
     ]
   ]
-]
+];

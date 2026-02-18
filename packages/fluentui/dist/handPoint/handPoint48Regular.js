@@ -16,4 +16,4 @@ export var handPoint48Regular = [
       }
     ]
   ]
-]
+];

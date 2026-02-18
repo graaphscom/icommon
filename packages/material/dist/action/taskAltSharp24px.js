@@ -23,4 +23,4 @@ export var taskAltSharp24px = [
       }
     ]
   ]
-]
+];

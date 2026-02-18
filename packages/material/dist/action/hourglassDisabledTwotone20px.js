@@ -47,4 +47,4 @@ export var hourglassDisabledTwotone20px = [
       ]
     ]
   ]
-]
+];

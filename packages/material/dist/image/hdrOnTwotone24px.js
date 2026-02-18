@@ -21,4 +21,4 @@ export var hdrOnTwotone24px = [
       }
     ]
   ]
-]
+];

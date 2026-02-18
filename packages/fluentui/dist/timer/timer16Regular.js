@@ -16,4 +16,4 @@ export var timer16Regular = [
       }
     ]
   ]
-]
+];

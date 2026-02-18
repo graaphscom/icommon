@@ -16,4 +16,4 @@ export var zoomIn16Filled = [
       }
     ]
   ]
-]
+];

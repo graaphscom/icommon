@@ -16,4 +16,4 @@ export var clipboardDataBar24Filled = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var scale3d = [
       }
     ]
   ]
-]
+];

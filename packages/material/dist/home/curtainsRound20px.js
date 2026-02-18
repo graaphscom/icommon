@@ -35,4 +35,4 @@ export var curtainsRound20px = [
       ]
     ]
   ]
-]
+];

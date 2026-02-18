@@ -42,4 +42,4 @@ export var __3pTwotone24px = [
       ]
     ]
   ]
-]
+];

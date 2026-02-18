@@ -21,4 +21,4 @@ export var brushRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var buildingBankLink48Regular = [
       }
     ]
   ]
-]
+];

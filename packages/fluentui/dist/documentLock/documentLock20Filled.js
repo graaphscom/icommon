@@ -16,4 +16,4 @@ export var documentLock20Filled = [
       }
     ]
   ]
-]
+];

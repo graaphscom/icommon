@@ -16,4 +16,4 @@ export var layer20Filled = [
       }
     ]
   ]
-]
+];

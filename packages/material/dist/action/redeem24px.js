@@ -21,4 +21,4 @@ export var redeem24px = [
       }
     ]
   ]
-]
+];

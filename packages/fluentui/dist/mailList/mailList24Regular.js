@@ -16,4 +16,4 @@ export var mailList24Regular = [
       }
     ]
   ]
-]
+];

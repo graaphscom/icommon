@@ -16,4 +16,4 @@ export var tagError24Regular = [
       }
     ]
   ]
-]
+];

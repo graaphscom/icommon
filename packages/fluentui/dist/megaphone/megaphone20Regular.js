@@ -16,4 +16,4 @@ export var megaphone20Regular = [
       }
     ]
   ]
-]
+];

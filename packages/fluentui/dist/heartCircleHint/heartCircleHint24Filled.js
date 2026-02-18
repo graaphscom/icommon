@@ -16,4 +16,4 @@ export var heartCircleHint24Filled = [
       }
     ]
   ]
-]
+];

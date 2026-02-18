@@ -28,4 +28,4 @@ export var pollTwotone24px = [
       }
     ]
   ]
-]
+];

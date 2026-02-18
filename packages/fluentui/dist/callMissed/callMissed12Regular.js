@@ -16,4 +16,4 @@ export var callMissed12Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var networkCell24px = [
       }
     ]
   ]
-]
+];

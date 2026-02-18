@@ -67,4 +67,4 @@ export var monitorWeight24px = [
       ]
     ]
   ]
-]
+];

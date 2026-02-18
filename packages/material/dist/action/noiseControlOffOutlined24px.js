@@ -73,4 +73,4 @@ export var noiseControlOffOutlined24px = [
       ]
     ]
   ]
-]
+];

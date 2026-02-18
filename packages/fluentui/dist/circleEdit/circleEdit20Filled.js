@@ -16,4 +16,4 @@ export var circleEdit20Filled = [
       }
     ]
   ]
-]
+];

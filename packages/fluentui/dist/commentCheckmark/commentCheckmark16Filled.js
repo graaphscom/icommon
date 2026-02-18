@@ -16,4 +16,4 @@ export var commentCheckmark16Filled = [
       }
     ]
   ]
-]
+];

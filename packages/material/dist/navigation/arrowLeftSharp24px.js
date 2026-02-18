@@ -22,4 +22,4 @@ export var arrowLeftSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var circleMultipleHintCheckmark20Regular = [
       }
     ]
   ]
-]
+];

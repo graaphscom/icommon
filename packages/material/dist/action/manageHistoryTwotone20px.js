@@ -35,4 +35,4 @@ export var manageHistoryTwotone20px = [
       ]
     ]
   ]
-]
+];

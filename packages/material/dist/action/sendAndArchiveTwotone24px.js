@@ -73,4 +73,4 @@ export var sendAndArchiveTwotone24px = [
       ]
     ]
   ]
-]
+];

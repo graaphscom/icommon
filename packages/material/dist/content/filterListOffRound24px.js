@@ -35,4 +35,4 @@ export var filterListOffRound24px = [
       ]
     ]
   ]
-]
+];

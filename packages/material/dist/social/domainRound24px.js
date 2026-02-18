@@ -21,4 +21,4 @@ export var domainRound24px = [
       }
     ]
   ]
-]
+];

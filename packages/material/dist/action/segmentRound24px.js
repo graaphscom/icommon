@@ -35,4 +35,4 @@ export var segmentRound24px = [
       ]
     ]
   ]
-]
+];

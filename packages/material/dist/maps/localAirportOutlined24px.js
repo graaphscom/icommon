@@ -28,4 +28,4 @@ export var localAirportOutlined24px = [
       ]
     ]
   ]
-]
+];

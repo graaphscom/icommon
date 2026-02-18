@@ -21,4 +21,4 @@ export var accessAlarmsOutlined24px = [
       }
     ]
   ]
-]
+];

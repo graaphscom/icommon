@@ -21,4 +21,4 @@ export var panoramaVertical24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var saveAltSharp24px = [
       }
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var wheelchairPickupRound24px = [
       ]
     ]
   ]
-]
+];

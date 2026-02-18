@@ -26,4 +26,4 @@ export var stack24 = [
       }
     ]
   ]
-]
+];

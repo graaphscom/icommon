@@ -23,4 +23,4 @@ export var villaOutlined24px = [
       }
     ]
   ]
-]
+];

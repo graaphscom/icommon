@@ -82,4 +82,4 @@ export var listBar16Color = [
       ]
     ]
   ]
-]
+];

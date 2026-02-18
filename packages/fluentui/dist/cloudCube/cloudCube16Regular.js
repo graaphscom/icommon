@@ -16,4 +16,4 @@ export var cloudCube16Regular = [
       }
     ]
   ]
-]
+];

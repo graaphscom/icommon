@@ -21,4 +21,4 @@ export var leakRemoveTwotone24px = [
       }
     ]
   ]
-]
+];

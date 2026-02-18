@@ -35,4 +35,4 @@ export var signLanguage20px = [
       ]
     ]
   ]
-]
+];

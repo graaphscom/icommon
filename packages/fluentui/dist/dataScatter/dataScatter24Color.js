@@ -147,4 +147,4 @@ export var dataScatter24Color = [
       ]
     ]
   ]
-]
+];

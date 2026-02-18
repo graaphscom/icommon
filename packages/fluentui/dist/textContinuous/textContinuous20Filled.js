@@ -16,4 +16,4 @@ export var textContinuous20Filled = [
       }
     ]
   ]
-]
+];

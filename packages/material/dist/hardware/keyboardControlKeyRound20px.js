@@ -35,4 +35,4 @@ export var keyboardControlKeyRound20px = [
       ]
     ]
   ]
-]
+];

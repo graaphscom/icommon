@@ -65,4 +65,4 @@ export var wbTwilightRound20px = [
       ]
     ]
   ]
-]
+];

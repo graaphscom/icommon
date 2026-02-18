@@ -35,4 +35,4 @@ export var inputRound24px = [
       }
     ]
   ]
-]
+];

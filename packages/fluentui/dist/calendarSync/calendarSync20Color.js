@@ -218,4 +218,4 @@ export var calendarSync20Color = [
       ]
     ]
   ]
-]
+];

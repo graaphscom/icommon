@@ -16,4 +16,4 @@ export var bookmark16Filled = [
       }
     ]
   ]
-]
+];

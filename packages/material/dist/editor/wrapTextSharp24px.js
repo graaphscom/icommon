@@ -14,4 +14,4 @@ export var wrapTextSharp24px = [
       }
     ]
   ]
-]
+];

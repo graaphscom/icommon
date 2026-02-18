@@ -16,4 +16,4 @@ export var toggleMultiple20Regular = [
       }
     ]
   ]
-]
+];

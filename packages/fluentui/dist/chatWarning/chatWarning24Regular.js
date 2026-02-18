@@ -16,4 +16,4 @@ export var chatWarning24Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var contactPage24px = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var starBorderPurple500Twotone24px = [
       ]
     ]
   ]
-]
+];

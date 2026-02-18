@@ -35,4 +35,4 @@ export var science24px = [
       ]
     ]
   ]
-]
+];

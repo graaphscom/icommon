@@ -16,4 +16,4 @@ export var backpack32Regular = [
       }
     ]
   ]
-]
+];

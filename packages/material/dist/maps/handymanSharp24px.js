@@ -59,4 +59,4 @@ export var handymanSharp24px = [
       ]
     ]
   ]
-]
+];

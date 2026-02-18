@@ -93,4 +93,4 @@ export var paletteTwotone24px = [
       ]
     ]
   ]
-]
+];

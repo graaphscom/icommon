@@ -21,4 +21,4 @@ export var pieChartOutlineRound24px = [
       }
     ]
   ]
-]
+];

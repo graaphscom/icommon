@@ -53,4 +53,4 @@ export var rawOnSharp24px = [
       ]
     ]
   ]
-]
+];

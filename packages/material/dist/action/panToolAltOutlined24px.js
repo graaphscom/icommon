@@ -35,4 +35,4 @@ export var panToolAltOutlined24px = [
       ]
     ]
   ]
-]
+];

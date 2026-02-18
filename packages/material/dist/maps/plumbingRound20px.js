@@ -53,4 +53,4 @@ export var plumbingRound20px = [
       ]
     ]
   ]
-]
+];

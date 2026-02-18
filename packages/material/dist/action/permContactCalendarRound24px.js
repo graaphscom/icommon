@@ -21,4 +21,4 @@ export var permContactCalendarRound24px = [
       }
     ]
   ]
-]
+];

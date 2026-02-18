@@ -34,4 +34,4 @@ export var doorFrontRound24px = [
       ]
     ]
   ]
-]
+];

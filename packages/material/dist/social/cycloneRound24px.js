@@ -55,4 +55,4 @@ export var cycloneRound24px = [
       ]
     ]
   ]
-]
+];

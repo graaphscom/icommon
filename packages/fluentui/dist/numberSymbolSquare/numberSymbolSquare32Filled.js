@@ -16,4 +16,4 @@ export var numberSymbolSquare32Filled = [
       }
     ]
   ]
-]
+];

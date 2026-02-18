@@ -21,4 +21,4 @@ export var messageOutlined24px = [
       }
     ]
   ]
-]
+];

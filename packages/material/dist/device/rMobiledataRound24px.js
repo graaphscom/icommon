@@ -40,4 +40,4 @@ export var rMobiledataRound24px = [
       ]
     ]
   ]
-]
+];

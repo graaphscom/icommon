@@ -16,4 +16,4 @@ export var checkboxUnchecked16Filled = [
       }
     ]
   ]
-]
+];

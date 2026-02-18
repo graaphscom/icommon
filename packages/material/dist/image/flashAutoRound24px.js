@@ -21,4 +21,4 @@ export var flashAutoRound24px = [
       }
     ]
   ]
-]
+];

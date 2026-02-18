@@ -16,4 +16,4 @@ export var notebookError20Filled = [
       }
     ]
   ]
-]
+];

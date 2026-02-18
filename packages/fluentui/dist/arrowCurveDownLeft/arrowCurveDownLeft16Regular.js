@@ -16,4 +16,4 @@ export var arrowCurveDownLeft16Regular = [
       }
     ]
   ]
-]
+];

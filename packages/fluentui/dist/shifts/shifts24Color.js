@@ -81,4 +81,4 @@ export var shifts24Color = [
       ]
     ]
   ]
-]
+];

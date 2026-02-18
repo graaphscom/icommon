@@ -16,4 +16,4 @@ export var shiftsCheckmark20Filled = [
       }
     ]
   ]
-]
+];

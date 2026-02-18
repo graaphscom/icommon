@@ -21,4 +21,4 @@ export var locationCityTwotone24px = [
       }
     ]
   ]
-]
+];

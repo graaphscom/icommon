@@ -16,4 +16,4 @@ export var cameraDome20Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var satelliteAlt20px = [
       ]
     ]
   ]
-]
+];

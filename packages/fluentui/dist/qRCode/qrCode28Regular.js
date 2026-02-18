@@ -16,4 +16,4 @@ export var qrCode28Regular = [
       }
     ]
   ]
-]
+];

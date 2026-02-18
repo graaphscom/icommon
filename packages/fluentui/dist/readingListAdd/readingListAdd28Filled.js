@@ -16,4 +16,4 @@ export var readingListAdd28Filled = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var flaky24px = [
       ]
     ]
   ]
-]
+];

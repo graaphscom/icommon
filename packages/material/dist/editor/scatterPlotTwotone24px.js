@@ -48,4 +48,4 @@ export var scatterPlotTwotone24px = [
       }
     ]
   ]
-]
+];

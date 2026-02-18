@@ -16,4 +16,4 @@ export var tabAdd24Filled = [
       }
     ]
   ]
-]
+];

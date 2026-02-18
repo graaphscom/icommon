@@ -29,4 +29,4 @@ export var tableViewSharp24px = [
       ]
     ]
   ]
-]
+];

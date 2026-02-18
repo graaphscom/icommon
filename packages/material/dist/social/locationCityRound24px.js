@@ -21,4 +21,4 @@ export var locationCityRound24px = [
       }
     ]
   ]
-]
+];

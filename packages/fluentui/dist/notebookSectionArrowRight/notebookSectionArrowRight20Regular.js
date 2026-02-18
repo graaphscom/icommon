@@ -16,4 +16,4 @@ export var notebookSectionArrowRight20Regular = [
       }
     ]
   ]
-]
+];

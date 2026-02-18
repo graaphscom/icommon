@@ -29,4 +29,4 @@ export var bentoSharp24px = [
       ]
     ]
   ]
-]
+];

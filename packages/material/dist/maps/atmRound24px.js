@@ -21,4 +21,4 @@ export var atmRound24px = [
       }
     ]
   ]
-]
+];

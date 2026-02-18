@@ -95,4 +95,4 @@ export var landslide20px = [
       ]
     ]
   ]
-]
+];

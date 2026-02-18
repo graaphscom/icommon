@@ -35,4 +35,4 @@ export var barcodeReader24px = [
       ]
     ]
   ]
-]
+];

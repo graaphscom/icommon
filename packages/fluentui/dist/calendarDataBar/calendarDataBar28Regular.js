@@ -16,4 +16,4 @@ export var calendarDataBar28Regular = [
       }
     ]
   ]
-]
+];

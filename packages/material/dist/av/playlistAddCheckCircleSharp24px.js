@@ -23,4 +23,4 @@ export var playlistAddCheckCircleSharp24px = [
       }
     ]
   ]
-]
+];

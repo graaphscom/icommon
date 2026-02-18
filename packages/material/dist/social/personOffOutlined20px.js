@@ -23,4 +23,4 @@ export var personOffOutlined20px = [
       }
     ]
   ]
-]
+];

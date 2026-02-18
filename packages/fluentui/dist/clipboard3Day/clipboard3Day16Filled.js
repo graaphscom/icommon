@@ -16,4 +16,4 @@ export var clipboard3Day16Filled = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var nearbyOff24px = [
       ]
     ]
   ]
-]
+];

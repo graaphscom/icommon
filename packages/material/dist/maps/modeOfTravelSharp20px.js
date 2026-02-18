@@ -23,4 +23,4 @@ export var modeOfTravelSharp20px = [
       }
     ]
   ]
-]
+];

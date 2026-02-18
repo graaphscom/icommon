@@ -95,4 +95,4 @@ export var showerTwotone24px = [
       ]
     ]
   ]
-]
+];

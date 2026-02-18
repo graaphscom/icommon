@@ -21,4 +21,4 @@ export var savedSearch24px = [
       }
     ]
   ]
-]
+];

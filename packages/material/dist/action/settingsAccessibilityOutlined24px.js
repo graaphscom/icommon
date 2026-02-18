@@ -35,4 +35,4 @@ export var settingsAccessibilityOutlined24px = [
       ]
     ]
   ]
-]
+];

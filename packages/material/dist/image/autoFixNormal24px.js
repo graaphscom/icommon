@@ -21,4 +21,4 @@ export var autoFixNormal24px = [
       }
     ]
   ]
-]
+];

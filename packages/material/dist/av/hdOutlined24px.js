@@ -21,4 +21,4 @@ export var hdOutlined24px = [
       }
     ]
   ]
-]
+];

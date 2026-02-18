@@ -21,4 +21,4 @@ export var reorderTwotone24px = [
       }
     ]
   ]
-]
+];

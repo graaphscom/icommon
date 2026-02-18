@@ -23,4 +23,4 @@ export var roofingOutlined24px = [
       }
     ]
   ]
-]
+];

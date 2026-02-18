@@ -34,4 +34,4 @@ export var chairAltRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shieldTask24Regular = [
       }
     ]
   ]
-]
+];

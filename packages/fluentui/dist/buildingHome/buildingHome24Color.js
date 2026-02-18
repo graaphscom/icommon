@@ -250,4 +250,4 @@ export var buildingHome24Color = [
       ]
     ]
   ]
-]
+];

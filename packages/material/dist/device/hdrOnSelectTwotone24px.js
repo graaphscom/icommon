@@ -40,4 +40,4 @@ export var hdrOnSelectTwotone24px = [
       ]
     ]
   ]
-]
+];

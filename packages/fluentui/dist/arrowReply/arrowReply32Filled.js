@@ -16,4 +16,4 @@ export var arrowReply32Filled = [
       }
     ]
   ]
-]
+];

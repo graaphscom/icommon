@@ -16,4 +16,4 @@ export var thumbLikeDislike20Regular = [
       }
     ]
   ]
-]
+];

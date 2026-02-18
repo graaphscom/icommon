@@ -16,4 +16,4 @@ export var tabs24Regular = [
       }
     ]
   ]
-]
+];

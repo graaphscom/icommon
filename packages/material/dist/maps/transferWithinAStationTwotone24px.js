@@ -21,4 +21,4 @@ export var transferWithinAStationTwotone24px = [
       }
     ]
   ]
-]
+];

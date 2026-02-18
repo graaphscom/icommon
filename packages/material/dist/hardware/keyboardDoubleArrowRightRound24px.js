@@ -55,4 +55,4 @@ export var keyboardDoubleArrowRightRound24px = [
       ]
     ]
   ]
-]
+];

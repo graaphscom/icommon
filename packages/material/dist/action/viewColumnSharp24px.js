@@ -29,4 +29,4 @@ export var viewColumnSharp24px = [
       ]
     ]
   ]
-]
+];

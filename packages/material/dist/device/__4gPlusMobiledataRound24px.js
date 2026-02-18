@@ -52,4 +52,4 @@ export var __4gPlusMobiledataRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailAttach16Regular = [
       }
     ]
   ]
-]
+];

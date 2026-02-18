@@ -36,4 +36,4 @@ export var radioTwotone24px = [
       }
     ]
   ]
-]
+];

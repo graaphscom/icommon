@@ -16,4 +16,4 @@ export var locationRipple12Filled = [
       }
     ]
   ]
-]
+];

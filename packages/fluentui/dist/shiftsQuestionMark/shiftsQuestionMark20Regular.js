@@ -16,4 +16,4 @@ export var shiftsQuestionMark20Regular = [
       }
     ]
   ]
-]
+];

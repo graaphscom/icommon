@@ -16,4 +16,4 @@ export var classification16Filled = [
       }
     ]
   ]
-]
+];

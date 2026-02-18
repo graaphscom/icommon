@@ -35,4 +35,4 @@ export var apartmentRound20px = [
       ]
     ]
   ]
-]
+];

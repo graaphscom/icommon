@@ -29,4 +29,4 @@ export var wifiLockOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var attachMoney24px = [
       }
     ]
   ]
-]
+];

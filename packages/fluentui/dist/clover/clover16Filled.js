@@ -16,4 +16,4 @@ export var clover16Filled = [
       }
     ]
   ]
-]
+];

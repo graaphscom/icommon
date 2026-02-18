@@ -56,4 +56,4 @@ export var joinFullSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var skipForward1524Filled = [
       }
     ]
   ]
-]
+];

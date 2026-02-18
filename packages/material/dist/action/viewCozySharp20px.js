@@ -41,4 +41,4 @@ export var viewCozySharp20px = [
       ]
     ]
   ]
-]
+];

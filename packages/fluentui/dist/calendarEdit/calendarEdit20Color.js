@@ -524,4 +524,4 @@ export var calendarEdit20Color = [
       ]
     ]
   ]
-]
+];

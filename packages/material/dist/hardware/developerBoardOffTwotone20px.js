@@ -30,4 +30,4 @@ export var developerBoardOffTwotone20px = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var home6Fill = [
       }
     ]
   ]
-]
+];

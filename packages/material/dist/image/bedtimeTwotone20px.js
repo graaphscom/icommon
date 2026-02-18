@@ -55,4 +55,4 @@ export var bedtimeTwotone20px = [
       ]
     ]
   ]
-]
+];

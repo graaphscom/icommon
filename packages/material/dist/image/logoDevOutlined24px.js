@@ -47,4 +47,4 @@ export var logoDevOutlined24px = [
       ]
     ]
   ]
-]
+];

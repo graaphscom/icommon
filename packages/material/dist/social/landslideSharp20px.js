@@ -95,4 +95,4 @@ export var landslideSharp20px = [
       ]
     ]
   ]
-]
+];

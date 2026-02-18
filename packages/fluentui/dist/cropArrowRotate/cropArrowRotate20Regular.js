@@ -16,4 +16,4 @@ export var cropArrowRotate20Regular = [
       }
     ]
   ]
-]
+];

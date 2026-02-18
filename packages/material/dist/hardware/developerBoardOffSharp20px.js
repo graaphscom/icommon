@@ -23,4 +23,4 @@ export var developerBoardOffSharp20px = [
       }
     ]
   ]
-]
+];

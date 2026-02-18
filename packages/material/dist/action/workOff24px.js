@@ -21,4 +21,4 @@ export var workOff24px = [
       }
     ]
   ]
-]
+];

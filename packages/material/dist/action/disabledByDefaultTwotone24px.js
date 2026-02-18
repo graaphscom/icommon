@@ -30,4 +30,4 @@ export var disabledByDefaultTwotone24px = [
       }
     ]
   ]
-]
+];

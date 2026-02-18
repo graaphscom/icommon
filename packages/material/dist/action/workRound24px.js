@@ -21,4 +21,4 @@ export var workRound24px = [
       }
     ]
   ]
-]
+];

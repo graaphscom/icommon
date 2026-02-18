@@ -40,4 +40,4 @@ export var wifiTetheringOffOutlined24px = [
       ]
     ]
   ]
-]
+];

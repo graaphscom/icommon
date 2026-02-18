@@ -21,4 +21,4 @@ export var signalCellularNull24px = [
       }
     ]
   ]
-]
+];

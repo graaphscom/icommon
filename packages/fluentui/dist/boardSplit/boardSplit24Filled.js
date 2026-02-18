@@ -16,4 +16,4 @@ export var boardSplit24Filled = [
       }
     ]
   ]
-]
+];

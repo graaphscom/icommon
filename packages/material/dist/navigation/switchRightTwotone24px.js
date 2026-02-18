@@ -31,4 +31,4 @@ export var switchRightTwotone24px = [
       }
     ]
   ]
-]
+];

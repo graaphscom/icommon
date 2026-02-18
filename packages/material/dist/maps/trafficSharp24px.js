@@ -21,4 +21,4 @@ export var trafficSharp24px = [
       }
     ]
   ]
-]
+];

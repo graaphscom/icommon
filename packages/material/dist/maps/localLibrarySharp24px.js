@@ -21,4 +21,4 @@ export var localLibrarySharp24px = [
       }
     ]
   ]
-]
+];

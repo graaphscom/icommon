@@ -16,4 +16,4 @@ export var textBulletListSquareShield48Filled = [
       }
     ]
   ]
-]
+];

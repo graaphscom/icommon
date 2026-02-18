@@ -23,4 +23,4 @@ export var pianoOffRound24px = [
       }
     ]
   ]
-]
+];

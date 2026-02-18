@@ -21,4 +21,4 @@ export var phonelinkOffSharp24px = [
       }
     ]
   ]
-]
+];

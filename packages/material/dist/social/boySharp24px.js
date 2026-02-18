@@ -41,4 +41,4 @@ export var boySharp24px = [
       ]
     ]
   ]
-]
+];

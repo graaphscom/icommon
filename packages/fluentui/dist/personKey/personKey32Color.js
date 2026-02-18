@@ -224,4 +224,4 @@ export var personKey32Color = [
       ]
     ]
   ]
-]
+];

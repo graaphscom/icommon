@@ -16,4 +16,4 @@ export var openOff16Filled = [
       }
     ]
   ]
-]
+];

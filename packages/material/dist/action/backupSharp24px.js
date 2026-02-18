@@ -21,4 +21,4 @@ export var backupSharp24px = [
       }
     ]
   ]
-]
+];

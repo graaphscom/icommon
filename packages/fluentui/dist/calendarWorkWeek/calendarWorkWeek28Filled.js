@@ -16,4 +16,4 @@ export var calendarWorkWeek28Filled = [
       }
     ]
   ]
-]
+];

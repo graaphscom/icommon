@@ -67,4 +67,4 @@ export var macroOffRound24px = [
       ]
     ]
   ]
-]
+];

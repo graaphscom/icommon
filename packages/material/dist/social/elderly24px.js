@@ -23,4 +23,4 @@ export var elderly24px = [
       }
     ]
   ]
-]
+];

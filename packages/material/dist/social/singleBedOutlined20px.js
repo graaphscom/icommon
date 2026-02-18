@@ -42,4 +42,4 @@ export var singleBedOutlined20px = [
       ]
     ]
   ]
-]
+];

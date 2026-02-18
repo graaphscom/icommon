@@ -23,4 +23,4 @@ export var connectingAirportsTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var hubSharp24px = [
       }
     ]
   ]
-]
+];

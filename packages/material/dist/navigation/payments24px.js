@@ -21,4 +21,4 @@ export var payments24px = [
       }
     ]
   ]
-]
+];

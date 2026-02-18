@@ -21,4 +21,4 @@ export var castSharp24px = [
       }
     ]
   ]
-]
+];

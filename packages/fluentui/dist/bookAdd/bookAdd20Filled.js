@@ -16,4 +16,4 @@ export var bookAdd20Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var locationCitySharp24px = [
       }
     ]
   ]
-]
+];

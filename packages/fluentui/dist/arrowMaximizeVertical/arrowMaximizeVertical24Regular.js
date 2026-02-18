@@ -16,4 +16,4 @@ export var arrowMaximizeVertical24Regular = [
       }
     ]
   ]
-]
+];

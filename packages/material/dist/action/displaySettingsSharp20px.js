@@ -71,4 +71,4 @@ export var displaySettingsSharp20px = [
       ]
     ]
   ]
-]
+];

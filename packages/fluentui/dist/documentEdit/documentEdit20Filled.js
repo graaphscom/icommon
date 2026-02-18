@@ -16,4 +16,4 @@ export var documentEdit20Filled = [
       }
     ]
   ]
-]
+];

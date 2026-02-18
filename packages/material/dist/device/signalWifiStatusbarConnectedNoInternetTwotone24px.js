@@ -59,4 +59,4 @@ export var signalWifiStatusbarConnectedNoInternetTwotone24px = [
       ]
     ]
   ]
-]
+];

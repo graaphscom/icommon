@@ -201,4 +201,4 @@ export var sport20Color = [
       ]
     ]
   ]
-]
+];

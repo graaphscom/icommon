@@ -16,4 +16,4 @@ export var documentTarget24Filled = [
       }
     ]
   ]
-]
+];

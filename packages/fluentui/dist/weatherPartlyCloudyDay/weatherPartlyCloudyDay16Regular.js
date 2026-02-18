@@ -16,4 +16,4 @@ export var weatherPartlyCloudyDay16Regular = [
       }
     ]
   ]
-]
+];

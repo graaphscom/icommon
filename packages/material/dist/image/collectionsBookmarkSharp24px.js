@@ -21,4 +21,4 @@ export var collectionsBookmarkSharp24px = [
       }
     ]
   ]
-]
+];

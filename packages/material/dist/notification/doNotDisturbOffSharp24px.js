@@ -35,4 +35,4 @@ export var doNotDisturbOffSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -54,4 +54,4 @@ export var shieldMoonTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var poolRound24px = [
       }
     ]
   ]
-]
+];

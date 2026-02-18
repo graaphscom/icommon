@@ -23,4 +23,4 @@ export var bookmarkRemoveRound20px = [
       }
     ]
   ]
-]
+];

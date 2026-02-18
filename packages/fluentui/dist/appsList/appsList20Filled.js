@@ -16,4 +16,4 @@ export var appsList20Filled = [
       }
     ]
   ]
-]
+];

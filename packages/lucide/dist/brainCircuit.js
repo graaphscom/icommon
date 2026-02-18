@@ -99,4 +99,4 @@ export var brainCircuit = [
       }
     ]
   ]
-]
+];

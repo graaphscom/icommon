@@ -21,4 +21,4 @@ export var reportOffRound24px = [
       }
     ]
   ]
-]
+];

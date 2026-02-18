@@ -21,4 +21,4 @@ export var assignmentOutlined24px = [
       }
     ]
   ]
-]
+];

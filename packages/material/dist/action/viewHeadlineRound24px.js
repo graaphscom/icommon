@@ -21,4 +21,4 @@ export var viewHeadlineRound24px = [
       }
     ]
   ]
-]
+];

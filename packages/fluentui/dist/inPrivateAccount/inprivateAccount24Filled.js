@@ -16,4 +16,4 @@ export var inprivateAccount24Filled = [
       }
     ]
   ]
-]
+];

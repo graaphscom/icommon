@@ -59,4 +59,4 @@ export var emojiNatureRound24px = [
       ]
     ]
   ]
-]
+];

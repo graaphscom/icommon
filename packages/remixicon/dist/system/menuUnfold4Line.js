@@ -13,4 +13,4 @@ export var menuUnfold4Line = [
       }
     ]
   ]
-]
+];

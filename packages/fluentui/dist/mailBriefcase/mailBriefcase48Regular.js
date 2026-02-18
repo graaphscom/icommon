@@ -16,4 +16,4 @@ export var mailBriefcase48Regular = [
       }
     ]
   ]
-]
+];

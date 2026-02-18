@@ -69,4 +69,4 @@ export var supportTwotone20px = [
       ]
     ]
   ]
-]
+];

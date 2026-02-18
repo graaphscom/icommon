@@ -13,4 +13,4 @@ export var dualSim1Line = [
       }
     ]
   ]
-]
+];

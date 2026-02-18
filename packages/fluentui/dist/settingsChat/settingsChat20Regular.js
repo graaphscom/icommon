@@ -16,4 +16,4 @@ export var settingsChat20Regular = [
       }
     ]
   ]
-]
+];

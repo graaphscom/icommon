@@ -28,4 +28,4 @@ export var pictureInPictureAltTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var saveArrowRight20Filled = [
       }
     ]
   ]
-]
+];

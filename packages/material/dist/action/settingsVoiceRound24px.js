@@ -24,4 +24,4 @@ export var settingsVoiceRound24px = [
       }
     ]
   ]
-]
+];

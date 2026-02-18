@@ -16,4 +16,4 @@ export var vehicleTruckCheckmark24Filled = [
       }
     ]
   ]
-]
+];

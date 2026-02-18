@@ -21,4 +21,4 @@ export var syncDisabled24px = [
       }
     ]
   ]
-]
+];

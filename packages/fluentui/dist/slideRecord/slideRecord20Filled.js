@@ -16,4 +16,4 @@ export var slideRecord20Filled = [
       }
     ]
   ]
-]
+];

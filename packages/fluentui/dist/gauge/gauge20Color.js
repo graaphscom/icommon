@@ -297,4 +297,4 @@ export var gauge20Color = [
       ]
     ]
   ]
-]
+];

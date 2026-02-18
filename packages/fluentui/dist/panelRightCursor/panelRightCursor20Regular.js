@@ -16,4 +16,4 @@ export var panelRightCursor20Regular = [
       }
     ]
   ]
-]
+];

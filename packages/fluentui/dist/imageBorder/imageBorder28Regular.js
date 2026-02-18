@@ -16,4 +16,4 @@ export var imageBorder28Regular = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var deleteBin6Line = [
       }
     ]
   ]
-]
+];

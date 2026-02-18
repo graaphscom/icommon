@@ -16,4 +16,4 @@ export var personLightning20Regular = [
       }
     ]
   ]
-]
+];

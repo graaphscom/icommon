@@ -21,4 +21,4 @@ export var warning24px = [
       }
     ]
   ]
-]
+];

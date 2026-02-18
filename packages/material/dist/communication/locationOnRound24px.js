@@ -35,4 +35,4 @@ export var locationOnRound24px = [
       ]
     ]
   ]
-]
+];

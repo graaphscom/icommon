@@ -16,4 +16,4 @@ export var contactCardGeneric16Regular = [
       }
     ]
   ]
-]
+];

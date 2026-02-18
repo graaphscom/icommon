@@ -58,4 +58,4 @@ export var bedroomChildSharp24px = [
       ]
     ]
   ]
-]
+];

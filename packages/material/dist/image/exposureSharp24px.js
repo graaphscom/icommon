@@ -21,4 +21,4 @@ export var exposureSharp24px = [
       }
     ]
   ]
-]
+];

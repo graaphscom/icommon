@@ -66,4 +66,4 @@ export var viewInArSharp24px = [
       ]
     ]
   ]
-]
+];

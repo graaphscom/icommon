@@ -16,4 +16,4 @@ export var hexagonThree20Filled = [
       }
     ]
   ]
-]
+];

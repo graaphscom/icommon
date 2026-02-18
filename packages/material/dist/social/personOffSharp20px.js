@@ -23,4 +23,4 @@ export var personOffSharp20px = [
       }
     ]
   ]
-]
+];

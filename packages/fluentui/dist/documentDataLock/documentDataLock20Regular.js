@@ -16,4 +16,4 @@ export var documentDataLock20Regular = [
       }
     ]
   ]
-]
+];

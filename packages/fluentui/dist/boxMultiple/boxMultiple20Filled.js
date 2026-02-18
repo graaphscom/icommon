@@ -16,4 +16,4 @@ export var boxMultiple20Filled = [
       }
     ]
   ]
-]
+];

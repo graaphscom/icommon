@@ -48,4 +48,4 @@ export var copyright24px = [
       ]
     ]
   ]
-]
+];

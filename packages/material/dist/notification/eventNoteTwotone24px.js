@@ -28,4 +28,4 @@ export var eventNoteTwotone24px = [
       }
     ]
   ]
-]
+];

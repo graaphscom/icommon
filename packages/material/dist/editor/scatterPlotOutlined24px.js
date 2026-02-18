@@ -21,4 +21,4 @@ export var scatterPlotOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -215,4 +215,4 @@ export var viewCompactRound20px = [
       ]
     ]
   ]
-]
+];

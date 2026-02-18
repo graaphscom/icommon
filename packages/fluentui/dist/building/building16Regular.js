@@ -16,4 +16,4 @@ export var building16Regular = [
       }
     ]
   ]
-]
+];

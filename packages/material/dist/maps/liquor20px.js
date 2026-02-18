@@ -47,4 +47,4 @@ export var liquor20px = [
       ]
     ]
   ]
-]
+];

@@ -65,4 +65,4 @@ export var synagogueRound20px = [
       ]
     ]
   ]
-]
+];

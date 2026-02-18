@@ -16,4 +16,4 @@ export var slideAdd48Regular = [
       }
     ]
   ]
-]
+];

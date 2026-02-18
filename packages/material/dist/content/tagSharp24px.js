@@ -35,4 +35,4 @@ export var tagSharp24px = [
       ]
     ]
   ]
-]
+];

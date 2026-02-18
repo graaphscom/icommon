@@ -48,4 +48,4 @@ export var coffeeMakerSharp24px = [
       ]
     ]
   ]
-]
+];

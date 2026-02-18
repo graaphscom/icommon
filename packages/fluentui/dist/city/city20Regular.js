@@ -16,4 +16,4 @@ export var city20Regular = [
       }
     ]
   ]
-]
+];

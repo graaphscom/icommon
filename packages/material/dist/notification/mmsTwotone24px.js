@@ -28,4 +28,4 @@ export var mmsTwotone24px = [
       }
     ]
   ]
-]
+];

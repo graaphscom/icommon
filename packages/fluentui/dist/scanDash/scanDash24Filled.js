@@ -16,4 +16,4 @@ export var scanDash24Filled = [
       }
     ]
   ]
-]
+];

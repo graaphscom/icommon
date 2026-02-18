@@ -30,4 +30,4 @@ export var cottageTwotone20px = [
       }
     ]
   ]
-]
+];

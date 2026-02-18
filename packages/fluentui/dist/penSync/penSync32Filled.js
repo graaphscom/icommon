@@ -16,4 +16,4 @@ export var penSync32Filled = [
       }
     ]
   ]
-]
+];

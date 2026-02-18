@@ -16,4 +16,4 @@ export var glance28Regular = [
       }
     ]
   ]
-]
+];

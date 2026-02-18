@@ -16,4 +16,4 @@ export var batteryCharge32Filled = [
       }
     ]
   ]
-]
+];

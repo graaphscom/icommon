@@ -40,4 +40,4 @@ export var splitscreenRound24px = [
       ]
     ]
   ]
-]
+];

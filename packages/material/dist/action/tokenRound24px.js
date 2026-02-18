@@ -24,4 +24,4 @@ export var tokenRound24px = [
       }
     ]
   ]
-]
+];

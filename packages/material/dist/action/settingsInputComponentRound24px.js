@@ -35,4 +35,4 @@ export var settingsInputComponentRound24px = [
       ]
     ]
   ]
-]
+];

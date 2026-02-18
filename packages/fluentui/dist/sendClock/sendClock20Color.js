@@ -221,4 +221,4 @@ export var sendClock20Color = [
       ]
     ]
   ]
-]
+];

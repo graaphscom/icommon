@@ -170,4 +170,4 @@ export var face5Outlined20px = [
       ]
     ]
   ]
-]
+];

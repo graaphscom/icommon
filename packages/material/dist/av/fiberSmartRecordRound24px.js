@@ -22,4 +22,4 @@ export var fiberSmartRecordRound24px = [
       }
     ]
   ]
-]
+];

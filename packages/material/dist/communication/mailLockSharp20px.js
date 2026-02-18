@@ -47,4 +47,4 @@ export var mailLockSharp20px = [
       ]
     ]
   ]
-]
+];

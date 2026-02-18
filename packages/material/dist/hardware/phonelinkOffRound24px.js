@@ -14,4 +14,4 @@ export var phonelinkOffRound24px = [
       }
     ]
   ]
-]
+];

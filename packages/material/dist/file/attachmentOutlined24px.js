@@ -21,4 +21,4 @@ export var attachmentOutlined24px = [
       }
     ]
   ]
-]
+];

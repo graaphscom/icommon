@@ -21,4 +21,4 @@ export var contentPasteRound24px = [
       }
     ]
   ]
-]
+];

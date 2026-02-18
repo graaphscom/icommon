@@ -16,4 +16,4 @@ export var textBulletListSquarePerson32Regular = [
       }
     ]
   ]
-]
+];

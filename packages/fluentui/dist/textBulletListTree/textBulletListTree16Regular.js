@@ -16,4 +16,4 @@ export var textBulletListTree16Regular = [
       }
     ]
   ]
-]
+];

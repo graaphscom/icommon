@@ -16,4 +16,4 @@ export var beach20Regular = [
       }
     ]
   ]
-]
+];

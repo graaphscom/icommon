@@ -47,4 +47,4 @@ export var watchOff20px = [
       ]
     ]
   ]
-]
+];

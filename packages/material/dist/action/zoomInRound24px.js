@@ -21,4 +21,4 @@ export var zoomInRound24px = [
       }
     ]
   ]
-]
+];

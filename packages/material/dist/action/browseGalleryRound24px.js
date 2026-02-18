@@ -55,4 +55,4 @@ export var browseGalleryRound24px = [
       ]
     ]
   ]
-]
+];

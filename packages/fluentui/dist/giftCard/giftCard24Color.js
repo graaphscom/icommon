@@ -147,4 +147,4 @@ export var giftCard24Color = [
       ]
     ]
   ]
-]
+];

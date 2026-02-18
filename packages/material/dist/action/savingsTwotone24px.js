@@ -43,4 +43,4 @@ export var savingsTwotone24px = [
       ]
     ]
   ]
-]
+];

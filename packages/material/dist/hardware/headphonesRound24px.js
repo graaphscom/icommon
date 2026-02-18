@@ -35,4 +35,4 @@ export var headphonesRound24px = [
       ]
     ]
   ]
-]
+];

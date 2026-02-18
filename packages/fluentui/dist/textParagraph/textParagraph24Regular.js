@@ -16,4 +16,4 @@ export var textParagraph24Regular = [
       }
     ]
   ]
-]
+];

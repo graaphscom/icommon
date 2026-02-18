@@ -16,4 +16,4 @@ export var textBulletList27024Filled = [
       }
     ]
   ]
-]
+];

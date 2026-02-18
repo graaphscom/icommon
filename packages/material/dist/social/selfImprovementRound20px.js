@@ -49,4 +49,4 @@ export var selfImprovementRound20px = [
       ]
     ]
   ]
-]
+];

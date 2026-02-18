@@ -55,4 +55,4 @@ export var browserNotSupportedRound24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var deleteForeverOutlined24px = [
       }
     ]
   ]
-]
+];

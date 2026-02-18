@@ -40,4 +40,4 @@ export var euroRound20px = [
       ]
     ]
   ]
-]
+];

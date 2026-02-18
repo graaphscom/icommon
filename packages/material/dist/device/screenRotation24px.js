@@ -21,4 +21,4 @@ export var screenRotation24px = [
       }
     ]
   ]
-]
+];

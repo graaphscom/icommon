@@ -41,4 +41,4 @@ export var phishing20px = [
       ]
     ]
   ]
-]
+];

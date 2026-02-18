@@ -16,4 +16,4 @@ export var arrowStepInDiagonalDownLeft20Filled = [
       }
     ]
   ]
-]
+];

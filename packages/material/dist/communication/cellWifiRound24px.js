@@ -59,4 +59,4 @@ export var cellWifiRound24px = [
       ]
     ]
   ]
-]
+];

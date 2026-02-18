@@ -82,4 +82,4 @@ export var addHomeWorkTwotone24px = [
       ]
     ]
   ]
-]
+];

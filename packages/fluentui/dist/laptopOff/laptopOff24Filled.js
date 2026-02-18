@@ -16,4 +16,4 @@ export var laptopOff24Filled = [
       }
     ]
   ]
-]
+];

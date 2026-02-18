@@ -16,4 +16,4 @@ export var plantGrass20Filled = [
       }
     ]
   ]
-]
+];

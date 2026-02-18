@@ -98,4 +98,4 @@ export var appRegistration20px = [
       ]
     ]
   ]
-]
+];

@@ -64,4 +64,4 @@ export var receiptLong24px = [
       ]
     ]
   ]
-]
+];

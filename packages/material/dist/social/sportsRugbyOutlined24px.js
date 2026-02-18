@@ -35,4 +35,4 @@ export var sportsRugbyOutlined24px = [
       ]
     ]
   ]
-]
+];

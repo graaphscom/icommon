@@ -16,4 +16,4 @@ export var personQuestionMark16Filled = [
       }
     ]
   ]
-]
+];

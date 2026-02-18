@@ -23,4 +23,4 @@ export var contentPasteOff20px = [
       }
     ]
   ]
-]
+];

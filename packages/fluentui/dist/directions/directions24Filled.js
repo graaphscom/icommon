@@ -16,4 +16,4 @@ export var directions24Filled = [
       }
     ]
   ]
-]
+];

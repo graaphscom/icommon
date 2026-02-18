@@ -16,4 +16,4 @@ export var archive20Regular = [
       }
     ]
   ]
-]
+];

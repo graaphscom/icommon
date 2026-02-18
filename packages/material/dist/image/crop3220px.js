@@ -35,4 +35,4 @@ export var crop3220px = [
       ]
     ]
   ]
-]
+];

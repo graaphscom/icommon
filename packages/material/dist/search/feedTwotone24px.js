@@ -41,4 +41,4 @@ export var feedTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var calendarToday16Filled = [
       }
     ]
   ]
-]
+];

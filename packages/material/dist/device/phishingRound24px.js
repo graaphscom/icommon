@@ -43,4 +43,4 @@ export var phishingRound24px = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var headsetMicTwotone24px = [
       }
     ]
   ]
-]
+];

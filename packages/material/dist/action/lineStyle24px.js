@@ -47,4 +47,4 @@ export var lineStyle24px = [
       ]
     ]
   ]
-]
+];

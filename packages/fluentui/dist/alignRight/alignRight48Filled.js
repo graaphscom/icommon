@@ -16,4 +16,4 @@ export var alignRight48Filled = [
       }
     ]
   ]
-]
+];

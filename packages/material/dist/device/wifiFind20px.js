@@ -59,4 +59,4 @@ export var wifiFind20px = [
       ]
     ]
   ]
-]
+];

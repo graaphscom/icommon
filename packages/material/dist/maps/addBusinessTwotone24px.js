@@ -63,4 +63,4 @@ export var addBusinessTwotone24px = [
       ]
     ]
   ]
-]
+];

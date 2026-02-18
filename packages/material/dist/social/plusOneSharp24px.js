@@ -21,4 +21,4 @@ export var plusOneSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var panoramaFishEyeSharp24px = [
       }
     ]
   ]
-]
+];

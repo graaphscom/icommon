@@ -16,4 +16,4 @@ export var mailOff24Regular = [
       }
     ]
   ]
-]
+];

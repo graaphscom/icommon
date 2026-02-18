@@ -21,4 +21,4 @@ export var localPharmacyOutlined24px = [
       }
     ]
   ]
-]
+];

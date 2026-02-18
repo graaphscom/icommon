@@ -16,4 +16,4 @@ export var tableCellsSplit28Regular = [
       }
     ]
   ]
-]
+];

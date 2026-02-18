@@ -63,4 +63,4 @@ export var faceRetouchingNaturalRound24px = [
       ]
     ]
   ]
-]
+];

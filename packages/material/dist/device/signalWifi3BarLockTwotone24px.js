@@ -28,4 +28,4 @@ export var signalWifi3BarLockTwotone24px = [
       }
     ]
   ]
-]
+];

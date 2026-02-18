@@ -48,4 +48,4 @@ export var shortText24px = [
       ]
     ]
   ]
-]
+];

@@ -69,4 +69,4 @@ export var spatialTrackingRound24px = [
       ]
     ]
   ]
-]
+];

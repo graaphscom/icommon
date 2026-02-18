@@ -21,4 +21,4 @@ export var storeRound24px = [
       }
     ]
   ]
-]
+];

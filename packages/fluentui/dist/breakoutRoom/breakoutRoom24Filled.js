@@ -16,4 +16,4 @@ export var breakoutRoom24Filled = [
       }
     ]
   ]
-]
+];

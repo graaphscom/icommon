@@ -98,4 +98,4 @@ export var windPowerTwotone24px = [
       ]
     ]
   ]
-]
+];

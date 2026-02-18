@@ -16,4 +16,4 @@ export var arrowTurnBidirectionalDownRight24Filled = [
       }
     ]
   ]
-]
+];

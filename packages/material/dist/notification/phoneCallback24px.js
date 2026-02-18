@@ -21,4 +21,4 @@ export var phoneCallback24px = [
       }
     ]
   ]
-]
+];

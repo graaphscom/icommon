@@ -81,4 +81,4 @@ export var flag28Color = [
       ]
     ]
   ]
-]
+];

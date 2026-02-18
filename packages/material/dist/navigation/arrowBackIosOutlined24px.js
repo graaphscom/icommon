@@ -22,4 +22,4 @@ export var arrowBackIosOutlined24px = [
       }
     ]
   ]
-]
+];

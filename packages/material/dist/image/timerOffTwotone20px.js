@@ -76,4 +76,4 @@ export var timerOffTwotone20px = [
       ]
     ]
   ]
-]
+];

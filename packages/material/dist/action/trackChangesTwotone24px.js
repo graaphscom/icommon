@@ -21,4 +21,4 @@ export var trackChangesTwotone24px = [
       }
     ]
   ]
-]
+];

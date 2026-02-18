@@ -16,4 +16,4 @@ export var sendClock28Filled = [
       }
     ]
   ]
-]
+];

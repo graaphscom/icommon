@@ -59,4 +59,4 @@ export var appShortcutOutlined24px = [
       ]
     ]
   ]
-]
+];

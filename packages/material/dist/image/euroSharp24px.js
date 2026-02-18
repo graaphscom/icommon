@@ -39,4 +39,4 @@ export var euroSharp24px = [
       ]
     ]
   ]
-]
+];

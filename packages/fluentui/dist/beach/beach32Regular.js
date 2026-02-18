@@ -16,4 +16,4 @@ export var beach32Regular = [
       }
     ]
   ]
-]
+];

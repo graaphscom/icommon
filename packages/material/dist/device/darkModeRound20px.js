@@ -23,4 +23,4 @@ export var darkModeRound20px = [
       }
     ]
   ]
-]
+];

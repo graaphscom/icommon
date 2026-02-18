@@ -16,4 +16,4 @@ export var peopleSettings24Filled = [
       }
     ]
   ]
-]
+];

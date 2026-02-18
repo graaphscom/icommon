@@ -16,4 +16,4 @@ export var keyboardTab24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentImage20Filled = [
       }
     ]
   ]
-]
+];

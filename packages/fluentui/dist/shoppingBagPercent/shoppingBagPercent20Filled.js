@@ -16,4 +16,4 @@ export var shoppingBagPercent20Filled = [
       }
     ]
   ]
-]
+];

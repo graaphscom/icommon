@@ -16,4 +16,4 @@ export var errorCircleSettings16Regular = [
       }
     ]
   ]
-]
+];

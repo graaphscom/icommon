@@ -16,4 +16,4 @@ export var appGeneric48Regular = [
       }
     ]
   ]
-]
+];

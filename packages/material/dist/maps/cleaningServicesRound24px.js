@@ -43,4 +43,4 @@ export var cleaningServicesRound24px = [
       ]
     ]
   ]
-]
+];

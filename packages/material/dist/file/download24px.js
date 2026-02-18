@@ -35,4 +35,4 @@ export var download24px = [
       ]
     ]
   ]
-]
+];

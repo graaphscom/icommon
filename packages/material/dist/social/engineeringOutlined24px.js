@@ -59,4 +59,4 @@ export var engineeringOutlined24px = [
       ]
     ]
   ]
-]
+];

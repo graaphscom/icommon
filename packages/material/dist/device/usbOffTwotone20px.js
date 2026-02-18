@@ -23,4 +23,4 @@ export var usbOffTwotone20px = [
       }
     ]
   ]
-]
+];

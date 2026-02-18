@@ -21,4 +21,4 @@ export var notInterestedOutlined24px = [
       }
     ]
   ]
-]
+];

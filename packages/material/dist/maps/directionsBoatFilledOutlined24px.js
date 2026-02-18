@@ -23,4 +23,4 @@ export var directionsBoatFilledOutlined24px = [
       }
     ]
   ]
-]
+];

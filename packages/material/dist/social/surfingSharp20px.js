@@ -23,4 +23,4 @@ export var surfingSharp20px = [
       }
     ]
   ]
-]
+];

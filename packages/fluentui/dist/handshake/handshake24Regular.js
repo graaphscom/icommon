@@ -16,4 +16,4 @@ export var handshake24Regular = [
       }
     ]
   ]
-]
+];

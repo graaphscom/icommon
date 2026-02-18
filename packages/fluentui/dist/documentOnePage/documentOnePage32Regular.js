@@ -16,4 +16,4 @@ export var documentOnePage32Regular = [
       }
     ]
   ]
-]
+];

@@ -238,4 +238,4 @@ export var peopleAdd32Color = [
       ]
     ]
   ]
-]
+];

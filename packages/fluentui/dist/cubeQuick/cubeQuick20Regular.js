@@ -16,4 +16,4 @@ export var cubeQuick20Regular = [
       }
     ]
   ]
-]
+];

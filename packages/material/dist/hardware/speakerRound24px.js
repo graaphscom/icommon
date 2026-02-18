@@ -14,4 +14,4 @@ export var speakerRound24px = [
       }
     ]
   ]
-]
+];

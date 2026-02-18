@@ -21,4 +21,4 @@ export var localCafeOutlined24px = [
       }
     ]
   ]
-]
+];

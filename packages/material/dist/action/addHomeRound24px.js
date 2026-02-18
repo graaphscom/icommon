@@ -67,4 +67,4 @@ export var addHomeRound24px = [
       ]
     ]
   ]
-]
+];

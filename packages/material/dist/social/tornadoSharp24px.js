@@ -71,4 +71,4 @@ export var tornadoSharp24px = [
       ]
     ]
   ]
-]
+];

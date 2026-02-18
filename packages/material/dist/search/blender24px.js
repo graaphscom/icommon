@@ -40,4 +40,4 @@ export var blender24px = [
       ]
     ]
   ]
-]
+];

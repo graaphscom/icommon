@@ -47,4 +47,4 @@ export var playDisabledOutlined24px = [
       ]
     ]
   ]
-]
+];

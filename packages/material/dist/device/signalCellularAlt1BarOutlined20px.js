@@ -36,4 +36,4 @@ export var signalCellularAlt1BarOutlined20px = [
       ]
     ]
   ]
-]
+];

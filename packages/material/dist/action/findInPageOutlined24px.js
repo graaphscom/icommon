@@ -21,4 +21,4 @@ export var findInPageOutlined24px = [
       }
     ]
   ]
-]
+];

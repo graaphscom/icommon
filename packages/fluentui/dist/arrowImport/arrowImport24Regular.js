@@ -16,4 +16,4 @@ export var arrowImport24Regular = [
       }
     ]
   ]
-]
+];

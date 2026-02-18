@@ -16,4 +16,4 @@ export var personStar32Filled = [
       }
     ]
   ]
-]
+];

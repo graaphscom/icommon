@@ -69,4 +69,4 @@ export var kingBedOutlined20px = [
       ]
     ]
   ]
-]
+];

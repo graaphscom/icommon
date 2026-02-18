@@ -16,4 +16,4 @@ export var textGrammarLightning24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var spellcheckSharp24px = [
       }
     ]
   ]
-]
+];

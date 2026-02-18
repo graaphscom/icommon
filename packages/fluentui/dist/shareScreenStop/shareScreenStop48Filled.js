@@ -16,4 +16,4 @@ export var shareScreenStop48Filled = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var fileUploadOff20px = [
       ]
     ]
   ]
-]
+];

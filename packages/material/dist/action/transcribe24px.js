@@ -35,4 +35,4 @@ export var transcribe24px = [
       ]
     ]
   ]
-]
+];

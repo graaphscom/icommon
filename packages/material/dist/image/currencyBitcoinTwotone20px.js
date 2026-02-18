@@ -35,4 +35,4 @@ export var currencyBitcoinTwotone20px = [
       ]
     ]
   ]
-]
+];

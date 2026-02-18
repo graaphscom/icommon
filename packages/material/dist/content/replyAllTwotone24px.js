@@ -21,4 +21,4 @@ export var replyAllTwotone24px = [
       }
     ]
   ]
-]
+];

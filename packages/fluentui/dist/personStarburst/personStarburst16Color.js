@@ -122,4 +122,4 @@ export var personStarburst16Color = [
       ]
     ]
   ]
-]
+];

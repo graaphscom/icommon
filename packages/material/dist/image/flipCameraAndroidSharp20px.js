@@ -53,4 +53,4 @@ export var flipCameraAndroidSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var recordVoiceOverRound24px = [
       }
     ]
   ]
-]
+];

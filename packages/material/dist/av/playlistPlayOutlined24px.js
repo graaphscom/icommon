@@ -68,4 +68,4 @@ export var playlistPlayOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -70,4 +70,4 @@ export var shareLocationRound24px = [
       ]
     ]
   ]
-]
+];

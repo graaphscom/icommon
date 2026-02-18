@@ -21,4 +21,4 @@ export var shareRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var networkCheck20Filled = [
       }
     ]
   ]
-]
+];

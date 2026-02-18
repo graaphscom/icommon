@@ -53,4 +53,4 @@ export var campaignOutlined24px = [
       }
     ]
   ]
-]
+];

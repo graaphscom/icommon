@@ -22,4 +22,4 @@ export var menuOpenTwotone24px = [
       }
     ]
   ]
-]
+];

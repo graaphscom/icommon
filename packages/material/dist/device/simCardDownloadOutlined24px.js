@@ -46,4 +46,4 @@ export var simCardDownloadOutlined24px = [
       ]
     ]
   ]
-]
+];

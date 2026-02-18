@@ -21,4 +21,4 @@ export var doDisturbTwotone24px = [
       }
     ]
   ]
-]
+];

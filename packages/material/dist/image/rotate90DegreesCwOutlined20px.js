@@ -54,4 +54,4 @@ export var rotate90DegreesCwOutlined20px = [
       ]
     ]
   ]
-]
+];

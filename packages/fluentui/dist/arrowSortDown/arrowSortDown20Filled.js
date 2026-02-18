@@ -16,4 +16,4 @@ export var arrowSortDown20Filled = [
       }
     ]
   ]
-]
+];

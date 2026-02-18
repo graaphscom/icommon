@@ -16,4 +16,4 @@ export var documentFit20Filled = [
       }
     ]
   ]
-]
+];

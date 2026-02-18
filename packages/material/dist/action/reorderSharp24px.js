@@ -21,4 +21,4 @@ export var reorderSharp24px = [
       }
     ]
   ]
-]
+];

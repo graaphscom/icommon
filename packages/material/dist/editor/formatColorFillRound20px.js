@@ -23,4 +23,4 @@ export var formatColorFillRound20px = [
       }
     ]
   ]
-]
+];

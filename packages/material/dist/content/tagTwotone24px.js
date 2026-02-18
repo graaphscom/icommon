@@ -35,4 +35,4 @@ export var tagTwotone24px = [
       ]
     ]
   ]
-]
+];

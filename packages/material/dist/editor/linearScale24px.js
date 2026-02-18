@@ -47,4 +47,4 @@ export var linearScale24px = [
       ]
     ]
   ]
-]
+];

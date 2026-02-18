@@ -53,4 +53,4 @@ export var policySharp20px = [
       ]
     ]
   ]
-]
+];

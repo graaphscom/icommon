@@ -21,4 +21,4 @@ export var devicesOutlined24px = [
       }
     ]
   ]
-]
+];

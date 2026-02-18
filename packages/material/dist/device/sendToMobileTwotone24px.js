@@ -66,4 +66,4 @@ export var sendToMobileTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var listAltRound24px = [
       }
     ]
   ]
-]
+];

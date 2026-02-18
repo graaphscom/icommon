@@ -16,4 +16,4 @@ export var videoPersonPulse24Regular = [
       }
     ]
   ]
-]
+];

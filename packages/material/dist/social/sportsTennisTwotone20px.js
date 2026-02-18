@@ -47,4 +47,4 @@ export var sportsTennisTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var update24px = [
       ]
     ]
   ]
-]
+];

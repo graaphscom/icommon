@@ -35,4 +35,4 @@ export var folderZipOutlined24px = [
       ]
     ]
   ]
-]
+];

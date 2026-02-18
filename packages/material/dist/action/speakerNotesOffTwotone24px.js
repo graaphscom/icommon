@@ -28,4 +28,4 @@ export var speakerNotesOffTwotone24px = [
       }
     ]
   ]
-]
+];

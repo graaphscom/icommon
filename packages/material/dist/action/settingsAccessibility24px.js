@@ -35,4 +35,4 @@ export var settingsAccessibility24px = [
       ]
     ]
   ]
-]
+];

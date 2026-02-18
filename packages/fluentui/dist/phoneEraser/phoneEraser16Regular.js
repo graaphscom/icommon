@@ -16,4 +16,4 @@ export var phoneEraser16Regular = [
       }
     ]
   ]
-]
+];

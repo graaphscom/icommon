@@ -23,4 +23,4 @@ export var flightClassRound20px = [
       }
     ]
   ]
-]
+];

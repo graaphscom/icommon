@@ -16,4 +16,4 @@ export var calendarArrowCounterclockwise32Regular = [
       }
     ]
   ]
-]
+];

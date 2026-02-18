@@ -36,4 +36,4 @@ export var arrowCircleDownTwotone24px = [
       ]
     ]
   ]
-]
+];

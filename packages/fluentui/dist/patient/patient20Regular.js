@@ -16,4 +16,4 @@ export var patient20Regular = [
       }
     ]
   ]
-]
+];

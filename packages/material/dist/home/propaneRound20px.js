@@ -35,4 +35,4 @@ export var propaneRound20px = [
       ]
     ]
   ]
-]
+];

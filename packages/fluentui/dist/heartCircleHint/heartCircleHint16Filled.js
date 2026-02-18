@@ -16,4 +16,4 @@ export var heartCircleHint16Filled = [
       }
     ]
   ]
-]
+];

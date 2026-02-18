@@ -21,4 +21,4 @@ export var compareOutlined24px = [
       }
     ]
   ]
-]
+];

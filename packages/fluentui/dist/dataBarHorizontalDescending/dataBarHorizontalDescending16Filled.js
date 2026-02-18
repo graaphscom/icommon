@@ -16,4 +16,4 @@ export var dataBarHorizontalDescending16Filled = [
       }
     ]
   ]
-]
+];

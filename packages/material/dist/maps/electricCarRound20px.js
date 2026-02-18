@@ -41,4 +41,4 @@ export var electricCarRound20px = [
       ]
     ]
   ]
-]
+];

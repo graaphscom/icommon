@@ -23,4 +23,4 @@ export var sickTwotone24px = [
       }
     ]
   ]
-]
+];

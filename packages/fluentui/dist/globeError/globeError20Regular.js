@@ -16,4 +16,4 @@ export var globeError20Regular = [
       }
     ]
   ]
-]
+];

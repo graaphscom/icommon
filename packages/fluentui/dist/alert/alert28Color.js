@@ -82,4 +82,4 @@ export var alert28Color = [
       ]
     ]
   ]
-]
+];

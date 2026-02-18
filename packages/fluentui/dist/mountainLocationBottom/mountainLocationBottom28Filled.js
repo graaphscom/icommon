@@ -16,4 +16,4 @@ export var mountainLocationBottom28Filled = [
       }
     ]
   ]
-]
+];

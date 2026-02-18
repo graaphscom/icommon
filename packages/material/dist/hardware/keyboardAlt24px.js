@@ -42,4 +42,4 @@ export var keyboardAlt24px = [
       ]
     ]
   ]
-]
+];

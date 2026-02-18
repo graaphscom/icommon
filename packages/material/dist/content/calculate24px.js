@@ -35,4 +35,4 @@ export var calculate24px = [
       ]
     ]
   ]
-]
+];

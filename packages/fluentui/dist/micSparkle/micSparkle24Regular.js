@@ -16,4 +16,4 @@ export var micSparkle24Regular = [
       }
     ]
   ]
-]
+];

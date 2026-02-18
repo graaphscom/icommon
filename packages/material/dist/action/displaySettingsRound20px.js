@@ -71,4 +71,4 @@ export var displaySettingsRound20px = [
       ]
     ]
   ]
-]
+];

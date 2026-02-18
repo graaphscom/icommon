@@ -73,4 +73,4 @@ export var diversity3Round24px = [
       ]
     ]
   ]
-]
+];

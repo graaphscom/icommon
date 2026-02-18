@@ -21,4 +21,4 @@ export var verifiedUserSharp24px = [
       }
     ]
   ]
-]
+];

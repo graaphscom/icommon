@@ -16,4 +16,4 @@ export var databaseWindow20Filled = [
       }
     ]
   ]
-]
+];

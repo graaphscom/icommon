@@ -50,4 +50,4 @@ export var accountTreeTwotone24px = [
       ]
     ]
   ]
-]
+];

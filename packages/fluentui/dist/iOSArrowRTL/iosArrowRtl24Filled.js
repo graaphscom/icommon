@@ -16,4 +16,4 @@ export var iosArrowRtl24Filled = [
       }
     ]
   ]
-]
+];

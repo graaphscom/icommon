@@ -16,4 +16,4 @@ export var megaphoneLoud28Filled = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var playlistRemoveTwotone24px = [
       ]
     ]
   ]
-]
+];

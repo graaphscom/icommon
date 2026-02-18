@@ -58,4 +58,4 @@ export var thumbUpOffAltTwotone24px = [
       ]
     ]
   ]
-]
+];

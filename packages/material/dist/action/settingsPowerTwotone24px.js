@@ -21,4 +21,4 @@ export var settingsPowerTwotone24px = [
       }
     ]
   ]
-]
+];

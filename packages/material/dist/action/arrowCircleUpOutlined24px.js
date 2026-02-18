@@ -29,4 +29,4 @@ export var arrowCircleUpOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var videoRecording20Filled = [
       }
     ]
   ]
-]
+];

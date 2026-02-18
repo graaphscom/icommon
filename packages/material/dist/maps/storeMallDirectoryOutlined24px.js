@@ -21,4 +21,4 @@ export var storeMallDirectoryOutlined24px = [
       }
     ]
   ]
-]
+];

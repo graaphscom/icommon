@@ -29,4 +29,4 @@ export var bookOnlineSharp24px = [
       ]
     ]
   ]
-]
+];

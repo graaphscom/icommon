@@ -36,4 +36,4 @@ export var rampLeftOutlined20px = [
       ]
     ]
   ]
-]
+];

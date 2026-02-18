@@ -68,4 +68,4 @@ export var casinoTwotone24px = [
       }
     ]
   ]
-]
+];

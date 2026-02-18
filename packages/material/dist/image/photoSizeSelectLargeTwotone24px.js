@@ -21,4 +21,4 @@ export var photoSizeSelectLargeTwotone24px = [
       }
     ]
   ]
-]
+];

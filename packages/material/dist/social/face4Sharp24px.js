@@ -57,4 +57,4 @@ export var face4Sharp24px = [
       ]
     ]
   ]
-]
+];

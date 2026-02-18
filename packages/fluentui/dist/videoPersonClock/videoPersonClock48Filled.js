@@ -16,4 +16,4 @@ export var videoPersonClock48Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var navigation24Filled = [
       }
     ]
   ]
-]
+];

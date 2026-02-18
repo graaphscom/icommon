@@ -21,4 +21,4 @@ export var gavelSharp24px = [
       }
     ]
   ]
-]
+];

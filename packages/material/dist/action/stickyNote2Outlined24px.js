@@ -23,4 +23,4 @@ export var stickyNote2Outlined24px = [
       }
     ]
   ]
-]
+];

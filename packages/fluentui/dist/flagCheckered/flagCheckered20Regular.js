@@ -16,4 +16,4 @@ export var flagCheckered20Regular = [
       }
     ]
   ]
-]
+];

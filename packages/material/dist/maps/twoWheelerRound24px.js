@@ -32,4 +32,4 @@ export var twoWheelerRound24px = [
       ]
     ]
   ]
-]
+];

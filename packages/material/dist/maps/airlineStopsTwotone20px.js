@@ -23,4 +23,4 @@ export var airlineStopsTwotone20px = [
       }
     ]
   ]
-]
+];

@@ -83,4 +83,4 @@ export var groups3Round24px = [
       ]
     ]
   ]
-]
+];

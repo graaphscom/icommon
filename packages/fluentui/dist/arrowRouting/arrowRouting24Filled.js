@@ -16,4 +16,4 @@ export var arrowRouting24Filled = [
       }
     ]
   ]
-]
+];

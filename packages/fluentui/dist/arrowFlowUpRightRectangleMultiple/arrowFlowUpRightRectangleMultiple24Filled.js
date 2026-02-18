@@ -16,4 +16,4 @@ export var arrowFlowUpRightRectangleMultiple24Filled = [
       }
     ]
   ]
-]
+];

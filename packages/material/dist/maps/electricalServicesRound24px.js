@@ -67,4 +67,4 @@ export var electricalServicesRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var taskListSquareSparkle24Regular = [
       }
     ]
   ]
-]
+];

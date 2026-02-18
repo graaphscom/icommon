@@ -34,4 +34,4 @@ export var signalCellular0BarOutlined24px = [
       ]
     ]
   ]
-]
+];

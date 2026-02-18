@@ -36,4 +36,4 @@ export var commitOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -260,4 +260,4 @@ export var peopleSync20Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var desktopSync24Regular = [
       }
     ]
   ]
-]
+];

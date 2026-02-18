@@ -16,4 +16,4 @@ export var textChangeCase16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var incognito24Regular = [
       }
     ]
   ]
-]
+];

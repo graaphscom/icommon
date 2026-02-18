@@ -16,4 +16,4 @@ export var resizeTable24Filled = [
       }
     ]
   ]
-]
+];

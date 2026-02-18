@@ -16,4 +16,4 @@ export var personHome28Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var gifBoxSharp24px = [
       }
     ]
   ]
-]
+];

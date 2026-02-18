@@ -35,4 +35,4 @@ export var scaleSharp20px = [
       ]
     ]
   ]
-]
+];

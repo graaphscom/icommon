@@ -21,4 +21,4 @@ export var exploreOffOutlined24px = [
       }
     ]
   ]
-]
+];

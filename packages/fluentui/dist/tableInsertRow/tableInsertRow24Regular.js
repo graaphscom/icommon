@@ -16,4 +16,4 @@ export var tableInsertRow24Regular = [
       }
     ]
   ]
-]
+];

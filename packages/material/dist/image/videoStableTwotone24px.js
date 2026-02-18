@@ -52,4 +52,4 @@ export var videoStableTwotone24px = [
       ]
     ]
   ]
-]
+];

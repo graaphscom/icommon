@@ -62,4 +62,4 @@ export var commentMultiple28Color = [
       ]
     ]
   ]
-]
+];

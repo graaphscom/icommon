@@ -21,4 +21,4 @@ export var flightTakeoffSharp24px = [
       }
     ]
   ]
-]
+];

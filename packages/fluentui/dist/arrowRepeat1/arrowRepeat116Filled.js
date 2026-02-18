@@ -16,4 +16,4 @@ export var arrowRepeat116Filled = [
       }
     ]
   ]
-]
+];

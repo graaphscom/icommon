@@ -59,4 +59,4 @@ export var hevcTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var panelLeftExpand16Regular = [
       }
     ]
   ]
-]
+];

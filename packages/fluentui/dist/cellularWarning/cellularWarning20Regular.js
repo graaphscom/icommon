@@ -16,4 +16,4 @@ export var cellularWarning20Regular = [
       }
     ]
   ]
-]
+];

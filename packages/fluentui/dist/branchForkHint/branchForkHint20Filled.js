@@ -16,4 +16,4 @@ export var branchForkHint20Filled = [
       }
     ]
   ]
-]
+];

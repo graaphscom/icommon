@@ -16,4 +16,4 @@ export var uninstallApp20Filled = [
       }
     ]
   ]
-]
+];

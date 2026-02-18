@@ -16,4 +16,4 @@ export var textboxMore20Filled = [
       }
     ]
   ]
-]
+];

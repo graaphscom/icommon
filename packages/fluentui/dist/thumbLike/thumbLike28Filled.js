@@ -16,4 +16,4 @@ export var thumbLike28Filled = [
       }
     ]
   ]
-]
+];

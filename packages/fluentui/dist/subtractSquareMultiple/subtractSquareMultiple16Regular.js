@@ -16,4 +16,4 @@ export var subtractSquareMultiple16Regular = [
       }
     ]
   ]
-]
+];

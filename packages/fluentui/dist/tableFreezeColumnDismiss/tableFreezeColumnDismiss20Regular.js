@@ -16,4 +16,4 @@ export var tableFreezeColumnDismiss20Regular = [
       }
     ]
   ]
-]
+];

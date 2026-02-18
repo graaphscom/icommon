@@ -21,4 +21,4 @@ export var shortTextRound24px = [
       }
     ]
   ]
-]
+];

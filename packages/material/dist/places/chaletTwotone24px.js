@@ -30,4 +30,4 @@ export var chaletTwotone24px = [
       }
     ]
   ]
-]
+];

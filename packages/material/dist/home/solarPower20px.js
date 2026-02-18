@@ -112,4 +112,4 @@ export var solarPower20px = [
       ]
     ]
   ]
-]
+];

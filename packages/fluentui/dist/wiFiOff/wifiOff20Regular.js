@@ -16,4 +16,4 @@ export var wifiOff20Regular = [
       }
     ]
   ]
-]
+];

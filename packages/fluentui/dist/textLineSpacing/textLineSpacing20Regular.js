@@ -16,4 +16,4 @@ export var textLineSpacing20Regular = [
       }
     ]
   ]
-]
+];

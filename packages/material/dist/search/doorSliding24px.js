@@ -34,4 +34,4 @@ export var doorSliding24px = [
       ]
     ]
   ]
-]
+];

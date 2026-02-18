@@ -47,4 +47,4 @@ export var doNotDisturbAltRound24px = [
       ]
     ]
   ]
-]
+];

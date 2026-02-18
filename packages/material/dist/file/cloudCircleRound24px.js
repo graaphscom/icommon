@@ -21,4 +21,4 @@ export var cloudCircleRound24px = [
       }
     ]
   ]
-]
+];

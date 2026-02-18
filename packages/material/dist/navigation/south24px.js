@@ -23,4 +23,4 @@ export var south24px = [
       }
     ]
   ]
-]
+];

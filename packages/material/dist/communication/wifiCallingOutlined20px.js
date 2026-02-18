@@ -48,4 +48,4 @@ export var wifiCallingOutlined20px = [
       ]
     ]
   ]
-]
+];

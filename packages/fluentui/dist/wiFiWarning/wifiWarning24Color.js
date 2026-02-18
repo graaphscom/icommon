@@ -115,4 +115,4 @@ export var wifiWarning24Color = [
       ]
     ]
   ]
-]
+];

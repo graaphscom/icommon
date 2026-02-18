@@ -237,4 +237,4 @@ export var peopleAdd28Color = [
       ]
     ]
   ]
-]
+];

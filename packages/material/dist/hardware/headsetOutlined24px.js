@@ -21,4 +21,4 @@ export var headsetOutlined24px = [
       }
     ]
   ]
-]
+];

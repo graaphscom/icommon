@@ -193,4 +193,4 @@ export var blobbeeWave = [
       ]
     ]
   ]
-]
+];

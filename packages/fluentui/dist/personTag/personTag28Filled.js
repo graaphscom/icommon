@@ -16,4 +16,4 @@ export var personTag28Filled = [
       }
     ]
   ]
-]
+];

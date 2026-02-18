@@ -28,4 +28,4 @@ export var ballotTwotone24px = [
       }
     ]
   ]
-]
+];

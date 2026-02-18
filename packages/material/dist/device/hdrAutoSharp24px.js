@@ -46,4 +46,4 @@ export var hdrAutoSharp24px = [
       ]
     ]
   ]
-]
+];

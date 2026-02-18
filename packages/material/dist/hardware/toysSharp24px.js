@@ -39,4 +39,4 @@ export var toysSharp24px = [
       ]
     ]
   ]
-]
+];

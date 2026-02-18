@@ -16,4 +16,4 @@ export var keyReset24Regular = [
       }
     ]
   ]
-]
+];

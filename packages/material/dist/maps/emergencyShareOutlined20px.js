@@ -36,4 +36,4 @@ export var emergencyShareOutlined20px = [
       ]
     ]
   ]
-]
+];

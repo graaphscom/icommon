@@ -48,4 +48,4 @@ export var tourTwotone24px = [
       ]
     ]
   ]
-]
+];

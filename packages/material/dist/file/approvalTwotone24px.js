@@ -64,4 +64,4 @@ export var approvalTwotone24px = [
       ]
     ]
   ]
-]
+];

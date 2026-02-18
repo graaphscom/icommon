@@ -41,4 +41,4 @@ export var recommendRound24px = [
       ]
     ]
   ]
-]
+];

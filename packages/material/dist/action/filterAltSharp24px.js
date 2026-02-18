@@ -35,4 +35,4 @@ export var filterAltSharp24px = [
       ]
     ]
   ]
-]
+];

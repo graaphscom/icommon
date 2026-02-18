@@ -16,4 +16,4 @@ export var gather20Regular = [
       }
     ]
   ]
-]
+];

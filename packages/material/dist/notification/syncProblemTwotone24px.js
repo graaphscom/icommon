@@ -21,4 +21,4 @@ export var syncProblemTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var factorySharp24px = [
       ]
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var layoutGrid2Fill = [
       }
     ]
   ]
-]
+];

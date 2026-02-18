@@ -16,4 +16,4 @@ export var brightnessLow48Regular = [
       }
     ]
   ]
-]
+];

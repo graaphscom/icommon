@@ -16,4 +16,4 @@ export var broomSparkle16Filled = [
       }
     ]
   ]
-]
+];

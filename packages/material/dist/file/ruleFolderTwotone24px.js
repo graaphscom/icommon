@@ -36,4 +36,4 @@ export var ruleFolderTwotone24px = [
       ]
     ]
   ]
-]
+];

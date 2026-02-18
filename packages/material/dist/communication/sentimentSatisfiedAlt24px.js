@@ -60,4 +60,4 @@ export var sentimentSatisfiedAlt24px = [
       }
     ]
   ]
-]
+];

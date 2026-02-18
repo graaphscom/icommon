@@ -40,4 +40,4 @@ export var sendToMobileOutlined24px = [
       ]
     ]
   ]
-]
+];

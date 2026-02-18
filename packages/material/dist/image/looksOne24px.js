@@ -21,4 +21,4 @@ export var looksOne24px = [
       }
     ]
   ]
-]
+];

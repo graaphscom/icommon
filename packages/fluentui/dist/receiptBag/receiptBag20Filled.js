@@ -16,4 +16,4 @@ export var receiptBag20Filled = [
       }
     ]
   ]
-]
+];

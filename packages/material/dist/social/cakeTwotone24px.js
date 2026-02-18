@@ -28,4 +28,4 @@ export var cakeTwotone24px = [
       }
     ]
   ]
-]
+];

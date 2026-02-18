@@ -53,4 +53,4 @@ export var simCardDownloadTwotone24px = [
       ]
     ]
   ]
-]
+];

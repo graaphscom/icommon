@@ -16,4 +16,4 @@ export var glassesOff24Regular = [
       }
     ]
   ]
-]
+];

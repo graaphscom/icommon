@@ -16,4 +16,4 @@ export var colorFillAccent24Regular = [
       }
     ]
   ]
-]
+];

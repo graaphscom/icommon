@@ -16,4 +16,4 @@ export var weatherThunderstorm20Regular = [
       }
     ]
   ]
-]
+];

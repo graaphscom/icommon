@@ -21,4 +21,4 @@ export var allInclusive24px = [
       }
     ]
   ]
-]
+];

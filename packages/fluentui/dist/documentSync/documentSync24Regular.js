@@ -16,4 +16,4 @@ export var documentSync24Regular = [
       }
     ]
   ]
-]
+];

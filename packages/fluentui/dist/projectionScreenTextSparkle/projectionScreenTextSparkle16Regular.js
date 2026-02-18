@@ -16,4 +16,4 @@ export var projectionScreenTextSparkle16Regular = [
       }
     ]
   ]
-]
+];

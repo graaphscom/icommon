@@ -34,4 +34,4 @@ export var filePresentRound24px = [
       ]
     ]
   ]
-]
+];

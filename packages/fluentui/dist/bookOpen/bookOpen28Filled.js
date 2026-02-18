@@ -16,4 +16,4 @@ export var bookOpen28Filled = [
       }
     ]
   ]
-]
+];

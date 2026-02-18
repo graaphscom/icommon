@@ -78,4 +78,4 @@ export var smartScreen24px = [
       ]
     ]
   ]
-]
+];

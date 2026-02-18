@@ -16,4 +16,4 @@ export var chatLock20Filled = [
       }
     ]
   ]
-]
+];

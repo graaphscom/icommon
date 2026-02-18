@@ -21,4 +21,4 @@ export var arrowDropUpOutlined24px = [
       }
     ]
   ]
-]
+];

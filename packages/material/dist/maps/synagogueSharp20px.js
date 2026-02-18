@@ -71,4 +71,4 @@ export var synagogueSharp20px = [
       ]
     ]
   ]
-]
+];

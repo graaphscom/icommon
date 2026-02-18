@@ -28,4 +28,4 @@ export var localAirportTwotone24px = [
       ]
     ]
   ]
-]
+];

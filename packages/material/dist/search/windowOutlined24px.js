@@ -35,4 +35,4 @@ export var windowOutlined24px = [
       ]
     ]
   ]
-]
+];

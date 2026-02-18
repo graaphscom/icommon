@@ -36,4 +36,4 @@ export var rectangleOutlined20px = [
       ]
     ]
   ]
-]
+];

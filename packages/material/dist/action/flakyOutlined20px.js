@@ -62,4 +62,4 @@ export var flakyOutlined20px = [
       ]
     ]
   ]
-]
+];

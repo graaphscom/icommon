@@ -40,4 +40,4 @@ export var grid4x4Round24px = [
       ]
     ]
   ]
-]
+];

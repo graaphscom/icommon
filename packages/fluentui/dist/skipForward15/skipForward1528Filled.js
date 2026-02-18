@@ -23,4 +23,4 @@ export var skipForward1528Filled = [
       }
     ]
   ]
-]
+];

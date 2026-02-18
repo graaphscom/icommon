@@ -16,4 +16,4 @@ export var navigationPlay20Regular = [
       }
     ]
   ]
-]
+];

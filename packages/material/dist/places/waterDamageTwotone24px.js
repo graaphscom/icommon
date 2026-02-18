@@ -30,4 +30,4 @@ export var waterDamageTwotone24px = [
       }
     ]
   ]
-]
+];

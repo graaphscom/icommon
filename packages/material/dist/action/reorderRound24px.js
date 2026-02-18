@@ -21,4 +21,4 @@ export var reorderRound24px = [
       }
     ]
   ]
-]
+];

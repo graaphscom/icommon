@@ -16,4 +16,4 @@ export var scratchpad20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var serverPlay20Filled = [
       }
     ]
   ]
-]
+];

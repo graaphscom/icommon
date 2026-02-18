@@ -62,4 +62,4 @@ export var upcoming24px = [
       ]
     ]
   ]
-]
+];

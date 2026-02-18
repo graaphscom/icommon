@@ -47,4 +47,4 @@ export var __5gOutlined24px = [
       ]
     ]
   ]
-]
+];

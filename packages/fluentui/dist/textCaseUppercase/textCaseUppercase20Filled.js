@@ -16,4 +16,4 @@ export var textCaseUppercase20Filled = [
       }
     ]
   ]
-]
+];

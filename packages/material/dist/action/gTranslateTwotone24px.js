@@ -21,4 +21,4 @@ export var gTranslateTwotone24px = [
       }
     ]
   ]
-]
+];

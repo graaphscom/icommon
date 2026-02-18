@@ -21,4 +21,4 @@ export var cropPortraitRound24px = [
       }
     ]
   ]
-]
+];

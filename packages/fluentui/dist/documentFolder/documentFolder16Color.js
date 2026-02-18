@@ -165,4 +165,4 @@ export var documentFolder16Color = [
       ]
     ]
   ]
-]
+];

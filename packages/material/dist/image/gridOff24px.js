@@ -21,4 +21,4 @@ export var gridOff24px = [
       }
     ]
   ]
-]
+];

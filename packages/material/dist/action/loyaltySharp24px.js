@@ -21,4 +21,4 @@ export var loyaltySharp24px = [
       }
     ]
   ]
-]
+];

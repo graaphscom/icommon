@@ -16,4 +16,4 @@ export var arrowExportLtr20Filled = [
       }
     ]
   ]
-]
+];

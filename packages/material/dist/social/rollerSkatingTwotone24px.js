@@ -67,4 +67,4 @@ export var rollerSkatingTwotone24px = [
       ]
     ]
   ]
-]
+];

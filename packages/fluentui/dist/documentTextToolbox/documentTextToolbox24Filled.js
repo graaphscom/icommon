@@ -16,4 +16,4 @@ export var documentTextToolbox24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dualScreenArrowRight24Filled = [
       }
     ]
   ]
-]
+];

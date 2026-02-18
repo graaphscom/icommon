@@ -49,4 +49,4 @@ export var blind20px = [
       ]
     ]
   ]
-]
+];

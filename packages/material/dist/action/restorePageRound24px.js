@@ -21,4 +21,4 @@ export var restorePageRound24px = [
       }
     ]
   ]
-]
+];

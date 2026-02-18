@@ -16,4 +16,4 @@ export var translate48Filled = [
       }
     ]
   ]
-]
+];

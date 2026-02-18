@@ -16,4 +16,4 @@ export var selectObjectSkew20Regular = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var accountBox2Line = [
       }
     ]
   ]
-]
+];

@@ -65,4 +65,4 @@ export var cookieOutlined24px = [
       ]
     ]
   ]
-]
+];

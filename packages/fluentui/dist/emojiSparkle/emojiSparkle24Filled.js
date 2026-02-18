@@ -16,4 +16,4 @@ export var emojiSparkle24Filled = [
       }
     ]
   ]
-]
+];

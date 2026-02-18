@@ -21,4 +21,4 @@ export var fiberDvrSharp24px = [
       }
     ]
   ]
-]
+];

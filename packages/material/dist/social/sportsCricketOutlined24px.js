@@ -57,4 +57,4 @@ export var sportsCricketOutlined24px = [
       ]
     ]
   ]
-]
+];

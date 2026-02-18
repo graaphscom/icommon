@@ -21,4 +21,4 @@ export var insertChartRound24px = [
       }
     ]
   ]
-]
+];

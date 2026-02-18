@@ -47,4 +47,4 @@ export var sportsMmaRound20px = [
       ]
     ]
   ]
-]
+];

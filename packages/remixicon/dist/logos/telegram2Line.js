@@ -13,4 +13,4 @@ export var telegram2Line = [
       }
     ]
   ]
-]
+];

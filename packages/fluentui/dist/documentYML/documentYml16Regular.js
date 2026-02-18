@@ -16,4 +16,4 @@ export var documentYml16Regular = [
       }
     ]
   ]
-]
+];

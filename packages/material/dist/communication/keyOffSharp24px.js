@@ -35,4 +35,4 @@ export var keyOffSharp24px = [
       ]
     ]
   ]
-]
+];

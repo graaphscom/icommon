@@ -16,4 +16,4 @@ export var bookTheta20Regular = [
       }
     ]
   ]
-]
+];

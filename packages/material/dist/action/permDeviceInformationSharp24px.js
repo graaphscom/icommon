@@ -21,4 +21,4 @@ export var permDeviceInformationSharp24px = [
       }
     ]
   ]
-]
+];

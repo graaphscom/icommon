@@ -22,4 +22,4 @@ export var httpTwotone24px = [
       }
     ]
   ]
-]
+];

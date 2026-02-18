@@ -55,4 +55,4 @@ export var miscellaneousServicesRound24px = [
       ]
     ]
   ]
-]
+];

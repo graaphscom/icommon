@@ -23,4 +23,4 @@ export var sickSharp24px = [
       }
     ]
   ]
-]
+];

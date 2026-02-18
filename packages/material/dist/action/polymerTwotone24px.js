@@ -21,4 +21,4 @@ export var polymerTwotone24px = [
       }
     ]
   ]
-]
+];

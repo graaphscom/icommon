@@ -35,4 +35,4 @@ export var warehouseTwotone24px = [
       ]
     ]
   ]
-]
+];

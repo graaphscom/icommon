@@ -29,4 +29,4 @@ export var dynamicForm24px = [
       ]
     ]
   ]
-]
+];

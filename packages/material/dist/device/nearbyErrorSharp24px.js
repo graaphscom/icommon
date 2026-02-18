@@ -40,4 +40,4 @@ export var nearbyErrorSharp24px = [
       ]
     ]
   ]
-]
+];

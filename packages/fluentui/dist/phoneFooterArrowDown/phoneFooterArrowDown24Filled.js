@@ -16,4 +16,4 @@ export var phoneFooterArrowDown24Filled = [
       }
     ]
   ]
-]
+];

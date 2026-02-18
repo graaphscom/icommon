@@ -28,4 +28,4 @@ export var hourglassFullTwotone24px = [
       }
     ]
   ]
-]
+];

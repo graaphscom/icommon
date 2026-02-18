@@ -35,4 +35,4 @@ export var fenceSharp24px = [
       ]
     ]
   ]
-]
+];

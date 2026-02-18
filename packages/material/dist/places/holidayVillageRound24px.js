@@ -23,4 +23,4 @@ export var holidayVillageRound24px = [
       }
     ]
   ]
-]
+];

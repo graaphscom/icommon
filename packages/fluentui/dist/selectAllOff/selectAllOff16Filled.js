@@ -16,4 +16,4 @@ export var selectAllOff16Filled = [
       }
     ]
   ]
-]
+];

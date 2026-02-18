@@ -35,4 +35,4 @@ export var desk20px = [
       ]
     ]
   ]
-]
+];

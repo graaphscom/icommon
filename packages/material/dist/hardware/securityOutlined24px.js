@@ -21,4 +21,4 @@ export var securityOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var desktopSpeaker20Filled = [
       }
     ]
   ]
-]
+];

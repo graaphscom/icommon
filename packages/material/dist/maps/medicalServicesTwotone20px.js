@@ -61,4 +61,4 @@ export var medicalServicesTwotone20px = [
       ]
     ]
   ]
-]
+];

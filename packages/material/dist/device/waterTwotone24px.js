@@ -40,4 +40,4 @@ export var waterTwotone24px = [
       ]
     ]
   ]
-]
+];

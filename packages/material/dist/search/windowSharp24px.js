@@ -71,4 +71,4 @@ export var windowSharp24px = [
       ]
     ]
   ]
-]
+];

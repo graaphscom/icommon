@@ -35,4 +35,4 @@ export var playCircle24px = [
       ]
     ]
   ]
-]
+];

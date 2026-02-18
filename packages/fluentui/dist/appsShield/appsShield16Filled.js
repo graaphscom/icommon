@@ -16,4 +16,4 @@ export var appsShield16Filled = [
       }
     ]
   ]
-]
+];

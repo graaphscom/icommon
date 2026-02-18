@@ -35,4 +35,4 @@ export var linkOffRound24px = [
       ]
     ]
   ]
-]
+];

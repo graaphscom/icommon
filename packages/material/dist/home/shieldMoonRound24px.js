@@ -43,4 +43,4 @@ export var shieldMoonRound24px = [
       ]
     ]
   ]
-]
+];

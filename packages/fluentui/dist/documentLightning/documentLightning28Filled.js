@@ -16,4 +16,4 @@ export var documentLightning28Filled = [
       }
     ]
   ]
-]
+];

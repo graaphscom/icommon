@@ -35,4 +35,4 @@ export var hlsOff24px = [
       ]
     ]
   ]
-]
+];

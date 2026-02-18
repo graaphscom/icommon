@@ -35,4 +35,4 @@ export var wifiChannel24px = [
       ]
     ]
   ]
-]
+];

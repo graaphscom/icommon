@@ -16,4 +16,4 @@ export var fps24024Filled = [
       }
     ]
   ]
-]
+];

@@ -69,4 +69,4 @@ export var electricMopedTwotone24px = [
       ]
     ]
   ]
-]
+];

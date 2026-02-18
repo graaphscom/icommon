@@ -46,4 +46,4 @@ export var assistantDirectionOutlined24px = [
       ]
     ]
   ]
-]
+];

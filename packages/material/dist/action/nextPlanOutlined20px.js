@@ -48,4 +48,4 @@ export var nextPlanOutlined20px = [
       ]
     ]
   ]
-]
+];

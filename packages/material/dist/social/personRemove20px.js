@@ -58,4 +58,4 @@ export var personRemove20px = [
       ]
     ]
   ]
-]
+];

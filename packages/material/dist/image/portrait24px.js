@@ -21,4 +21,4 @@ export var portrait24px = [
       }
     ]
   ]
-]
+];

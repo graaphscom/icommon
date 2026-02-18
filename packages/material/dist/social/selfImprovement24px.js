@@ -49,4 +49,4 @@ export var selfImprovement24px = [
       ]
     ]
   ]
-]
+];

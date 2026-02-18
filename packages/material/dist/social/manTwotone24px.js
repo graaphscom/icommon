@@ -49,4 +49,4 @@ export var manTwotone24px = [
       ]
     ]
   ]
-]
+];

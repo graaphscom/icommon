@@ -35,4 +35,4 @@ export var battery6Bar24px = [
       ]
     ]
   ]
-]
+];

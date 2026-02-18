@@ -28,4 +28,4 @@ export var rotate90DegreesCcwTwotone24px = [
       }
     ]
   ]
-]
+];

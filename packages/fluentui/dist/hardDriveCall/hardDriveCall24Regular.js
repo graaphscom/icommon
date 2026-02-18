@@ -16,4 +16,4 @@ export var hardDriveCall24Regular = [
       }
     ]
   ]
-]
+];

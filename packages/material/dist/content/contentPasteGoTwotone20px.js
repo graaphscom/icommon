@@ -54,4 +54,4 @@ export var contentPasteGoTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var sentimentVeryDissatisfiedSharp24px = [
       }
     ]
   ]
-]
+];

@@ -148,4 +148,4 @@ export var edit24Color = [
       ]
     ]
   ]
-]
+];

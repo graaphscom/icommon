@@ -16,4 +16,4 @@ export var dialpad28Regular = [
       }
     ]
   ]
-]
+];

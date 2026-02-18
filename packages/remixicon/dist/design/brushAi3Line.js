@@ -13,4 +13,4 @@ export var brushAi3Line = [
       }
     ]
   ]
-]
+];

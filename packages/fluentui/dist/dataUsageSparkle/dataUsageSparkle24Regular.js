@@ -16,4 +16,4 @@ export var dataUsageSparkle24Regular = [
       }
     ]
   ]
-]
+];

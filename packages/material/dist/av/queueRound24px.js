@@ -14,4 +14,4 @@ export var queueRound24px = [
       }
     ]
   ]
-]
+];

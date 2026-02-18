@@ -29,4 +29,4 @@ export var personAddDisabled24px = [
       }
     ]
   ]
-]
+];

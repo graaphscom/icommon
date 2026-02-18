@@ -16,4 +16,4 @@ export var bubbleMultiple20Filled = [
       }
     ]
   ]
-]
+];

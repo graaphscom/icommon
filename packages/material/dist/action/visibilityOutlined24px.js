@@ -21,4 +21,4 @@ export var visibilityOutlined24px = [
       }
     ]
   ]
-]
+];

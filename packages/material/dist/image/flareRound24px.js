@@ -21,4 +21,4 @@ export var flareRound24px = [
       }
     ]
   ]
-]
+];

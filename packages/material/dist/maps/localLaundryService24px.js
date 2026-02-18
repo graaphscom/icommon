@@ -21,4 +21,4 @@ export var localLaundryService24px = [
       }
     ]
   ]
-]
+];

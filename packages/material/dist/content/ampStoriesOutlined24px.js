@@ -63,4 +63,4 @@ export var ampStoriesOutlined24px = [
       ]
     ]
   ]
-]
+];

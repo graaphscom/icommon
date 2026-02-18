@@ -16,4 +16,4 @@ export var bezierCurveSquare12Filled = [
       }
     ]
   ]
-]
+];

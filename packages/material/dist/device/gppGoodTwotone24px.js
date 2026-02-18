@@ -48,4 +48,4 @@ export var gppGoodTwotone24px = [
       ]
     ]
   ]
-]
+];

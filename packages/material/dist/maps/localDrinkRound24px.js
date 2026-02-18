@@ -21,4 +21,4 @@ export var localDrinkRound24px = [
       }
     ]
   ]
-]
+];

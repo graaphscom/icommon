@@ -16,4 +16,4 @@ export var keyMultiple20Filled = [
       }
     ]
   ]
-]
+];

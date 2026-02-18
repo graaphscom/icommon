@@ -28,4 +28,4 @@ export var deviceUnknownTwotone24px = [
       }
     ]
   ]
-]
+];

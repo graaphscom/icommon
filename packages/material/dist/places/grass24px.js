@@ -23,4 +23,4 @@ export var grass24px = [
       }
     ]
   ]
-]
+];

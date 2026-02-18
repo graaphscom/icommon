@@ -21,4 +21,4 @@ export var archiveOutlined24px = [
       }
     ]
   ]
-]
+];

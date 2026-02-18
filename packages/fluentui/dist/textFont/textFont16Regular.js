@@ -16,4 +16,4 @@ export var textFont16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var voicemailArrowBack16Filled = [
       }
     ]
   ]
-]
+];

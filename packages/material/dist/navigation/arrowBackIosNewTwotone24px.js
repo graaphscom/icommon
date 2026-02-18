@@ -29,4 +29,4 @@ export var arrowBackIosNewTwotone24px = [
       ]
     ]
   ]
-]
+];

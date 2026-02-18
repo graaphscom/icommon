@@ -103,4 +103,4 @@ export var emojiSymbolsOutlined20px = [
       ]
     ]
   ]
-]
+];

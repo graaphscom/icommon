@@ -47,4 +47,4 @@ export var accountCircleOutlined24px = [
       ]
     ]
   ]
-]
+];

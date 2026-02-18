@@ -35,4 +35,4 @@ export var pauseCircleRound20px = [
       ]
     ]
   ]
-]
+];

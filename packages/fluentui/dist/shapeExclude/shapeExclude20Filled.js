@@ -16,4 +16,4 @@ export var shapeExclude20Filled = [
       }
     ]
   ]
-]
+];

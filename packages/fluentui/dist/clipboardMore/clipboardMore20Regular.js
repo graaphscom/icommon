@@ -16,4 +16,4 @@ export var clipboardMore20Regular = [
       }
     ]
   ]
-]
+];

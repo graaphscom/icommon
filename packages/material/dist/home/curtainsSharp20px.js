@@ -35,4 +35,4 @@ export var curtainsSharp20px = [
       ]
     ]
   ]
-]
+];

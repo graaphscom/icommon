@@ -16,4 +16,4 @@ export var bookLetter24Regular = [
       }
     ]
   ]
-]
+];

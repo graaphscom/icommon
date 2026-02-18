@@ -16,4 +16,4 @@ export var arrowSprint16Regular = [
       }
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var insightsSharp20px = [
       ]
     ]
   ]
-]
+];

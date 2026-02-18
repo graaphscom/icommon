@@ -16,4 +16,4 @@ export var borderBottom24Filled = [
       }
     ]
   ]
-]
+];

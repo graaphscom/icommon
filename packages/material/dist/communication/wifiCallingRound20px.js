@@ -47,4 +47,4 @@ export var wifiCallingRound20px = [
       ]
     ]
   ]
-]
+];

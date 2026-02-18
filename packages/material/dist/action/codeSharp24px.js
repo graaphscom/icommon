@@ -21,4 +21,4 @@ export var codeSharp24px = [
       }
     ]
   ]
-]
+];

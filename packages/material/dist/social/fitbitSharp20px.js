@@ -23,4 +23,4 @@ export var fitbitSharp20px = [
       }
     ]
   ]
-]
+];

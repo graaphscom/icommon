@@ -115,4 +115,4 @@ export var arrowClockwiseDashesSettings32Color = [
       ]
     ]
   ]
-]
+];

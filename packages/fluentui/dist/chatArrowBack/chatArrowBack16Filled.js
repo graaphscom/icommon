@@ -16,4 +16,4 @@ export var chatArrowBack16Filled = [
       }
     ]
   ]
-]
+];

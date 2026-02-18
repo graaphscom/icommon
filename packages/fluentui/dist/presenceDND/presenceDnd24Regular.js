@@ -16,4 +16,4 @@ export var presenceDnd24Regular = [
       }
     ]
   ]
-]
+];

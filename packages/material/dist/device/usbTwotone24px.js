@@ -21,4 +21,4 @@ export var usbTwotone24px = [
       }
     ]
   ]
-]
+];

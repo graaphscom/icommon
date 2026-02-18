@@ -21,4 +21,4 @@ export var warningTwotone24px = [
       }
     ]
   ]
-]
+];

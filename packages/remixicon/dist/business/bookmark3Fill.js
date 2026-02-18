@@ -13,4 +13,4 @@ export var bookmark3Fill = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentSettings20Regular = [
       }
     ]
   ]
-]
+];

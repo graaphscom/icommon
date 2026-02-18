@@ -23,4 +23,4 @@ export var ironSharp24px = [
       }
     ]
   ]
-]
+];

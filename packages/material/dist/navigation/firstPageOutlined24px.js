@@ -22,4 +22,4 @@ export var firstPageOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var calendarDay32Filled = [
       }
     ]
   ]
-]
+];

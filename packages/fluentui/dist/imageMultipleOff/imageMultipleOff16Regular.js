@@ -16,4 +16,4 @@ export var imageMultipleOff16Regular = [
       }
     ]
   ]
-]
+];

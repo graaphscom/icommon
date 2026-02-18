@@ -13,4 +13,4 @@ export var dice5Fill = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var transgender24px = [
       }
     ]
   ]
-]
+];

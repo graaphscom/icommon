@@ -21,4 +21,4 @@ export var stayCurrentLandscapeOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var locationOnSharp24px = [
       }
     ]
   ]
-]
+];

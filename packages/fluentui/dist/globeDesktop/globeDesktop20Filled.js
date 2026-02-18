@@ -16,4 +16,4 @@ export var globeDesktop20Filled = [
       }
     ]
   ]
-]
+];

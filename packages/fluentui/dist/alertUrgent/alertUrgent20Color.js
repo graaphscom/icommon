@@ -150,4 +150,4 @@ export var alertUrgent20Color = [
       ]
     ]
   ]
-]
+];

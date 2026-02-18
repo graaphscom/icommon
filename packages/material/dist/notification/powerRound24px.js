@@ -21,4 +21,4 @@ export var powerRound24px = [
       }
     ]
   ]
-]
+];

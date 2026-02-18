@@ -16,4 +16,4 @@ export var chevronDownUp20Regular = [
       }
     ]
   ]
-]
+];

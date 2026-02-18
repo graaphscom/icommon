@@ -16,4 +16,4 @@ export var vehicleTruckProfile24Filled = [
       }
     ]
   ]
-]
+];

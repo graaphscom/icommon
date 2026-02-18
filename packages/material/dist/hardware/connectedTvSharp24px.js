@@ -59,4 +59,4 @@ export var connectedTvSharp24px = [
       ]
     ]
   ]
-]
+];

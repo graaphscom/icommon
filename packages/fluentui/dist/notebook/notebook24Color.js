@@ -150,4 +150,4 @@ export var notebook24Color = [
       ]
     ]
   ]
-]
+];

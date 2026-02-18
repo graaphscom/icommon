@@ -47,4 +47,4 @@ export var cycloneRound20px = [
       ]
     ]
   ]
-]
+];

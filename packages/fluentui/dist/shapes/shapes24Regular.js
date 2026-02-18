@@ -16,4 +16,4 @@ export var shapes24Regular = [
       }
     ]
   ]
-]
+];

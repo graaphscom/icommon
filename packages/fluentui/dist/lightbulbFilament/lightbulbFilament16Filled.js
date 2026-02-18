@@ -16,4 +16,4 @@ export var lightbulbFilament16Filled = [
       }
     ]
   ]
-]
+];

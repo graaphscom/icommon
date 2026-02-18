@@ -72,4 +72,4 @@ export var screenshotTwotone24px = [
       ]
     ]
   ]
-]
+];

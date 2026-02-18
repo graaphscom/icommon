@@ -14,4 +14,4 @@ export var keyboardHideRound24px = [
       }
     ]
   ]
-]
+];

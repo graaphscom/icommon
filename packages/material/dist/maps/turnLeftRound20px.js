@@ -35,4 +35,4 @@ export var turnLeftRound20px = [
       ]
     ]
   ]
-]
+];

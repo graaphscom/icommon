@@ -73,4 +73,4 @@ export var coPresent24px = [
       ]
     ]
   ]
-]
+];

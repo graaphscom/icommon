@@ -54,4 +54,4 @@ export var driveFolderUploadTwotone24px = [
       ]
     ]
   ]
-]
+];

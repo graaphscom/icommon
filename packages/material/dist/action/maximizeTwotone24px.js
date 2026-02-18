@@ -21,4 +21,4 @@ export var maximizeTwotone24px = [
       }
     ]
   ]
-]
+];

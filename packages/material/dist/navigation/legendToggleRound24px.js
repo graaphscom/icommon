@@ -29,4 +29,4 @@ export var legendToggleRound24px = [
       ]
     ]
   ]
-]
+];

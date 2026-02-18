@@ -47,4 +47,4 @@ export var fireTruck20px = [
       ]
     ]
   ]
-]
+];

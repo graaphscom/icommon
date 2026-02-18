@@ -40,4 +40,4 @@ export var mediaBluetoothOffSharp24px = [
       ]
     ]
   ]
-]
+];

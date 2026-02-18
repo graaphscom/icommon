@@ -21,4 +21,4 @@ export var discFullOutlined24px = [
       }
     ]
   ]
-]
+];

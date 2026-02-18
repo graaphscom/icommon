@@ -16,4 +16,4 @@ export var phoneLock20Regular = [
       }
     ]
   ]
-]
+];

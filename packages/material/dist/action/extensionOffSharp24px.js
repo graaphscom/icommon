@@ -23,4 +23,4 @@ export var extensionOffSharp24px = [
       }
     ]
   ]
-]
+];

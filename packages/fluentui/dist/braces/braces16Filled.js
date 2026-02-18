@@ -16,4 +16,4 @@ export var braces16Filled = [
       }
     ]
   ]
-]
+];

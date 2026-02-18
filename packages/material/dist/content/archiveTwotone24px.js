@@ -28,4 +28,4 @@ export var archiveTwotone24px = [
       }
     ]
   ]
-]
+];

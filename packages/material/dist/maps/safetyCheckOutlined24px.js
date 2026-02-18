@@ -35,4 +35,4 @@ export var safetyCheckOutlined24px = [
       ]
     ]
   ]
-]
+];

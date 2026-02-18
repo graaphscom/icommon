@@ -53,4 +53,4 @@ export var sportsHandballTwotone24px = [
       ]
     ]
   ]
-]
+];

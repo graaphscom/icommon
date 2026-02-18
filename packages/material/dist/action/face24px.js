@@ -21,4 +21,4 @@ export var face24px = [
       }
     ]
   ]
-]
+];

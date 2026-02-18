@@ -16,4 +16,4 @@ export var imageTable48Filled = [
       }
     ]
   ]
-]
+];

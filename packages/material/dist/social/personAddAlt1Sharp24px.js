@@ -35,4 +35,4 @@ export var personAddAlt1Sharp24px = [
       ]
     ]
   ]
-]
+];

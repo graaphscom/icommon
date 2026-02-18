@@ -21,4 +21,4 @@ export var cloudDownloadSharp24px = [
       }
     ]
   ]
-]
+];

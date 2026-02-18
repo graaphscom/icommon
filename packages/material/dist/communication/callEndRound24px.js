@@ -21,4 +21,4 @@ export var callEndRound24px = [
       }
     ]
   ]
-]
+];

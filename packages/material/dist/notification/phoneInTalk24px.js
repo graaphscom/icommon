@@ -21,4 +21,4 @@ export var phoneInTalk24px = [
       }
     ]
   ]
-]
+];

@@ -81,4 +81,4 @@ export var windowTwotone20px = [
       ]
     ]
   ]
-]
+];

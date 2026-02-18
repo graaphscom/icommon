@@ -21,4 +21,4 @@ export var thumbDownRound24px = [
       }
     ]
   ]
-]
+];

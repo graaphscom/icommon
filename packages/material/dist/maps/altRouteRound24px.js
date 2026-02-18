@@ -29,4 +29,4 @@ export var altRouteRound24px = [
       ]
     ]
   ]
-]
+];

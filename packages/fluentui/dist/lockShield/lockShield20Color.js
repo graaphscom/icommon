@@ -183,4 +183,4 @@ export var lockShield20Color = [
       ]
     ]
   ]
-]
+];

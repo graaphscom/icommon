@@ -21,4 +21,4 @@ export var fitScreen24px = [
       }
     ]
   ]
-]
+];

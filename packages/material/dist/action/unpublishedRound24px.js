@@ -23,4 +23,4 @@ export var unpublishedRound24px = [
       }
     ]
   ]
-]
+];

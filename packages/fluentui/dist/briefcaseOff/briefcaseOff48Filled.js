@@ -16,4 +16,4 @@ export var briefcaseOff48Filled = [
       }
     ]
   ]
-]
+];

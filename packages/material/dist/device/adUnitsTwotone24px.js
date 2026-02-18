@@ -73,4 +73,4 @@ export var adUnitsTwotone24px = [
       ]
     ]
   ]
-]
+];

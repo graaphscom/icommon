@@ -16,4 +16,4 @@ export var listBarTreeOffset20Filled = [
       }
     ]
   ]
-]
+];

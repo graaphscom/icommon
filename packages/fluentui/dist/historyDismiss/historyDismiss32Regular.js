@@ -16,4 +16,4 @@ export var historyDismiss32Regular = [
       }
     ]
   ]
-]
+];

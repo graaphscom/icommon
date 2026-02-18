@@ -16,4 +16,4 @@ export var numberSymbol32Filled = [
       }
     ]
   ]
-]
+];

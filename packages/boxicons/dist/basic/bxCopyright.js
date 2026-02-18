@@ -19,4 +19,4 @@ export var bxCopyright = [
       }
     ]
   ]
-]
+];

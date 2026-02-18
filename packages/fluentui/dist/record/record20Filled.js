@@ -16,4 +16,4 @@ export var record20Filled = [
       }
     ]
   ]
-]
+];

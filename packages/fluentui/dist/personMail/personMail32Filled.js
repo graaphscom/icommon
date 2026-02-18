@@ -16,4 +16,4 @@ export var personMail32Filled = [
       }
     ]
   ]
-]
+];

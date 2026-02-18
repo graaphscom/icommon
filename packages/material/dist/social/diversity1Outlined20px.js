@@ -82,4 +82,4 @@ export var diversity1Outlined20px = [
       ]
     ]
   ]
-]
+];

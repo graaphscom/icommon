@@ -16,4 +16,4 @@ export var eyeTrackingOff24Filled = [
       }
     ]
   ]
-]
+];

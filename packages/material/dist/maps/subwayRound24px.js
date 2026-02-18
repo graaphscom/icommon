@@ -37,4 +37,4 @@ export var subwayRound24px = [
       }
     ]
   ]
-]
+];

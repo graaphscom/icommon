@@ -35,4 +35,4 @@ export var wifiPasswordRound20px = [
       ]
     ]
   ]
-]
+];

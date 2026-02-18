@@ -29,4 +29,4 @@ export var groupsRound24px = [
       ]
     ]
   ]
-]
+];

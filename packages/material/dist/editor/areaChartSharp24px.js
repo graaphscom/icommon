@@ -23,4 +23,4 @@ export var areaChartSharp24px = [
       }
     ]
   ]
-]
+];

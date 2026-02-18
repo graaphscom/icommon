@@ -16,4 +16,4 @@ export var arrowRedo32Regular = [
       }
     ]
   ]
-]
+];

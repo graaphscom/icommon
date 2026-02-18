@@ -16,4 +16,4 @@ export var tableCellCenterEdit16Filled = [
       }
     ]
   ]
-]
+];

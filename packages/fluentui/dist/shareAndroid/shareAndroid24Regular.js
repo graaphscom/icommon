@@ -16,4 +16,4 @@ export var shareAndroid24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var minimizeRound24px = [
       }
     ]
   ]
-]
+];

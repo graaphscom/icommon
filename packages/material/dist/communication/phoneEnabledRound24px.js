@@ -35,4 +35,4 @@ export var phoneEnabledRound24px = [
       ]
     ]
   ]
-]
+];

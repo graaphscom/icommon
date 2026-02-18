@@ -23,4 +23,4 @@ export var sleddingOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowCounterclockwiseInfo28Filled = [
       }
     ]
   ]
-]
+];

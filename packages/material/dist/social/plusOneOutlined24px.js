@@ -21,4 +21,4 @@ export var plusOneOutlined24px = [
       }
     ]
   ]
-]
+];

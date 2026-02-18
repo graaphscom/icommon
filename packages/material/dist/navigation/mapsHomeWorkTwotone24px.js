@@ -87,4 +87,4 @@ export var mapsHomeWorkTwotone24px = [
       ]
     ]
   ]
-]
+];

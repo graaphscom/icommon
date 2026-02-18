@@ -82,4 +82,4 @@ export var __22mpTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var wrench20Regular = [
       }
     ]
   ]
-]
+];

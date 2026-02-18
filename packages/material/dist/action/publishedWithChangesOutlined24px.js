@@ -23,4 +23,4 @@ export var publishedWithChangesOutlined24px = [
       }
     ]
   ]
-]
+];

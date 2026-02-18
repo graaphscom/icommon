@@ -13,4 +13,4 @@ export var replay5Fill = [
       }
     ]
   ]
-]
+];

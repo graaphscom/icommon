@@ -21,4 +21,4 @@ export var systemUpdateAltRound24px = [
       }
     ]
   ]
-]
+];

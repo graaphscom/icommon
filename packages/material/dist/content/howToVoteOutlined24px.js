@@ -21,4 +21,4 @@ export var howToVoteOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var sensorWindowSharp24px = [
       ]
     ]
   ]
-]
+];

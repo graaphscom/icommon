@@ -39,4 +39,4 @@ export var toys24px = [
       ]
     ]
   ]
-]
+];

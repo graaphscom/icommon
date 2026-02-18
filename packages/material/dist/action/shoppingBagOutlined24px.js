@@ -29,4 +29,4 @@ export var shoppingBagOutlined24px = [
       ]
     ]
   ]
-]
+];

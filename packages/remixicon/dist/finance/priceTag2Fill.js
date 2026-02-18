@@ -13,4 +13,4 @@ export var priceTag2Fill = [
       }
     ]
   ]
-]
+];

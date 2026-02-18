@@ -16,4 +16,4 @@ export var documentQueueAdd20Regular = [
       }
     ]
   ]
-]
+];

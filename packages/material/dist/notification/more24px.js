@@ -21,4 +21,4 @@ export var more24px = [
       }
     ]
   ]
-]
+];

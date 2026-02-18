@@ -16,4 +16,4 @@ export var box28Regular = [
       }
     ]
   ]
-]
+];

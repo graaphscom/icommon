@@ -192,4 +192,4 @@ export var buildingGovernment24Color = [
       ]
     ]
   ]
-]
+];

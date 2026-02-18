@@ -79,4 +79,4 @@ export var joinLeftRound24px = [
       ]
     ]
   ]
-]
+];

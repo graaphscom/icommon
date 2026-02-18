@@ -116,4 +116,4 @@ export var home48Color = [
       ]
     ]
   ]
-]
+];

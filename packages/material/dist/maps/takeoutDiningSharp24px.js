@@ -47,4 +47,4 @@ export var takeoutDiningSharp24px = [
       ]
     ]
   ]
-]
+];

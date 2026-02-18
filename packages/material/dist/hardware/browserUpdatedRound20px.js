@@ -29,4 +29,4 @@ export var browserUpdatedRound20px = [
       ]
     ]
   ]
-]
+];

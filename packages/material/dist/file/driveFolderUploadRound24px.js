@@ -35,4 +35,4 @@ export var driveFolderUploadRound24px = [
       ]
     ]
   ]
-]
+];

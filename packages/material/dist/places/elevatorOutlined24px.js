@@ -29,4 +29,4 @@ export var elevatorOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var networkPingTwotone20px = [
       ]
     ]
   ]
-]
+];

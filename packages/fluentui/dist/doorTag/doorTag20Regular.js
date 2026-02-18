@@ -16,4 +16,4 @@ export var doorTag20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var __7mp24px = [
       }
     ]
   ]
-]
+];

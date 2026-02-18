@@ -71,4 +71,4 @@ export var supportAgentRound24px = [
       ]
     ]
   ]
-]
+];

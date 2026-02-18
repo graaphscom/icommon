@@ -16,4 +16,4 @@ export var arrowCircleUpLeft16Filled = [
       }
     ]
   ]
-]
+];

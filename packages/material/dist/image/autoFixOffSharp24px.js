@@ -54,4 +54,4 @@ export var autoFixOffSharp24px = [
       ]
     ]
   ]
-]
+];

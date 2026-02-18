@@ -29,4 +29,4 @@ export var printOutlined24px = [
       }
     ]
   ]
-]
+];

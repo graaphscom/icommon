@@ -28,4 +28,4 @@ export var localMoviesTwotone24px = [
       }
     ]
   ]
-]
+];

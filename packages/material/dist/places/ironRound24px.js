@@ -23,4 +23,4 @@ export var ironRound24px = [
       }
     ]
   ]
-]
+];

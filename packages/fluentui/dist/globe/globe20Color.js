@@ -83,4 +83,4 @@ export var globe20Color = [
       ]
     ]
   ]
-]
+];

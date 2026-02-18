@@ -21,4 +21,4 @@ export var signalWifiOffOutlined24px = [
       }
     ]
   ]
-]
+];

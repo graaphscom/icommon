@@ -16,4 +16,4 @@ export var starSettings32Regular = [
       }
     ]
   ]
-]
+];

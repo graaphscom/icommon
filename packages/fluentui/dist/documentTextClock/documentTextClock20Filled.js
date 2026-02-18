@@ -16,4 +16,4 @@ export var documentTextClock20Filled = [
       }
     ]
   ]
-]
+];

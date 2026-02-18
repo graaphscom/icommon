@@ -23,4 +23,4 @@ export var surfing24px = [
       }
     ]
   ]
-]
+];

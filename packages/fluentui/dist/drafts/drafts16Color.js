@@ -352,4 +352,4 @@ export var drafts16Color = [
       ]
     ]
   ]
-]
+];

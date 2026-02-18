@@ -16,4 +16,4 @@ export var hexagonSparkle20Regular = [
       }
     ]
   ]
-]
+];

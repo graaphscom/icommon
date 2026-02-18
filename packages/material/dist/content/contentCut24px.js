@@ -48,4 +48,4 @@ export var contentCut24px = [
       }
     ]
   ]
-]
+];

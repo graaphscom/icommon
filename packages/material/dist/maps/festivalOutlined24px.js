@@ -36,4 +36,4 @@ export var festivalOutlined24px = [
       ]
     ]
   ]
-]
+];

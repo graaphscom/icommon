@@ -34,4 +34,4 @@ export var filePresentSharp24px = [
       ]
     ]
   ]
-]
+];

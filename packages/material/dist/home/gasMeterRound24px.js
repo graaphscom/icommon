@@ -43,4 +43,4 @@ export var gasMeterRound24px = [
       ]
     ]
   ]
-]
+];

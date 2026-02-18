@@ -16,4 +16,4 @@ export var shapeIntersect24Regular = [
       }
     ]
   ]
-]
+];

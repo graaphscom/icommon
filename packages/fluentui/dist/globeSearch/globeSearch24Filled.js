@@ -16,4 +16,4 @@ export var globeSearch24Filled = [
       }
     ]
   ]
-]
+];

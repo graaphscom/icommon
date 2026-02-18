@@ -35,4 +35,4 @@ export var hexagonOutlined24px = [
       ]
     ]
   ]
-]
+];

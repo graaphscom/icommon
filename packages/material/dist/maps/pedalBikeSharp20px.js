@@ -35,4 +35,4 @@ export var pedalBikeSharp20px = [
       ]
     ]
   ]
-]
+];

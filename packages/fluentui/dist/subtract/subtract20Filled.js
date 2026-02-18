@@ -16,4 +16,4 @@ export var subtract20Filled = [
       }
     ]
   ]
-]
+];

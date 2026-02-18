@@ -21,4 +21,4 @@ export var deviceUnknownOutlined24px = [
       }
     ]
   ]
-]
+];

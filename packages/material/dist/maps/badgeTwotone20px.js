@@ -111,4 +111,4 @@ export var badgeTwotone20px = [
       ]
     ]
   ]
-]
+];

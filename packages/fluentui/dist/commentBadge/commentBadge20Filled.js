@@ -16,4 +16,4 @@ export var commentBadge20Filled = [
       }
     ]
   ]
-]
+];

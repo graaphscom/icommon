@@ -35,4 +35,4 @@ export var repeatOnSharp24px = [
       ]
     ]
   ]
-]
+];

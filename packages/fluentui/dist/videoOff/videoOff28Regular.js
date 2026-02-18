@@ -16,4 +16,4 @@ export var videoOff28Regular = [
       }
     ]
   ]
-]
+];

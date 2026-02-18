@@ -14,4 +14,4 @@ export var recentActorsRound24px = [
       }
     ]
   ]
-]
+];

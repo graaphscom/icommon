@@ -28,4 +28,4 @@ export var queueTwotone24px = [
       }
     ]
   ]
-]
+];

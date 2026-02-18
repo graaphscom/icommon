@@ -218,4 +218,4 @@ export var patient32Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var weatherPartlyCloudyNight48Regular = [
       }
     ]
   ]
-]
+];

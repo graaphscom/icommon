@@ -16,4 +16,4 @@ export var textNumberListRotate9020Regular = [
       }
     ]
   ]
-]
+];

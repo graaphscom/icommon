@@ -16,4 +16,4 @@ export var keyboardOff20Regular = [
       }
     ]
   ]
-]
+];

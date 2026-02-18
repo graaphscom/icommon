@@ -16,4 +16,4 @@ export var taskListSquareLtr24Filled = [
       }
     ]
   ]
-]
+];

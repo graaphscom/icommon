@@ -28,4 +28,4 @@ export var redeemTwotone24px = [
       }
     ]
   ]
-]
+];

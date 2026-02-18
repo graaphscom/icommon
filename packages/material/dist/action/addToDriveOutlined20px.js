@@ -60,4 +60,4 @@ export var addToDriveOutlined20px = [
       ]
     ]
   ]
-]
+];

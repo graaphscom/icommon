@@ -21,4 +21,4 @@ export var formatColorResetRound24px = [
       }
     ]
   ]
-]
+];

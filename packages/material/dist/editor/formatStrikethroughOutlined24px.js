@@ -21,4 +21,4 @@ export var formatStrikethroughOutlined24px = [
       }
     ]
   ]
-]
+];

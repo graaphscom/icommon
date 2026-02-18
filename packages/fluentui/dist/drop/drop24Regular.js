@@ -16,4 +16,4 @@ export var drop24Regular = [
       }
     ]
   ]
-]
+];

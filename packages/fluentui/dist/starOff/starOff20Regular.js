@@ -16,4 +16,4 @@ export var starOff20Regular = [
       }
     ]
   ]
-]
+];

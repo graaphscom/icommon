@@ -82,4 +82,4 @@ export var paw28Color = [
       ]
     ]
   ]
-]
+];

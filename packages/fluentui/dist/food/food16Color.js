@@ -81,4 +81,4 @@ export var food16Color = [
       ]
     ]
   ]
-]
+];

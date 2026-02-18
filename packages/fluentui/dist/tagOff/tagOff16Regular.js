@@ -16,4 +16,4 @@ export var tagOff16Regular = [
       }
     ]
   ]
-]
+];

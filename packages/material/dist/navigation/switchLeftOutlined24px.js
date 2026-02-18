@@ -23,4 +23,4 @@ export var switchLeftOutlined24px = [
       }
     ]
   ]
-]
+];

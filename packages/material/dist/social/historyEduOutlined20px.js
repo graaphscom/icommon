@@ -42,4 +42,4 @@ export var historyEduOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var adsClickTwotone20px = [
       }
     ]
   ]
-]
+];

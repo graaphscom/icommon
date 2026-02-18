@@ -16,4 +16,4 @@ export var documentLandscape24Regular = [
       }
     ]
   ]
-]
+];

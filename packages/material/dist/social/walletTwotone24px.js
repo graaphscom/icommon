@@ -55,4 +55,4 @@ export var walletTwotone24px = [
       ]
     ]
   ]
-]
+];

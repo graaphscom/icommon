@@ -16,4 +16,4 @@ export var peopleError16Filled = [
       }
     ]
   ]
-]
+];

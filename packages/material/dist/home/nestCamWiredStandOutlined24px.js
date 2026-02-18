@@ -35,4 +35,4 @@ export var nestCamWiredStandOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var priceChangeOutlined24px = [
       ]
     ]
   ]
-]
+];

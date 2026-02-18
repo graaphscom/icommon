@@ -47,4 +47,4 @@ export var recommendOutlined24px = [
       ]
     ]
   ]
-]
+];

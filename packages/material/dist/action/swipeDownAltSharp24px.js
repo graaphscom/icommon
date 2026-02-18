@@ -35,4 +35,4 @@ export var swipeDownAltSharp24px = [
       ]
     ]
   ]
-]
+];

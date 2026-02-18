@@ -23,4 +23,4 @@ export var healthAndSafetySharp24px = [
       }
     ]
   ]
-]
+];

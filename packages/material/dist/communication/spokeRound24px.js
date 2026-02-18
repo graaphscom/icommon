@@ -23,4 +23,4 @@ export var spokeRound24px = [
       }
     ]
   ]
-]
+];

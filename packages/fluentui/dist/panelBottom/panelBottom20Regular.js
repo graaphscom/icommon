@@ -16,4 +16,4 @@ export var panelBottom20Regular = [
       }
     ]
   ]
-]
+];

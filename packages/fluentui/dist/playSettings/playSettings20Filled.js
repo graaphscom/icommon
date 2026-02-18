@@ -16,4 +16,4 @@ export var playSettings20Filled = [
       }
     ]
   ]
-]
+];

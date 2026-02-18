@@ -47,4 +47,4 @@ export var agricultureOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var carCrashSharp20px = [
       ]
     ]
   ]
-]
+];

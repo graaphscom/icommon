@@ -13,4 +13,4 @@ export var messageAi3Line = [
       }
     ]
   ]
-]
+];

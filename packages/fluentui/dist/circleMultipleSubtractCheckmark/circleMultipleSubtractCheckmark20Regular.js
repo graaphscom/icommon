@@ -16,4 +16,4 @@ export var circleMultipleSubtractCheckmark20Regular = [
       }
     ]
   ]
-]
+];

@@ -143,4 +143,4 @@ export var __10mpTwotone24px = [
       ]
     ]
   ]
-]
+];

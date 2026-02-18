@@ -16,4 +16,4 @@ export var receiptSparkles16Filled = [
       }
     ]
   ]
-]
+];

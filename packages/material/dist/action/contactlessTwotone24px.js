@@ -66,4 +66,4 @@ export var contactlessTwotone24px = [
       ]
     ]
   ]
-]
+];

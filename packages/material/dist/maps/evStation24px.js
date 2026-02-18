@@ -21,4 +21,4 @@ export var evStation24px = [
       }
     ]
   ]
-]
+];

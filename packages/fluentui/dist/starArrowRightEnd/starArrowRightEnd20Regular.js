@@ -16,4 +16,4 @@ export var starArrowRightEnd20Regular = [
       }
     ]
   ]
-]
+];

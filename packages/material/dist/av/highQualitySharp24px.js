@@ -21,4 +21,4 @@ export var highQualitySharp24px = [
       }
     ]
   ]
-]
+];

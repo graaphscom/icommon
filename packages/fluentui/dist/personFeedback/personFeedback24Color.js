@@ -157,4 +157,4 @@ export var personFeedback24Color = [
       ]
     ]
   ]
-]
+];

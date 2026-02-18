@@ -23,4 +23,4 @@ export var vaccinesSharp20px = [
       }
     ]
   ]
-]
+];

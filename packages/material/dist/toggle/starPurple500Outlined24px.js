@@ -21,4 +21,4 @@ export var starPurple500Outlined24px = [
       }
     ]
   ]
-]
+];

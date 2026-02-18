@@ -16,4 +16,4 @@ export var buildingFactory28Regular = [
       }
     ]
   ]
-]
+];

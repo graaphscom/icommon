@@ -35,4 +35,4 @@ export var contrastRound24px = [
       ]
     ]
   ]
-]
+];

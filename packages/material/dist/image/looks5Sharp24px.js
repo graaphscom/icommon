@@ -21,4 +21,4 @@ export var looks5Sharp24px = [
       }
     ]
   ]
-]
+];

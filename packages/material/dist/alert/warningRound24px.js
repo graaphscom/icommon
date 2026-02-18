@@ -14,4 +14,4 @@ export var warningRound24px = [
       }
     ]
   ]
-]
+];

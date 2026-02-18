@@ -21,4 +21,4 @@ export var checkTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var hatGraduation12Filled = [
       }
     ]
   ]
-]
+];

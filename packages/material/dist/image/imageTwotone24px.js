@@ -28,4 +28,4 @@ export var imageTwotone24px = [
       }
     ]
   ]
-]
+];

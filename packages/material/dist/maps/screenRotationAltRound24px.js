@@ -49,4 +49,4 @@ export var screenRotationAltRound24px = [
       ]
     ]
   ]
-]
+];

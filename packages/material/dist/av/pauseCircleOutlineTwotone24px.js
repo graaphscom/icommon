@@ -21,4 +21,4 @@ export var pauseCircleOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

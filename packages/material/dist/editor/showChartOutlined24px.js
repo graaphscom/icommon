@@ -21,4 +21,4 @@ export var showChartOutlined24px = [
       }
     ]
   ]
-]
+];

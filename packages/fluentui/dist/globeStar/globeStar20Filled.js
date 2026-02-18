@@ -16,4 +16,4 @@ export var globeStar20Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var phonelinkEraseTwotone24px = [
       }
     ]
   ]
-]
+];

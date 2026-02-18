@@ -349,4 +349,4 @@ export var molecule48Color = [
       ]
     ]
   ]
-]
+];

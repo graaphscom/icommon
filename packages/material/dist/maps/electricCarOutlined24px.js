@@ -63,4 +63,4 @@ export var electricCarOutlined24px = [
       ]
     ]
   ]
-]
+];

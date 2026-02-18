@@ -48,4 +48,4 @@ export var compareArrows24px = [
       ]
     ]
   ]
-]
+];

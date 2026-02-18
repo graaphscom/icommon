@@ -29,4 +29,4 @@ export var notAccessibleTwotone24px = [
       ]
     ]
   ]
-]
+];

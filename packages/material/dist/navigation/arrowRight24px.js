@@ -21,4 +21,4 @@ export var arrowRight24px = [
       }
     ]
   ]
-]
+];

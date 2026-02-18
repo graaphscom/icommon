@@ -41,4 +41,4 @@ export var forkLeftSharp20px = [
       ]
     ]
   ]
-]
+];

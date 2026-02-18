@@ -21,4 +21,4 @@ export var eventBusy24px = [
       }
     ]
   ]
-]
+];

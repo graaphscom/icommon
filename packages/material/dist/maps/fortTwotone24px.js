@@ -48,4 +48,4 @@ export var fortTwotone24px = [
       ]
     ]
   ]
-]
+];

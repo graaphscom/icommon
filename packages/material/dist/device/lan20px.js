@@ -35,4 +35,4 @@ export var lan20px = [
       ]
     ]
   ]
-]
+];

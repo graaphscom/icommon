@@ -16,4 +16,4 @@ export var phoneVibrate20Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var motionPhotosOffOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var clipboardTaskListLtr20Regular = [
       }
     ]
   ]
-]
+];

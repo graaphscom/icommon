@@ -21,4 +21,4 @@ export var plusOneTwotone24px = [
       }
     ]
   ]
-]
+];

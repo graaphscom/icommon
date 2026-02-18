@@ -82,4 +82,4 @@ export var ribbon16Color = [
       ]
     ]
   ]
-]
+];

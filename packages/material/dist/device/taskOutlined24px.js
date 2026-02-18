@@ -34,4 +34,4 @@ export var taskOutlined24px = [
       ]
     ]
   ]
-]
+];

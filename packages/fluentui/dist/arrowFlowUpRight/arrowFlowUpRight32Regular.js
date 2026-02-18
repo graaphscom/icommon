@@ -16,4 +16,4 @@ export var arrowFlowUpRight32Regular = [
       }
     ]
   ]
-]
+];

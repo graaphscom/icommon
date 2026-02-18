@@ -13,4 +13,4 @@ export var file2Line = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var theatersRound24px = [
       }
     ]
   ]
-]
+];

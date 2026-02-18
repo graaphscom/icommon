@@ -21,4 +21,4 @@ export var mmsSharp24px = [
       }
     ]
   ]
-]
+];

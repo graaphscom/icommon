@@ -48,4 +48,4 @@ export var workHistoryOutlined20px = [
       ]
     ]
   ]
-]
+];

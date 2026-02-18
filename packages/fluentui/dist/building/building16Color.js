@@ -345,4 +345,4 @@ export var building16Color = [
       ]
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var wifiTetheringOffTwotone24px = [
       ]
     ]
   ]
-]
+];

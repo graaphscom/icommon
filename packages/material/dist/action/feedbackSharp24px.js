@@ -21,4 +21,4 @@ export var feedbackSharp24px = [
       }
     ]
   ]
-]
+];

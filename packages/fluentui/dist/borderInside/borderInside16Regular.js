@@ -16,4 +16,4 @@ export var borderInside16Regular = [
       }
     ]
   ]
-]
+];

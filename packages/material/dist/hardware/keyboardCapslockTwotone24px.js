@@ -21,4 +21,4 @@ export var keyboardCapslockTwotone24px = [
       }
     ]
   ]
-]
+];

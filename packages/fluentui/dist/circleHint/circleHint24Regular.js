@@ -16,4 +16,4 @@ export var circleHint24Regular = [
       }
     ]
   ]
-]
+];

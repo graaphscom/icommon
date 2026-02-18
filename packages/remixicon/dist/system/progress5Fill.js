@@ -13,4 +13,4 @@ export var progress5Fill = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var savingsRound20px = [
       }
     ]
   ]
-]
+];

@@ -283,4 +283,4 @@ export var documentLock24Color = [
       ]
     ]
   ]
-]
+];

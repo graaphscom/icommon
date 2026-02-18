@@ -16,4 +16,4 @@ export var slideTextSparkle16Filled = [
       }
     ]
   ]
-]
+];

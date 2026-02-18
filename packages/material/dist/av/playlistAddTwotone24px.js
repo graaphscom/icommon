@@ -35,4 +35,4 @@ export var playlistAddTwotone24px = [
       ]
     ]
   ]
-]
+];

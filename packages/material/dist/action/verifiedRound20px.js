@@ -35,4 +35,4 @@ export var verifiedRound20px = [
       ]
     ]
   ]
-]
+];

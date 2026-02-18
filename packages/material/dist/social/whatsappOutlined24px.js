@@ -48,4 +48,4 @@ export var whatsappOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var oilBarrel20px = [
       ]
     ]
   ]
-]
+];

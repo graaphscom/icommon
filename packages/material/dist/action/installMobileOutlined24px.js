@@ -47,4 +47,4 @@ export var installMobileOutlined24px = [
       ]
     ]
   ]
-]
+];

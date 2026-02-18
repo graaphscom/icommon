@@ -16,4 +16,4 @@ export var contactCardLink16Filled = [
       }
     ]
   ]
-]
+];

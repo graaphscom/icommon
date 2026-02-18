@@ -21,4 +21,4 @@ export var stopScreenShareSharp24px = [
       }
     ]
   ]
-]
+];

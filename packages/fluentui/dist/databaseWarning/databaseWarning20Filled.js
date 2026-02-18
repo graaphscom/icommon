@@ -16,4 +16,4 @@ export var databaseWarning20Filled = [
       }
     ]
   ]
-]
+];

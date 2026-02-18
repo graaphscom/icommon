@@ -21,4 +21,4 @@ export var textRotationAngleupTwotone24px = [
       }
     ]
   ]
-]
+];

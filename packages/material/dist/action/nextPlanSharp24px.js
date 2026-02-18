@@ -35,4 +35,4 @@ export var nextPlanSharp24px = [
       ]
     ]
   ]
-]
+];

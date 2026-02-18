@@ -21,4 +21,4 @@ export var contactPhoneSharp24px = [
       }
     ]
   ]
-]
+];

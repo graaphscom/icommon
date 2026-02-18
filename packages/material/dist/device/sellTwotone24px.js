@@ -55,4 +55,4 @@ export var sellTwotone24px = [
       ]
     ]
   ]
-]
+];

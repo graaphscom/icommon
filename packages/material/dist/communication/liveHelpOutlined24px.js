@@ -21,4 +21,4 @@ export var liveHelpOutlined24px = [
       }
     ]
   ]
-]
+];

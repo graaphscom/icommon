@@ -16,4 +16,4 @@ export var selectAllOff20Regular = [
       }
     ]
   ]
-]
+];

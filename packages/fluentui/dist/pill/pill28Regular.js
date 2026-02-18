@@ -16,4 +16,4 @@ export var pill28Regular = [
       }
     ]
   ]
-]
+];

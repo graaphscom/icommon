@@ -21,4 +21,4 @@ export var naturePeople24px = [
       }
     ]
   ]
-]
+];

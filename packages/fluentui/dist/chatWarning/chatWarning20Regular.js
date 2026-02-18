@@ -16,4 +16,4 @@ export var chatWarning20Regular = [
       }
     ]
   ]
-]
+];

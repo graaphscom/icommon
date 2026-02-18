@@ -260,4 +260,4 @@ export var peopleAdd24Color = [
       ]
     ]
   ]
-]
+];

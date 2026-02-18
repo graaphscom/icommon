@@ -45,4 +45,4 @@ export var scatterPlot24px = [
       ]
     ]
   ]
-]
+];

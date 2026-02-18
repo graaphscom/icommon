@@ -35,4 +35,4 @@ export var eventRepeatOutlined24px = [
       ]
     ]
   ]
-]
+];

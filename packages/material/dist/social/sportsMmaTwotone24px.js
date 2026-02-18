@@ -63,4 +63,4 @@ export var sportsMmaTwotone24px = [
       ]
     ]
   ]
-]
+];

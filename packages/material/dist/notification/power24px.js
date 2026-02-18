@@ -21,4 +21,4 @@ export var power24px = [
       }
     ]
   ]
-]
+];

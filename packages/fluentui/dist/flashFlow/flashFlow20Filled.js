@@ -16,4 +16,4 @@ export var flashFlow20Filled = [
       }
     ]
   ]
-]
+];

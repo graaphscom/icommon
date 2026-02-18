@@ -21,4 +21,4 @@ export var bookSharp24px = [
       }
     ]
   ]
-]
+];

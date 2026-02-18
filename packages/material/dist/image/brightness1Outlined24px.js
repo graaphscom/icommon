@@ -21,4 +21,4 @@ export var brightness1Outlined24px = [
       }
     ]
   ]
-]
+];

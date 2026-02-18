@@ -35,4 +35,4 @@ export var segmentSharp24px = [
       ]
     ]
   ]
-]
+];

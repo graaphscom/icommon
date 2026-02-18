@@ -16,4 +16,4 @@ export var peopleCall16Filled = [
       }
     ]
   ]
-]
+];

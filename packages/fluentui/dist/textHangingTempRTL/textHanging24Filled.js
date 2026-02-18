@@ -16,4 +16,4 @@ export var textHanging24Filled = [
       }
     ]
   ]
-]
+];

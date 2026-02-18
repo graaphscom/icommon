@@ -42,4 +42,4 @@ export var inventory2Sharp20px = [
       ]
     ]
   ]
-]
+];

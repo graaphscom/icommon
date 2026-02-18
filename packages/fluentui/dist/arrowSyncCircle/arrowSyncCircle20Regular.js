@@ -16,4 +16,4 @@ export var arrowSyncCircle20Regular = [
       }
     ]
   ]
-]
+];

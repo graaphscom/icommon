@@ -16,4 +16,4 @@ export var buildingCloud24Regular = [
       }
     ]
   ]
-]
+];

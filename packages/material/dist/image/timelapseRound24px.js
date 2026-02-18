@@ -21,4 +21,4 @@ export var timelapseRound24px = [
       }
     ]
   ]
-]
+];

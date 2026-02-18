@@ -50,4 +50,4 @@ export var __7mpSharp24px = [
       ]
     ]
   ]
-]
+];

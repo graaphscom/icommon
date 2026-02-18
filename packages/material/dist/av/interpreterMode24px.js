@@ -23,4 +23,4 @@ export var interpreterMode24px = [
       }
     ]
   ]
-]
+];

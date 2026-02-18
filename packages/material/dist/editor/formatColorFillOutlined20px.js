@@ -56,4 +56,4 @@ export var formatColorFillOutlined20px = [
       ]
     ]
   ]
-]
+];

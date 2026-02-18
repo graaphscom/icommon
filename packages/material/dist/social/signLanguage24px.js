@@ -35,4 +35,4 @@ export var signLanguage24px = [
       ]
     ]
   ]
-]
+];

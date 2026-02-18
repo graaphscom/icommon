@@ -13,4 +13,4 @@ export var brush3Fill = [
       }
     ]
   ]
-]
+];

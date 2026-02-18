@@ -13,4 +13,4 @@ export var calendar2Fill = [
       }
     ]
   ]
-]
+];

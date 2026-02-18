@@ -16,4 +16,4 @@ export var mailInboxDismiss20Filled = [
       }
     ]
   ]
-]
+];

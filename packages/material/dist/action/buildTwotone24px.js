@@ -28,4 +28,4 @@ export var buildTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var propaneSharp20px = [
       ]
     ]
   ]
-]
+];

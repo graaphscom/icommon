@@ -16,4 +16,4 @@ export var giftCardArrowRight20Filled = [
       }
     ]
   ]
-]
+];

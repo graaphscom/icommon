@@ -53,4 +53,4 @@ export var flipCameraAndroidOutlined24px = [
       ]
     ]
   ]
-]
+];

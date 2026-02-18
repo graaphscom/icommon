@@ -16,4 +16,4 @@ export var bookClock24Regular = [
       }
     ]
   ]
-]
+];

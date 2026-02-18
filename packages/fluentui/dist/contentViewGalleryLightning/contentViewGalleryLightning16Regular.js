@@ -16,4 +16,4 @@ export var contentViewGalleryLightning16Regular = [
       }
     ]
   ]
-]
+];

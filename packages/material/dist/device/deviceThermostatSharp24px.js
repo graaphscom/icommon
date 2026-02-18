@@ -40,4 +40,4 @@ export var deviceThermostatSharp24px = [
       ]
     ]
   ]
-]
+];

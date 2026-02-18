@@ -29,4 +29,4 @@ export var requestQuoteOutlined24px = [
       ]
     ]
   ]
-]
+];

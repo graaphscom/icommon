@@ -16,4 +16,4 @@ export var cloud32Filled = [
       }
     ]
   ]
-]
+];

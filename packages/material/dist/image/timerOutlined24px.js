@@ -47,4 +47,4 @@ export var timerOutlined24px = [
       ]
     ]
   ]
-]
+];

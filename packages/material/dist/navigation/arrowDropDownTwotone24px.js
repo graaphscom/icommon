@@ -21,4 +21,4 @@ export var arrowDropDownTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var class24px = [
       }
     ]
   ]
-]
+];

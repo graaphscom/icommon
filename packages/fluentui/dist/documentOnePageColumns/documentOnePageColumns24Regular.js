@@ -16,4 +16,4 @@ export var documentOnePageColumns24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var radarRectangleMultiple20Filled = [
       }
     ]
   ]
-]
+];

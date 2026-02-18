@@ -16,4 +16,4 @@ export var dualScreenClosedAlert24Regular = [
       }
     ]
   ]
-]
+];

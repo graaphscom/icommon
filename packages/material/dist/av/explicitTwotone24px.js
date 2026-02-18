@@ -28,4 +28,4 @@ export var explicitTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -256,4 +256,4 @@ export var blobbeeHugCat = [
       }
     ]
   ]
-]
+];

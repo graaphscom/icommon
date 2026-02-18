@@ -35,4 +35,4 @@ export var folderZipSharp24px = [
       ]
     ]
   ]
-]
+];

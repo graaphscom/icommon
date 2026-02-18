@@ -41,4 +41,4 @@ export var arrowForwardIosRound20px = [
       ]
     ]
   ]
-]
+];

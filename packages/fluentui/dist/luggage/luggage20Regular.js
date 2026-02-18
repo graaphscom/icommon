@@ -16,4 +16,4 @@ export var luggage20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowFit16Regular = [
       }
     ]
   ]
-]
+];

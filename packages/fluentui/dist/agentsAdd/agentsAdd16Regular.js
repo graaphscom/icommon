@@ -16,4 +16,4 @@ export var agentsAdd16Regular = [
       }
     ]
   ]
-]
+];

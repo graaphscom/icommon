@@ -21,4 +21,4 @@ export var linearScaleOutlined24px = [
       }
     ]
   ]
-]
+];

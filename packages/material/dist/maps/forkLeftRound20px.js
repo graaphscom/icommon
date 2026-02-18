@@ -35,4 +35,4 @@ export var forkLeftRound20px = [
       ]
     ]
   ]
-]
+];

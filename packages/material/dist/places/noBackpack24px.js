@@ -24,4 +24,4 @@ export var noBackpack24px = [
       }
     ]
   ]
-]
+];

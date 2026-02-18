@@ -36,4 +36,4 @@ export var brunchDining24px = [
       ]
     ]
   ]
-]
+];

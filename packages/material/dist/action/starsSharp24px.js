@@ -21,4 +21,4 @@ export var starsSharp24px = [
       }
     ]
   ]
-]
+];

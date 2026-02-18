@@ -57,4 +57,4 @@ export var selfImprovementRound24px = [
       ]
     ]
   ]
-]
+];

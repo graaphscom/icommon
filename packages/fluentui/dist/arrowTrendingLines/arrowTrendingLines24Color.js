@@ -81,4 +81,4 @@ export var arrowTrendingLines24Color = [
       ]
     ]
   ]
-]
+];

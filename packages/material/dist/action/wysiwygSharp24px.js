@@ -29,4 +29,4 @@ export var wysiwygSharp24px = [
       ]
     ]
   ]
-]
+];

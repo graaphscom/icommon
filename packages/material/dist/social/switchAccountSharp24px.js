@@ -35,4 +35,4 @@ export var switchAccountSharp24px = [
       ]
     ]
   ]
-]
+];

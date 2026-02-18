@@ -16,4 +16,4 @@ export var sportAmericanFootball24Regular = [
       }
     ]
   ]
-]
+];

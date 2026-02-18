@@ -16,4 +16,4 @@ export var personArrowBack20Filled = [
       }
     ]
   ]
-]
+];

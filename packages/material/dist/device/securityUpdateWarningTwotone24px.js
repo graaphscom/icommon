@@ -78,4 +78,4 @@ export var securityUpdateWarningTwotone24px = [
       ]
     ]
   ]
-]
+];

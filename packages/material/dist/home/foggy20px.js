@@ -23,4 +23,4 @@ export var foggy20px = [
       }
     ]
   ]
-]
+];

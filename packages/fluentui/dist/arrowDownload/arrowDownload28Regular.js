@@ -16,4 +16,4 @@ export var arrowDownload28Regular = [
       }
     ]
   ]
-]
+];

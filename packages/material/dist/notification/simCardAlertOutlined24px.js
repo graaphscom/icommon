@@ -71,4 +71,4 @@ export var simCardAlertOutlined24px = [
       ]
     ]
   ]
-]
+];

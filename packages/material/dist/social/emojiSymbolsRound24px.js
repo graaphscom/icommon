@@ -93,4 +93,4 @@ export var emojiSymbolsRound24px = [
       ]
     ]
   ]
-]
+];

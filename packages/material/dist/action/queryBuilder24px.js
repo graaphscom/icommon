@@ -27,4 +27,4 @@ export var queryBuilder24px = [
       }
     ]
   ]
-]
+];

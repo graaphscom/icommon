@@ -28,4 +28,4 @@ export var localDrinkTwotone24px = [
       }
     ]
   ]
-]
+];

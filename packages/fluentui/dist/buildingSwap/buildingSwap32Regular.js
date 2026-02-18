@@ -16,4 +16,4 @@ export var buildingSwap32Regular = [
       }
     ]
   ]
-]
+];

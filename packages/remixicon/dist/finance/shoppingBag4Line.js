@@ -13,4 +13,4 @@ export var shoppingBag4Line = [
       }
     ]
   ]
-]
+];

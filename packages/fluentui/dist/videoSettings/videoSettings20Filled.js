@@ -16,4 +16,4 @@ export var videoSettings20Filled = [
       }
     ]
   ]
-]
+];

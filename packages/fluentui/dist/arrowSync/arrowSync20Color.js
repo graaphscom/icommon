@@ -50,4 +50,4 @@ export var arrowSync20Color = [
       ]
     ]
   ]
-]
+];

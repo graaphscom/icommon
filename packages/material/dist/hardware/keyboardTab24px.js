@@ -21,4 +21,4 @@ export var keyboardTab24px = [
       }
     ]
   ]
-]
+];

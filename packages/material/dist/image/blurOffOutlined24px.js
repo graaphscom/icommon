@@ -109,4 +109,4 @@ export var blurOffOutlined24px = [
       }
     ]
   ]
-]
+];

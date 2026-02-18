@@ -23,4 +23,4 @@ export var chatMail20Filled = [
       }
     ]
   ]
-]
+];

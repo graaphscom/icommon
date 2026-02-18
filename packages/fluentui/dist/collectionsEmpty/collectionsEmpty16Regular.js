@@ -16,4 +16,4 @@ export var collectionsEmpty16Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var unfoldMoreOutlined24px = [
       }
     ]
   ]
-]
+];

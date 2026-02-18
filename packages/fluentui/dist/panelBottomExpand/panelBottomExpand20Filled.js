@@ -16,4 +16,4 @@ export var panelBottomExpand20Filled = [
       }
     ]
   ]
-]
+];

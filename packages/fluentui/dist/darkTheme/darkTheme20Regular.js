@@ -16,4 +16,4 @@ export var darkTheme20Regular = [
       }
     ]
   ]
-]
+];

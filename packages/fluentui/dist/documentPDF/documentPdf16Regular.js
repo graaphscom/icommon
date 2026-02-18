@@ -16,4 +16,4 @@ export var documentPdf16Regular = [
       }
     ]
   ]
-]
+];

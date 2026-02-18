@@ -23,4 +23,4 @@ export var foodBankSharp24px = [
       }
     ]
   ]
-]
+];

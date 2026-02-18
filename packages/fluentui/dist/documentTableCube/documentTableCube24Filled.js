@@ -16,4 +16,4 @@ export var documentTableCube24Filled = [
       }
     ]
   ]
-]
+];

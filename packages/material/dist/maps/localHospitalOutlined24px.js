@@ -21,4 +21,4 @@ export var localHospitalOutlined24px = [
       }
     ]
   ]
-]
+];

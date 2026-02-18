@@ -16,4 +16,4 @@ export var eraserMedium24Filled = [
       }
     ]
   ]
-]
+];

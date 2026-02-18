@@ -16,4 +16,4 @@ export var targetDismiss20Regular = [
       }
     ]
   ]
-]
+];

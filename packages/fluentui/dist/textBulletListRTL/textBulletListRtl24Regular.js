@@ -16,4 +16,4 @@ export var textBulletListRtl24Regular = [
       }
     ]
   ]
-]
+];

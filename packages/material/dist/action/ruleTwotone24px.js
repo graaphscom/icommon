@@ -29,4 +29,4 @@ export var ruleTwotone24px = [
       ]
     ]
   ]
-]
+];

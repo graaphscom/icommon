@@ -53,4 +53,4 @@ export var videoSettings20px = [
       ]
     ]
   ]
-]
+];

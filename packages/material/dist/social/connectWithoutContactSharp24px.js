@@ -23,4 +23,4 @@ export var connectWithoutContactSharp24px = [
       }
     ]
   ]
-]
+];

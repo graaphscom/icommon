@@ -53,4 +53,4 @@ export var plumbingTwotone24px = [
       ]
     ]
   ]
-]
+];

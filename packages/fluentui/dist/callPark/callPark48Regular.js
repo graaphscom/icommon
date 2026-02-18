@@ -16,4 +16,4 @@ export var callPark48Regular = [
       }
     ]
   ]
-]
+];

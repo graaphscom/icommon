@@ -16,4 +16,4 @@ export var alignTop32Filled = [
       }
     ]
   ]
-]
+];

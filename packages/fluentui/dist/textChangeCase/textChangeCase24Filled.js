@@ -16,4 +16,4 @@ export var textChangeCase24Filled = [
       }
     ]
   ]
-]
+];

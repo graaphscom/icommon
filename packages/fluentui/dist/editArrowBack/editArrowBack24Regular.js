@@ -16,4 +16,4 @@ export var editArrowBack24Regular = [
       }
     ]
   ]
-]
+];

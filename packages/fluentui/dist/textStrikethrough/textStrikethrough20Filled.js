@@ -16,4 +16,4 @@ export var textStrikethrough20Filled = [
       }
     ]
   ]
-]
+];

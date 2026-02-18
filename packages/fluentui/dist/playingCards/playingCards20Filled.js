@@ -16,4 +16,4 @@ export var playingCards20Filled = [
       }
     ]
   ]
-]
+];

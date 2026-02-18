@@ -21,4 +21,4 @@ export var phonelinkSetupTwotone24px = [
       }
     ]
   ]
-]
+];

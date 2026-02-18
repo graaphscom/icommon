@@ -16,4 +16,4 @@ export var buildingCheckmark20Regular = [
       }
     ]
   ]
-]
+];

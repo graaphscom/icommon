@@ -47,4 +47,4 @@ export var floodOutlined24px = [
       ]
     ]
   ]
-]
+];

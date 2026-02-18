@@ -21,4 +21,4 @@ export var keyboardCapslockSharp24px = [
       }
     ]
   ]
-]
+];

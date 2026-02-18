@@ -35,4 +35,4 @@ export var formatColorFill24px = [
       ]
     ]
   ]
-]
+];

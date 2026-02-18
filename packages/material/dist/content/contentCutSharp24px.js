@@ -21,4 +21,4 @@ export var contentCutSharp24px = [
       }
     ]
   ]
-]
+];

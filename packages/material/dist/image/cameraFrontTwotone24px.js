@@ -28,4 +28,4 @@ export var cameraFrontTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -102,4 +102,4 @@ export var emojiSymbolsSharp20px = [
       ]
     ]
   ]
-]
+];

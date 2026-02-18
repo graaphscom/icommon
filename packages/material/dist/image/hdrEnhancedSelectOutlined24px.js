@@ -41,4 +41,4 @@ export var hdrEnhancedSelectOutlined24px = [
       ]
     ]
   ]
-]
+];

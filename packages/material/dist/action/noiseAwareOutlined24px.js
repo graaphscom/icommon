@@ -133,4 +133,4 @@ export var noiseAwareOutlined24px = [
       ]
     ]
   ]
-]
+];

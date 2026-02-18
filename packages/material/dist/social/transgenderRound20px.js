@@ -23,4 +23,4 @@ export var transgenderRound20px = [
       }
     ]
   ]
-]
+];

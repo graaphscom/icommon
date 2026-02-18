@@ -16,4 +16,4 @@ export var textPositionFront20Filled = [
       }
     ]
   ]
-]
+];

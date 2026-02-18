@@ -16,4 +16,4 @@ export var lineFlowDiagonalUpRight16Regular = [
       }
     ]
   ]
-]
+];

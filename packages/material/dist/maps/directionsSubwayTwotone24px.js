@@ -44,4 +44,4 @@ export var directionsSubwayTwotone24px = [
       }
     ]
   ]
-]
+];

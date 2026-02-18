@@ -47,4 +47,4 @@ export var crop75Outlined24px = [
       ]
     ]
   ]
-]
+];

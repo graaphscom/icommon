@@ -54,4 +54,4 @@ export var insightsOutlined20px = [
       ]
     ]
   ]
-]
+];

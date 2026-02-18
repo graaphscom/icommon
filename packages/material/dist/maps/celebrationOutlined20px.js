@@ -66,4 +66,4 @@ export var celebrationOutlined20px = [
       ]
     ]
   ]
-]
+];

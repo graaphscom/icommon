@@ -16,4 +16,4 @@ export var mountainLocationTop20Regular = [
       }
     ]
   ]
-]
+];

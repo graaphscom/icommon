@@ -23,4 +23,4 @@ export var compostOutlined24px = [
       }
     ]
   ]
-]
+];

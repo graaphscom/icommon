@@ -13,4 +13,4 @@ export var contrastDrop2Fill = [
       }
     ]
   ]
-]
+];

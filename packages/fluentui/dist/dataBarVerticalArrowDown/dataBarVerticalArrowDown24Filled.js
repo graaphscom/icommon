@@ -16,4 +16,4 @@ export var dataBarVerticalArrowDown24Filled = [
       }
     ]
   ]
-]
+];

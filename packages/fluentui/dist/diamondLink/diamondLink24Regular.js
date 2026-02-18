@@ -16,4 +16,4 @@ export var diamondLink24Regular = [
       }
     ]
   ]
-]
+];

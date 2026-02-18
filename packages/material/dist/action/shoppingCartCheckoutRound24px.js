@@ -43,4 +43,4 @@ export var shoppingCartCheckoutRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var diversity28Filled = [
       }
     ]
   ]
-]
+];

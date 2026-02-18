@@ -21,4 +21,4 @@ export var explicitSharp24px = [
       }
     ]
   ]
-]
+];

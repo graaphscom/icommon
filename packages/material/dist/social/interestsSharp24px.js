@@ -23,4 +23,4 @@ export var interestsSharp24px = [
       }
     ]
   ]
-]
+];

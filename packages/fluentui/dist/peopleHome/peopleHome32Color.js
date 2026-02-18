@@ -328,4 +328,4 @@ export var peopleHome32Color = [
       ]
     ]
   ]
-]
+];

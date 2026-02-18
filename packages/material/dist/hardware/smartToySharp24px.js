@@ -42,4 +42,4 @@ export var smartToySharp24px = [
       ]
     ]
   ]
-]
+];

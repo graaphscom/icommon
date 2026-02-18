@@ -16,4 +16,4 @@ export var checkmarkCircle48Regular = [
       }
     ]
   ]
-]
+];

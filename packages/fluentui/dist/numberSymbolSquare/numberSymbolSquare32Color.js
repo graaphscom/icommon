@@ -124,4 +124,4 @@ export var numberSymbolSquare32Color = [
       ]
     ]
   ]
-]
+];

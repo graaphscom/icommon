@@ -21,4 +21,4 @@ export var panoramaOutlined24px = [
       }
     ]
   ]
-]
+];

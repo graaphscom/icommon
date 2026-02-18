@@ -16,4 +16,4 @@ export var eyeCircle20Regular = [
       }
     ]
   ]
-]
+];

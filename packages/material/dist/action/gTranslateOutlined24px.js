@@ -21,4 +21,4 @@ export var gTranslateOutlined24px = [
       }
     ]
   ]
-]
+];

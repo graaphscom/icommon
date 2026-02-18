@@ -16,4 +16,4 @@ export var handOpenHeart20Filled = [
       }
     ]
   ]
-]
+];

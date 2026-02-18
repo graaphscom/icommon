@@ -41,4 +41,4 @@ export var wifiPasswordSharp20px = [
       ]
     ]
   ]
-]
+];

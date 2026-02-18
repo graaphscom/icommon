@@ -35,4 +35,4 @@ export var deselectTwotone24px = [
       ]
     ]
   ]
-]
+];

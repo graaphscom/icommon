@@ -41,4 +41,4 @@ export var forestOutlined24px = [
       ]
     ]
   ]
-]
+];

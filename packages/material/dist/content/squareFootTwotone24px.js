@@ -54,4 +54,4 @@ export var squareFootTwotone24px = [
       ]
     ]
   ]
-]
+];

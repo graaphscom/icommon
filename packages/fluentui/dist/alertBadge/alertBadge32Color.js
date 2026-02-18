@@ -158,4 +158,4 @@ export var alertBadge32Color = [
       ]
     ]
   ]
-]
+];

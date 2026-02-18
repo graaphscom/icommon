@@ -21,4 +21,4 @@ export var terrainSharp24px = [
       }
     ]
   ]
-]
+];

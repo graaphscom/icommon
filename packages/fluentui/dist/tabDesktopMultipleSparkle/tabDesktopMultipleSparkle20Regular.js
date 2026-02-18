@@ -16,4 +16,4 @@ export var tabDesktopMultipleSparkle20Regular = [
       }
     ]
   ]
-]
+];

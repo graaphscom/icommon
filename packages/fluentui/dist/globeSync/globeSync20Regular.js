@@ -16,4 +16,4 @@ export var globeSync20Regular = [
       }
     ]
   ]
-]
+];

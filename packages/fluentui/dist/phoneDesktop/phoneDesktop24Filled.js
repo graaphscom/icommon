@@ -16,4 +16,4 @@ export var phoneDesktop24Filled = [
       }
     ]
   ]
-]
+];

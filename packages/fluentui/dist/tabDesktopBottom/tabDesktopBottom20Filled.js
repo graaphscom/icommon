@@ -16,4 +16,4 @@ export var tabDesktopBottom20Filled = [
       }
     ]
   ]
-]
+];

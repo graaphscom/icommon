@@ -60,4 +60,4 @@ export var busAlertSharp24px = [
       ]
     ]
   ]
-]
+];

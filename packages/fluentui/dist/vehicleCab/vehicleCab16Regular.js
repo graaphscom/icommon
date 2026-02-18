@@ -16,4 +16,4 @@ export var vehicleCab16Regular = [
       }
     ]
   ]
-]
+];

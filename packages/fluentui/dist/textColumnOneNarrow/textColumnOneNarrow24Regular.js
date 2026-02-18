@@ -16,4 +16,4 @@ export var textColumnOneNarrow24Regular = [
       }
     ]
   ]
-]
+];

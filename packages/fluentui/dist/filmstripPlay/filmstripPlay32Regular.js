@@ -16,4 +16,4 @@ export var filmstripPlay32Regular = [
       }
     ]
   ]
-]
+];

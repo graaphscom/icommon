@@ -16,4 +16,4 @@ export var windowHeaderVertical20Regular = [
       }
     ]
   ]
-]
+];

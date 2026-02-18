@@ -21,4 +21,4 @@ export var smartphoneOutlined24px = [
       }
     ]
   ]
-]
+];

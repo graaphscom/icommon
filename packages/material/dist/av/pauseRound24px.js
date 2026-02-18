@@ -14,4 +14,4 @@ export var pauseRound24px = [
       }
     ]
   ]
-]
+];

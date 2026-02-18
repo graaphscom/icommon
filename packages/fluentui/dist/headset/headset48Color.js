@@ -246,4 +246,4 @@ export var headset48Color = [
       ]
     ]
   ]
-]
+];

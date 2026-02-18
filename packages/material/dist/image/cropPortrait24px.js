@@ -21,4 +21,4 @@ export var cropPortrait24px = [
       }
     ]
   ]
-]
+];

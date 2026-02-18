@@ -16,4 +16,4 @@ export var slideTextTitleCheckmark24Regular = [
       }
     ]
   ]
-]
+];

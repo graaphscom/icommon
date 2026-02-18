@@ -85,4 +85,4 @@ export var paletteOutlined24px = [
       ]
     ]
   ]
-]
+];

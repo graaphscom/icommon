@@ -16,4 +16,4 @@ export var shieldQuestion32Regular = [
       }
     ]
   ]
-]
+];

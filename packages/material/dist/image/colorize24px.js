@@ -21,4 +21,4 @@ export var colorize24px = [
       }
     ]
   ]
-]
+];

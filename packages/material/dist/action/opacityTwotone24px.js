@@ -28,4 +28,4 @@ export var opacityTwotone24px = [
       }
     ]
   ]
-]
+];

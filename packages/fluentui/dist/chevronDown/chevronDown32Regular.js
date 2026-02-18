@@ -16,4 +16,4 @@ export var chevronDown32Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var swipeSharp20px = [
       ]
     ]
   ]
-]
+];

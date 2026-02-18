@@ -47,4 +47,4 @@ export var attachEmailRound20px = [
       ]
     ]
   ]
-]
+];

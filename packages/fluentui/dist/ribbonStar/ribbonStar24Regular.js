@@ -16,4 +16,4 @@ export var ribbonStar24Regular = [
       }
     ]
   ]
-]
+];

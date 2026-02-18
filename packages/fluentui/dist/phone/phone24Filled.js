@@ -16,4 +16,4 @@ export var phone24Filled = [
       }
     ]
   ]
-]
+];

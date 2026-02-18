@@ -16,4 +16,4 @@ export var eye28Regular = [
       }
     ]
   ]
-]
+];

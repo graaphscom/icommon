@@ -21,4 +21,4 @@ export var settingsBrightnessSharp24px = [
       }
     ]
   ]
-]
+];

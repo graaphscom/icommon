@@ -21,4 +21,4 @@ export var wbAutoSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var pictureInPicture24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var curtainsClosedSharp24px = [
       ]
     ]
   ]
-]
+];

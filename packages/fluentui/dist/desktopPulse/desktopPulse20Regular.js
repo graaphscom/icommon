@@ -16,4 +16,4 @@ export var desktopPulse20Regular = [
       }
     ]
   ]
-]
+];

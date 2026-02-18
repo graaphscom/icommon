@@ -35,4 +35,4 @@ export var networkPing24px = [
       ]
     ]
   ]
-]
+];

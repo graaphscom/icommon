@@ -16,4 +16,4 @@ export var mathFormatProfessional24Regular = [
       }
     ]
   ]
-]
+];

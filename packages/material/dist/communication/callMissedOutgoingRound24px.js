@@ -21,4 +21,4 @@ export var callMissedOutgoingRound24px = [
       }
     ]
   ]
-]
+];

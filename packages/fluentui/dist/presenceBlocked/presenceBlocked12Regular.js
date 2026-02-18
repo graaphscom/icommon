@@ -16,4 +16,4 @@ export var presenceBlocked12Regular = [
       }
     ]
   ]
-]
+];

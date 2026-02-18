@@ -61,4 +61,4 @@ export var bikeScooterRound24px = [
       ]
     ]
   ]
-]
+];

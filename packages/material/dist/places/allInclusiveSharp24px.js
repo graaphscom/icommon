@@ -21,4 +21,4 @@ export var allInclusiveSharp24px = [
       }
     ]
   ]
-]
+];

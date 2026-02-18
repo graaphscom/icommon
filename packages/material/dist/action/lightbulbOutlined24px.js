@@ -21,4 +21,4 @@ export var lightbulbOutlined24px = [
       }
     ]
   ]
-]
+];

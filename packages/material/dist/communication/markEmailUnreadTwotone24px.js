@@ -37,4 +37,4 @@ export var markEmailUnreadTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -46,4 +46,4 @@ export var playLesson24px = [
       ]
     ]
   ]
-]
+];

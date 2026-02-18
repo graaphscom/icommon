@@ -29,4 +29,4 @@ export var upgradeRound24px = [
       ]
     ]
   ]
-]
+];

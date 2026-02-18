@@ -16,4 +16,4 @@ export var mailDataBar20Filled = [
       }
     ]
   ]
-]
+];

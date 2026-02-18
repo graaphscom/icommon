@@ -16,4 +16,4 @@ export var boxMultipleArrowRight20Filled = [
       }
     ]
   ]
-]
+];

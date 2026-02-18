@@ -60,4 +60,4 @@ export var backupTableOutlined20px = [
       ]
     ]
   ]
-]
+];

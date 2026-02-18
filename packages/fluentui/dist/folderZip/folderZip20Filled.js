@@ -16,4 +16,4 @@ export var folderZip20Filled = [
       }
     ]
   ]
-]
+];

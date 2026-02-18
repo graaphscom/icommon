@@ -23,4 +23,4 @@ export var updateDisabledTwotone20px = [
       }
     ]
   ]
-]
+];

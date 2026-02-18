@@ -28,4 +28,4 @@ export var forwardTwotone24px = [
       }
     ]
   ]
-]
+];

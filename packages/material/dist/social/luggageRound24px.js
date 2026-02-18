@@ -29,4 +29,4 @@ export var luggageRound24px = [
       ]
     ]
   ]
-]
+];

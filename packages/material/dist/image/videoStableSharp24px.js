@@ -41,4 +41,4 @@ export var videoStableSharp24px = [
       ]
     ]
   ]
-]
+];

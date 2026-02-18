@@ -47,4 +47,4 @@ export var outputRound20px = [
       ]
     ]
   ]
-]
+];

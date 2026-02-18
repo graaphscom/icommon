@@ -16,4 +16,4 @@ export var tooltipQuoteOff32Filled = [
       }
     ]
   ]
-]
+];

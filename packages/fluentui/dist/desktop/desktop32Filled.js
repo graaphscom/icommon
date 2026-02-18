@@ -16,4 +16,4 @@ export var desktop32Filled = [
       }
     ]
   ]
-]
+];

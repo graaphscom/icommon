@@ -52,4 +52,4 @@ export var livingRound24px = [
       ]
     ]
   ]
-]
+];

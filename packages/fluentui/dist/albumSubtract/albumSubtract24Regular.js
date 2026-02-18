@@ -16,4 +16,4 @@ export var albumSubtract24Regular = [
       }
     ]
   ]
-]
+];

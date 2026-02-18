@@ -319,4 +319,4 @@ export var documentLock28Color = [
       ]
     ]
   ]
-]
+];

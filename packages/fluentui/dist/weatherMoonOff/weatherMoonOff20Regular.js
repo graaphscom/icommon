@@ -16,4 +16,4 @@ export var weatherMoonOff20Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var currencyFrancTwotone20px = [
       ]
     ]
   ]
-]
+];

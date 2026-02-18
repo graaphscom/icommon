@@ -23,4 +23,4 @@ export var adsClickRound24px = [
       }
     ]
   ]
-]
+];

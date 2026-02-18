@@ -16,4 +16,4 @@ export var circleHintCursor20Regular = [
       }
     ]
   ]
-]
+];

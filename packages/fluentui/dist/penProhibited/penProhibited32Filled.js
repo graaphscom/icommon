@@ -16,4 +16,4 @@ export var penProhibited32Filled = [
       }
     ]
   ]
-]
+];

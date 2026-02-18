@@ -42,4 +42,4 @@ export var carCrashOutlined20px = [
       ]
     ]
   ]
-]
+];

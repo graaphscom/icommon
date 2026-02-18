@@ -21,4 +21,4 @@ export var firstPage24px = [
       }
     ]
   ]
-]
+];

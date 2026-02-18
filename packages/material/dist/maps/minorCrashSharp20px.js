@@ -35,4 +35,4 @@ export var minorCrashSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var doubleSwipeDown20Regular = [
       }
     ]
   ]
-]
+];

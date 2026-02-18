@@ -16,4 +16,4 @@ export var swipeDown24Regular = [
       }
     ]
   ]
-]
+];

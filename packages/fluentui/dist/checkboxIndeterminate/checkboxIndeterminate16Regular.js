@@ -16,4 +16,4 @@ export var checkboxIndeterminate16Regular = [
       }
     ]
   ]
-]
+];

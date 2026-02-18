@@ -21,4 +21,4 @@ export var importantDevicesRound24px = [
       }
     ]
   ]
-]
+];

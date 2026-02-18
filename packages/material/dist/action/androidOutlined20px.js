@@ -47,4 +47,4 @@ export var androidOutlined20px = [
       ]
     ]
   ]
-]
+];

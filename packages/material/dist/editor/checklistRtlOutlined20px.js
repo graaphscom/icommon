@@ -23,4 +23,4 @@ export var checklistRtlOutlined20px = [
       }
     ]
   ]
-]
+];

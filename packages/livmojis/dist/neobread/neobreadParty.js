@@ -403,4 +403,4 @@ export var neobreadParty = [
       ]
     ]
   ]
-]
+];

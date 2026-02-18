@@ -21,4 +21,4 @@ export var dragIndicator24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textBulletListSquareEdit20Filled = [
       }
     ]
   ]
-]
+];

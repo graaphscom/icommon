@@ -16,4 +16,4 @@ export var folderArrowLeft32Filled = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var outputSharp20px = [
       ]
     ]
   ]
-]
+];

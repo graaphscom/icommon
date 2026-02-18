@@ -21,4 +21,4 @@ export var localGroceryStoreSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var autosum24Filled = [
       }
     ]
   ]
-]
+];

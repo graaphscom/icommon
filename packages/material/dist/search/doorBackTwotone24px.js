@@ -56,4 +56,4 @@ export var doorBackTwotone24px = [
       ]
     ]
   ]
-]
+];

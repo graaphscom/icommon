@@ -13,4 +13,4 @@ export var megaphone2Fill = [
       }
     ]
   ]
-]
+];

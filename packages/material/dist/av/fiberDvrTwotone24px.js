@@ -34,4 +34,4 @@ export var fiberDvrTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tabDesktopNewPage20Filled = [
       }
     ]
   ]
-]
+];

@@ -14,4 +14,4 @@ export var bxGlobeAlt2 = [
       }
     ]
   ]
-]
+];

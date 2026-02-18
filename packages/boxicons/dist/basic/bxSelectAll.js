@@ -110,4 +110,4 @@ export var bxSelectAll = [
       }
     ]
   ]
-]
+];

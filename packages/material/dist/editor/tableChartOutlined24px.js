@@ -21,4 +21,4 @@ export var tableChartOutlined24px = [
       }
     ]
   ]
-]
+];

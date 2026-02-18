@@ -16,4 +16,4 @@ export var pivot20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var settingsInputAntennaTwotone24px = [
       }
     ]
   ]
-]
+];

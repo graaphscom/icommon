@@ -21,4 +21,4 @@ export var formatSizeTwotone24px = [
       }
     ]
   ]
-]
+];

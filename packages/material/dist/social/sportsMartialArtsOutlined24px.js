@@ -49,4 +49,4 @@ export var sportsMartialArtsOutlined24px = [
       ]
     ]
   ]
-]
+];

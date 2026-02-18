@@ -59,4 +59,4 @@ export var readMoreRound20px = [
       ]
     ]
   ]
-]
+];

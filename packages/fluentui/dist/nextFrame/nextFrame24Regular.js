@@ -16,4 +16,4 @@ export var nextFrame24Regular = [
       }
     ]
   ]
-]
+];

@@ -58,4 +58,4 @@ export var face3Outlined20px = [
       ]
     ]
   ]
-]
+];

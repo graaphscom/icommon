@@ -21,4 +21,4 @@ export var cakeOutlined24px = [
       }
     ]
   ]
-]
+];

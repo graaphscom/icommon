@@ -21,4 +21,4 @@ export var satelliteRound24px = [
       }
     ]
   ]
-]
+];

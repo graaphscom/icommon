@@ -34,4 +34,4 @@ export var backupRound24px = [
       ]
     ]
   ]
-]
+];

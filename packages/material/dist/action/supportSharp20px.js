@@ -35,4 +35,4 @@ export var supportSharp20px = [
       ]
     ]
   ]
-]
+];

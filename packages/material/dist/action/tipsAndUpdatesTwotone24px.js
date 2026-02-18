@@ -31,4 +31,4 @@ export var tipsAndUpdatesTwotone24px = [
       }
     ]
   ]
-]
+];

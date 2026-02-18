@@ -21,4 +21,4 @@ export var starHalfTwotone24px = [
       }
     ]
   ]
-]
+];

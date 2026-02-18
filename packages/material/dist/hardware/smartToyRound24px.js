@@ -36,4 +36,4 @@ export var smartToyRound24px = [
       ]
     ]
   ]
-]
+];

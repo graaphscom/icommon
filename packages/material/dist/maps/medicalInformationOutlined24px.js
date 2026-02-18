@@ -35,4 +35,4 @@ export var medicalInformationOutlined24px = [
       ]
     ]
   ]
-]
+];

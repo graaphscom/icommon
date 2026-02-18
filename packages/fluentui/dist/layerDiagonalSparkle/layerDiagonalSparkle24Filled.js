@@ -16,4 +16,4 @@ export var layerDiagonalSparkle24Filled = [
       }
     ]
   ]
-]
+];

@@ -67,4 +67,4 @@ export var wifiCallingTwotone24px = [
       ]
     ]
   ]
-]
+];

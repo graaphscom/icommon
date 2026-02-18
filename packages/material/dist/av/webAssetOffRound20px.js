@@ -29,4 +29,4 @@ export var webAssetOffRound20px = [
       ]
     ]
   ]
-]
+];

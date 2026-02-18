@@ -16,4 +16,4 @@ export var personAlert24Filled = [
       }
     ]
   ]
-]
+];

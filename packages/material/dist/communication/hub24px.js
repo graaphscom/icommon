@@ -23,4 +23,4 @@ export var hub24px = [
       }
     ]
   ]
-]
+];

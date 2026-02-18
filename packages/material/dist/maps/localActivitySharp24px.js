@@ -21,4 +21,4 @@ export var localActivitySharp24px = [
       }
     ]
   ]
-]
+];

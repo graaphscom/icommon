@@ -16,4 +16,4 @@ export var textListRomanNumeralUppercase24Filled = [
       }
     ]
   ]
-]
+];

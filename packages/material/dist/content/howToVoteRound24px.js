@@ -47,4 +47,4 @@ export var howToVoteRound24px = [
       ]
     ]
   ]
-]
+];

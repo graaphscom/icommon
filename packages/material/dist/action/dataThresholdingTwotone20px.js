@@ -67,4 +67,4 @@ export var dataThresholdingTwotone20px = [
       ]
     ]
   ]
-]
+];

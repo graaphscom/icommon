@@ -54,4 +54,4 @@ export var dirtyLensTwotone24px = [
       ]
     ]
   ]
-]
+];

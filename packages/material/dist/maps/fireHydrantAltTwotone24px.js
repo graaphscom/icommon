@@ -70,4 +70,4 @@ export var fireHydrantAltTwotone24px = [
       ]
     ]
   ]
-]
+];

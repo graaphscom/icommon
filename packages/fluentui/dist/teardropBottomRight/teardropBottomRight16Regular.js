@@ -16,4 +16,4 @@ export var teardropBottomRight16Regular = [
       }
     ]
   ]
-]
+];

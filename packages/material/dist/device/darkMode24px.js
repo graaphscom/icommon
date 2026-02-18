@@ -23,4 +23,4 @@ export var darkMode24px = [
       }
     ]
   ]
-]
+];

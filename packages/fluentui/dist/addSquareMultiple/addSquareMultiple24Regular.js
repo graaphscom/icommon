@@ -16,4 +16,4 @@ export var addSquareMultiple24Regular = [
       }
     ]
   ]
-]
+];

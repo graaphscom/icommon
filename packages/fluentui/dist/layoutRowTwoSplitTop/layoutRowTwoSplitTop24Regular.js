@@ -16,4 +16,4 @@ export var layoutRowTwoSplitTop24Regular = [
       }
     ]
   ]
-]
+];

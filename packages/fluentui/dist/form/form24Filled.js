@@ -16,4 +16,4 @@ export var form24Filled = [
       }
     ]
   ]
-]
+];

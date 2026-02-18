@@ -49,4 +49,4 @@ export var woman2Round20px = [
       ]
     ]
   ]
-]
+];

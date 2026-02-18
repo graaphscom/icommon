@@ -16,4 +16,4 @@ export var dismiss16Regular = [
       }
     ]
   ]
-]
+];

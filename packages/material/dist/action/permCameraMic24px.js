@@ -21,4 +21,4 @@ export var permCameraMic24px = [
       }
     ]
   ]
-]
+];

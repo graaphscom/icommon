@@ -16,4 +16,4 @@ export var cloudArrowDown24Regular = [
       }
     ]
   ]
-]
+];

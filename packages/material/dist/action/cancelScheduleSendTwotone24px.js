@@ -68,4 +68,4 @@ export var cancelScheduleSendTwotone24px = [
       ]
     ]
   ]
-]
+];

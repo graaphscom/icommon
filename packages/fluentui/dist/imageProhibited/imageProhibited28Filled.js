@@ -16,4 +16,4 @@ export var imageProhibited28Filled = [
       }
     ]
   ]
-]
+];

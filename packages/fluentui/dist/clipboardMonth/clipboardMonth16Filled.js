@@ -16,4 +16,4 @@ export var clipboardMonth16Filled = [
       }
     ]
   ]
-]
+];

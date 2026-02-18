@@ -47,4 +47,4 @@ export var systemSecurityUpdateGoodTwotone24px = [
       ]
     ]
   ]
-]
+];

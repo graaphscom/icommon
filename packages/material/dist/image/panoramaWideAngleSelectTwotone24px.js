@@ -47,4 +47,4 @@ export var panoramaWideAngleSelectTwotone24px = [
       ]
     ]
   ]
-]
+];

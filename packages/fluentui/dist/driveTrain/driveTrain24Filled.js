@@ -16,4 +16,4 @@ export var driveTrain24Filled = [
       }
     ]
   ]
-]
+];

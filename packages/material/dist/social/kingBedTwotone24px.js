@@ -51,4 +51,4 @@ export var kingBedTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var speakerUsb20Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var browserNotSupportedRound20px = [
       ]
     ]
   ]
-]
+];

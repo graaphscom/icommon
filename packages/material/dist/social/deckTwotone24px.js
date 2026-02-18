@@ -60,4 +60,4 @@ export var deckTwotone24px = [
       ]
     ]
   ]
-]
+];

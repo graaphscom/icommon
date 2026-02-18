@@ -21,4 +21,4 @@ export var unfoldMore24px = [
       }
     ]
   ]
-]
+];

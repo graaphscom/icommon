@@ -21,4 +21,4 @@ export var checkSharp24px = [
       }
     ]
   ]
-]
+];

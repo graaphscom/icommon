@@ -21,4 +21,4 @@ export var playArrow24px = [
       }
     ]
   ]
-]
+];

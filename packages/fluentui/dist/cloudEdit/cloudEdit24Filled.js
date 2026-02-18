@@ -16,4 +16,4 @@ export var cloudEdit24Filled = [
       }
     ]
   ]
-]
+];

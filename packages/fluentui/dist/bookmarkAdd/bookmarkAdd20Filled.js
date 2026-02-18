@@ -16,4 +16,4 @@ export var bookmarkAdd20Filled = [
       }
     ]
   ]
-]
+];

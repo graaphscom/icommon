@@ -35,4 +35,4 @@ export var listOutlined24px = [
       }
     ]
   ]
-]
+];

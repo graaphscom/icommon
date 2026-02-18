@@ -16,4 +16,4 @@ export var botAdd20Filled = [
       }
     ]
   ]
-]
+];

@@ -180,4 +180,4 @@ export var contentView20Color = [
       ]
     ]
   ]
-]
+];

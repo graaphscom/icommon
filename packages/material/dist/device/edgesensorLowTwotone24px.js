@@ -78,4 +78,4 @@ export var edgesensorLowTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -121,4 +121,4 @@ export var locationRipple24Color = [
       ]
     ]
   ]
-]
+];

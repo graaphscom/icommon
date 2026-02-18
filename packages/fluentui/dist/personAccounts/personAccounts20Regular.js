@@ -16,4 +16,4 @@ export var personAccounts20Regular = [
       }
     ]
   ]
-]
+];

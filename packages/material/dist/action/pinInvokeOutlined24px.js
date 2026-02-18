@@ -23,4 +23,4 @@ export var pinInvokeOutlined24px = [
       }
     ]
   ]
-]
+];

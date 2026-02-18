@@ -41,4 +41,4 @@ export var panoramaPhotosphereSelectTwotone24px = [
       ]
     ]
   ]
-]
+];

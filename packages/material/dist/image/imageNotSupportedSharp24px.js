@@ -29,4 +29,4 @@ export var imageNotSupportedSharp24px = [
       ]
     ]
   ]
-]
+];

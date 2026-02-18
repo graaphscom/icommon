@@ -16,4 +16,4 @@ export var cloudArrowUp16Filled = [
       }
     ]
   ]
-]
+];

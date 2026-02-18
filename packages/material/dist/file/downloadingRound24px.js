@@ -41,4 +41,4 @@ export var downloadingRound24px = [
       ]
     ]
   ]
-]
+];

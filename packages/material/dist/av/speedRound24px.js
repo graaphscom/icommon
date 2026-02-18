@@ -27,4 +27,4 @@ export var speedRound24px = [
       }
     ]
   ]
-]
+];

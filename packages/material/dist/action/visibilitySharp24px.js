@@ -21,4 +21,4 @@ export var visibilitySharp24px = [
       }
     ]
   ]
-]
+];

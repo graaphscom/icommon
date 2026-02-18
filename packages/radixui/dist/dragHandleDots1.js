@@ -225,4 +225,4 @@ export var dragHandleDots1 = [
       }
     ]
   ]
-]
+];

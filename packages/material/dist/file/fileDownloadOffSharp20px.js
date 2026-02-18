@@ -23,4 +23,4 @@ export var fileDownloadOffSharp20px = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var book2Fill = [
       }
     ]
   ]
-]
+];

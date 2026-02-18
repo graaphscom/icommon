@@ -28,4 +28,4 @@ export var centerFocusWeakTwotone24px = [
       }
     ]
   ]
-]
+];

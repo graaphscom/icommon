@@ -16,4 +16,4 @@ export var folderZip24Regular = [
       }
     ]
   ]
-]
+];

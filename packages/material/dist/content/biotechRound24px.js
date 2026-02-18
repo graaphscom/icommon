@@ -63,4 +63,4 @@ export var biotechRound24px = [
       ]
     ]
   ]
-]
+];

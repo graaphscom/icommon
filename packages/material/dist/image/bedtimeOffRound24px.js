@@ -49,4 +49,4 @@ export var bedtimeOffRound24px = [
       ]
     ]
   ]
-]
+];

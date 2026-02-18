@@ -29,4 +29,4 @@ export var sensorDoorRound24px = [
       ]
     ]
   ]
-]
+];

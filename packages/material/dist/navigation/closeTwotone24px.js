@@ -21,4 +21,4 @@ export var closeTwotone24px = [
       }
     ]
   ]
-]
+];

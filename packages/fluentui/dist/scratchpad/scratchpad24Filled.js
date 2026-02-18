@@ -16,4 +16,4 @@ export var scratchpad24Filled = [
       }
     ]
   ]
-]
+];

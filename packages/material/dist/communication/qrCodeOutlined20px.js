@@ -171,4 +171,4 @@ export var qrCodeOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var clipboardClock20Filled = [
       }
     ]
   ]
-]
+];

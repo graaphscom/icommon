@@ -16,4 +16,4 @@ export var plantCattail20Regular = [
       }
     ]
   ]
-]
+];

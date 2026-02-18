@@ -54,4 +54,4 @@ export var folderCopyTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var approvalsApp48Regular = [
       }
     ]
   ]
-]
+];

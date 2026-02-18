@@ -35,4 +35,4 @@ export var rocketLaunch20px = [
       ]
     ]
   ]
-]
+];

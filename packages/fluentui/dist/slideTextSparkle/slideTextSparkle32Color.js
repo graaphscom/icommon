@@ -426,4 +426,4 @@ export var slideTextSparkle32Color = [
       ]
     ]
   ]
-]
+];

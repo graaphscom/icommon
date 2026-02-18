@@ -16,4 +16,4 @@ export var chevronDoubleLeft20Filled = [
       }
     ]
   ]
-]
+];

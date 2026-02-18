@@ -16,4 +16,4 @@ export var paintBrushSubtract24Filled = [
       }
     ]
   ]
-]
+];

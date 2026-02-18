@@ -21,4 +21,4 @@ export var downloadSharp24px = [
       }
     ]
   ]
-]
+];

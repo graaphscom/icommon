@@ -62,4 +62,4 @@ export var medicationTwotone24px = [
       ]
     ]
   ]
-]
+];

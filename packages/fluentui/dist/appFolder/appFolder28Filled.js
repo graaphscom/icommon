@@ -16,4 +16,4 @@ export var appFolder28Filled = [
       }
     ]
   ]
-]
+];

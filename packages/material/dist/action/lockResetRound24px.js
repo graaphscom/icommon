@@ -23,4 +23,4 @@ export var lockResetRound24px = [
       }
     ]
   ]
-]
+];

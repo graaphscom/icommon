@@ -21,4 +21,4 @@ export var cameraRollOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var motionPhotosOffRound24px = [
       ]
     ]
   ]
-]
+];

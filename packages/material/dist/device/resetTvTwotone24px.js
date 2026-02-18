@@ -34,4 +34,4 @@ export var resetTvTwotone24px = [
       ]
     ]
   ]
-]
+];

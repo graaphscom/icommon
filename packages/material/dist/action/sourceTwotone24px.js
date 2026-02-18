@@ -36,4 +36,4 @@ export var sourceTwotone24px = [
       ]
     ]
   ]
-]
+];

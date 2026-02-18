@@ -16,4 +16,4 @@ export var plugConnectedCheckmark20Filled = [
       }
     ]
   ]
-]
+];

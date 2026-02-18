@@ -47,4 +47,4 @@ export var oilBarrelOutlined24px = [
       ]
     ]
   ]
-]
+];

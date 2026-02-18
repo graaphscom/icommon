@@ -367,4 +367,4 @@ export var planet24Color = [
       ]
     ]
   ]
-]
+];

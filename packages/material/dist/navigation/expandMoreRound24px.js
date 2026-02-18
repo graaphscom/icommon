@@ -22,4 +22,4 @@ export var expandMoreRound24px = [
       }
     ]
   ]
-]
+];

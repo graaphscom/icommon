@@ -16,4 +16,4 @@ export var vehicleTruckProfile32Regular = [
       }
     ]
   ]
-]
+];

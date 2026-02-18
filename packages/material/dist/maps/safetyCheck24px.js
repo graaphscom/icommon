@@ -35,4 +35,4 @@ export var safetyCheck24px = [
       ]
     ]
   ]
-]
+];

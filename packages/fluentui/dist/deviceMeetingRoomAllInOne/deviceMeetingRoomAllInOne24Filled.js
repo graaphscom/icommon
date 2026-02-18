@@ -16,4 +16,4 @@ export var deviceMeetingRoomAllInOne24Filled = [
       }
     ]
   ]
-]
+];

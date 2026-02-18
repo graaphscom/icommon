@@ -21,4 +21,4 @@ export var removeTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -71,4 +71,4 @@ export var synagogue24px = [
       ]
     ]
   ]
-]
+];

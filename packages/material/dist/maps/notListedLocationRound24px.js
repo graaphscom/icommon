@@ -35,4 +35,4 @@ export var notListedLocationRound24px = [
       ]
     ]
   ]
-]
+];

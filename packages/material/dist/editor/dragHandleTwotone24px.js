@@ -21,4 +21,4 @@ export var dragHandleTwotone24px = [
       }
     ]
   ]
-]
+];

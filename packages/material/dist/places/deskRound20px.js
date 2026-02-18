@@ -35,4 +35,4 @@ export var deskRound20px = [
       ]
     ]
   ]
-]
+];

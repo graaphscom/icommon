@@ -34,4 +34,4 @@ export var pictureInPictureTwotone24px = [
       }
     ]
   ]
-]
+];

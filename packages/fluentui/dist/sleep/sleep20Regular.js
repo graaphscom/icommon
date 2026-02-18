@@ -16,4 +16,4 @@ export var sleep20Regular = [
       }
     ]
   ]
-]
+];

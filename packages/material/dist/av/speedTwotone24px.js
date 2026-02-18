@@ -27,4 +27,4 @@ export var speedTwotone24px = [
       }
     ]
   ]
-]
+];

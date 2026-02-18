@@ -34,4 +34,4 @@ export var cameraIndoorRound24px = [
       ]
     ]
   ]
-]
+];

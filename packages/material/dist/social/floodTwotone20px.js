@@ -54,4 +54,4 @@ export var floodTwotone20px = [
       ]
     ]
   ]
-]
+];

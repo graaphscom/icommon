@@ -55,4 +55,4 @@ export var biotech20px = [
       ]
     ]
   ]
-]
+];

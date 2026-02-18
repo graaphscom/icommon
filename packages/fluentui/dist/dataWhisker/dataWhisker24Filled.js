@@ -16,4 +16,4 @@ export var dataWhisker24Filled = [
       }
     ]
   ]
-]
+];

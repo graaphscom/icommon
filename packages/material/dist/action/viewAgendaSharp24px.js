@@ -54,4 +54,4 @@ export var viewAgendaSharp24px = [
       ]
     ]
   ]
-]
+];

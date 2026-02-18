@@ -16,4 +16,4 @@ export var panelTopExpand20Regular = [
       }
     ]
   ]
-]
+];

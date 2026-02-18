@@ -71,4 +71,4 @@ export var displaySettings24px = [
       ]
     ]
   ]
-]
+];

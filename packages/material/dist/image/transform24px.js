@@ -21,4 +21,4 @@ export var transform24px = [
       }
     ]
   ]
-]
+];

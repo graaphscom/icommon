@@ -87,4 +87,4 @@ export var modeFanOffTwotone24px = [
       ]
     ]
   ]
-]
+];

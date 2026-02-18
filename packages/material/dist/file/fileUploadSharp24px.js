@@ -35,4 +35,4 @@ export var fileUploadSharp24px = [
       ]
     ]
   ]
-]
+];

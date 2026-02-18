@@ -28,4 +28,4 @@ export var bookTwotone24px = [
       }
     ]
   ]
-]
+];

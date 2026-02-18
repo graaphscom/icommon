@@ -31,4 +31,4 @@ export var privacyTipRound20px = [
       ]
     ]
   ]
-]
+];

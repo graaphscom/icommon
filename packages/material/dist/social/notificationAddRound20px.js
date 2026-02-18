@@ -29,4 +29,4 @@ export var notificationAddRound20px = [
       ]
     ]
   ]
-]
+];

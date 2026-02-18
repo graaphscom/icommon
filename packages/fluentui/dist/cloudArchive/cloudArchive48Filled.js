@@ -16,4 +16,4 @@ export var cloudArchive48Filled = [
       }
     ]
   ]
-]
+];

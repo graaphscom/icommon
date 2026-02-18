@@ -35,4 +35,4 @@ export var takeoutDiningOutlined20px = [
       ]
     ]
   ]
-]
+];

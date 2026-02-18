@@ -87,4 +87,4 @@ export var sensorOccupiedTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var folderCopyOutlined24px = [
       ]
     ]
   ]
-]
+];

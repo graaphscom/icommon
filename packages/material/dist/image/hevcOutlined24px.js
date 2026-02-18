@@ -59,4 +59,4 @@ export var hevcOutlined24px = [
       ]
     ]
   ]
-]
+];

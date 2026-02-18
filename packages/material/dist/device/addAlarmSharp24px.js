@@ -21,4 +21,4 @@ export var addAlarmSharp24px = [
       }
     ]
   ]
-]
+];

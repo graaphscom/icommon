@@ -16,4 +16,4 @@ export var archive24Filled = [
       }
     ]
   ]
-]
+];

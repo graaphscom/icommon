@@ -117,4 +117,4 @@ export var image20Color = [
       ]
     ]
   ]
-]
+];

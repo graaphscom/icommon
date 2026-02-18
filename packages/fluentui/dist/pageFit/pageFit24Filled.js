@@ -16,4 +16,4 @@ export var pageFit24Filled = [
       }
     ]
   ]
-]
+];

@@ -50,4 +50,4 @@ export var womanOutlined20px = [
       ]
     ]
   ]
-]
+];

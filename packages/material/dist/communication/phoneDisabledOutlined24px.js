@@ -35,4 +35,4 @@ export var phoneDisabledOutlined24px = [
       ]
     ]
   ]
-]
+];

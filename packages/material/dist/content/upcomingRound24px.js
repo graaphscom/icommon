@@ -59,4 +59,4 @@ export var upcomingRound24px = [
       ]
     ]
   ]
-]
+];

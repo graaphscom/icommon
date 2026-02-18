@@ -21,4 +21,4 @@ export var add24px = [
       }
     ]
   ]
-]
+];

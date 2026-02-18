@@ -53,4 +53,4 @@ export var shapeLineSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -44,4 +44,4 @@ export var formMultiple24Regular = [
       }
     ]
   ]
-]
+];

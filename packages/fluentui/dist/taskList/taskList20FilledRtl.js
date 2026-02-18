@@ -16,4 +16,4 @@ export var taskList20FilledRtl = [
       }
     ]
   ]
-]
+];

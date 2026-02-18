@@ -240,4 +240,4 @@ export var qrCodeTwotone20px = [
       ]
     ]
   ]
-]
+];

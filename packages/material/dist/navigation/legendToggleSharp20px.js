@@ -29,4 +29,4 @@ export var legendToggleSharp20px = [
       ]
     ]
   ]
-]
+];

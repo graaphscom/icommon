@@ -58,4 +58,4 @@ export var securityUpdateWarningSharp24px = [
       ]
     ]
   ]
-]
+];

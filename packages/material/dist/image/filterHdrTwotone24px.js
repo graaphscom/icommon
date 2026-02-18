@@ -28,4 +28,4 @@ export var filterHdrTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var countertopsOutlined24px = [
       }
     ]
   ]
-]
+];

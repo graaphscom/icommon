@@ -21,4 +21,4 @@ export var tabRound24px = [
       }
     ]
   ]
-]
+];

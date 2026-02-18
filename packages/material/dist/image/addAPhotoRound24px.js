@@ -35,4 +35,4 @@ export var addAPhotoRound24px = [
       }
     ]
   ]
-]
+];

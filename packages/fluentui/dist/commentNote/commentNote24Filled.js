@@ -16,4 +16,4 @@ export var commentNote24Filled = [
       }
     ]
   ]
-]
+];

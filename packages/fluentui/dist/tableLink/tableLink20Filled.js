@@ -16,4 +16,4 @@ export var tableLink20Filled = [
       }
     ]
   ]
-]
+];

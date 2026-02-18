@@ -31,4 +31,4 @@ export var superscriptRound24px = [
       ]
     ]
   ]
-]
+];

@@ -85,4 +85,4 @@ export var approvalsApp16Color = [
       ]
     ]
   ]
-]
+];

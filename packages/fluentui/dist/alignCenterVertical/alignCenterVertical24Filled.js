@@ -16,4 +16,4 @@ export var alignCenterVertical24Filled = [
       }
     ]
   ]
-]
+];

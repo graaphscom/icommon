@@ -16,4 +16,4 @@ export var pulse32Filled = [
       }
     ]
   ]
-]
+];

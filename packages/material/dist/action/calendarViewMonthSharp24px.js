@@ -34,4 +34,4 @@ export var calendarViewMonthSharp24px = [
       ]
     ]
   ]
-]
+];

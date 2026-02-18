@@ -37,4 +37,4 @@ export var tableCellEdit24Filled = [
       }
     ]
   ]
-]
+];

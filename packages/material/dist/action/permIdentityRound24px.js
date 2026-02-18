@@ -21,4 +21,4 @@ export var permIdentityRound24px = [
       }
     ]
   ]
-]
+];

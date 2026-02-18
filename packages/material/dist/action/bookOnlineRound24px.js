@@ -23,4 +23,4 @@ export var bookOnlineRound24px = [
       }
     ]
   ]
-]
+];

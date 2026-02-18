@@ -29,4 +29,4 @@ export var markEmailUnreadRound20px = [
       ]
     ]
   ]
-]
+];

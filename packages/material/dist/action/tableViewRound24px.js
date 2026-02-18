@@ -29,4 +29,4 @@ export var tableViewRound24px = [
       ]
     ]
   ]
-]
+];

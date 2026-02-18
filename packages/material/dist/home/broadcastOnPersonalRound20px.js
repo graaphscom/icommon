@@ -59,4 +59,4 @@ export var broadcastOnPersonalRound20px = [
       ]
     ]
   ]
-]
+];

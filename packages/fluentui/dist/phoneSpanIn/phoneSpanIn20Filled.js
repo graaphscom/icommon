@@ -16,4 +16,4 @@ export var phoneSpanIn20Filled = [
       }
     ]
   ]
-]
+];

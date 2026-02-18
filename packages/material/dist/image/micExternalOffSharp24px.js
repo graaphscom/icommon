@@ -53,4 +53,4 @@ export var micExternalOffSharp24px = [
       ]
     ]
   ]
-]
+];

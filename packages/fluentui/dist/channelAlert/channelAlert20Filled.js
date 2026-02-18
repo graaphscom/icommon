@@ -16,4 +16,4 @@ export var channelAlert20Filled = [
       }
     ]
   ]
-]
+];

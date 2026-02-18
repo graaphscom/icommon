@@ -23,4 +23,4 @@ export var viewQuiltOutlined24px = [
       }
     ]
   ]
-]
+];

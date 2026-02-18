@@ -21,4 +21,4 @@ export var imageOutlined24px = [
       }
     ]
   ]
-]
+];

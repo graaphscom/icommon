@@ -29,4 +29,4 @@ export var viewModuleRound24px = [
       ]
     ]
   ]
-]
+];

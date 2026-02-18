@@ -16,4 +16,4 @@ export var videoAdd20Filled = [
       }
     ]
   ]
-]
+];

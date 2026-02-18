@@ -16,4 +16,4 @@ export var checkboxPerson16Regular = [
       }
     ]
   ]
-]
+];

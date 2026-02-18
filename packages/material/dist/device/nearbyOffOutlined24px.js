@@ -40,4 +40,4 @@ export var nearbyOffOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var dehazeRound24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var textDecreaseRound24px = [
       }
     ]
   ]
-]
+];

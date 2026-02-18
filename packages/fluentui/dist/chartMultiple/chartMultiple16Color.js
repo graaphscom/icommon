@@ -250,4 +250,4 @@ export var chartMultiple16Color = [
       ]
     ]
   ]
-]
+];

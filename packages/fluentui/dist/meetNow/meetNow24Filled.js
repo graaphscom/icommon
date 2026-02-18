@@ -16,4 +16,4 @@ export var meetNow24Filled = [
       }
     ]
   ]
-]
+];

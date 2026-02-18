@@ -37,4 +37,4 @@ export var directionsBusOutlined24px = [
       }
     ]
   ]
-]
+];

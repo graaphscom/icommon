@@ -47,4 +47,4 @@ export var percentTwotone24px = [
       ]
     ]
   ]
-]
+];

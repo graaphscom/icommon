@@ -219,4 +219,4 @@ export var documentAdd24Color = [
       ]
     ]
   ]
-]
+];

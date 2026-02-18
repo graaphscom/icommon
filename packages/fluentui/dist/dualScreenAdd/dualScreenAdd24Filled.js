@@ -16,4 +16,4 @@ export var dualScreenAdd24Filled = [
       }
     ]
   ]
-]
+];

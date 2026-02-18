@@ -21,4 +21,4 @@ export var brokenImageSharp24px = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var keyOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var hubOutlined24px = [
       }
     ]
   ]
-]
+];

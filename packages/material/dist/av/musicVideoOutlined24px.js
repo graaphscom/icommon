@@ -21,4 +21,4 @@ export var musicVideoOutlined24px = [
       }
     ]
   ]
-]
+];

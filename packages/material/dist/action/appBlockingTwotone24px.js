@@ -67,4 +67,4 @@ export var appBlockingTwotone24px = [
       ]
     ]
   ]
-]
+];

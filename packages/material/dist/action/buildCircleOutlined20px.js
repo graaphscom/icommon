@@ -48,4 +48,4 @@ export var buildCircleOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -98,4 +98,4 @@ export var appRegistrationTwotone24px = [
       ]
     ]
   ]
-]
+];

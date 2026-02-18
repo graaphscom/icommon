@@ -34,4 +34,4 @@ export var networkCellRound24px = [
       ]
     ]
   ]
-]
+];

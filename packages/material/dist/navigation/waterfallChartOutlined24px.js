@@ -40,4 +40,4 @@ export var waterfallChartOutlined24px = [
       ]
     ]
   ]
-]
+];

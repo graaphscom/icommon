@@ -16,4 +16,4 @@ export var vault16Filled = [
       }
     ]
   ]
-]
+];

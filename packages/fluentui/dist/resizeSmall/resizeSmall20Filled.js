@@ -16,4 +16,4 @@ export var resizeSmall20Filled = [
       }
     ]
   ]
-]
+];

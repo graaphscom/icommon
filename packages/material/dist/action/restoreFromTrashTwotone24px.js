@@ -28,4 +28,4 @@ export var restoreFromTrashTwotone24px = [
       }
     ]
   ]
-]
+];

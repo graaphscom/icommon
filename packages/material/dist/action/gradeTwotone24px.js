@@ -28,4 +28,4 @@ export var gradeTwotone24px = [
       }
     ]
   ]
-]
+];

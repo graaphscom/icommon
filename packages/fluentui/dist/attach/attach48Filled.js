@@ -16,4 +16,4 @@ export var attach48Filled = [
       }
     ]
   ]
-]
+];

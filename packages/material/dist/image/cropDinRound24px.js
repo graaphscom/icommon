@@ -21,4 +21,4 @@ export var cropDinRound24px = [
       }
     ]
   ]
-]
+];

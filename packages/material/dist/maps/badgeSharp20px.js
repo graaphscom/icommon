@@ -36,4 +36,4 @@ export var badgeSharp20px = [
       ]
     ]
   ]
-]
+];

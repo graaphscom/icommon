@@ -16,4 +16,4 @@ export var layerDiagonalAdd20Filled = [
       }
     ]
   ]
-]
+];

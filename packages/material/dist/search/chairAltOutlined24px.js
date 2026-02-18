@@ -34,4 +34,4 @@ export var chairAltOutlined24px = [
       ]
     ]
   ]
-]
+];

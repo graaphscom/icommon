@@ -35,4 +35,4 @@ export var noCrashOutlined24px = [
       ]
     ]
   ]
-]
+];

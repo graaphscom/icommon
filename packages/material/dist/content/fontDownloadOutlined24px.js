@@ -21,4 +21,4 @@ export var fontDownloadOutlined24px = [
       }
     ]
   ]
-]
+];

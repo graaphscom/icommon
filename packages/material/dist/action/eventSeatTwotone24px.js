@@ -28,4 +28,4 @@ export var eventSeatTwotone24px = [
       }
     ]
   ]
-]
+];

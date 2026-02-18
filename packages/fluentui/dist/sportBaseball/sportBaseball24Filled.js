@@ -16,4 +16,4 @@ export var sportBaseball24Filled = [
       }
     ]
   ]
-]
+];

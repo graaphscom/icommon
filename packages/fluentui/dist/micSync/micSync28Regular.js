@@ -16,4 +16,4 @@ export var micSync28Regular = [
       }
     ]
   ]
-]
+];

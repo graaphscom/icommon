@@ -23,4 +23,4 @@ export var balcony24px = [
       }
     ]
   ]
-]
+];

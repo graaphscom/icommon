@@ -21,4 +21,4 @@ export var formatListBulletedOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var editLineHorizontal324Filled = [
       }
     ]
   ]
-]
+];

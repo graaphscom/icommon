@@ -63,4 +63,4 @@ export var webStoriesTwotone20px = [
       ]
     ]
   ]
-]
+];

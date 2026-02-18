@@ -21,4 +21,4 @@ export var chatBubbleSharp24px = [
       }
     ]
   ]
-]
+];

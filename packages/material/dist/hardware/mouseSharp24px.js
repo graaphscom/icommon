@@ -21,4 +21,4 @@ export var mouseSharp24px = [
       }
     ]
   ]
-]
+];

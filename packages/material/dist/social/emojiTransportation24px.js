@@ -87,4 +87,4 @@ export var emojiTransportation24px = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var movieFilterTwotone24px = [
       }
     ]
   ]
-]
+];

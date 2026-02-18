@@ -23,4 +23,4 @@ export var snowshoeingTwotone20px = [
       }
     ]
   ]
-]
+];

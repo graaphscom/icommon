@@ -16,4 +16,4 @@ export var textBulletListDismiss20Regular = [
       }
     ]
   ]
-]
+];

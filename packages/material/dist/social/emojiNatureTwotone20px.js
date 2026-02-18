@@ -67,4 +67,4 @@ export var emojiNatureTwotone20px = [
       ]
     ]
   ]
-]
+];

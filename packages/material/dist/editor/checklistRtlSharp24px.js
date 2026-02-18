@@ -23,4 +23,4 @@ export var checklistRtlSharp24px = [
       }
     ]
   ]
-]
+];

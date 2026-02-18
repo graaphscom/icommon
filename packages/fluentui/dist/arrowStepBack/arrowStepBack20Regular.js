@@ -16,4 +16,4 @@ export var arrowStepBack20Regular = [
       }
     ]
   ]
-]
+];

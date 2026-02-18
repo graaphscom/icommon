@@ -21,4 +21,4 @@ export var stayCurrentPortraitOutlined24px = [
       }
     ]
   ]
-]
+];

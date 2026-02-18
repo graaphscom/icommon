@@ -16,4 +16,4 @@ export var flashCheckmark20Regular = [
       }
     ]
   ]
-]
+];

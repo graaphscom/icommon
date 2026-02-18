@@ -28,4 +28,4 @@ export var swapHorizontalCircleTwotone24px = [
       }
     ]
   ]
-]
+];

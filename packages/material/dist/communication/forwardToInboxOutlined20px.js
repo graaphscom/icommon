@@ -29,4 +29,4 @@ export var forwardToInboxOutlined20px = [
       ]
     ]
   ]
-]
+];

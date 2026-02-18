@@ -16,4 +16,4 @@ export var album20Filled = [
       }
     ]
   ]
-]
+];

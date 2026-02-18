@@ -28,4 +28,4 @@ export var fastRewindTwotone24px = [
       }
     ]
   ]
-]
+];

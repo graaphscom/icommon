@@ -21,4 +21,4 @@ export var youtubeSearchedForOutlined24px = [
       }
     ]
   ]
-]
+];

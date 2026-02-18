@@ -21,4 +21,4 @@ export var chatBubbleOutlineOutlined24px = [
       }
     ]
   ]
-]
+];

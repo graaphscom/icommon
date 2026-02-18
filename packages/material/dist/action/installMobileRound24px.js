@@ -49,4 +49,4 @@ export var installMobileRound24px = [
       ]
     ]
   ]
-]
+];

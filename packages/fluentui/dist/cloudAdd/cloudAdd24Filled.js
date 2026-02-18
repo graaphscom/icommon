@@ -16,4 +16,4 @@ export var cloudAdd24Filled = [
       }
     ]
   ]
-]
+];

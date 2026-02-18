@@ -23,4 +23,4 @@ export var mailAttach28Filled = [
       }
     ]
   ]
-]
+];

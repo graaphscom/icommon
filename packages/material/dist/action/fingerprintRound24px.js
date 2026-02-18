@@ -21,4 +21,4 @@ export var fingerprintRound24px = [
       }
     ]
   ]
-]
+];

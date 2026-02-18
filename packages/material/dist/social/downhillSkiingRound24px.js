@@ -23,4 +23,4 @@ export var downhillSkiingRound24px = [
       }
     ]
   ]
-]
+];

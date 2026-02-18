@@ -48,4 +48,4 @@ export var removeFromQueue24px = [
       ]
     ]
   ]
-]
+];

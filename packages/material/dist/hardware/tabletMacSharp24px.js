@@ -21,4 +21,4 @@ export var tabletMacSharp24px = [
       }
     ]
   ]
-]
+];

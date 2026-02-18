@@ -29,4 +29,4 @@ export var elevatorRound24px = [
       ]
     ]
   ]
-]
+];

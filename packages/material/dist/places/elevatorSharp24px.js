@@ -29,4 +29,4 @@ export var elevatorSharp24px = [
       ]
     ]
   ]
-]
+];

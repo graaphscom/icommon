@@ -28,4 +28,4 @@ export var stayCurrentPortraitTwotone24px = [
       }
     ]
   ]
-]
+];

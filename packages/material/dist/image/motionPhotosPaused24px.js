@@ -29,4 +29,4 @@ export var motionPhotosPaused24px = [
       ]
     ]
   ]
-]
+];

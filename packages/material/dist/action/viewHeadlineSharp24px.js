@@ -21,4 +21,4 @@ export var viewHeadlineSharp24px = [
       }
     ]
   ]
-]
+];

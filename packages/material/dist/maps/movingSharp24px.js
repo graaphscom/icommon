@@ -23,4 +23,4 @@ export var movingSharp24px = [
       }
     ]
   ]
-]
+];

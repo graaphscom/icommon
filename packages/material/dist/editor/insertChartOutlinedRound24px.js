@@ -21,4 +21,4 @@ export var insertChartOutlinedRound24px = [
       }
     ]
   ]
-]
+];

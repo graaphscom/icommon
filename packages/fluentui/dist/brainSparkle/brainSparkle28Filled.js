@@ -16,4 +16,4 @@ export var brainSparkle28Filled = [
       }
     ]
   ]
-]
+];

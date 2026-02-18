@@ -34,4 +34,4 @@ export var filePresentOutlined24px = [
       ]
     ]
   ]
-]
+];

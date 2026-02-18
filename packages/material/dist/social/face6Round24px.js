@@ -65,4 +65,4 @@ export var face6Round24px = [
       ]
     ]
   ]
-]
+];

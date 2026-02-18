@@ -28,4 +28,4 @@ export var screenLockPortraitTwotone24px = [
       }
     ]
   ]
-]
+];

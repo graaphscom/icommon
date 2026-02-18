@@ -47,4 +47,4 @@ export var tireRepair20px = [
       ]
     ]
   ]
-]
+];

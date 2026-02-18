@@ -16,4 +16,4 @@ export var textStrikethrough24Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var museum24px = [
       ]
     ]
   ]
-]
+];

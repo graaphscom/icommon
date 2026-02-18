@@ -89,4 +89,4 @@ export var stackedBarChart24px = [
       ]
     ]
   ]
-]
+];

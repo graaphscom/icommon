@@ -54,4 +54,4 @@ export var filterAltOffTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var horizontalDistributeTwotone24px = [
       }
     ]
   ]
-]
+];

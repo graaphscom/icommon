@@ -23,4 +23,4 @@ export var fileDownloadOffOutlined20px = [
       }
     ]
   ]
-]
+];

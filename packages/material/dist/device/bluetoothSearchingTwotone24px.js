@@ -21,4 +21,4 @@ export var bluetoothSearchingTwotone24px = [
       }
     ]
   ]
-]
+];

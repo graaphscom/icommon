@@ -16,4 +16,4 @@ export var desktopArrowRight24Regular = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var signalCellularNoSim24px = [
       }
     ]
   ]
-]
+];

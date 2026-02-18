@@ -35,4 +35,4 @@ export var keyboardCommandKey20px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var saveAsOutlined24px = [
       ]
     ]
   ]
-]
+];

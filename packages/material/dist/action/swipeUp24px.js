@@ -35,4 +35,4 @@ export var swipeUp24px = [
       ]
     ]
   ]
-]
+];

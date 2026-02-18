@@ -53,4 +53,4 @@ export var densityLargeSharp20px = [
       ]
     ]
   ]
-]
+];

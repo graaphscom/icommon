@@ -16,4 +16,4 @@ export var developerBoardLightningToolbox20Regular = [
       }
     ]
   ]
-]
+];

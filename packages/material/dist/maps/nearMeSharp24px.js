@@ -21,4 +21,4 @@ export var nearMeSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var callEnd12Regular = [
       }
     ]
   ]
-]
+];

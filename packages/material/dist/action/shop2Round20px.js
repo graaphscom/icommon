@@ -47,4 +47,4 @@ export var shop2Round20px = [
       ]
     ]
   ]
-]
+];

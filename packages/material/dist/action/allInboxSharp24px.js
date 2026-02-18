@@ -21,4 +21,4 @@ export var allInboxSharp24px = [
       }
     ]
   ]
-]
+];

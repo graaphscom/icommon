@@ -21,4 +21,4 @@ export var trendingFlatOutlined24px = [
       }
     ]
   ]
-]
+];

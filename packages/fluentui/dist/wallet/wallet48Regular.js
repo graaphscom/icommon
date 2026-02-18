@@ -16,4 +16,4 @@ export var wallet48Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var emojiEdit28Regular = [
       }
     ]
   ]
-]
+];

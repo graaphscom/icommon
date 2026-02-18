@@ -36,4 +36,4 @@ export var vapeFreeOutlined20px = [
       ]
     ]
   ]
-]
+];

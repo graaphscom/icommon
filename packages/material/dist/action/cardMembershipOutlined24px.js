@@ -21,4 +21,4 @@ export var cardMembershipOutlined24px = [
       }
     ]
   ]
-]
+];

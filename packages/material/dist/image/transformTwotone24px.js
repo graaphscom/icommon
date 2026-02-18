@@ -21,4 +21,4 @@ export var transformTwotone24px = [
       }
     ]
   ]
-]
+];

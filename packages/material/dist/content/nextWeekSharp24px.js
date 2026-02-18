@@ -21,4 +21,4 @@ export var nextWeekSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var layers24px = [
       }
     ]
   ]
-]
+];

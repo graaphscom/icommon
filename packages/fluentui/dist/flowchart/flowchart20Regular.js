@@ -16,4 +16,4 @@ export var flowchart20Regular = [
       }
     ]
   ]
-]
+];

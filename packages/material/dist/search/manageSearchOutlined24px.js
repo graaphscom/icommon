@@ -34,4 +34,4 @@ export var manageSearchOutlined24px = [
       ]
     ]
   ]
-]
+];

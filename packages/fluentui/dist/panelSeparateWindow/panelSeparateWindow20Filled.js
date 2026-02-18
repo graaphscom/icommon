@@ -16,4 +16,4 @@ export var panelSeparateWindow20Filled = [
       }
     ]
   ]
-]
+];

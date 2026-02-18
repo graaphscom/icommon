@@ -35,4 +35,4 @@ export var terminalSharp24px = [
       ]
     ]
   ]
-]
+];

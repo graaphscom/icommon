@@ -21,4 +21,4 @@ export var duoRound24px = [
       }
     ]
   ]
-]
+];

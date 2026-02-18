@@ -21,4 +21,4 @@ export var systemUpdateAltTwotone24px = [
       }
     ]
   ]
-]
+];

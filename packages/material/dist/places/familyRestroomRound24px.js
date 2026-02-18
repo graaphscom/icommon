@@ -29,4 +29,4 @@ export var familyRestroomRound24px = [
       ]
     ]
   ]
-]
+];

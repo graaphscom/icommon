@@ -42,4 +42,4 @@ export var polylineTwotone20px = [
       ]
     ]
   ]
-]
+];

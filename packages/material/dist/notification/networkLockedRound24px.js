@@ -23,4 +23,4 @@ export var networkLockedRound24px = [
       }
     ]
   ]
-]
+];

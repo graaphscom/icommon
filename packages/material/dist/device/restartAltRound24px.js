@@ -46,4 +46,4 @@ export var restartAltRound24px = [
       ]
     ]
   ]
-]
+];

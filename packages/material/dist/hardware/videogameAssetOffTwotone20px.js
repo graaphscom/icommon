@@ -31,4 +31,4 @@ export var videogameAssetOffTwotone20px = [
       }
     ]
   ]
-]
+];

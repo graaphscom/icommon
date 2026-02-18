@@ -16,4 +16,4 @@ export var arrowCircleDownUp20Regular = [
       }
     ]
   ]
-]
+];

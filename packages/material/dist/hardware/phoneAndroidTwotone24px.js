@@ -28,4 +28,4 @@ export var phoneAndroidTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tabInprivateAccount20Regular = [
       }
     ]
   ]
-]
+];

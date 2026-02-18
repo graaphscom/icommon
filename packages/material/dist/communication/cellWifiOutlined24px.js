@@ -35,4 +35,4 @@ export var cellWifiOutlined24px = [
       ]
     ]
   ]
-]
+];

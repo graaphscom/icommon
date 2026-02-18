@@ -16,4 +16,4 @@ export var arrowCounterclockwise16Regular = [
       }
     ]
   ]
-]
+];

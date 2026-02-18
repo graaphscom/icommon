@@ -21,4 +21,4 @@ export var labelImportantRound24px = [
       }
     ]
   ]
-]
+];

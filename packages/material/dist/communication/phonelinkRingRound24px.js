@@ -21,4 +21,4 @@ export var phonelinkRingRound24px = [
       }
     ]
   ]
-]
+];

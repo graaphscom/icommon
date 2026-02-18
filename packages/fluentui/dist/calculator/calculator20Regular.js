@@ -16,4 +16,4 @@ export var calculator20Regular = [
       }
     ]
   ]
-]
+];

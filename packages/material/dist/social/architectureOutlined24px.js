@@ -53,4 +53,4 @@ export var architectureOutlined24px = [
       ]
     ]
   ]
-]
+];

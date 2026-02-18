@@ -21,4 +21,4 @@ export var formatLineSpacingTwotone24px = [
       }
     ]
   ]
-]
+];

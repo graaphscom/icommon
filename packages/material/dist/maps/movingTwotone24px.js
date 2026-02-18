@@ -23,4 +23,4 @@ export var movingTwotone24px = [
       }
     ]
   ]
-]
+];

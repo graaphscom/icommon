@@ -13,4 +13,4 @@ export var sparkling2Fill = [
       }
     ]
   ]
-]
+];

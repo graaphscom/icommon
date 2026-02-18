@@ -23,4 +23,4 @@ export var drawSharp24px = [
       }
     ]
   ]
-]
+];

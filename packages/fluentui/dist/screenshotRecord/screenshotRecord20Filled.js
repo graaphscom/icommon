@@ -16,4 +16,4 @@ export var screenshotRecord20Filled = [
       }
     ]
   ]
-]
+];

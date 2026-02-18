@@ -21,4 +21,4 @@ export var modeComment24px = [
       }
     ]
   ]
-]
+];

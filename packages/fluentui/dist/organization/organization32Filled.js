@@ -16,4 +16,4 @@ export var organization32Filled = [
       }
     ]
   ]
-]
+];

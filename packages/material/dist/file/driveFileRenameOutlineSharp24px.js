@@ -57,4 +57,4 @@ export var driveFileRenameOutlineSharp24px = [
       ]
     ]
   ]
-]
+];

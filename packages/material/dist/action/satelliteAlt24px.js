@@ -41,4 +41,4 @@ export var satelliteAlt24px = [
       ]
     ]
   ]
-]
+];

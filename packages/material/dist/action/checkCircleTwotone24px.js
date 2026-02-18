@@ -28,4 +28,4 @@ export var checkCircleTwotone24px = [
       }
     ]
   ]
-]
+];

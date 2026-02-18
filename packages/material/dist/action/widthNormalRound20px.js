@@ -35,4 +35,4 @@ export var widthNormalRound20px = [
       ]
     ]
   ]
-]
+];

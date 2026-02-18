@@ -31,4 +31,4 @@ export var fileDownloadOffTwotone20px = [
       }
     ]
   ]
-]
+];

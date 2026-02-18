@@ -36,4 +36,4 @@ export var battery0BarOutlined20px = [
       ]
     ]
   ]
-]
+];

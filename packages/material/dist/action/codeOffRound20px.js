@@ -23,4 +23,4 @@ export var codeOffRound20px = [
       }
     ]
   ]
-]
+];

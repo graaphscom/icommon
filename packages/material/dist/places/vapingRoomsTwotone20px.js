@@ -44,4 +44,4 @@ export var vapingRoomsTwotone20px = [
       ]
     ]
   ]
-]
+];

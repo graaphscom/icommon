@@ -16,4 +16,4 @@ export var communicationShield16Regular = [
       }
     ]
   ]
-]
+];

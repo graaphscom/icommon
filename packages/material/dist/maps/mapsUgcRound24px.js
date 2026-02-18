@@ -37,4 +37,4 @@ export var mapsUgcRound24px = [
       }
     ]
   ]
-]
+];

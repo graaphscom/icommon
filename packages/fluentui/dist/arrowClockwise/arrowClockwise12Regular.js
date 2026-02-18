@@ -16,4 +16,4 @@ export var arrowClockwise12Regular = [
       }
     ]
   ]
-]
+];

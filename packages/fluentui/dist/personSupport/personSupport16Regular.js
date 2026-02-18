@@ -16,4 +16,4 @@ export var personSupport16Regular = [
       }
     ]
   ]
-]
+];

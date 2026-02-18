@@ -16,4 +16,4 @@ export var groupDismiss20Filled = [
       }
     ]
   ]
-]
+];

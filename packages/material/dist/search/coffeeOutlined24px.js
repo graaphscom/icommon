@@ -34,4 +34,4 @@ export var coffeeOutlined24px = [
       ]
     ]
   ]
-]
+];

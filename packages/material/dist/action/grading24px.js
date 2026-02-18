@@ -35,4 +35,4 @@ export var grading24px = [
       ]
     ]
   ]
-]
+];

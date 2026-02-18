@@ -36,4 +36,4 @@ export var washTwotone24px = [
       ]
     ]
   ]
-]
+];

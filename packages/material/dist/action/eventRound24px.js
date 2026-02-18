@@ -21,4 +21,4 @@ export var eventRound24px = [
       }
     ]
   ]
-]
+];

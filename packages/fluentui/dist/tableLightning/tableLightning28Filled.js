@@ -16,4 +16,4 @@ export var tableLightning28Filled = [
       }
     ]
   ]
-]
+];

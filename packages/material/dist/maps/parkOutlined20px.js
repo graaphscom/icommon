@@ -35,4 +35,4 @@ export var parkOutlined20px = [
       ]
     ]
   ]
-]
+];

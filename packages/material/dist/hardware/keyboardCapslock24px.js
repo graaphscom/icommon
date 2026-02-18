@@ -21,4 +21,4 @@ export var keyboardCapslock24px = [
       }
     ]
   ]
-]
+];

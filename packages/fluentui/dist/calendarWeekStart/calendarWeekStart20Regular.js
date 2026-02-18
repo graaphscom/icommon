@@ -16,4 +16,4 @@ export var calendarWeekStart20Regular = [
       }
     ]
   ]
-]
+];

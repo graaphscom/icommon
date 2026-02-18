@@ -73,4 +73,4 @@ export var paletteOutlined20px = [
       ]
     ]
   ]
-]
+];

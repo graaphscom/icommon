@@ -16,4 +16,4 @@ export var phoneHeaderArrowUp24Filled = [
       }
     ]
   ]
-]
+];

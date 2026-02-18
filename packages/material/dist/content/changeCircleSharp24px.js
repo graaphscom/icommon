@@ -23,4 +23,4 @@ export var changeCircleSharp24px = [
       }
     ]
   ]
-]
+];

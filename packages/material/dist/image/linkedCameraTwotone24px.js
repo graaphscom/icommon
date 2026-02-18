@@ -34,4 +34,4 @@ export var linkedCameraTwotone24px = [
       }
     ]
   ]
-]
+];

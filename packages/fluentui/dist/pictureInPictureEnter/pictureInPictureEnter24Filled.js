@@ -16,4 +16,4 @@ export var pictureInPictureEnter24Filled = [
       }
     ]
   ]
-]
+];

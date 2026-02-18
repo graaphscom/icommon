@@ -16,4 +16,4 @@ export var wrenchScrewdriver20Filled = [
       }
     ]
   ]
-]
+];

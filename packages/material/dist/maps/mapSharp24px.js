@@ -21,4 +21,4 @@ export var mapSharp24px = [
       }
     ]
   ]
-]
+];

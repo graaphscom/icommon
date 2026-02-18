@@ -16,4 +16,4 @@ export var myLocation16Filled = [
       }
     ]
   ]
-]
+];

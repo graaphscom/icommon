@@ -16,4 +16,4 @@ export var tooltipQuote48Filled = [
       }
     ]
   ]
-]
+];

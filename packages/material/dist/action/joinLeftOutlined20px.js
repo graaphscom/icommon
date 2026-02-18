@@ -54,4 +54,4 @@ export var joinLeftOutlined20px = [
       ]
     ]
   ]
-]
+];

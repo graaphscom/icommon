@@ -16,4 +16,4 @@ export var documentHeartPulse20Regular = [
       }
     ]
   ]
-]
+];

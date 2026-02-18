@@ -16,4 +16,4 @@ export var tableColumnTopBottomEdit20Regular = [
       }
     ]
   ]
-]
+];

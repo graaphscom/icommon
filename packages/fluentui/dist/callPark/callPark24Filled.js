@@ -16,4 +16,4 @@ export var callPark24Filled = [
       }
     ]
   ]
-]
+];

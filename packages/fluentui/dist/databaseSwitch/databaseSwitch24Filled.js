@@ -16,4 +16,4 @@ export var databaseSwitch24Filled = [
       }
     ]
   ]
-]
+];

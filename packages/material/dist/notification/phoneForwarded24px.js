@@ -21,4 +21,4 @@ export var phoneForwarded24px = [
       }
     ]
   ]
-]
+];

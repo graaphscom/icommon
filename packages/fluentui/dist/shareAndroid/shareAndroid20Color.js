@@ -267,4 +267,4 @@ export var shareAndroid20Color = [
       ]
     ]
   ]
-]
+];

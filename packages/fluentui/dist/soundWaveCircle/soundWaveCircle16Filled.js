@@ -16,4 +16,4 @@ export var soundWaveCircle16Filled = [
       }
     ]
   ]
-]
+];

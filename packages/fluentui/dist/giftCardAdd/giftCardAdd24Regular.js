@@ -16,4 +16,4 @@ export var giftCardAdd24Regular = [
       }
     ]
   ]
-]
+];

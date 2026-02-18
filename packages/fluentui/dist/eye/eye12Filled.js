@@ -16,4 +16,4 @@ export var eye12Filled = [
       }
     ]
   ]
-]
+];

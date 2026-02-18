@@ -16,4 +16,4 @@ export var arrowRotateCounterclockwise24Regular = [
       }
     ]
   ]
-]
+];

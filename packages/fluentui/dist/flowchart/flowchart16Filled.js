@@ -16,4 +16,4 @@ export var flowchart16Filled = [
       }
     ]
   ]
-]
+];

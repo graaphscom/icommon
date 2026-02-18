@@ -59,4 +59,4 @@ export var quickreplySharp20px = [
       ]
     ]
   ]
-]
+];

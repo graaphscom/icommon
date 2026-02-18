@@ -16,4 +16,4 @@ export var weatherPartlyCloudyNight24Filled = [
       }
     ]
   ]
-]
+];

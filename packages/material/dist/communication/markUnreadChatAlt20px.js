@@ -49,4 +49,4 @@ export var markUnreadChatAlt20px = [
       ]
     ]
   ]
-]
+];

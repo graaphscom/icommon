@@ -21,4 +21,4 @@ export var directionsBusRound24px = [
       }
     ]
   ]
-]
+];

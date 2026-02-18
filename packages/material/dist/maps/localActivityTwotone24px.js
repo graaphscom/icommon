@@ -28,4 +28,4 @@ export var localActivityTwotone24px = [
       }
     ]
   ]
-]
+];

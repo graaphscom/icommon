@@ -21,4 +21,4 @@ export var filterNoneOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -75,4 +75,4 @@ export var postAddTwotone24px = [
       ]
     ]
   ]
-]
+];

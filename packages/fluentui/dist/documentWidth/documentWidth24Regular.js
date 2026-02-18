@@ -16,4 +16,4 @@ export var documentWidth24Regular = [
       }
     ]
   ]
-]
+];

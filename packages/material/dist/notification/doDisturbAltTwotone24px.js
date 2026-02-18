@@ -21,4 +21,4 @@ export var doDisturbAltTwotone24px = [
       }
     ]
   ]
-]
+];

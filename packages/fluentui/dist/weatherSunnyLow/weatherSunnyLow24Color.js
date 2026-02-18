@@ -305,4 +305,4 @@ export var weatherSunnyLow24Color = [
       ]
     ]
   ]
-]
+];

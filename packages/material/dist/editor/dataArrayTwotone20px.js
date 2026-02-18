@@ -47,4 +47,4 @@ export var dataArrayTwotone20px = [
       ]
     ]
   ]
-]
+];

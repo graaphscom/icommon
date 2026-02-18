@@ -16,4 +16,4 @@ export var personCircleOff28Regular = [
       }
     ]
   ]
-]
+];

@@ -69,4 +69,4 @@ export var closedCaptionOffTwotone24px = [
       ]
     ]
   ]
-]
+];

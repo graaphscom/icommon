@@ -23,4 +23,4 @@ export var copyAllOutlined20px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var setMealRound24px = [
       }
     ]
   ]
-]
+];

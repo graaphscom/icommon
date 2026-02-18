@@ -35,4 +35,4 @@ export var addLinkRound24px = [
       ]
     ]
   ]
-]
+];

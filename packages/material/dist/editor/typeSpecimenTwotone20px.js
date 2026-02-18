@@ -67,4 +67,4 @@ export var typeSpecimenTwotone20px = [
       ]
     ]
   ]
-]
+];

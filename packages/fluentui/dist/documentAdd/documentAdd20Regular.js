@@ -16,4 +16,4 @@ export var documentAdd20Regular = [
       }
     ]
   ]
-]
+];

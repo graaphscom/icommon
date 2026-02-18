@@ -16,4 +16,4 @@ export var personSquareAdd24Regular = [
       }
     ]
   ]
-]
+];

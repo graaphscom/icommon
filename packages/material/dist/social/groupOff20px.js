@@ -23,4 +23,4 @@ export var groupOff20px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tableCellEdit28Filled = [
       }
     ]
   ]
-]
+];

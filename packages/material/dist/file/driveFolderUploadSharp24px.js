@@ -35,4 +35,4 @@ export var driveFolderUploadSharp24px = [
       ]
     ]
   ]
-]
+];

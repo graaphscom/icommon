@@ -21,4 +21,4 @@ export var beachAccessOutlined24px = [
       }
     ]
   ]
-]
+];

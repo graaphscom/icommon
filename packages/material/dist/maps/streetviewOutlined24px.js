@@ -35,4 +35,4 @@ export var streetviewOutlined24px = [
       }
     ]
   ]
-]
+];

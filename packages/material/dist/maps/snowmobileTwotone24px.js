@@ -30,4 +30,4 @@ export var snowmobileTwotone24px = [
       }
     ]
   ]
-]
+];

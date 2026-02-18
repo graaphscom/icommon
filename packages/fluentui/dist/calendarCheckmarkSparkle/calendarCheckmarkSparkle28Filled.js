@@ -16,4 +16,4 @@ export var calendarCheckmarkSparkle28Filled = [
       }
     ]
   ]
-]
+];

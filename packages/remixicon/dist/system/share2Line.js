@@ -13,4 +13,4 @@ export var share2Line = [
       }
     ]
   ]
-]
+];

@@ -39,4 +39,4 @@ export var euroOutlined24px = [
       ]
     ]
   ]
-]
+];

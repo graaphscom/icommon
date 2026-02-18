@@ -23,4 +23,4 @@ export var emojiEventsSharp24px = [
       }
     ]
   ]
-]
+];

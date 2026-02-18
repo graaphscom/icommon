@@ -66,4 +66,4 @@ export var hardwareSharp24px = [
       ]
     ]
   ]
-]
+];

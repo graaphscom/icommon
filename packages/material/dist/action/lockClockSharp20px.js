@@ -53,4 +53,4 @@ export var lockClockSharp20px = [
       ]
     ]
   ]
-]
+];

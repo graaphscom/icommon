@@ -47,4 +47,4 @@ export var workHistoryOutlined24px = [
       ]
     ]
   ]
-]
+];

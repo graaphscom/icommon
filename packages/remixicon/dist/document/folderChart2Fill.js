@@ -13,4 +13,4 @@ export var folderChart2Fill = [
       }
     ]
   ]
-]
+];

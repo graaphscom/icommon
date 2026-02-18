@@ -151,4 +151,4 @@ export var clipboard24Color = [
       ]
     ]
   ]
-]
+];

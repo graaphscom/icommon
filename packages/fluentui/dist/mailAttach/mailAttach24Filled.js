@@ -16,4 +16,4 @@ export var mailAttach24Filled = [
       }
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var interestsTwotone20px = [
       }
     ]
   ]
-]
+];

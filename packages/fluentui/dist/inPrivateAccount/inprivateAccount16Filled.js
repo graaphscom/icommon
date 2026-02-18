@@ -16,4 +16,4 @@ export var inprivateAccount16Filled = [
       }
     ]
   ]
-]
+];

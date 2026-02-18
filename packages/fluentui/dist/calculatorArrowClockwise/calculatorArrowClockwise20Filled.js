@@ -16,4 +16,4 @@ export var calculatorArrowClockwise20Filled = [
       }
     ]
   ]
-]
+];

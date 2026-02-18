@@ -16,4 +16,4 @@ export var desktopMac24Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var accountBoxOutlined24px = [
       ]
     ]
   ]
-]
+];

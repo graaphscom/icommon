@@ -21,4 +21,4 @@ export var commentRound24px = [
       }
     ]
   ]
-]
+];

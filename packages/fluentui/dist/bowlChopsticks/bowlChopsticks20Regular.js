@@ -16,4 +16,4 @@ export var bowlChopsticks20Regular = [
       }
     ]
   ]
-]
+];

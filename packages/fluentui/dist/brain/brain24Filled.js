@@ -16,4 +16,4 @@ export var brain24Filled = [
       }
     ]
   ]
-]
+];

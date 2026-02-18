@@ -21,4 +21,4 @@ export var weekendOutlined24px = [
       }
     ]
   ]
-]
+];

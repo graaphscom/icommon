@@ -21,4 +21,4 @@ export var wifiOffOutlined24px = [
       }
     ]
   ]
-]
+];

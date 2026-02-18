@@ -16,4 +16,4 @@ export var codeText16Filled = [
       }
     ]
   ]
-]
+];

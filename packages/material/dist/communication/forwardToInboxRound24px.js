@@ -29,4 +29,4 @@ export var forwardToInboxRound24px = [
       ]
     ]
   ]
-]
+];

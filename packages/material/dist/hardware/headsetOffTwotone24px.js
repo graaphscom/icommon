@@ -65,4 +65,4 @@ export var headsetOffTwotone24px = [
       ]
     ]
   ]
-]
+];

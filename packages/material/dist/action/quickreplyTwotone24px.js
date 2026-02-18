@@ -73,4 +73,4 @@ export var quickreplyTwotone24px = [
       ]
     ]
   ]
-]
+];

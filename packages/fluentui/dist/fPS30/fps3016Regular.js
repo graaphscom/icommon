@@ -16,4 +16,4 @@ export var fps3016Regular = [
       }
     ]
   ]
-]
+];

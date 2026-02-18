@@ -21,4 +21,4 @@ export var syncDisabledRound24px = [
       }
     ]
   ]
-]
+];

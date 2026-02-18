@@ -71,4 +71,4 @@ export var sensorOccupiedSharp20px = [
       ]
     ]
   ]
-]
+];

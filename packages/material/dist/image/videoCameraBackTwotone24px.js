@@ -54,4 +54,4 @@ export var videoCameraBackTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var drawShape24Filled = [
       }
     ]
   ]
-]
+];

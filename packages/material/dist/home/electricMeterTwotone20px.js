@@ -63,4 +63,4 @@ export var electricMeterTwotone20px = [
       ]
     ]
   ]
-]
+];

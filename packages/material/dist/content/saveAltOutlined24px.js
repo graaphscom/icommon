@@ -21,4 +21,4 @@ export var saveAltOutlined24px = [
       }
     ]
   ]
-]
+];

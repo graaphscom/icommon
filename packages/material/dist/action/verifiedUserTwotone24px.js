@@ -28,4 +28,4 @@ export var verifiedUserTwotone24px = [
       }
     ]
   ]
-]
+];

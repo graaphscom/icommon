@@ -23,4 +23,4 @@ export var arrowBackIosNewSharp20px = [
       }
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var whatsappOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -59,4 +59,4 @@ export var handyman24px = [
       ]
     ]
   ]
-]
+];

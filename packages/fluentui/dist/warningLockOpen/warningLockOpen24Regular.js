@@ -16,4 +16,4 @@ export var warningLockOpen24Regular = [
       }
     ]
   ]
-]
+];

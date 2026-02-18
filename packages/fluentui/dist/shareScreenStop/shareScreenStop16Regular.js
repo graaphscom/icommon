@@ -16,4 +16,4 @@ export var shareScreenStop16Regular = [
       }
     ]
   ]
-]
+];

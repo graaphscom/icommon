@@ -21,4 +21,4 @@ export var localPostOfficeOutlined24px = [
       }
     ]
   ]
-]
+];

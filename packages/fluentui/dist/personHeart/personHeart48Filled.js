@@ -16,4 +16,4 @@ export var personHeart48Filled = [
       }
     ]
   ]
-]
+];

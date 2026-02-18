@@ -145,4 +145,4 @@ export var deblurRound24px = [
       ]
     ]
   ]
-]
+];

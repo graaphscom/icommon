@@ -28,4 +28,4 @@ export var layersClearTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textProofingTools24Regular = [
       }
     ]
   ]
-]
+];

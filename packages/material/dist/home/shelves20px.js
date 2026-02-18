@@ -35,4 +35,4 @@ export var shelves20px = [
       ]
     ]
   ]
-]
+];

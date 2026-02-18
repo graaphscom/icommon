@@ -35,4 +35,4 @@ export var networkWifi1Bar24px = [
       ]
     ]
   ]
-]
+];

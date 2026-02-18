@@ -23,4 +23,4 @@ export var noTransfer24px = [
       }
     ]
   ]
-]
+];

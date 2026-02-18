@@ -16,4 +16,4 @@ export var documentRb16Filled = [
       }
     ]
   ]
-]
+];

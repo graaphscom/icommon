@@ -109,4 +109,4 @@ export var blurOffRound24px = [
       }
     ]
   ]
-]
+];

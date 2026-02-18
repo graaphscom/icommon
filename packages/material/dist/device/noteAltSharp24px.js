@@ -34,4 +34,4 @@ export var noteAltSharp24px = [
       ]
     ]
   ]
-]
+];

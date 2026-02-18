@@ -35,4 +35,4 @@ export var keyTwotone24px = [
       ]
     ]
   ]
-]
+];

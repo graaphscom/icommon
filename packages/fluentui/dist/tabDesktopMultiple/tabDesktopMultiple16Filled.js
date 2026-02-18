@@ -16,4 +16,4 @@ export var tabDesktopMultiple16Filled = [
       }
     ]
   ]
-]
+];

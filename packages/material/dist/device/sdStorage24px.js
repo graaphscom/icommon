@@ -21,4 +21,4 @@ export var sdStorage24px = [
       }
     ]
   ]
-]
+];

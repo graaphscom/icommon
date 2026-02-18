@@ -147,4 +147,4 @@ export var diversity16Color = [
       ]
     ]
   ]
-]
+];

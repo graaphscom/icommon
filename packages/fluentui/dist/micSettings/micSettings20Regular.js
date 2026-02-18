@@ -16,4 +16,4 @@ export var micSettings20Regular = [
       }
     ]
   ]
-]
+];

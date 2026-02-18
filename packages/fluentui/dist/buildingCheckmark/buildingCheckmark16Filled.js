@@ -16,4 +16,4 @@ export var buildingCheckmark16Filled = [
       }
     ]
   ]
-]
+];

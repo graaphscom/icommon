@@ -35,4 +35,4 @@ export var rampRightTwotone24px = [
       ]
     ]
   ]
-]
+];

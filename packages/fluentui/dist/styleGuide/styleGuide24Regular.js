@@ -16,4 +16,4 @@ export var styleGuide24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shoppingBagDismiss20Regular = [
       }
     ]
   ]
-]
+];

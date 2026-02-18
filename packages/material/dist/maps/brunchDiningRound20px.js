@@ -72,4 +72,4 @@ export var brunchDiningRound20px = [
       ]
     ]
   ]
-]
+];

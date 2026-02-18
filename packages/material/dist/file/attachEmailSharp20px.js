@@ -47,4 +47,4 @@ export var attachEmailSharp20px = [
       ]
     ]
   ]
-]
+];

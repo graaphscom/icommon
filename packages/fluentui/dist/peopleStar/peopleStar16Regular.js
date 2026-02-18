@@ -16,4 +16,4 @@ export var peopleStar16Regular = [
       }
     ]
   ]
-]
+];

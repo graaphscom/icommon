@@ -23,4 +23,4 @@ export var safetyDividerRound24px = [
       }
     ]
   ]
-]
+];

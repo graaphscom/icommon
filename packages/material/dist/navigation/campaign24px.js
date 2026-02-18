@@ -21,4 +21,4 @@ export var campaign24px = [
       }
     ]
   ]
-]
+];

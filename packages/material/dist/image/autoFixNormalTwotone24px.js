@@ -59,4 +59,4 @@ export var autoFixNormalTwotone24px = [
       ]
     ]
   ]
-]
+];

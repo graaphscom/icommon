@@ -16,4 +16,4 @@ export var syringe20Regular = [
       }
     ]
   ]
-]
+];

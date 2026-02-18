@@ -16,4 +16,4 @@ export var drawer20Filled = [
       }
     ]
   ]
-]
+];

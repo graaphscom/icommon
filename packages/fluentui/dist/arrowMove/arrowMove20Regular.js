@@ -16,4 +16,4 @@ export var arrowMove20Regular = [
       }
     ]
   ]
-]
+];

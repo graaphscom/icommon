@@ -50,4 +50,4 @@ export var inventory2Outlined24px = [
       ]
     ]
   ]
-]
+];

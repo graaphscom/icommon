@@ -53,4 +53,4 @@ export var typeSpecimenRound20px = [
       ]
     ]
   ]
-]
+];

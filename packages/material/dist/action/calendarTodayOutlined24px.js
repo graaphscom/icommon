@@ -21,4 +21,4 @@ export var calendarTodayOutlined24px = [
       }
     ]
   ]
-]
+];

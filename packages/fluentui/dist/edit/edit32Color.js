@@ -148,4 +148,4 @@ export var edit32Color = [
       ]
     ]
   ]
-]
+];

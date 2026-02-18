@@ -16,4 +16,4 @@ export var icons24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var undoSharp24px = [
       }
     ]
   ]
-]
+];

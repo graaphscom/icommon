@@ -21,4 +21,4 @@ export var rotateRightSharp24px = [
       }
     ]
   ]
-]
+];

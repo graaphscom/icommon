@@ -29,4 +29,4 @@ export var arrowCircleDownRound20px = [
       ]
     ]
   ]
-]
+];

@@ -62,4 +62,4 @@ export var tornadoTwotone20px = [
       ]
     ]
   ]
-]
+];

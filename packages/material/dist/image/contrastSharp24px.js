@@ -35,4 +35,4 @@ export var contrastSharp24px = [
       ]
     ]
   ]
-]
+];

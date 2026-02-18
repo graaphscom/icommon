@@ -21,4 +21,4 @@ export var cropSharp24px = [
       }
     ]
   ]
-]
+];

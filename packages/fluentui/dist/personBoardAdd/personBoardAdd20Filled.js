@@ -16,4 +16,4 @@ export var personBoardAdd20Filled = [
       }
     ]
   ]
-]
+];

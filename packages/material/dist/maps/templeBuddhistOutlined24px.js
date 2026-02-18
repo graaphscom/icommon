@@ -35,4 +35,4 @@ export var templeBuddhistOutlined24px = [
       ]
     ]
   ]
-]
+];

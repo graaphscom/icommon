@@ -47,4 +47,4 @@ export var modeNightTwotone24px = [
       ]
     ]
   ]
-]
+];

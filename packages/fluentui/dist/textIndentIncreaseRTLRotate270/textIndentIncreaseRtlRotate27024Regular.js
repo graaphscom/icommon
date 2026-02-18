@@ -16,4 +16,4 @@ export var textIndentIncreaseRtlRotate27024Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var vapingRoomsOutlined24px = [
       ]
     ]
   ]
-]
+];

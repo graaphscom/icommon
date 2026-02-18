@@ -54,4 +54,4 @@ export var commentBankTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentPageTopRight24Regular = [
       }
     ]
   ]
-]
+];

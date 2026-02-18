@@ -21,4 +21,4 @@ export var tocSharp24px = [
       }
     ]
   ]
-]
+];

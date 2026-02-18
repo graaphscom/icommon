@@ -28,4 +28,4 @@ export var bugReportTwotone24px = [
       }
     ]
   ]
-]
+];

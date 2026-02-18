@@ -21,4 +21,4 @@ export var tabOutlined24px = [
       }
     ]
   ]
-]
+];

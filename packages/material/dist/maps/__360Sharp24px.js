@@ -21,4 +21,4 @@ export var __360Sharp24px = [
       }
     ]
   ]
-]
+];

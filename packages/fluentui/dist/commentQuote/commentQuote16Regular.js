@@ -16,4 +16,4 @@ export var commentQuote16Regular = [
       }
     ]
   ]
-]
+];

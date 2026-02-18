@@ -16,4 +16,4 @@ export var textDirectionHorizontalRight20Filled = [
       }
     ]
   ]
-]
+];

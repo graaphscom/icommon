@@ -220,4 +220,4 @@ export var calendarCheckmark24Color = [
       ]
     ]
   ]
-]
+];

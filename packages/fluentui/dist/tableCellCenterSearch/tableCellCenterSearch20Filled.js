@@ -16,4 +16,4 @@ export var tableCellCenterSearch20Filled = [
       }
     ]
   ]
-]
+];

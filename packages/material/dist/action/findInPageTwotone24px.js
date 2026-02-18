@@ -28,4 +28,4 @@ export var findInPageTwotone24px = [
       }
     ]
   ]
-]
+];

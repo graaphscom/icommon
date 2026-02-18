@@ -22,4 +22,4 @@ export var cancelOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var speakerEdit24Regular = [
       }
     ]
   ]
-]
+];

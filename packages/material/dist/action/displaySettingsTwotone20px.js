@@ -78,4 +78,4 @@ export var displaySettingsTwotone20px = [
       ]
     ]
   ]
-]
+];

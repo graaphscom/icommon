@@ -29,4 +29,4 @@ export var roundedCornerSharp24px = [
       }
     ]
   ]
-]
+];

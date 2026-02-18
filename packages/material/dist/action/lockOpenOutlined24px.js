@@ -21,4 +21,4 @@ export var lockOpenOutlined24px = [
       }
     ]
   ]
-]
+];

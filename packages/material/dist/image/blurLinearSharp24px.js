@@ -21,4 +21,4 @@ export var blurLinearSharp24px = [
       }
     ]
   ]
-]
+];

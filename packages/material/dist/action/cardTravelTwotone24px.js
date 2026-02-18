@@ -28,4 +28,4 @@ export var cardTravelTwotone24px = [
       }
     ]
   ]
-]
+];

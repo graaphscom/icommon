@@ -29,4 +29,4 @@ export var textSnippetRound24px = [
       ]
     ]
   ]
-]
+];

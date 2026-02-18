@@ -16,4 +16,4 @@ export var phone12Filled = [
       }
     ]
   ]
-]
+];

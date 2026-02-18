@@ -21,4 +21,4 @@ export var subscriptionsOutlined24px = [
       }
     ]
   ]
-]
+];

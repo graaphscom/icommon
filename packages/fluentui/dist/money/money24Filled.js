@@ -16,4 +16,4 @@ export var money24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var multilineChartTwotone24px = [
       }
     ]
   ]
-]
+];

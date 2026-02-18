@@ -16,4 +16,4 @@ export var trophy24Regular = [
       }
     ]
   ]
-]
+];

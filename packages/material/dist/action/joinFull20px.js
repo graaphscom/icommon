@@ -53,4 +53,4 @@ export var joinFull20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shareIos20Filled = [
       }
     ]
   ]
-]
+];

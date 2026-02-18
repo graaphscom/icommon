@@ -21,4 +21,4 @@ export var doDisturbAltRound24px = [
       }
     ]
   ]
-]
+];

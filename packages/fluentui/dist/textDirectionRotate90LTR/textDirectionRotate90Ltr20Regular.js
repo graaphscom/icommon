@@ -16,4 +16,4 @@ export var textDirectionRotate90Ltr20Regular = [
       }
     ]
   ]
-]
+];

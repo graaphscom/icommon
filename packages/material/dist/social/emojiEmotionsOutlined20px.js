@@ -68,4 +68,4 @@ export var emojiEmotionsOutlined20px = [
       ]
     ]
   ]
-]
+];

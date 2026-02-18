@@ -23,4 +23,4 @@ export var timer10Select24px = [
       }
     ]
   ]
-]
+];

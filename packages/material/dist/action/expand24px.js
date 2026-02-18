@@ -28,4 +28,4 @@ export var expand24px = [
       }
     ]
   ]
-]
+];

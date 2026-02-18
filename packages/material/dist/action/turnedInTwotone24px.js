@@ -28,4 +28,4 @@ export var turnedInTwotone24px = [
       }
     ]
   ]
-]
+];

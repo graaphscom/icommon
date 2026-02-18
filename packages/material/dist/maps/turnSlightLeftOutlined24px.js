@@ -35,4 +35,4 @@ export var turnSlightLeftOutlined24px = [
       ]
     ]
   ]
-]
+];

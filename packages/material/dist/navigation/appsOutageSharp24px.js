@@ -23,4 +23,4 @@ export var appsOutageSharp24px = [
       }
     ]
   ]
-]
+];

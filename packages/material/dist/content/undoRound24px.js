@@ -21,4 +21,4 @@ export var undoRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var photoFilterOutlined24px = [
       }
     ]
   ]
-]
+];

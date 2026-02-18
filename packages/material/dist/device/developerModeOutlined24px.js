@@ -21,4 +21,4 @@ export var developerModeOutlined24px = [
       }
     ]
   ]
-]
+];

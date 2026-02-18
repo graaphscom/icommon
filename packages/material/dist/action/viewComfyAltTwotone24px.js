@@ -84,4 +84,4 @@ export var viewComfyAltTwotone24px = [
       ]
     ]
   ]
-]
+];

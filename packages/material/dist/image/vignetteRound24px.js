@@ -21,4 +21,4 @@ export var vignetteRound24px = [
       }
     ]
   ]
-]
+];

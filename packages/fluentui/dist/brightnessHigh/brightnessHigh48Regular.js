@@ -16,4 +16,4 @@ export var brightnessHigh48Regular = [
       }
     ]
   ]
-]
+];

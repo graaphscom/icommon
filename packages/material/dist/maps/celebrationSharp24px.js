@@ -72,4 +72,4 @@ export var celebrationSharp24px = [
       ]
     ]
   ]
-]
+];

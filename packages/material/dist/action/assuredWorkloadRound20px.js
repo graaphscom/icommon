@@ -71,4 +71,4 @@ export var assuredWorkloadRound20px = [
       ]
     ]
   ]
-]
+];

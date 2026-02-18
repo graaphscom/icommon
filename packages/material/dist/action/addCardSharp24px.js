@@ -35,4 +35,4 @@ export var addCardSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var switchVideo24px = [
       }
     ]
   ]
-]
+];

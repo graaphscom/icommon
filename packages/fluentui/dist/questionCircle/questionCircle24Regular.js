@@ -16,4 +16,4 @@ export var questionCircle24Regular = [
       }
     ]
   ]
-]
+];

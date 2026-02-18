@@ -21,4 +21,4 @@ export var gamepad24px = [
       }
     ]
   ]
-]
+];

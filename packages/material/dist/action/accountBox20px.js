@@ -41,4 +41,4 @@ export var accountBox20px = [
       ]
     ]
   ]
-]
+];

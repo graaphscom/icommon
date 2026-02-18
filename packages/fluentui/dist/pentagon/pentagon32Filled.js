@@ -16,4 +16,4 @@ export var pentagon32Filled = [
       }
     ]
   ]
-]
+];

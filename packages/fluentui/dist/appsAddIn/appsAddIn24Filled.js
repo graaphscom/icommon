@@ -16,4 +16,4 @@ export var appsAddIn24Filled = [
       }
     ]
   ]
-]
+];

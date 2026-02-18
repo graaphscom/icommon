@@ -60,4 +60,4 @@ export var editLocationAltRound24px = [
       ]
     ]
   ]
-]
+];

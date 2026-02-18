@@ -35,4 +35,4 @@ export var arrowCircleLeftRound20px = [
       ]
     ]
   ]
-]
+];

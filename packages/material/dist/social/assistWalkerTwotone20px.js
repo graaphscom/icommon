@@ -49,4 +49,4 @@ export var assistWalkerTwotone20px = [
       ]
     ]
   ]
-]
+];

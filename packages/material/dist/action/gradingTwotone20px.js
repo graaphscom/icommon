@@ -86,4 +86,4 @@ export var gradingTwotone20px = [
       ]
     ]
   ]
-]
+];

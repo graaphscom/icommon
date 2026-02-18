@@ -55,4 +55,4 @@ export var coPresent20px = [
       ]
     ]
   ]
-]
+];

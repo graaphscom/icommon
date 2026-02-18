@@ -37,4 +37,4 @@ export var try24px = [
       ]
     ]
   ]
-]
+];

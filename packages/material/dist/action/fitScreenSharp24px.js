@@ -34,4 +34,4 @@ export var fitScreenSharp24px = [
       ]
     ]
   ]
-]
+];

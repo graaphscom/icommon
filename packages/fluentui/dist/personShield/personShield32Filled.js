@@ -16,4 +16,4 @@ export var personShield32Filled = [
       }
     ]
   ]
-]
+];

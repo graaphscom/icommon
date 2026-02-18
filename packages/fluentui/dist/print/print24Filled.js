@@ -16,4 +16,4 @@ export var print24Filled = [
       }
     ]
   ]
-]
+];

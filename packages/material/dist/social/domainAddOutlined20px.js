@@ -36,4 +36,4 @@ export var domainAddOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var scoreRound24px = [
       }
     ]
   ]
-]
+];

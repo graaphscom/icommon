@@ -16,4 +16,4 @@ export var arrowAutofitWidth24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var grainSharp24px = [
       }
     ]
   ]
-]
+];

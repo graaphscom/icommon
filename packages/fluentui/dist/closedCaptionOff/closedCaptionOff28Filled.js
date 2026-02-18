@@ -16,4 +16,4 @@ export var closedCaptionOff28Filled = [
       }
     ]
   ]
-]
+];

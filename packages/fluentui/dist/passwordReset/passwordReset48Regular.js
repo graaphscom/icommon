@@ -16,4 +16,4 @@ export var passwordReset48Regular = [
       }
     ]
   ]
-]
+];

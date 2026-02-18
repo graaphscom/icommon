@@ -16,4 +16,4 @@ export var tabletLaptop24Filled = [
       }
     ]
   ]
-]
+];

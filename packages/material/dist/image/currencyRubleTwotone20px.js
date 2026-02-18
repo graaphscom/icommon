@@ -35,4 +35,4 @@ export var currencyRubleTwotone20px = [
       ]
     ]
   ]
-]
+];

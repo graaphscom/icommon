@@ -23,4 +23,4 @@ export var tapasRound24px = [
       }
     ]
   ]
-]
+];

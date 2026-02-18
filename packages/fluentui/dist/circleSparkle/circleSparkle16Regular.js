@@ -16,4 +16,4 @@ export var circleSparkle16Regular = [
       }
     ]
   ]
-]
+];

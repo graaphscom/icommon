@@ -74,4 +74,4 @@ export var emojiFoodBeverageTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var noSimOutlined24px = [
       }
     ]
   ]
-]
+];

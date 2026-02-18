@@ -16,4 +16,4 @@ export var tableDismiss20Filled = [
       }
     ]
   ]
-]
+];

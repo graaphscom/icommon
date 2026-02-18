@@ -16,4 +16,4 @@ export var documentBulletListMultiple24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var stayPrimaryLandscapeSharp24px = [
       }
     ]
   ]
-]
+];

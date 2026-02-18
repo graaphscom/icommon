@@ -16,4 +16,4 @@ export var documentCopy24Regular = [
       }
     ]
   ]
-]
+];

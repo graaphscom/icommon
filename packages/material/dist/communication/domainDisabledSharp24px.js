@@ -21,4 +21,4 @@ export var domainDisabledSharp24px = [
       }
     ]
   ]
-]
+];

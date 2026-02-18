@@ -41,4 +41,4 @@ export var squareFootRound20px = [
       ]
     ]
   ]
-]
+];

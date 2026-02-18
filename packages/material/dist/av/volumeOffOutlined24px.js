@@ -21,4 +21,4 @@ export var volumeOffOutlined24px = [
       }
     ]
   ]
-]
+];

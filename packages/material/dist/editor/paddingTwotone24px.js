@@ -76,4 +76,4 @@ export var paddingTwotone24px = [
       ]
     ]
   ]
-]
+];

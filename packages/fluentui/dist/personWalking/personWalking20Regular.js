@@ -16,4 +16,4 @@ export var personWalking20Regular = [
       }
     ]
   ]
-]
+];

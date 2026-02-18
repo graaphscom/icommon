@@ -16,4 +16,4 @@ export var personBoardAdd32Filled = [
       }
     ]
   ]
-]
+];

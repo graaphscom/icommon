@@ -23,4 +23,4 @@ export var otherHouses24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var crop54Sharp20px = [
       ]
     ]
   ]
-]
+];

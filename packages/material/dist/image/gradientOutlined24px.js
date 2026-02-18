@@ -21,4 +21,4 @@ export var gradientOutlined24px = [
       }
     ]
   ]
-]
+];

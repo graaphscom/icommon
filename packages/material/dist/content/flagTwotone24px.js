@@ -28,4 +28,4 @@ export var flagTwotone24px = [
       }
     ]
   ]
-]
+];

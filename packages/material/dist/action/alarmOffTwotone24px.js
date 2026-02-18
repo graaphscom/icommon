@@ -21,4 +21,4 @@ export var alarmOffTwotone24px = [
       }
     ]
   ]
-]
+];

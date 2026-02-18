@@ -23,4 +23,4 @@ export var developerBoardOffRound20px = [
       }
     ]
   ]
-]
+];

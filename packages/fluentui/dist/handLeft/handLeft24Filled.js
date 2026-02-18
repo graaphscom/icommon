@@ -16,4 +16,4 @@ export var handLeft24Filled = [
       }
     ]
   ]
-]
+];

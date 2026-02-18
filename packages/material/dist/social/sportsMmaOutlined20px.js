@@ -63,4 +63,4 @@ export var sportsMmaOutlined20px = [
       ]
     ]
   ]
-]
+];

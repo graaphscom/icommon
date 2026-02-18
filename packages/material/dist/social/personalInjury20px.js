@@ -23,4 +23,4 @@ export var personalInjury20px = [
       }
     ]
   ]
-]
+];

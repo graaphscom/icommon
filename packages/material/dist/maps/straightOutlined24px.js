@@ -35,4 +35,4 @@ export var straightOutlined24px = [
       ]
     ]
   ]
-]
+];

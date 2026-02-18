@@ -16,4 +16,4 @@ export var desktopSignal24Regular = [
       }
     ]
   ]
-]
+];

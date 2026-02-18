@@ -62,4 +62,4 @@ export var densityMediumTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -14,4 +14,4 @@ export var queueMusicRound24px = [
       }
     ]
   ]
-]
+];

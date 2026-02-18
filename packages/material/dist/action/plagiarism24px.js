@@ -49,4 +49,4 @@ export var plagiarism24px = [
       ]
     ]
   ]
-]
+];

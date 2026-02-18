@@ -16,4 +16,4 @@ export var dockRow24Filled = [
       }
     ]
   ]
-]
+];

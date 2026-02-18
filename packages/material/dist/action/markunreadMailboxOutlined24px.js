@@ -21,4 +21,4 @@ export var markunreadMailboxOutlined24px = [
       }
     ]
   ]
-]
+];

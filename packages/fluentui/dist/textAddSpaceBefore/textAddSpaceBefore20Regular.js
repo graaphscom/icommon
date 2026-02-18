@@ -16,4 +16,4 @@ export var textAddSpaceBefore20Regular = [
       }
     ]
   ]
-]
+];

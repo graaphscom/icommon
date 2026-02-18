@@ -173,4 +173,4 @@ export var blurOnTwotone24px = [
       }
     ]
   ]
-]
+];

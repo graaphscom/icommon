@@ -16,4 +16,4 @@ export var textCollapse32Light = [
       }
     ]
   ]
-]
+];

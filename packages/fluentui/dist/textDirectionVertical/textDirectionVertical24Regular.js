@@ -16,4 +16,4 @@ export var textDirectionVertical24Regular = [
       }
     ]
   ]
-]
+];

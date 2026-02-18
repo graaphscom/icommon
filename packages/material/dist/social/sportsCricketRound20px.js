@@ -55,4 +55,4 @@ export var sportsCricketRound20px = [
       ]
     ]
   ]
-]
+];

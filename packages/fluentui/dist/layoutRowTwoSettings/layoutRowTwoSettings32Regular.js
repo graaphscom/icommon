@@ -16,4 +16,4 @@ export var layoutRowTwoSettings32Regular = [
       }
     ]
   ]
-]
+];

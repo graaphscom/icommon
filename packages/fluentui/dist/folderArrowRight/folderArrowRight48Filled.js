@@ -16,4 +16,4 @@ export var folderArrowRight48Filled = [
       }
     ]
   ]
-]
+];

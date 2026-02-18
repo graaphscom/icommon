@@ -16,4 +16,4 @@ export var callInbound24Filled = [
       }
     ]
   ]
-]
+];

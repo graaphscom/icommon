@@ -16,4 +16,4 @@ export var clipboardCheckmark16Regular = [
       }
     ]
   ]
-]
+];

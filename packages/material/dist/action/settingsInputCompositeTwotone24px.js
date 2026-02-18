@@ -28,4 +28,4 @@ export var settingsInputCompositeTwotone24px = [
       }
     ]
   ]
-]
+];

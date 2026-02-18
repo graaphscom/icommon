@@ -16,4 +16,4 @@ export var xboxConsole20Filled = [
       }
     ]
   ]
-]
+];

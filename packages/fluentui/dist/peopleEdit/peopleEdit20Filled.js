@@ -16,4 +16,4 @@ export var peopleEdit20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var layoutDynamic24Filled = [
       }
     ]
   ]
-]
+];

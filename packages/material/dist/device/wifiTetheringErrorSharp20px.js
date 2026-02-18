@@ -79,4 +79,4 @@ export var wifiTetheringErrorSharp20px = [
       ]
     ]
   ]
-]
+];

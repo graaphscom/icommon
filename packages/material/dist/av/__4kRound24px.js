@@ -14,4 +14,4 @@ export var __4kRound24px = [
       }
     ]
   ]
-]
+];

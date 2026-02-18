@@ -16,4 +16,4 @@ export var peopleSearch20Filled = [
       }
     ]
   ]
-]
+];

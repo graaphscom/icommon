@@ -16,4 +16,4 @@ export var pen28Regular = [
       }
     ]
   ]
-]
+];

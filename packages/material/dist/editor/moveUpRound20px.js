@@ -53,4 +53,4 @@ export var moveUpRound20px = [
       ]
     ]
   ]
-]
+];

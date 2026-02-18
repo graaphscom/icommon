@@ -36,4 +36,4 @@ export var notStartedTwotone24px = [
       ]
     ]
   ]
-]
+];

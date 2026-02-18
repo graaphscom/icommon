@@ -16,4 +16,4 @@ export var branchCompare20Filled = [
       }
     ]
   ]
-]
+];

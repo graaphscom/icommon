@@ -21,4 +21,4 @@ export var notificationsOff24px = [
       }
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var gpsFixedTwotone24px = [
       }
     ]
   ]
-]
+];

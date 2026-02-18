@@ -35,4 +35,4 @@ export var museumRound20px = [
       ]
     ]
   ]
-]
+];

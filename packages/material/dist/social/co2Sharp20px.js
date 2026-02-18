@@ -23,4 +23,4 @@ export var co2Sharp20px = [
       }
     ]
   ]
-]
+];

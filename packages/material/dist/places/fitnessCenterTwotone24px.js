@@ -21,4 +21,4 @@ export var fitnessCenterTwotone24px = [
       }
     ]
   ]
-]
+];

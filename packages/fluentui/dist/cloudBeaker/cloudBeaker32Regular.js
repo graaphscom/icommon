@@ -16,4 +16,4 @@ export var cloudBeaker32Regular = [
       }
     ]
   ]
-]
+];

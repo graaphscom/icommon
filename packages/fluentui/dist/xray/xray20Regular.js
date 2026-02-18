@@ -16,4 +16,4 @@ export var xray20Regular = [
       }
     ]
   ]
-]
+];

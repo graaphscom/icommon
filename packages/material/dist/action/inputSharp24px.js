@@ -35,4 +35,4 @@ export var inputSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var restaurantMenuTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var wifiPasswordOutlined24px = [
       ]
     ]
   ]
-]
+];

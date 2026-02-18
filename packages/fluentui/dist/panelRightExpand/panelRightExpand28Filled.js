@@ -16,4 +16,4 @@ export var panelRightExpand28Filled = [
       }
     ]
   ]
-]
+];

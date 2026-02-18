@@ -386,4 +386,4 @@ export var clipboardTextEdit20Color = [
       ]
     ]
   ]
-]
+];

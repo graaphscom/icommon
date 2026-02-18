@@ -35,4 +35,4 @@ export var polylineSharp24px = [
       ]
     ]
   ]
-]
+];

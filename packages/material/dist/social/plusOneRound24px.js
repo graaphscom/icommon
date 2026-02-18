@@ -21,4 +21,4 @@ export var plusOneRound24px = [
       }
     ]
   ]
-]
+];

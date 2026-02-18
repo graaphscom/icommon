@@ -21,4 +21,4 @@ export var formatTextdirectionLToRRound24px = [
       }
     ]
   ]
-]
+];

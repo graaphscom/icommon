@@ -16,4 +16,4 @@ export var bookNumber20Filled = [
       }
     ]
   ]
-]
+];

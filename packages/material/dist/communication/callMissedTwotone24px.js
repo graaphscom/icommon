@@ -21,4 +21,4 @@ export var callMissedTwotone24px = [
       }
     ]
   ]
-]
+];

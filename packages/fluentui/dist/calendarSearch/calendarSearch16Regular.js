@@ -16,4 +16,4 @@ export var calendarSearch16Regular = [
       }
     ]
   ]
-]
+];

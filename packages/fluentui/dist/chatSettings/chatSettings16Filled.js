@@ -16,4 +16,4 @@ export var chatSettings16Filled = [
       }
     ]
   ]
-]
+];

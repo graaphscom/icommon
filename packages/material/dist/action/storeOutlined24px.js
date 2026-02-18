@@ -21,4 +21,4 @@ export var storeOutlined24px = [
       }
     ]
   ]
-]
+];

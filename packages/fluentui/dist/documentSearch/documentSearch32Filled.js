@@ -16,4 +16,4 @@ export var documentSearch32Filled = [
       }
     ]
   ]
-]
+];

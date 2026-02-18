@@ -47,4 +47,4 @@ export var natOutlined24px = [
       ]
     ]
   ]
-]
+];

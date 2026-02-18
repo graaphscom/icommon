@@ -21,4 +21,4 @@ export var scheduleOutlined24px = [
       }
     ]
   ]
-]
+];

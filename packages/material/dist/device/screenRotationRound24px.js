@@ -21,4 +21,4 @@ export var screenRotationRound24px = [
       }
     ]
   ]
-]
+];

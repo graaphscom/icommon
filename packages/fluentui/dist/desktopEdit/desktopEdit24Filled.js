@@ -16,4 +16,4 @@ export var desktopEdit24Filled = [
       }
     ]
   ]
-]
+];

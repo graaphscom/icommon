@@ -23,4 +23,4 @@ export var reduceCapacitySharp24px = [
       }
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var shapeLineOutlined24px = [
       ]
     ]
   ]
-]
+];

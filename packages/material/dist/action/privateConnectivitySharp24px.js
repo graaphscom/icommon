@@ -23,4 +23,4 @@ export var privateConnectivitySharp24px = [
       }
     ]
   ]
-]
+];

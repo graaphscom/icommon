@@ -72,4 +72,4 @@ export var celebrationOutlined24px = [
       ]
     ]
   ]
-]
+];

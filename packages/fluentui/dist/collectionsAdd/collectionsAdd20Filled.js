@@ -16,4 +16,4 @@ export var collectionsAdd20Filled = [
       }
     ]
   ]
-]
+];

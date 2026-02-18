@@ -61,4 +61,4 @@ export var emojiPeopleRound24px = [
       ]
     ]
   ]
-]
+];

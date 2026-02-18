@@ -53,4 +53,4 @@ export var insightsRound20px = [
       ]
     ]
   ]
-]
+];

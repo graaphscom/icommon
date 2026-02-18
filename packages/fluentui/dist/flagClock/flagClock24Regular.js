@@ -16,4 +16,4 @@ export var flagClock24Regular = [
       }
     ]
   ]
-]
+];

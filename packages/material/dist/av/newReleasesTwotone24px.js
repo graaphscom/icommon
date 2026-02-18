@@ -28,4 +28,4 @@ export var newReleasesTwotone24px = [
       }
     ]
   ]
-]
+];

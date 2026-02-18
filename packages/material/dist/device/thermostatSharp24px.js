@@ -21,4 +21,4 @@ export var thermostatSharp24px = [
       }
     ]
   ]
-]
+];

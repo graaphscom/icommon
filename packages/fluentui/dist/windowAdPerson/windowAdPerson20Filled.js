@@ -16,4 +16,4 @@ export var windowAdPerson20Filled = [
       }
     ]
   ]
-]
+];

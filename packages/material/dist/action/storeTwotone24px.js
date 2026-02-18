@@ -28,4 +28,4 @@ export var storeTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textGrammarCheckmark20Regular = [
       }
     ]
   ]
-]
+];

@@ -95,4 +95,4 @@ export var hvacRound20px = [
       ]
     ]
   ]
-]
+];

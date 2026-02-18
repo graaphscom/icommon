@@ -16,4 +16,4 @@ export var textCaseTitle24Filled = [
       }
     ]
   ]
-]
+];

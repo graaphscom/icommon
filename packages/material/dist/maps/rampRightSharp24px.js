@@ -35,4 +35,4 @@ export var rampRightSharp24px = [
       ]
     ]
   ]
-]
+];

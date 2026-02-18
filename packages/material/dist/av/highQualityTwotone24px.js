@@ -28,4 +28,4 @@ export var highQualityTwotone24px = [
       }
     ]
   ]
-]
+];

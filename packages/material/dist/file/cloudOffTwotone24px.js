@@ -28,4 +28,4 @@ export var cloudOffTwotone24px = [
       }
     ]
   ]
-]
+];

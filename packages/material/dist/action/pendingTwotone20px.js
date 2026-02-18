@@ -72,4 +72,4 @@ export var pendingTwotone20px = [
       ]
     ]
   ]
-]
+];

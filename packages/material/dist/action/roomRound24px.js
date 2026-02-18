@@ -35,4 +35,4 @@ export var roomRound24px = [
       ]
     ]
   ]
-]
+];

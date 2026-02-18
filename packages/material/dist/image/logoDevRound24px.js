@@ -55,4 +55,4 @@ export var logoDevRound24px = [
       ]
     ]
   ]
-]
+];

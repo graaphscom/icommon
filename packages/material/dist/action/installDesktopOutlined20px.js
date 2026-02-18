@@ -48,4 +48,4 @@ export var installDesktopOutlined20px = [
       ]
     ]
   ]
-]
+];

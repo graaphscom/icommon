@@ -16,4 +16,4 @@ export var translateAuto16Regular = [
       }
     ]
   ]
-]
+];

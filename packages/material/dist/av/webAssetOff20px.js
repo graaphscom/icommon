@@ -29,4 +29,4 @@ export var webAssetOff20px = [
       ]
     ]
   ]
-]
+];

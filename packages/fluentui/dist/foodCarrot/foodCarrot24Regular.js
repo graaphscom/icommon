@@ -16,4 +16,4 @@ export var foodCarrot24Regular = [
       }
     ]
   ]
-]
+];

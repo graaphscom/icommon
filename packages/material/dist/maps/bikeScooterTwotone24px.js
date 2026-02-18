@@ -53,4 +53,4 @@ export var bikeScooterTwotone24px = [
       ]
     ]
   ]
-]
+];

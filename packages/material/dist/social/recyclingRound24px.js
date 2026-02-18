@@ -23,4 +23,4 @@ export var recyclingRound24px = [
       }
     ]
   ]
-]
+];

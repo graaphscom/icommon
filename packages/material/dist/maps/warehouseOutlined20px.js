@@ -36,4 +36,4 @@ export var warehouseOutlined20px = [
       ]
     ]
   ]
-]
+];

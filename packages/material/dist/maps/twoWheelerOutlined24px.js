@@ -32,4 +32,4 @@ export var twoWheelerOutlined24px = [
       ]
     ]
   ]
-]
+];

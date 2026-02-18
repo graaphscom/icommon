@@ -49,4 +49,4 @@ export var womanSharp20px = [
       ]
     ]
   ]
-]
+];

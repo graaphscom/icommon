@@ -16,4 +16,4 @@ export var space3d16Regular = [
       }
     ]
   ]
-]
+];

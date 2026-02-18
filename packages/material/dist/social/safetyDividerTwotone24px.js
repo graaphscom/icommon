@@ -23,4 +23,4 @@ export var safetyDividerTwotone24px = [
       }
     ]
   ]
-]
+];

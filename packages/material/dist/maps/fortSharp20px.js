@@ -41,4 +41,4 @@ export var fortSharp20px = [
       ]
     ]
   ]
-]
+];

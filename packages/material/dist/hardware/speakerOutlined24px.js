@@ -21,4 +21,4 @@ export var speakerOutlined24px = [
       }
     ]
   ]
-]
+];

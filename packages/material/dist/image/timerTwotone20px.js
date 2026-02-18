@@ -66,4 +66,4 @@ export var timerTwotone20px = [
       ]
     ]
   ]
-]
+];

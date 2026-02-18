@@ -21,4 +21,4 @@ export var arrowBackSharp24px = [
       }
     ]
   ]
-]
+];

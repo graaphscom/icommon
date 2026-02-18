@@ -16,4 +16,4 @@ export var tableFreezeRowDismiss24Regular = [
       }
     ]
   ]
-]
+];

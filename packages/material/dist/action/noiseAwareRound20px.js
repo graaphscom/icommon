@@ -137,4 +137,4 @@ export var noiseAwareRound20px = [
       ]
     ]
   ]
-]
+];

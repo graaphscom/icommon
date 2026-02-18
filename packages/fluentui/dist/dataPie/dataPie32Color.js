@@ -81,4 +81,4 @@ export var dataPie32Color = [
       ]
     ]
   ]
-]
+];

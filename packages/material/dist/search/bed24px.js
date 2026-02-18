@@ -35,4 +35,4 @@ export var bed24px = [
       ]
     ]
   ]
-]
+];

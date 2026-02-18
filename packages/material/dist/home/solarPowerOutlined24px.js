@@ -94,4 +94,4 @@ export var solarPowerOutlined24px = [
       ]
     ]
   ]
-]
+];

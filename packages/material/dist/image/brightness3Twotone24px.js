@@ -28,4 +28,4 @@ export var brightness3Twotone24px = [
       }
     ]
   ]
-]
+];

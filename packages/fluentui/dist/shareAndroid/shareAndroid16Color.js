@@ -261,4 +261,4 @@ export var shareAndroid16Color = [
       ]
     ]
   ]
-]
+];

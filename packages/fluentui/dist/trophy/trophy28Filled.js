@@ -16,4 +16,4 @@ export var trophy28Filled = [
       }
     ]
   ]
-]
+];

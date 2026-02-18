@@ -21,4 +21,4 @@ export var autoFixOff24px = [
       }
     ]
   ]
-]
+];

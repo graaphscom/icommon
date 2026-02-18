@@ -81,4 +81,4 @@ export var mic24Color = [
       ]
     ]
   ]
-]
+];

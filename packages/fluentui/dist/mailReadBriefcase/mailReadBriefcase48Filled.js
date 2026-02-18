@@ -16,4 +16,4 @@ export var mailReadBriefcase48Filled = [
       }
     ]
   ]
-]
+];

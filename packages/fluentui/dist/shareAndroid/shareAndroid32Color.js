@@ -255,4 +255,4 @@ export var shareAndroid32Color = [
       ]
     ]
   ]
-]
+];

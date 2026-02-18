@@ -21,4 +21,4 @@ export var cloudQueueRound24px = [
       }
     ]
   ]
-]
+];

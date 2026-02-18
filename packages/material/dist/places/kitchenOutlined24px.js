@@ -21,4 +21,4 @@ export var kitchenOutlined24px = [
       }
     ]
   ]
-]
+];

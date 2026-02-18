@@ -53,4 +53,4 @@ export var architectureTwotone20px = [
       ]
     ]
   ]
-]
+];

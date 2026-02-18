@@ -54,4 +54,4 @@ export var moreTimeOutlined20px = [
       ]
     ]
   ]
-]
+];

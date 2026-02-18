@@ -23,4 +23,4 @@ export var stackedLineChartTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var gamesSharp24px = [
       }
     ]
   ]
-]
+];

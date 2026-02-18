@@ -16,4 +16,4 @@ export var codeCircle20Regular = [
       }
     ]
   ]
-]
+];

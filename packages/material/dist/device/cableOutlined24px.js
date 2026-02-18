@@ -40,4 +40,4 @@ export var cableOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var gavelTwotone24px = [
       }
     ]
   ]
-]
+];

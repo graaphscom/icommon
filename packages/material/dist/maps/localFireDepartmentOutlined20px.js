@@ -36,4 +36,4 @@ export var localFireDepartmentOutlined20px = [
       ]
     ]
   ]
-]
+];

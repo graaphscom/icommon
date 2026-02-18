@@ -16,4 +16,4 @@ export var calendarDataBar24Filled = [
       }
     ]
   ]
-]
+];

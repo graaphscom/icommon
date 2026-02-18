@@ -35,4 +35,4 @@ export var shieldMoonRound20px = [
       ]
     ]
   ]
-]
+];

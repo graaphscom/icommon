@@ -34,4 +34,4 @@ export var cameraIndoor24px = [
       ]
     ]
   ]
-]
+];

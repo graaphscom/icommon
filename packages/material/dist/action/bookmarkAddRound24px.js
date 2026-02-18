@@ -23,4 +23,4 @@ export var bookmarkAddRound24px = [
       }
     ]
   ]
-]
+];

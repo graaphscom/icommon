@@ -16,4 +16,4 @@ export var locationOff24Regular = [
       }
     ]
   ]
-]
+];

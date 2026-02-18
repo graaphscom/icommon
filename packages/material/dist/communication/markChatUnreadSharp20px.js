@@ -30,4 +30,4 @@ export var markChatUnreadSharp20px = [
       ]
     ]
   ]
-]
+];

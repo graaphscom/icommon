@@ -21,4 +21,4 @@ export var filterCenterFocusRound24px = [
       }
     ]
   ]
-]
+];

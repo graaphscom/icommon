@@ -291,4 +291,4 @@ export var peopleHome24Color = [
       ]
     ]
   ]
-]
+];

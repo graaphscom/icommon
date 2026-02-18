@@ -150,4 +150,4 @@ export var reward20Color = [
       ]
     ]
   ]
-]
+];

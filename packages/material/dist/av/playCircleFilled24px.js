@@ -21,4 +21,4 @@ export var playCircleFilled24px = [
       }
     ]
   ]
-]
+];

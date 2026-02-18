@@ -16,4 +16,4 @@ export var chevronCircleRight24Regular = [
       }
     ]
   ]
-]
+];

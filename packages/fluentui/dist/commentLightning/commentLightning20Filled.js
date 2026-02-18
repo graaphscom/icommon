@@ -16,4 +16,4 @@ export var commentLightning20Filled = [
       }
     ]
   ]
-]
+];

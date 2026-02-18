@@ -49,4 +49,4 @@ export var ramenDiningTwotone20px = [
       ]
     ]
   ]
-]
+];

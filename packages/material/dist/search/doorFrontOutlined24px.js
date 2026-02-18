@@ -34,4 +34,4 @@ export var doorFrontOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var panToolOutlined24px = [
       }
     ]
   ]
-]
+];

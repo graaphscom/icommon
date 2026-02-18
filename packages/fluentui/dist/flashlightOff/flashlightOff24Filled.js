@@ -16,4 +16,4 @@ export var flashlightOff24Filled = [
       }
     ]
   ]
-]
+];

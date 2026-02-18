@@ -40,4 +40,4 @@ export var patternTwotone24px = [
       ]
     ]
   ]
-]
+];

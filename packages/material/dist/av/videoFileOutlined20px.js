@@ -36,4 +36,4 @@ export var videoFileOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailCopy24Filled = [
       }
     ]
   ]
-]
+];

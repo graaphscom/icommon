@@ -59,4 +59,4 @@ export var attachEmailRound24px = [
       ]
     ]
   ]
-]
+];

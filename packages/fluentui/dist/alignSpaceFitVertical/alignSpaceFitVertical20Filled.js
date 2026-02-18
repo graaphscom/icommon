@@ -23,4 +23,4 @@ export var alignSpaceFitVertical20Filled = [
       }
     ]
   ]
-]
+];

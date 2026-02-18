@@ -13,4 +13,4 @@ export var deleteBack2Fill = [
       }
     ]
   ]
-]
+];

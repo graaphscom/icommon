@@ -16,4 +16,4 @@ export var conferenceRoom28Filled = [
       }
     ]
   ]
-]
+];

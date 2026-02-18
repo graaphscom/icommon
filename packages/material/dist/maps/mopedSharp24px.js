@@ -56,4 +56,4 @@ export var mopedSharp24px = [
       ]
     ]
   ]
-]
+];

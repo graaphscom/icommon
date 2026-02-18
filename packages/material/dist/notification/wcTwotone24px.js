@@ -21,4 +21,4 @@ export var wcTwotone24px = [
       }
     ]
   ]
-]
+];

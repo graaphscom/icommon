@@ -21,4 +21,4 @@ export var eventBusyRound24px = [
       }
     ]
   ]
-]
+];

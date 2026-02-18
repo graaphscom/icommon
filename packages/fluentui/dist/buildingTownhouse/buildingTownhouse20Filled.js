@@ -16,4 +16,4 @@ export var buildingTownhouse20Filled = [
       }
     ]
   ]
-]
+];

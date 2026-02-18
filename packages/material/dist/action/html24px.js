@@ -35,4 +35,4 @@ export var html24px = [
       ]
     ]
   ]
-]
+];

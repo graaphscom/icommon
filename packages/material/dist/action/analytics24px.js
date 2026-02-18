@@ -21,4 +21,4 @@ export var analytics24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var thumbDownOffAlt24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var deviceMeetingRoomAllInOne32Regular = [
       }
     ]
   ]
-]
+];

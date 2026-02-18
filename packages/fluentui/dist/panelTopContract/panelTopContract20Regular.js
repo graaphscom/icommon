@@ -16,4 +16,4 @@ export var panelTopContract20Regular = [
       }
     ]
   ]
-]
+];

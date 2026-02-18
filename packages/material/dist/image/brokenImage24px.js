@@ -28,4 +28,4 @@ export var brokenImage24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var noMealsRound24px = [
       }
     ]
   ]
-]
+];

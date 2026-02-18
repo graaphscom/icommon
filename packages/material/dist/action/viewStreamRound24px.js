@@ -23,4 +23,4 @@ export var viewStreamRound24px = [
       }
     ]
   ]
-]
+];

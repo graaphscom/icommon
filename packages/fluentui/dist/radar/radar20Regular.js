@@ -16,4 +16,4 @@ export var radar20Regular = [
       }
     ]
   ]
-]
+];

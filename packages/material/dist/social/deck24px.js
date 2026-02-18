@@ -53,4 +53,4 @@ export var deck24px = [
       ]
     ]
   ]
-]
+];

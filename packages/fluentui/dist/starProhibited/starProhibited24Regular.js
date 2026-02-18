@@ -16,4 +16,4 @@ export var starProhibited24Regular = [
       }
     ]
   ]
-]
+];

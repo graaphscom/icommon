@@ -69,4 +69,4 @@ export var bathtubRound24px = [
       ]
     ]
   ]
-]
+];

@@ -22,4 +22,4 @@ export var arrowBackIosSharp24px = [
       }
     ]
   ]
-]
+];

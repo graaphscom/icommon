@@ -23,4 +23,4 @@ export var bungalowOutlined20px = [
       }
     ]
   ]
-]
+];

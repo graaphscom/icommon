@@ -21,4 +21,4 @@ export var chatRound24px = [
       }
     ]
   ]
-]
+];

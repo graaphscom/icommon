@@ -48,4 +48,4 @@ export var fireTruckOutlined20px = [
       ]
     ]
   ]
-]
+];

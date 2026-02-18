@@ -16,4 +16,4 @@ export var trophyLock32Regular = [
       }
     ]
   ]
-]
+];

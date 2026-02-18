@@ -31,4 +31,4 @@ export var modelTrainingOutlined20px = [
       ]
     ]
   ]
-]
+];

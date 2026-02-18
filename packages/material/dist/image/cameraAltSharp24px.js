@@ -29,4 +29,4 @@ export var cameraAltSharp24px = [
       }
     ]
   ]
-]
+];

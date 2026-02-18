@@ -29,4 +29,4 @@ export var previewSharp24px = [
       ]
     ]
   ]
-]
+];

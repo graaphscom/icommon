@@ -35,4 +35,4 @@ export var crisisAlertOutlined24px = [
       ]
     ]
   ]
-]
+];

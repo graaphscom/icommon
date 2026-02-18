@@ -21,4 +21,4 @@ export var musicOff24px = [
       }
     ]
   ]
-]
+];

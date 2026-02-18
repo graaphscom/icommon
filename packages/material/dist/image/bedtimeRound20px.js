@@ -41,4 +41,4 @@ export var bedtimeRound20px = [
       ]
     ]
   ]
-]
+];

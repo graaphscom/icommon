@@ -16,4 +16,4 @@ export var textBulletListLtrRotate27024Regular = [
       }
     ]
   ]
-]
+];

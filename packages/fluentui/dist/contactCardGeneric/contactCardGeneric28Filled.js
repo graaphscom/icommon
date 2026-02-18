@@ -16,4 +16,4 @@ export var contactCardGeneric28Filled = [
       }
     ]
   ]
-]
+];

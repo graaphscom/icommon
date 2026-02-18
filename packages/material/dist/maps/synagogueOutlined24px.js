@@ -49,4 +49,4 @@ export var synagogueOutlined24px = [
       ]
     ]
   ]
-]
+];

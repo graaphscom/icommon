@@ -16,4 +16,4 @@ export var reOrderVertical20Filled = [
       }
     ]
   ]
-]
+];

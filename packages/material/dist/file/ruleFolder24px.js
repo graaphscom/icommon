@@ -29,4 +29,4 @@ export var ruleFolder24px = [
       ]
     ]
   ]
-]
+];

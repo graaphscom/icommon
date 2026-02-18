@@ -16,4 +16,4 @@ export var viewDesktopMobile24Filled = [
       }
     ]
   ]
-]
+];

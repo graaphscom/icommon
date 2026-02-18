@@ -21,4 +21,4 @@ export var restoreFromTrashOutlined24px = [
       }
     ]
   ]
-]
+];

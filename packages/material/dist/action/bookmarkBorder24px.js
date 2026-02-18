@@ -21,4 +21,4 @@ export var bookmarkBorder24px = [
       }
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var walkieTalkie20Regular = [
       }
     ]
   ]
-]
+];

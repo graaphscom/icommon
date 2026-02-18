@@ -16,4 +16,4 @@ export var shieldCheckmark16Regular = [
       }
     ]
   ]
-]
+];

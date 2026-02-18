@@ -16,4 +16,4 @@ export var sendCopy24Filled = [
       }
     ]
   ]
-]
+];

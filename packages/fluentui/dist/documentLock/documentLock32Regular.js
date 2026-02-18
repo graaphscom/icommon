@@ -16,4 +16,4 @@ export var documentLock32Regular = [
       }
     ]
   ]
-]
+];

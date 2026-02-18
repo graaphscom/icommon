@@ -16,4 +16,4 @@ export var folderPerson16Filled = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var simCardAlertRound24px = [
       ]
     ]
   ]
-]
+];

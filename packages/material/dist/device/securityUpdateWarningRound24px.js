@@ -54,4 +54,4 @@ export var securityUpdateWarningRound24px = [
       ]
     ]
   ]
-]
+];

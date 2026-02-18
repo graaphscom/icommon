@@ -21,4 +21,4 @@ export var driveFileMove24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var doubleArrowSharp24px = [
       ]
     ]
   ]
-]
+];

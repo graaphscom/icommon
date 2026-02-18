@@ -21,4 +21,4 @@ export var cancelPresentationRound24px = [
       }
     ]
   ]
-]
+];

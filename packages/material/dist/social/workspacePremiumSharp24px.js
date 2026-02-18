@@ -23,4 +23,4 @@ export var workspacePremiumSharp24px = [
       }
     ]
   ]
-]
+];

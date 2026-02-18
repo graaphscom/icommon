@@ -56,4 +56,4 @@ export var borderColorTwotone24px = [
       ]
     ]
   ]
-]
+];

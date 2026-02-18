@@ -60,4 +60,4 @@ export var unfoldMoreDoubleOutlined20px = [
       ]
     ]
   ]
-]
+];

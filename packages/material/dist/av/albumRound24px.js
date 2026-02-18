@@ -14,4 +14,4 @@ export var albumRound24px = [
       }
     ]
   ]
-]
+];

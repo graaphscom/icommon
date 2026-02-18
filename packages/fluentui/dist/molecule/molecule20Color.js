@@ -393,4 +393,4 @@ export var molecule20Color = [
       ]
     ]
   ]
-]
+];

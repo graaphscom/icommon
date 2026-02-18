@@ -16,4 +16,4 @@ export var cellular3g20Regular = [
       }
     ]
   ]
-]
+];

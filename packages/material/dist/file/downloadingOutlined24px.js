@@ -41,4 +41,4 @@ export var downloadingOutlined24px = [
       ]
     ]
   ]
-]
+];

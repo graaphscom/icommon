@@ -28,4 +28,4 @@ export var verticalSplitTwotone24px = [
       }
     ]
   ]
-]
+];

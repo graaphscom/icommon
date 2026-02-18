@@ -21,4 +21,4 @@ export var screenLockPortrait24px = [
       }
     ]
   ]
-]
+];

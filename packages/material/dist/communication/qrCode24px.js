@@ -125,4 +125,4 @@ export var qrCode24px = [
       ]
     ]
   ]
-]
+];

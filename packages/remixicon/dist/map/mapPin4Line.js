@@ -13,4 +13,4 @@ export var mapPin4Line = [
       }
     ]
   ]
-]
+];

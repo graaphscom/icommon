@@ -16,4 +16,4 @@ export var production20Filled = [
       }
     ]
   ]
-]
+];

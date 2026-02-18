@@ -28,4 +28,4 @@ export var skipNextTwotone24px = [
       }
     ]
   ]
-]
+];

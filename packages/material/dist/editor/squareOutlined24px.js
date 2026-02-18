@@ -41,4 +41,4 @@ export var squareOutlined24px = [
       ]
     ]
   ]
-]
+];

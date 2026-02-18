@@ -13,4 +13,4 @@ export var hardDrive3Line = [
       }
     ]
   ]
-]
+];

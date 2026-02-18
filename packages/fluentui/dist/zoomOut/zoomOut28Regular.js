@@ -16,4 +16,4 @@ export var zoomOut28Regular = [
       }
     ]
   ]
-]
+];

@@ -255,4 +255,4 @@ export var shareAndroid24Color = [
       ]
     ]
   ]
-]
+];

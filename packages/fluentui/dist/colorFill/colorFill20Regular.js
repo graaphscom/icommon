@@ -16,4 +16,4 @@ export var colorFill20Regular = [
       }
     ]
   ]
-]
+];

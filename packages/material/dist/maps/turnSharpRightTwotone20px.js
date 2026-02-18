@@ -35,4 +35,4 @@ export var turnSharpRightTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var keyboardBackspace24px = [
       }
     ]
   ]
-]
+];

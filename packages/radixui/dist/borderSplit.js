@@ -161,4 +161,4 @@ export var borderSplit = [
       }
     ]
   ]
-]
+];

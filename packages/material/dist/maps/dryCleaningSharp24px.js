@@ -42,4 +42,4 @@ export var dryCleaningSharp24px = [
       ]
     ]
   ]
-]
+];

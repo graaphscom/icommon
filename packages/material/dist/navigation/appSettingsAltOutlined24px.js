@@ -49,4 +49,4 @@ export var appSettingsAltOutlined24px = [
       ]
     ]
   ]
-]
+];

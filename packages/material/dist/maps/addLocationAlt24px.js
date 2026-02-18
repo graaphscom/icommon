@@ -21,4 +21,4 @@ export var addLocationAlt24px = [
       }
     ]
   ]
-]
+];

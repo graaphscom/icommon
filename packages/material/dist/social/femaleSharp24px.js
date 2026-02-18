@@ -35,4 +35,4 @@ export var femaleSharp24px = [
       ]
     ]
   ]
-]
+];

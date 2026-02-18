@@ -36,4 +36,4 @@ export var autoStoriesRound24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var psychologyAlt20px = [
       ]
     ]
   ]
-]
+];

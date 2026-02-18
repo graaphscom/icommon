@@ -34,4 +34,4 @@ export var fmdGoodOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var apartmentOutlined24px = [
       ]
     ]
   ]
-]
+];

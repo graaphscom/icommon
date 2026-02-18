@@ -30,4 +30,4 @@ export var extensionOffTwotone20px = [
       }
     ]
   ]
-]
+];

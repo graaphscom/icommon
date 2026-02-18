@@ -35,4 +35,4 @@ export var pendingSharp20px = [
       ]
     ]
   ]
-]
+];

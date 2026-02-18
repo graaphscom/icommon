@@ -35,4 +35,4 @@ export var paletteRound24px = [
       ]
     ]
   ]
-]
+];

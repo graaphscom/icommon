@@ -16,4 +16,4 @@ export var personAlertOff20Regular = [
       }
     ]
   ]
-]
+];

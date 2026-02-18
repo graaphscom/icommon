@@ -60,4 +60,4 @@ export var sendTimeExtensionTwotone24px = [
       ]
     ]
   ]
-]
+];

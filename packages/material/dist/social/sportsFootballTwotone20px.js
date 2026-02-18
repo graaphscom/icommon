@@ -72,4 +72,4 @@ export var sportsFootballTwotone20px = [
       ]
     ]
   ]
-]
+];

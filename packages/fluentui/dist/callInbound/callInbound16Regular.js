@@ -16,4 +16,4 @@ export var callInbound16Regular = [
       }
     ]
   ]
-]
+];

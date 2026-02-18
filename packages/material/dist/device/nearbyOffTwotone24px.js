@@ -40,4 +40,4 @@ export var nearbyOffTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var equalCircle24Filled = [
       }
     ]
   ]
-]
+];

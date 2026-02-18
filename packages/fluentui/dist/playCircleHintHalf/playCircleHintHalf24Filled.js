@@ -16,4 +16,4 @@ export var playCircleHintHalf24Filled = [
       }
     ]
   ]
-]
+];

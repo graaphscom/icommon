@@ -35,4 +35,4 @@ export var pentagonOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -131,4 +131,4 @@ export var sportsSoccerTwotone24px = [
       ]
     ]
   ]
-]
+];

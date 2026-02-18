@@ -16,4 +16,4 @@ export var pauseOff16Filled = [
       }
     ]
   ]
-]
+];

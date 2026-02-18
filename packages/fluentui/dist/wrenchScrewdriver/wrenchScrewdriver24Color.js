@@ -147,4 +147,4 @@ export var wrenchScrewdriver24Color = [
       ]
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var ltePlusMobiledataSharp24px = [
       ]
     ]
   ]
-]
+];

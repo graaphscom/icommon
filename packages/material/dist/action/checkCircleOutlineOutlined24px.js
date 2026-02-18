@@ -21,4 +21,4 @@ export var checkCircleOutlineOutlined24px = [
       }
     ]
   ]
-]
+];

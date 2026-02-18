@@ -21,4 +21,4 @@ export var screenLockLandscapeOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var databaseLightning20Regular = [
       }
     ]
   ]
-]
+];

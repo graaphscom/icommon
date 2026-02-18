@@ -16,4 +16,4 @@ export var tableDeleteRow20Regular = [
       }
     ]
   ]
-]
+];

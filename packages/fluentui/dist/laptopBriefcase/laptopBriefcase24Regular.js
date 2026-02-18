@@ -16,4 +16,4 @@ export var laptopBriefcase24Regular = [
       }
     ]
   ]
-]
+];

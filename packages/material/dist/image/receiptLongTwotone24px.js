@@ -71,4 +71,4 @@ export var receiptLongTwotone24px = [
       ]
     ]
   ]
-]
+];

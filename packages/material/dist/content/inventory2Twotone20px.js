@@ -70,4 +70,4 @@ export var inventory2Twotone20px = [
       ]
     ]
   ]
-]
+];

@@ -95,4 +95,4 @@ export var diamondRound20px = [
       ]
     ]
   ]
-]
+];

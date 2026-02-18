@@ -22,4 +22,4 @@ export var subdirectoryArrowRightSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var appTitle20Regular = [
       }
     ]
   ]
-]
+];

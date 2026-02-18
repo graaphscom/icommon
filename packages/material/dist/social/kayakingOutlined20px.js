@@ -23,4 +23,4 @@ export var kayakingOutlined20px = [
       }
     ]
   ]
-]
+];

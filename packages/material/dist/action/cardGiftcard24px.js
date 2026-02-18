@@ -21,4 +21,4 @@ export var cardGiftcard24px = [
       }
     ]
   ]
-]
+];

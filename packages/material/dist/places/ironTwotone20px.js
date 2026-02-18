@@ -30,4 +30,4 @@ export var ironTwotone20px = [
       }
     ]
   ]
-]
+];

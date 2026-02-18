@@ -25,4 +25,4 @@ export var tableRowsOutlined20px = [
       }
     ]
   ]
-]
+];

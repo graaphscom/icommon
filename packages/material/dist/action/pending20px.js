@@ -35,4 +35,4 @@ export var pending20px = [
       ]
     ]
   ]
-]
+];

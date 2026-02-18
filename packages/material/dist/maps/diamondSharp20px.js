@@ -95,4 +95,4 @@ export var diamondSharp20px = [
       ]
     ]
   ]
-]
+];

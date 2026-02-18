@@ -23,4 +23,4 @@ export var signalWifi0Bar24px = [
       }
     ]
   ]
-]
+];

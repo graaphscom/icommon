@@ -16,4 +16,4 @@ export var textAdd20Regular = [
       }
     ]
   ]
-]
+];

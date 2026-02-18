@@ -23,4 +23,4 @@ export var documentScanner24px = [
       }
     ]
   ]
-]
+];

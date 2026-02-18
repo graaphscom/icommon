@@ -30,4 +30,4 @@ export var darkModeTwotone20px = [
       }
     ]
   ]
-]
+];

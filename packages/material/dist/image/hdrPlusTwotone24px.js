@@ -86,4 +86,4 @@ export var hdrPlusTwotone24px = [
       ]
     ]
   ]
-]
+];

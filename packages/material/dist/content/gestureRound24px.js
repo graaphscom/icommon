@@ -21,4 +21,4 @@ export var gestureRound24px = [
       }
     ]
   ]
-]
+];

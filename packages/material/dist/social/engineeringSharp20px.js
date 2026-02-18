@@ -65,4 +65,4 @@ export var engineeringSharp20px = [
       ]
     ]
   ]
-]
+];

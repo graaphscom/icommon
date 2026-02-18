@@ -16,4 +16,4 @@ export var laptopPerson24Regular = [
       }
     ]
   ]
-]
+];

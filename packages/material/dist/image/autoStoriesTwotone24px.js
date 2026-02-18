@@ -55,4 +55,4 @@ export var autoStoriesTwotone24px = [
       ]
     ]
   ]
-]
+];

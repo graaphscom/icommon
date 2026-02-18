@@ -21,4 +21,4 @@ export var gradientSharp24px = [
       }
     ]
   ]
-]
+];

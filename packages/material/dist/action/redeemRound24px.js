@@ -21,4 +21,4 @@ export var redeemRound24px = [
       }
     ]
   ]
-]
+];

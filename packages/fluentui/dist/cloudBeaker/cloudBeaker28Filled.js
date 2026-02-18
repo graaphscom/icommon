@@ -16,4 +16,4 @@ export var cloudBeaker28Filled = [
       }
     ]
   ]
-]
+];

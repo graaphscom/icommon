@@ -40,4 +40,4 @@ export var batterySaverRound24px = [
       ]
     ]
   ]
-]
+];

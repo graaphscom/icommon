@@ -16,4 +16,4 @@ export var food20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var alignDistributeBottom16Filled = [
       }
     ]
   ]
-]
+];

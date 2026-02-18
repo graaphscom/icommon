@@ -49,4 +49,4 @@ export var churchOutlined24px = [
       ]
     ]
   ]
-]
+];

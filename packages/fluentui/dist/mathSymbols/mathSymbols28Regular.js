@@ -16,4 +16,4 @@ export var mathSymbols28Regular = [
       }
     ]
   ]
-]
+];

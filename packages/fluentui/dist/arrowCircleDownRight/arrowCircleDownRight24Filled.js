@@ -16,4 +16,4 @@ export var arrowCircleDownRight24Filled = [
       }
     ]
   ]
-]
+];

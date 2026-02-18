@@ -16,4 +16,4 @@ export var documentSquare24Regular = [
       }
     ]
   ]
-]
+];

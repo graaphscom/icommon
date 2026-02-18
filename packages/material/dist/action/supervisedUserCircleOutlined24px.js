@@ -21,4 +21,4 @@ export var supervisedUserCircleOutlined24px = [
       }
     ]
   ]
-]
+];

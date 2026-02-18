@@ -16,4 +16,4 @@ export var scanCamera24Filled = [
       }
     ]
   ]
-]
+];

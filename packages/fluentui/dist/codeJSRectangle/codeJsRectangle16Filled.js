@@ -16,4 +16,4 @@ export var codeJsRectangle16Filled = [
       }
     ]
   ]
-]
+];

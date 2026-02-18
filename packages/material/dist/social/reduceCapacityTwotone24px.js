@@ -23,4 +23,4 @@ export var reduceCapacityTwotone24px = [
       }
     ]
   ]
-]
+];

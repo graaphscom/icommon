@@ -16,4 +16,4 @@ export var triangleRight12Filled = [
       }
     ]
   ]
-]
+];

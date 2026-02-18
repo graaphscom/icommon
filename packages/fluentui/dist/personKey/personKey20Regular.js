@@ -16,4 +16,4 @@ export var personKey20Regular = [
       }
     ]
   ]
-]
+];

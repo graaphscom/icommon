@@ -29,4 +29,4 @@ export var ruleFolderOutlined24px = [
       ]
     ]
   ]
-]
+];

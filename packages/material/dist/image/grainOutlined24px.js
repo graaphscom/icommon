@@ -21,4 +21,4 @@ export var grainOutlined24px = [
       }
     ]
   ]
-]
+];

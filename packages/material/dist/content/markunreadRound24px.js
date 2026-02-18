@@ -21,4 +21,4 @@ export var markunreadRound24px = [
       }
     ]
   ]
-]
+];

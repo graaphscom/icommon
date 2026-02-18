@@ -29,4 +29,4 @@ export var familyRestroomTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var lteMobiledataRound24px = [
       ]
     ]
   ]
-]
+];

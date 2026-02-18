@@ -23,4 +23,4 @@ export var arrowBackIosNewTwotone20px = [
       }
     ]
   ]
-]
+];

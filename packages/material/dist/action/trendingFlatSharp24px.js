@@ -21,4 +21,4 @@ export var trendingFlatSharp24px = [
       }
     ]
   ]
-]
+];

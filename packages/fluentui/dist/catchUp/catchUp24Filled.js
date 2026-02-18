@@ -16,4 +16,4 @@ export var catchUp24Filled = [
       }
     ]
   ]
-]
+];

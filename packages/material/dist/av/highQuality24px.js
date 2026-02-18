@@ -21,4 +21,4 @@ export var highQuality24px = [
       }
     ]
   ]
-]
+];

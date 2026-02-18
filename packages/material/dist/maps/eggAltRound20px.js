@@ -41,4 +41,4 @@ export var eggAltRound20px = [
       ]
     ]
   ]
-]
+];

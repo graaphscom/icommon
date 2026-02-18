@@ -357,4 +357,4 @@ export var buildingGovernmentSearch20Color = [
       ]
     ]
   ]
-]
+];

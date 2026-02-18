@@ -21,4 +21,4 @@ export var addchart24px = [
       }
     ]
   ]
-]
+];

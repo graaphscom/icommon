@@ -16,4 +16,4 @@ export var swipeUp20Regular = [
       }
     ]
   ]
-]
+];

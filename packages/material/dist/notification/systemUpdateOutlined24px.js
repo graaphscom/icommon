@@ -21,4 +21,4 @@ export var systemUpdateOutlined24px = [
       }
     ]
   ]
-]
+];

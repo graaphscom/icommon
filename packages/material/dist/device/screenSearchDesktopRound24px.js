@@ -54,4 +54,4 @@ export var screenSearchDesktopRound24px = [
       ]
     ]
   ]
-]
+];

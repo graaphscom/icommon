@@ -40,4 +40,4 @@ export var restartAltOutlined24px = [
       ]
     ]
   ]
-]
+];

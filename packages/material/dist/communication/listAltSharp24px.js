@@ -21,4 +21,4 @@ export var listAltSharp24px = [
       }
     ]
   ]
-]
+];

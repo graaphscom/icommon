@@ -16,4 +16,4 @@ export var documentTextExtract16Filled = [
       }
     ]
   ]
-]
+];

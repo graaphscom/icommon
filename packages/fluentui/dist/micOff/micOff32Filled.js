@@ -16,4 +16,4 @@ export var micOff32Filled = [
       }
     ]
   ]
-]
+];

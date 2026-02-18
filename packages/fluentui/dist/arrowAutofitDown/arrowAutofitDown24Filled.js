@@ -16,4 +16,4 @@ export var arrowAutofitDown24Filled = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var superscriptTwotone20px = [
       ]
     ]
   ]
-]
+];

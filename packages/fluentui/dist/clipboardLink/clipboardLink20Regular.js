@@ -16,4 +16,4 @@ export var clipboardLink20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var permScanWifiOutlined24px = [
       }
     ]
   ]
-]
+];

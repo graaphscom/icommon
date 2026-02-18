@@ -72,4 +72,4 @@ export var groups2Outlined20px = [
       ]
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var person4Outlined20px = [
       ]
     ]
   ]
-]
+];

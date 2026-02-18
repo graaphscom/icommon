@@ -30,4 +30,4 @@ export var airplanemodeInactiveOutlined20px = [
       ]
     ]
   ]
-]
+];

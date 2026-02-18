@@ -29,4 +29,4 @@ export var noFoodOutlined24px = [
       ]
     ]
   ]
-]
+];

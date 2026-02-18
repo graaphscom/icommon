@@ -49,4 +49,4 @@ export var viewSidebarTwotone24px = [
       ]
     ]
   ]
-]
+];

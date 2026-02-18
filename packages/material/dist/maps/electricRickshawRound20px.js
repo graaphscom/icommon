@@ -41,4 +41,4 @@ export var electricRickshawRound20px = [
       ]
     ]
   ]
-]
+];

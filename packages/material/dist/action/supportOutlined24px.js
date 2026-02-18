@@ -35,4 +35,4 @@ export var supportOutlined24px = [
       ]
     ]
   ]
-]
+];

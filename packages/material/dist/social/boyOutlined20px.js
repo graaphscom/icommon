@@ -42,4 +42,4 @@ export var boyOutlined20px = [
       ]
     ]
   ]
-]
+];

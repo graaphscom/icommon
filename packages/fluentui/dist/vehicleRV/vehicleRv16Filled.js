@@ -16,4 +16,4 @@ export var vehicleRv16Filled = [
       }
     ]
   ]
-]
+];

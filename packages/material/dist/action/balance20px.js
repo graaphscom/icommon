@@ -35,4 +35,4 @@ export var balance20px = [
       ]
     ]
   ]
-]
+];

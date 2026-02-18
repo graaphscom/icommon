@@ -49,4 +49,4 @@ export var viewCozyRound24px = [
       ]
     ]
   ]
-]
+];

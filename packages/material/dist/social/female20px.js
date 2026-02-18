@@ -23,4 +23,4 @@ export var female20px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var videoChatRound24px = [
       ]
     ]
   ]
-]
+];

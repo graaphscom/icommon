@@ -60,4 +60,4 @@ export var nearbyErrorRound24px = [
       ]
     ]
   ]
-]
+];

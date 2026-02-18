@@ -16,4 +16,4 @@ export var readingList28Regular = [
       }
     ]
   ]
-]
+];

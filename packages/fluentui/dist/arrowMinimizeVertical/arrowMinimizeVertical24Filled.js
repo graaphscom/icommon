@@ -16,4 +16,4 @@ export var arrowMinimizeVertical24Filled = [
       }
     ]
   ]
-]
+];

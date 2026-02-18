@@ -21,4 +21,4 @@ export var ballotRound24px = [
       }
     ]
   ]
-]
+];

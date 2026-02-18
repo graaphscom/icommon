@@ -48,4 +48,4 @@ export var starHalf24px = [
       ]
     ]
   ]
-]
+];

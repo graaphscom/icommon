@@ -53,4 +53,4 @@ export var moreTimeSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var fingerprint24px = [
       }
     ]
   ]
-]
+];

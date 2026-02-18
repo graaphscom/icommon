@@ -16,4 +16,4 @@ export var open24Regular = [
       }
     ]
   ]
-]
+];

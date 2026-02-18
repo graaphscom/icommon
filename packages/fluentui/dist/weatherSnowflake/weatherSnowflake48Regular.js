@@ -16,4 +16,4 @@ export var weatherSnowflake48Regular = [
       }
     ]
   ]
-]
+];

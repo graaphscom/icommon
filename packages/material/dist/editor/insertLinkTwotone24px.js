@@ -21,4 +21,4 @@ export var insertLinkTwotone24px = [
       }
     ]
   ]
-]
+];

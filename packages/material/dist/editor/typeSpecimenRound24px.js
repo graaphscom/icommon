@@ -61,4 +61,4 @@ export var typeSpecimenRound24px = [
       ]
     ]
   ]
-]
+];

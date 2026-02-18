@@ -21,4 +21,4 @@ export var panoramaFishEyeOutlined24px = [
       }
     ]
   ]
-]
+];

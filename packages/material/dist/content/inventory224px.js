@@ -35,4 +35,4 @@ export var inventory224px = [
       ]
     ]
   ]
-]
+];

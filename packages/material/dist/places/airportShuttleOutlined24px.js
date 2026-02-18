@@ -21,4 +21,4 @@ export var airportShuttleOutlined24px = [
       }
     ]
   ]
-]
+];

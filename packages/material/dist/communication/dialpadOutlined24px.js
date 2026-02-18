@@ -21,4 +21,4 @@ export var dialpadOutlined24px = [
       }
     ]
   ]
-]
+];

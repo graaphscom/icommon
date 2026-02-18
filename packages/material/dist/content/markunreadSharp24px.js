@@ -21,4 +21,4 @@ export var markunreadSharp24px = [
       }
     ]
   ]
-]
+];

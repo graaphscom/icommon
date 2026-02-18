@@ -48,4 +48,4 @@ export var arrowSync16Color = [
       ]
     ]
   ]
-]
+];

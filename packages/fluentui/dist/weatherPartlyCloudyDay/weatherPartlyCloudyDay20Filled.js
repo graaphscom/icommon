@@ -16,4 +16,4 @@ export var weatherPartlyCloudyDay20Filled = [
       }
     ]
   ]
-]
+];

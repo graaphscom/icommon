@@ -28,4 +28,4 @@ export var tvOffTwotone24px = [
       }
     ]
   ]
-]
+];

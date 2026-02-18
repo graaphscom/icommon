@@ -21,4 +21,4 @@ export var publicOutlined24px = [
       }
     ]
   ]
-]
+];

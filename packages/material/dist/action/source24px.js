@@ -29,4 +29,4 @@ export var source24px = [
       ]
     ]
   ]
-]
+];

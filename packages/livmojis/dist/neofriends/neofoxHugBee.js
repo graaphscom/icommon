@@ -248,4 +248,4 @@ export var neofoxHugBee = [
       }
     ]
   ]
-]
+];

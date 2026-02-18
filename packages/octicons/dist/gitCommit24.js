@@ -14,4 +14,4 @@ export var gitCommit24 = [
       }
     ]
   ]
-]
+];

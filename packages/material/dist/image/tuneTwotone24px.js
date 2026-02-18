@@ -21,4 +21,4 @@ export var tuneTwotone24px = [
       }
     ]
   ]
-]
+];

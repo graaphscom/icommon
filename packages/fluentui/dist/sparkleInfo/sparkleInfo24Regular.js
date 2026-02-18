@@ -16,4 +16,4 @@ export var sparkleInfo24Regular = [
       }
     ]
   ]
-]
+];

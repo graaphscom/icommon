@@ -21,4 +21,4 @@ export var gTranslateRound24px = [
       }
     ]
   ]
-]
+];

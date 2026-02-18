@@ -21,4 +21,4 @@ export var freeBreakfastOutlined24px = [
       }
     ]
   ]
-]
+];

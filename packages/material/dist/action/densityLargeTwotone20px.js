@@ -53,4 +53,4 @@ export var densityLargeTwotone20px = [
       ]
     ]
   ]
-]
+];

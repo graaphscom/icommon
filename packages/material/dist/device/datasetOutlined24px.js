@@ -107,4 +107,4 @@ export var datasetOutlined24px = [
       ]
     ]
   ]
-]
+];

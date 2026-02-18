@@ -21,4 +21,4 @@ export var photoSizeSelectActualOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var youtubeSearchedFor24px = [
       }
     ]
   ]
-]
+];

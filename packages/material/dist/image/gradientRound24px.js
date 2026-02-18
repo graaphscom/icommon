@@ -21,4 +21,4 @@ export var gradientRound24px = [
       }
     ]
   ]
-]
+];

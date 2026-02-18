@@ -35,4 +35,4 @@ export var polylineRound20px = [
       ]
     ]
   ]
-]
+];

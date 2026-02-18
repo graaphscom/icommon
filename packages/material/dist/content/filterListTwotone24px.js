@@ -21,4 +21,4 @@ export var filterListTwotone24px = [
       }
     ]
   ]
-]
+];

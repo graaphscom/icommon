@@ -16,4 +16,4 @@ export var eraserSmall24Filled = [
       }
     ]
   ]
-]
+];

@@ -107,4 +107,4 @@ export var macroOffTwotone24px = [
       ]
     ]
   ]
-]
+];

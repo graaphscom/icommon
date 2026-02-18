@@ -16,4 +16,4 @@ export var textHeader1LinesCaret16Regular = [
       }
     ]
   ]
-]
+];

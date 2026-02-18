@@ -47,4 +47,4 @@ export var videoStableRound24px = [
       ]
     ]
   ]
-]
+];

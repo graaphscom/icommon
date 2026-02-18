@@ -29,4 +29,4 @@ export var doNotTouchRound24px = [
       ]
     ]
   ]
-]
+];

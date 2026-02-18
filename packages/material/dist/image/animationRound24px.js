@@ -42,4 +42,4 @@ export var animationRound24px = [
       ]
     ]
   ]
-]
+];

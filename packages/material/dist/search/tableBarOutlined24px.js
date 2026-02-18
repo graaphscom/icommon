@@ -35,4 +35,4 @@ export var tableBarOutlined24px = [
       ]
     ]
   ]
-]
+];

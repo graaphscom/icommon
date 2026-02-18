@@ -47,4 +47,4 @@ export var doNotDisturbOutlined24px = [
       ]
     ]
   ]
-]
+];

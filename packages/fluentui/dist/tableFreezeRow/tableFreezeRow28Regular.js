@@ -16,4 +16,4 @@ export var tableFreezeRow28Regular = [
       }
     ]
   ]
-]
+];

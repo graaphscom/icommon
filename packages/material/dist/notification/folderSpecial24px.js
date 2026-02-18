@@ -21,4 +21,4 @@ export var folderSpecial24px = [
       }
     ]
   ]
-]
+];

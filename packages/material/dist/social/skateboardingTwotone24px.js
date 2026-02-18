@@ -23,4 +23,4 @@ export var skateboardingTwotone24px = [
       }
     ]
   ]
-]
+];

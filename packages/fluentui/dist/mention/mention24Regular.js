@@ -16,4 +16,4 @@ export var mention24Regular = [
       }
     ]
   ]
-]
+];

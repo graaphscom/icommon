@@ -114,4 +114,4 @@ export var dataBarVerticalAscending16Color = [
       ]
     ]
   ]
-]
+];

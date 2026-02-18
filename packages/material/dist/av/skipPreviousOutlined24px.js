@@ -21,4 +21,4 @@ export var skipPreviousOutlined24px = [
       }
     ]
   ]
-]
+];

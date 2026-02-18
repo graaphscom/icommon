@@ -16,4 +16,4 @@ export var shifts20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var certificateOff24Filled = [
       }
     ]
   ]
-]
+];

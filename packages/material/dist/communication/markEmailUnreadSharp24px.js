@@ -30,4 +30,4 @@ export var markEmailUnreadSharp24px = [
       ]
     ]
   ]
-]
+];

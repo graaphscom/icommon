@@ -21,4 +21,4 @@ export var moveToInbox24px = [
       }
     ]
   ]
-]
+];

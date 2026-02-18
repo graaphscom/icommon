@@ -16,4 +16,4 @@ export var color32Light = [
       }
     ]
   ]
-]
+];

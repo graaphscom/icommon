@@ -22,4 +22,4 @@ export var thumbDownAltOutlined24px = [
       }
     ]
   ]
-]
+];

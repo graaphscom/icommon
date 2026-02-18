@@ -21,4 +21,4 @@ export var wavesTwotone24px = [
       }
     ]
   ]
-]
+];

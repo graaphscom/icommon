@@ -13,4 +13,4 @@ export var chatSmile3Line = [
       }
     ]
   ]
-]
+];

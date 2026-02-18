@@ -25,4 +25,4 @@ export var outbond24px = [
       }
     ]
   ]
-]
+];

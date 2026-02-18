@@ -28,4 +28,4 @@ export var importantDevicesTwotone24px = [
       }
     ]
   ]
-]
+];

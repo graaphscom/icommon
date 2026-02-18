@@ -16,4 +16,4 @@ export var options48Regular = [
       }
     ]
   ]
-]
+];

@@ -42,4 +42,4 @@ export var tireRepairTwotone24px = [
       ]
     ]
   ]
-]
+];

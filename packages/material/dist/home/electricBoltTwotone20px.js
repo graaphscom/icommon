@@ -35,4 +35,4 @@ export var electricBoltTwotone20px = [
       ]
     ]
   ]
-]
+];

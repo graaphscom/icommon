@@ -16,4 +16,4 @@ export var weatherMoon24Filled = [
       }
     ]
   ]
-]
+];

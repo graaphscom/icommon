@@ -57,4 +57,4 @@ export var pestControlOutlined20px = [
       ]
     ]
   ]
-]
+];

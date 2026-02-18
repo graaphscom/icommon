@@ -54,4 +54,4 @@ export var reviewsTwotone24px = [
       ]
     ]
   ]
-]
+];

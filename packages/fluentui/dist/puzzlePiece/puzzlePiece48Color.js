@@ -84,4 +84,4 @@ export var puzzlePiece48Color = [
       ]
     ]
   ]
-]
+];

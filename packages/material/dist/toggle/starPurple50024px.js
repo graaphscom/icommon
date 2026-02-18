@@ -40,4 +40,4 @@ export var starPurple50024px = [
       ]
     ]
   ]
-]
+];

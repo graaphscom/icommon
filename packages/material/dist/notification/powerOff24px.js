@@ -21,4 +21,4 @@ export var powerOff24px = [
       }
     ]
   ]
-]
+];

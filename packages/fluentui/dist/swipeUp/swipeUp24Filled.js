@@ -16,4 +16,4 @@ export var swipeUp24Filled = [
       }
     ]
   ]
-]
+];

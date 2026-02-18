@@ -21,4 +21,4 @@ export var shortTextTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -22,4 +22,4 @@ export var linkTwotone24px = [
       }
     ]
   ]
-]
+];

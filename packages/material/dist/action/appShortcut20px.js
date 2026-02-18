@@ -59,4 +59,4 @@ export var appShortcut20px = [
       ]
     ]
   ]
-]
+];

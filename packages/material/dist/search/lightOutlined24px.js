@@ -40,4 +40,4 @@ export var lightOutlined24px = [
       ]
     ]
   ]
-]
+];

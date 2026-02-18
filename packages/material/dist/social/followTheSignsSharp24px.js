@@ -23,4 +23,4 @@ export var followTheSignsSharp24px = [
       }
     ]
   ]
-]
+];

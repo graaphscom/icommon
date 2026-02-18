@@ -197,4 +197,4 @@ export var textEditStyle24Color = [
       ]
     ]
   ]
-]
+];

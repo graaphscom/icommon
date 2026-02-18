@@ -21,4 +21,4 @@ export var addAlarmRound24px = [
       }
     ]
   ]
-]
+];

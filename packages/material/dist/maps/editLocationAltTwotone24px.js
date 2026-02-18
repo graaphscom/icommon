@@ -50,4 +50,4 @@ export var editLocationAltTwotone24px = [
       ]
     ]
   ]
-]
+];

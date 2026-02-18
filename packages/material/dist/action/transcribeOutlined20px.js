@@ -60,4 +60,4 @@ export var transcribeOutlined20px = [
       ]
     ]
   ]
-]
+];

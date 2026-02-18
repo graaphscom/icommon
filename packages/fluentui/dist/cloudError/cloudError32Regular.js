@@ -16,4 +16,4 @@ export var cloudError32Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var oven24Filled = [
       }
     ]
   ]
-]
+];

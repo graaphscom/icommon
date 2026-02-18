@@ -16,4 +16,4 @@ export var glance16Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var removeDoneRound24px = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var subscriptionsTwotone24px = [
       }
     ]
   ]
-]
+];

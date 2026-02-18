@@ -21,4 +21,4 @@ export var notificationsPausedRound24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var personalInjuryOutlined24px = [
       }
     ]
   ]
-]
+];

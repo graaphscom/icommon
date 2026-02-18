@@ -47,4 +47,4 @@ export var contentPasteSearchRound20px = [
       ]
     ]
   ]
-]
+];

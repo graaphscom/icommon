@@ -56,4 +56,4 @@ export var moveDown24px = [
       ]
     ]
   ]
-]
+];

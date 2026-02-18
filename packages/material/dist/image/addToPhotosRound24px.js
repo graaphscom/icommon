@@ -21,4 +21,4 @@ export var addToPhotosRound24px = [
       }
     ]
   ]
-]
+];

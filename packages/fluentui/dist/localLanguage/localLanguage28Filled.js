@@ -16,4 +16,4 @@ export var localLanguage28Filled = [
       }
     ]
   ]
-]
+];

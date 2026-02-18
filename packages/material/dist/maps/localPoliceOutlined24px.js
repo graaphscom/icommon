@@ -23,4 +23,4 @@ export var localPoliceOutlined24px = [
       }
     ]
   ]
-]
+];

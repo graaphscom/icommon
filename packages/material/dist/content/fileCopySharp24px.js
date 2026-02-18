@@ -21,4 +21,4 @@ export var fileCopySharp24px = [
       }
     ]
   ]
-]
+];

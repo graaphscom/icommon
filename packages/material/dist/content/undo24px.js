@@ -21,4 +21,4 @@ export var undo24px = [
       }
     ]
   ]
-]
+];

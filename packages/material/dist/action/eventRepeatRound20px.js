@@ -35,4 +35,4 @@ export var eventRepeatRound20px = [
       ]
     ]
   ]
-]
+];

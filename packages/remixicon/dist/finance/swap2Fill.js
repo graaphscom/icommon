@@ -13,4 +13,4 @@ export var swap2Fill = [
       }
     ]
   ]
-]
+];

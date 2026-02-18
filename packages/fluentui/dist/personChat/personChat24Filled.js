@@ -16,4 +16,4 @@ export var personChat24Filled = [
       }
     ]
   ]
-]
+];

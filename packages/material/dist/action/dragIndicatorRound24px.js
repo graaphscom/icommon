@@ -21,4 +21,4 @@ export var dragIndicatorRound24px = [
       }
     ]
   ]
-]
+];

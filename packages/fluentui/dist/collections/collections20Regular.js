@@ -16,4 +16,4 @@ export var collections20Regular = [
       }
     ]
   ]
-]
+];

@@ -94,4 +94,4 @@ export var volcanoOutlined24px = [
       ]
     ]
   ]
-]
+];

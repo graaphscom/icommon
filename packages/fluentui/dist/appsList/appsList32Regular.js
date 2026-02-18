@@ -16,4 +16,4 @@ export var appsList32Regular = [
       }
     ]
   ]
-]
+];

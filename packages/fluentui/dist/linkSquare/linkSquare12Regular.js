@@ -16,4 +16,4 @@ export var linkSquare12Regular = [
       }
     ]
   ]
-]
+];

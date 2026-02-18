@@ -340,4 +340,4 @@ export var blobbeeTrainWagon = [
       }
     ]
   ]
-]
+];

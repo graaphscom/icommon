@@ -16,4 +16,4 @@ export var tableMoveAbove32Light = [
       }
     ]
   ]
-]
+];

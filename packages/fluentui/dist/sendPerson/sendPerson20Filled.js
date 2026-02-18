@@ -16,4 +16,4 @@ export var sendPerson20Filled = [
       }
     ]
   ]
-]
+];

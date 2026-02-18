@@ -16,4 +16,4 @@ export var history24Regular = [
       }
     ]
   ]
-]
+];

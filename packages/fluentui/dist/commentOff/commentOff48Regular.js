@@ -16,4 +16,4 @@ export var commentOff48Regular = [
       }
     ]
   ]
-]
+];

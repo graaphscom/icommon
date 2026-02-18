@@ -16,4 +16,4 @@ export var important28Filled = [
       }
     ]
   ]
-]
+];

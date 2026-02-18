@@ -21,4 +21,4 @@ export var fullscreenTwotone24px = [
       }
     ]
   ]
-]
+];

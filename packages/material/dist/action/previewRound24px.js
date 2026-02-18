@@ -29,4 +29,4 @@ export var previewRound24px = [
       ]
     ]
   ]
-]
+];

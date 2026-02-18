@@ -35,4 +35,4 @@ export var precisionManufacturingSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var driveEtaSharp24px = [
       }
     ]
   ]
-]
+];

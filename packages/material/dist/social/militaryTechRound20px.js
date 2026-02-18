@@ -35,4 +35,4 @@ export var militaryTechRound20px = [
       ]
     ]
   ]
-]
+];

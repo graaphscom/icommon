@@ -16,4 +16,4 @@ export var searchVisual20Filled = [
       }
     ]
   ]
-]
+];

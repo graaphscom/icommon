@@ -21,4 +21,4 @@ export var localPizzaRound24px = [
       }
     ]
   ]
-]
+];

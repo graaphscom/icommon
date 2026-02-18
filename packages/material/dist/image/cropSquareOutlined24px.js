@@ -21,4 +21,4 @@ export var cropSquareOutlined24px = [
       }
     ]
   ]
-]
+];

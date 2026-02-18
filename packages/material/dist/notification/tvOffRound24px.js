@@ -21,4 +21,4 @@ export var tvOffRound24px = [
       }
     ]
   ]
-]
+];

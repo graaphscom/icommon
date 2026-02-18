@@ -47,4 +47,4 @@ export var tsunamiOutlined24px = [
       ]
     ]
   ]
-]
+];

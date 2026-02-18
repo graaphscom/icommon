@@ -16,4 +16,4 @@ export var databaseLink20Filled = [
       }
     ]
   ]
-]
+];

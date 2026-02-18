@@ -71,4 +71,4 @@ export var gridViewSharp24px = [
       ]
     ]
   ]
-]
+];

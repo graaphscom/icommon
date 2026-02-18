@@ -16,4 +16,4 @@ export var locationCheckmark12Regular = [
       }
     ]
   ]
-]
+];

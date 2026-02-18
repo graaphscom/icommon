@@ -16,4 +16,4 @@ export var readingModeMobile24Filled = [
       }
     ]
   ]
-]
+];

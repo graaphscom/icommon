@@ -35,4 +35,4 @@ export var moneyOffCsred24px = [
       ]
     ]
   ]
-]
+];

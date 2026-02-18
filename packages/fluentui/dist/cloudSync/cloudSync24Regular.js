@@ -16,4 +16,4 @@ export var cloudSync24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var terrainOutlined24px = [
       }
     ]
   ]
-]
+];

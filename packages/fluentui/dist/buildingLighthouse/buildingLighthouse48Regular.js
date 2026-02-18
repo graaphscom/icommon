@@ -16,4 +16,4 @@ export var buildingLighthouse48Regular = [
       }
     ]
   ]
-]
+];

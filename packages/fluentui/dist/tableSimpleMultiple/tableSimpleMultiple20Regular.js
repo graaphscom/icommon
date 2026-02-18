@@ -16,4 +16,4 @@ export var tableSimpleMultiple20Regular = [
       }
     ]
   ]
-]
+];

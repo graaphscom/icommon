@@ -16,4 +16,4 @@ export var layoutRowTwo28Regular = [
       }
     ]
   ]
-]
+];

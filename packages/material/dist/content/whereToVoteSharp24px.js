@@ -21,4 +21,4 @@ export var whereToVoteSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dualScreenHeader20Filled = [
       }
     ]
   ]
-]
+];

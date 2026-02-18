@@ -23,4 +23,4 @@ export var documentScannerRound24px = [
       }
     ]
   ]
-]
+];

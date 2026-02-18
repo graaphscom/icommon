@@ -16,4 +16,4 @@ export var linkSettings24Regular = [
       }
     ]
   ]
-]
+];

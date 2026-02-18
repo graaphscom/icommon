@@ -21,4 +21,4 @@ export var theatersSharp24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var videoFileRound20px = [
       ]
     ]
   ]
-]
+];

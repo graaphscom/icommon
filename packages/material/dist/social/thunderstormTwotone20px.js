@@ -60,4 +60,4 @@ export var thunderstormTwotone20px = [
       ]
     ]
   ]
-]
+];

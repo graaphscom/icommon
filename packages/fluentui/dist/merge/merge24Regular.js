@@ -16,4 +16,4 @@ export var merge24Regular = [
       }
     ]
   ]
-]
+];

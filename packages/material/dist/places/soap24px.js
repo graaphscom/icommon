@@ -29,4 +29,4 @@ export var soap24px = [
       ]
     ]
   ]
-]
+];

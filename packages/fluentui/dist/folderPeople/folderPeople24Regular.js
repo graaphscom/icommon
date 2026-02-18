@@ -16,4 +16,4 @@ export var folderPeople24Regular = [
       }
     ]
   ]
-]
+];

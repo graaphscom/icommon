@@ -65,4 +65,4 @@ export var addHomeWorkRound20px = [
       ]
     ]
   ]
-]
+];

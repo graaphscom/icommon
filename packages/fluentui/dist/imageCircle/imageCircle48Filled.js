@@ -16,4 +16,4 @@ export var imageCircle48Filled = [
       }
     ]
   ]
-]
+];

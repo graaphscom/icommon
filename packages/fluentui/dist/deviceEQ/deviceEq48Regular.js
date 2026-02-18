@@ -16,4 +16,4 @@ export var deviceEq48Regular = [
       }
     ]
   ]
-]
+];

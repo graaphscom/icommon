@@ -16,4 +16,4 @@ export var cameraAdd48Regular = [
       }
     ]
   ]
-]
+];

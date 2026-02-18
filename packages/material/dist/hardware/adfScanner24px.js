@@ -35,4 +35,4 @@ export var adfScanner24px = [
       ]
     ]
   ]
-]
+];

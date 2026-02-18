@@ -16,4 +16,4 @@ export var textIndentIncreaseRotate9020Regular = [
       }
     ]
   ]
-]
+];

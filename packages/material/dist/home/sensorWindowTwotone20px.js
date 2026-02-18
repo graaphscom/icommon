@@ -36,4 +36,4 @@ export var sensorWindowTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var attachEmailTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentPageTopCenter24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var launcherSettings20Filled = [
       }
     ]
   ]
-]
+];

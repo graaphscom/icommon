@@ -16,4 +16,4 @@ export var tableOffset24Regular = [
       }
     ]
   ]
-]
+];

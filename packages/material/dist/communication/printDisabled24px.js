@@ -21,4 +21,4 @@ export var printDisabled24px = [
       }
     ]
   ]
-]
+];

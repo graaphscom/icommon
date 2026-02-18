@@ -21,4 +21,4 @@ export var importExport24px = [
       }
     ]
   ]
-]
+];

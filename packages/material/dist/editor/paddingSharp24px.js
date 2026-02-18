@@ -35,4 +35,4 @@ export var paddingSharp24px = [
       ]
     ]
   ]
-]
+];

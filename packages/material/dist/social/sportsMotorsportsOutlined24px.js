@@ -35,4 +35,4 @@ export var sportsMotorsportsOutlined24px = [
       ]
     ]
   ]
-]
+];

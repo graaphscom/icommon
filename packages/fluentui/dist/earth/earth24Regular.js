@@ -16,4 +16,4 @@ export var earth24Regular = [
       }
     ]
   ]
-]
+];

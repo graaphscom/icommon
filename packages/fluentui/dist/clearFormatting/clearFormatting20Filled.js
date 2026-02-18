@@ -16,4 +16,4 @@ export var clearFormatting20Filled = [
       }
     ]
   ]
-]
+];

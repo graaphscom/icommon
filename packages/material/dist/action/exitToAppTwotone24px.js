@@ -21,4 +21,4 @@ export var exitToAppTwotone24px = [
       }
     ]
   ]
-]
+];

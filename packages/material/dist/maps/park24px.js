@@ -35,4 +35,4 @@ export var park24px = [
       ]
     ]
   ]
-]
+];

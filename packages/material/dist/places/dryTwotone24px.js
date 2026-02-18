@@ -36,4 +36,4 @@ export var dryTwotone24px = [
       ]
     ]
   ]
-]
+];

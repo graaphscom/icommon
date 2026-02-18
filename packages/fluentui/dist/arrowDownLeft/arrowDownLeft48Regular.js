@@ -16,4 +16,4 @@ export var arrowDownLeft48Regular = [
       }
     ]
   ]
-]
+];

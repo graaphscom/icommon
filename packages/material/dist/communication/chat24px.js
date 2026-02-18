@@ -21,4 +21,4 @@ export var chat24px = [
       }
     ]
   ]
-]
+];

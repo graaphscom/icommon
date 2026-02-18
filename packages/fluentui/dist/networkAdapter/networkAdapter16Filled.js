@@ -16,4 +16,4 @@ export var networkAdapter16Filled = [
       }
     ]
   ]
-]
+];

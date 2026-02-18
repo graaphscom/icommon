@@ -16,4 +16,4 @@ export var chatMultipleMinus20Filled = [
       }
     ]
   ]
-]
+];

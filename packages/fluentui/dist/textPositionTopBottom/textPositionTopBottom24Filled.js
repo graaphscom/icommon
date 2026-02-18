@@ -16,4 +16,4 @@ export var textPositionTopBottom24Filled = [
       }
     ]
   ]
-]
+];

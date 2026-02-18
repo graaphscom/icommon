@@ -16,4 +16,4 @@ export var arrowMaximizeTopLeftBottomRight28Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var borderLeftRight20Regular = [
       }
     ]
   ]
-]
+];

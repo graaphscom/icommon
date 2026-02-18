@@ -22,4 +22,4 @@ export var thumbDownAltRound24px = [
       }
     ]
   ]
-]
+];

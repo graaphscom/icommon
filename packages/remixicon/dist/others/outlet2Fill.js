@@ -13,4 +13,4 @@ export var outlet2Fill = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var monochromePhotosTwotone24px = [
       }
     ]
   ]
-]
+];

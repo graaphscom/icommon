@@ -36,4 +36,4 @@ export var lanOutlined20px = [
       ]
     ]
   ]
-]
+];

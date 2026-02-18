@@ -42,4 +42,4 @@ export var saveAsTwotone24px = [
       ]
     ]
   ]
-]
+];

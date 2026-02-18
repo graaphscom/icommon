@@ -47,4 +47,4 @@ export var wrongLocationSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var southAmericaSharp20px = [
       }
     ]
   ]
-]
+];

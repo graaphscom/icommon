@@ -16,4 +16,4 @@ export var phoneChat28Filled = [
       }
     ]
   ]
-]
+];

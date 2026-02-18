@@ -16,4 +16,4 @@ export var buildingPeople16Filled = [
       }
     ]
   ]
-]
+];

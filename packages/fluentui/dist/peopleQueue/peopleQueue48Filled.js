@@ -16,4 +16,4 @@ export var peopleQueue48Filled = [
       }
     ]
   ]
-]
+];

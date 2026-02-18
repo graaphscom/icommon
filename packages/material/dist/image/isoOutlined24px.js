@@ -21,4 +21,4 @@ export var isoOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var videoClipOff16Filled = [
       }
     ]
   ]
-]
+];

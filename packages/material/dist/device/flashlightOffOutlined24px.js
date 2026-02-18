@@ -46,4 +46,4 @@ export var flashlightOffOutlined24px = [
       ]
     ]
   ]
-]
+];

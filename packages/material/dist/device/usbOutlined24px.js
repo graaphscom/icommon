@@ -21,4 +21,4 @@ export var usbOutlined24px = [
       }
     ]
   ]
-]
+];

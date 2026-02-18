@@ -21,4 +21,4 @@ export var labelImportantOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

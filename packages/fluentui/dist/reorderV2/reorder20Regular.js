@@ -16,4 +16,4 @@ export var reorder20Regular = [
       }
     ]
   ]
-]
+];

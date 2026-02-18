@@ -182,4 +182,4 @@ export var headphones24Color = [
       ]
     ]
   ]
-]
+];

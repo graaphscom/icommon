@@ -21,4 +21,4 @@ export var acUnitOutlined24px = [
       }
     ]
   ]
-]
+];

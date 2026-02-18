@@ -55,4 +55,4 @@ export var playCircleTwotone20px = [
       ]
     ]
   ]
-]
+];

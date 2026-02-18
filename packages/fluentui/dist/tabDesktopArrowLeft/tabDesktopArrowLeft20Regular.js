@@ -16,4 +16,4 @@ export var tabDesktopArrowLeft20Regular = [
       }
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var rocketLaunchTwotone20px = [
       ]
     ]
   ]
-]
+];

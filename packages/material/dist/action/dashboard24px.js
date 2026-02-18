@@ -21,4 +21,4 @@ export var dashboard24px = [
       }
     ]
   ]
-]
+];

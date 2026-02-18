@@ -16,4 +16,4 @@ export var heartPulseError20Regular = [
       }
     ]
   ]
-]
+];

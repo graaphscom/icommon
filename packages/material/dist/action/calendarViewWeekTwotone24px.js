@@ -80,4 +80,4 @@ export var calendarViewWeekTwotone24px = [
       ]
     ]
   ]
-]
+];

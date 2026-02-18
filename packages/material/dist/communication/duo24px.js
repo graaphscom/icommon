@@ -21,4 +21,4 @@ export var duo24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var kayaking24px = [
       }
     ]
   ]
-]
+];

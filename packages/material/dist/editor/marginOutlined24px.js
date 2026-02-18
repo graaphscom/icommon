@@ -41,4 +41,4 @@ export var marginOutlined24px = [
       ]
     ]
   ]
-]
+];

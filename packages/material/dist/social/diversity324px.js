@@ -65,4 +65,4 @@ export var diversity324px = [
       ]
     ]
   ]
-]
+];

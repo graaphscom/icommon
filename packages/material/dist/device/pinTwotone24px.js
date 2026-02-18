@@ -65,4 +65,4 @@ export var pinTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var targetArrow20Regular = [
       }
     ]
   ]
-]
+];

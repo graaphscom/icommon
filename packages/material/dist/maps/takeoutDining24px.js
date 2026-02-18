@@ -36,4 +36,4 @@ export var takeoutDining24px = [
       ]
     ]
   ]
-]
+];

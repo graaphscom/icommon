@@ -16,4 +16,4 @@ export var peopleLock24Filled = [
       }
     ]
   ]
-]
+];

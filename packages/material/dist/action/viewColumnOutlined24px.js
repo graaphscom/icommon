@@ -23,4 +23,4 @@ export var viewColumnOutlined24px = [
       }
     ]
   ]
-]
+];

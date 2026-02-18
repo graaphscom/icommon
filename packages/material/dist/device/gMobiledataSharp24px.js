@@ -40,4 +40,4 @@ export var gMobiledataSharp24px = [
       ]
     ]
   ]
-]
+];

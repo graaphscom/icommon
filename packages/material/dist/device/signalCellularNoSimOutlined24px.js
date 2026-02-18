@@ -21,4 +21,4 @@ export var signalCellularNoSimOutlined24px = [
       }
     ]
   ]
-]
+];

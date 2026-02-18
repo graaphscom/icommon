@@ -43,4 +43,4 @@ export var pedalBikeRound24px = [
       ]
     ]
   ]
-]
+];

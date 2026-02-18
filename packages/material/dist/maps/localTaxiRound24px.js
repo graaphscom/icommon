@@ -21,4 +21,4 @@ export var localTaxiRound24px = [
       }
     ]
   ]
-]
+];

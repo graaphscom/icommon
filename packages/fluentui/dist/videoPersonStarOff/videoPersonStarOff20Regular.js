@@ -16,4 +16,4 @@ export var videoPersonStarOff20Regular = [
       }
     ]
   ]
-]
+];

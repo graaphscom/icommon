@@ -60,4 +60,4 @@ export var screenshotMonitorTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var peopleSubtract32Filled = [
       }
     ]
   ]
-]
+];

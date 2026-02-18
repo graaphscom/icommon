@@ -16,4 +16,4 @@ export var layoutRowThree24Filled = [
       }
     ]
   ]
-]
+];

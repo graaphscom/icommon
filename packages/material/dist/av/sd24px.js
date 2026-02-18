@@ -21,4 +21,4 @@ export var sd24px = [
       }
     ]
   ]
-]
+];

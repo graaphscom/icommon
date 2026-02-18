@@ -47,4 +47,4 @@ export var searchOff24px = [
       ]
     ]
   ]
-]
+];

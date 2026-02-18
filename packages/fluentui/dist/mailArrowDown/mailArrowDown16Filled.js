@@ -16,4 +16,4 @@ export var mailArrowDown16Filled = [
       }
     ]
   ]
-]
+];

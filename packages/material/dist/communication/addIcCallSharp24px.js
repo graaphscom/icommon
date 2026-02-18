@@ -21,4 +21,4 @@ export var addIcCallSharp24px = [
       }
     ]
   ]
-]
+];

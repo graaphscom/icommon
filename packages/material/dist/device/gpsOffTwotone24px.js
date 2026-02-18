@@ -21,4 +21,4 @@ export var gpsOffTwotone24px = [
       }
     ]
   ]
-]
+];

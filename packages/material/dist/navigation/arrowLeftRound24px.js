@@ -22,4 +22,4 @@ export var arrowLeftRound24px = [
       }
     ]
   ]
-]
+];

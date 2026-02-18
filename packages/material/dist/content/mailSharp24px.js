@@ -21,4 +21,4 @@ export var mailSharp24px = [
       }
     ]
   ]
-]
+];

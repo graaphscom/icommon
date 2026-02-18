@@ -21,4 +21,4 @@ export var callReceivedSharp24px = [
       }
     ]
   ]
-]
+];

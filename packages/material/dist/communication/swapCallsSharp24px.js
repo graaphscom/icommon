@@ -21,4 +21,4 @@ export var swapCallsSharp24px = [
       }
     ]
   ]
-]
+];

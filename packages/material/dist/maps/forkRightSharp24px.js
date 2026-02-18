@@ -35,4 +35,4 @@ export var forkRightSharp24px = [
       ]
     ]
   ]
-]
+];

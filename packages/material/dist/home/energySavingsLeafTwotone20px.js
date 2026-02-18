@@ -54,4 +54,4 @@ export var energySavingsLeafTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailInboxPerson48Regular = [
       }
     ]
   ]
-]
+];

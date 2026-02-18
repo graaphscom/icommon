@@ -16,4 +16,4 @@ export var alignSpaceBetweenHorizontal20Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var houseboatSharp20px = [
       }
     ]
   ]
-]
+];

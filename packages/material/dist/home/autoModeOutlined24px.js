@@ -71,4 +71,4 @@ export var autoModeOutlined24px = [
       ]
     ]
   ]
-]
+];

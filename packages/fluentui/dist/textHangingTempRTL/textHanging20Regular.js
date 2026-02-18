@@ -16,4 +16,4 @@ export var textHanging20Regular = [
       }
     ]
   ]
-]
+];

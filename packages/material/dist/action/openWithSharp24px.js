@@ -21,4 +21,4 @@ export var openWithSharp24px = [
       }
     ]
   ]
-]
+];

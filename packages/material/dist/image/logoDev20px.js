@@ -47,4 +47,4 @@ export var logoDev20px = [
       ]
     ]
   ]
-]
+];

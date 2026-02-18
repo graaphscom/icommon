@@ -16,4 +16,4 @@ export var documentKey20Regular = [
       }
     ]
   ]
-]
+];

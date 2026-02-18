@@ -47,4 +47,4 @@ export var rocketOutlined24px = [
       ]
     ]
   ]
-]
+];

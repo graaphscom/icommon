@@ -16,4 +16,4 @@ export var phoneScreenTime20Filled = [
       }
     ]
   ]
-]
+];

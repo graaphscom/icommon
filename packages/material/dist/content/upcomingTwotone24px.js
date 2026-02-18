@@ -69,4 +69,4 @@ export var upcomingTwotone24px = [
       ]
     ]
   ]
-]
+];

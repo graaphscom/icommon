@@ -21,4 +21,4 @@ export var titleTwotone24px = [
       }
     ]
   ]
-]
+];

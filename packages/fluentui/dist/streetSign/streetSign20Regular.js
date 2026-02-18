@@ -16,4 +16,4 @@ export var streetSign20Regular = [
       }
     ]
   ]
-]
+];

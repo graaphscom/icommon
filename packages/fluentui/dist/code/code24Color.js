@@ -48,4 +48,4 @@ export var code24Color = [
       ]
     ]
   ]
-]
+];

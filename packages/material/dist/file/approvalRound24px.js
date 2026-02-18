@@ -41,4 +41,4 @@ export var approvalRound24px = [
       ]
     ]
   ]
-]
+];

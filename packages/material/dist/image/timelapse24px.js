@@ -21,4 +21,4 @@ export var timelapse24px = [
       }
     ]
   ]
-]
+];

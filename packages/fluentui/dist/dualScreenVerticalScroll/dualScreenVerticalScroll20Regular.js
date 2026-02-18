@@ -16,4 +16,4 @@ export var dualScreenVerticalScroll20Regular = [
       }
     ]
   ]
-]
+];

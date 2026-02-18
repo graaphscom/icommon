@@ -47,4 +47,4 @@ export var installMobileSharp24px = [
       ]
     ]
   ]
-]
+];

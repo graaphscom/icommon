@@ -21,4 +21,4 @@ export var gpsNotFixedTwotone24px = [
       }
     ]
   ]
-]
+];

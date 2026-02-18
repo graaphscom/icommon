@@ -21,4 +21,4 @@ export var desktopWindowsSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dishwasher32Regular = [
       }
     ]
   ]
-]
+];

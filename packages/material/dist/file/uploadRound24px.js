@@ -21,4 +21,4 @@ export var uploadRound24px = [
       }
     ]
   ]
-]
+];

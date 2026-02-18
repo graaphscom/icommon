@@ -35,4 +35,4 @@ export var upload24px = [
       ]
     ]
   ]
-]
+];

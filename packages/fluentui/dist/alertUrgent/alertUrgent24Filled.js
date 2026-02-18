@@ -16,4 +16,4 @@ export var alertUrgent24Filled = [
       }
     ]
   ]
-]
+];

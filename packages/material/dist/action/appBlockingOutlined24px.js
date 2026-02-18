@@ -41,4 +41,4 @@ export var appBlockingOutlined24px = [
       ]
     ]
   ]
-]
+];

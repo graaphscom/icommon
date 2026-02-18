@@ -28,4 +28,4 @@ export var doDisturbOffTwotone24px = [
       }
     ]
   ]
-]
+];

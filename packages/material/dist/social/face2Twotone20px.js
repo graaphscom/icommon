@@ -99,4 +99,4 @@ export var face2Twotone20px = [
       ]
     ]
   ]
-]
+];

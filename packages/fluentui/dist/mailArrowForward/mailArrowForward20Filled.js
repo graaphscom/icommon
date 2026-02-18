@@ -16,4 +16,4 @@ export var mailArrowForward20Filled = [
       }
     ]
   ]
-]
+];

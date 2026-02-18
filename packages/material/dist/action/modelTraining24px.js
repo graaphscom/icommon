@@ -29,4 +29,4 @@ export var modelTraining24px = [
       ]
     ]
   ]
-]
+];

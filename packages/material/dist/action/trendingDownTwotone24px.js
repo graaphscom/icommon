@@ -21,4 +21,4 @@ export var trendingDownTwotone24px = [
       }
     ]
   ]
-]
+];

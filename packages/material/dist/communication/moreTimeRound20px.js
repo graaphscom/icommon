@@ -53,4 +53,4 @@ export var moreTimeRound20px = [
       ]
     ]
   ]
-]
+];

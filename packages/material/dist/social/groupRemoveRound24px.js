@@ -23,4 +23,4 @@ export var groupRemoveRound24px = [
       }
     ]
   ]
-]
+];

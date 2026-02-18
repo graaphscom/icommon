@@ -52,4 +52,4 @@ export var man3Outlined20px = [
       ]
     ]
   ]
-]
+];

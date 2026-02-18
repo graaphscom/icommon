@@ -41,4 +41,4 @@ export var historyEduRound20px = [
       ]
     ]
   ]
-]
+];

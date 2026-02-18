@@ -21,4 +21,4 @@ export var cloudQueueSharp24px = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var keyboardControlKeyOutlined20px = [
       ]
     ]
   ]
-]
+];

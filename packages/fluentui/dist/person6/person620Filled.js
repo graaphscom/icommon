@@ -16,4 +16,4 @@ export var person620Filled = [
       }
     ]
   ]
-]
+];

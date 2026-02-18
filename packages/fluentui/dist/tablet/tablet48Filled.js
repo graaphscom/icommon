@@ -16,4 +16,4 @@ export var tablet48Filled = [
       }
     ]
   ]
-]
+];

@@ -62,4 +62,4 @@ export var electricMopedSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var generatingTokensSharp24px = [
       }
     ]
   ]
-]
+];

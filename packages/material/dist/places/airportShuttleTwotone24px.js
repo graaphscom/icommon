@@ -28,4 +28,4 @@ export var airportShuttleTwotone24px = [
       }
     ]
   ]
-]
+];

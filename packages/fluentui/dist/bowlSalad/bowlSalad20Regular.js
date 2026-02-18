@@ -16,4 +16,4 @@ export var bowlSalad20Regular = [
       }
     ]
   ]
-]
+];

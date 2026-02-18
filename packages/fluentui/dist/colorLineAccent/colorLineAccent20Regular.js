@@ -16,4 +16,4 @@ export var colorLineAccent20Regular = [
       }
     ]
   ]
-]
+];

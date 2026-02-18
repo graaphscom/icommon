@@ -16,4 +16,4 @@ export var closedCaption48Filled = [
       }
     ]
   ]
-]
+];

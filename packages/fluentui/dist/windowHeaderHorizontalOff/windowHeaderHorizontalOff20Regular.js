@@ -16,4 +16,4 @@ export var windowHeaderHorizontalOff20Regular = [
       }
     ]
   ]
-]
+];

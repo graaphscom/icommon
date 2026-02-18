@@ -21,4 +21,4 @@ export var filterBAndWRound24px = [
       }
     ]
   ]
-]
+];

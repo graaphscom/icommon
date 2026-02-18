@@ -16,4 +16,4 @@ export var classification28Regular = [
       }
     ]
   ]
-]
+];

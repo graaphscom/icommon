@@ -21,4 +21,4 @@ export var viewDayRound24px = [
       }
     ]
   ]
-]
+];

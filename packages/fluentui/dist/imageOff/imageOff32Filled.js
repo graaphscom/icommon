@@ -16,4 +16,4 @@ export var imageOff32Filled = [
       }
     ]
   ]
-]
+];

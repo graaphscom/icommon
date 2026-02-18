@@ -16,4 +16,4 @@ export var link16Filled = [
       }
     ]
   ]
-]
+];

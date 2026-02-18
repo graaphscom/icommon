@@ -16,4 +16,4 @@ export var textSortAscending24Filled = [
       }
     ]
   ]
-]
+];

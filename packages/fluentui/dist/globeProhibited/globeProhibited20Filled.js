@@ -16,4 +16,4 @@ export var globeProhibited20Filled = [
       }
     ]
   ]
-]
+];

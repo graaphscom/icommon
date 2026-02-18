@@ -13,4 +13,4 @@ export var speaker2Fill = [
       }
     ]
   ]
-]
+];

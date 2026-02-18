@@ -16,4 +16,4 @@ export var mountainTrail28Regular = [
       }
     ]
   ]
-]
+];

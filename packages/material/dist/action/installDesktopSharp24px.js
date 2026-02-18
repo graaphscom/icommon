@@ -47,4 +47,4 @@ export var installDesktopSharp24px = [
       ]
     ]
   ]
-]
+];

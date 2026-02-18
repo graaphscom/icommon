@@ -16,4 +16,4 @@ export var contentView32Filled = [
       }
     ]
   ]
-]
+];

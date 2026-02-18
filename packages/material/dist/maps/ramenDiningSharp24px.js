@@ -35,4 +35,4 @@ export var ramenDiningSharp24px = [
       ]
     ]
   ]
-]
+];

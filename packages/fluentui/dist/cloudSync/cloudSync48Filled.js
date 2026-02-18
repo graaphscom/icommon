@@ -16,4 +16,4 @@ export var cloudSync48Filled = [
       }
     ]
   ]
-]
+];

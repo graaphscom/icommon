@@ -37,4 +37,4 @@ export var childCareSharp24px = [
       }
     ]
   ]
-]
+];

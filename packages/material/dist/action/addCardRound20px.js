@@ -35,4 +35,4 @@ export var addCardRound20px = [
       ]
     ]
   ]
-]
+];

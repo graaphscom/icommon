@@ -16,4 +16,4 @@ export var animalTurtle20Regular = [
       }
     ]
   ]
-]
+];

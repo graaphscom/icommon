@@ -28,4 +28,4 @@ export var libraryAddCheckOutlined24px = [
       ]
     ]
   ]
-]
+];

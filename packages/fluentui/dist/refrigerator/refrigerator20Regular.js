@@ -16,4 +16,4 @@ export var refrigerator20Regular = [
       }
     ]
   ]
-]
+];

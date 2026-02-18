@@ -14,4 +14,4 @@ export var borderHorizontalSharp24px = [
       }
     ]
   ]
-]
+];

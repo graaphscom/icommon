@@ -25,4 +25,4 @@ export var outbondOutlined24px = [
       }
     ]
   ]
-]
+];

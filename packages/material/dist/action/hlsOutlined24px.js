@@ -35,4 +35,4 @@ export var hlsOutlined24px = [
       ]
     ]
   ]
-]
+];

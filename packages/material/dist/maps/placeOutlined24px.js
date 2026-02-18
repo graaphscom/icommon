@@ -21,4 +21,4 @@ export var placeOutlined24px = [
       }
     ]
   ]
-]
+];

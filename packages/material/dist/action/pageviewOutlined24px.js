@@ -21,4 +21,4 @@ export var pageviewOutlined24px = [
       }
     ]
   ]
-]
+];

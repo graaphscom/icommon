@@ -16,4 +16,4 @@ export var tableResizeRow28Regular = [
       }
     ]
   ]
-]
+];

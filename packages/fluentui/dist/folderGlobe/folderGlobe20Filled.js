@@ -16,4 +16,4 @@ export var folderGlobe20Filled = [
       }
     ]
   ]
-]
+];

@@ -58,4 +58,4 @@ export var pinOutlined24px = [
       ]
     ]
   ]
-]
+];

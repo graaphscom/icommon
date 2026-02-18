@@ -29,4 +29,4 @@ export var checkroomOutlined24px = [
       ]
     ]
   ]
-]
+];

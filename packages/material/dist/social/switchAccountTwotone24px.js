@@ -49,4 +49,4 @@ export var switchAccountTwotone24px = [
       ]
     ]
   ]
-]
+];

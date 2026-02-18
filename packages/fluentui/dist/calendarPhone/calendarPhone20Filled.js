@@ -16,4 +16,4 @@ export var calendarPhone20Filled = [
       }
     ]
   ]
-]
+];

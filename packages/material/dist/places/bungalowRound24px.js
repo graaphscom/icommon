@@ -24,4 +24,4 @@ export var bungalowRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var smsOutlined24px = [
       }
     ]
   ]
-]
+];

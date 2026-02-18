@@ -285,4 +285,4 @@ export var personTentative32Color = [
       ]
     ]
   ]
-]
+];

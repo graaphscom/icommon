@@ -29,4 +29,4 @@ export var washOutlined24px = [
       ]
     ]
   ]
-]
+];

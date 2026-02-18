@@ -29,4 +29,4 @@ export var highlightAltRound24px = [
       ]
     ]
   ]
-]
+];

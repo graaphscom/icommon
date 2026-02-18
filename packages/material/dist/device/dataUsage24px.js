@@ -21,4 +21,4 @@ export var dataUsage24px = [
       }
     ]
   ]
-]
+];

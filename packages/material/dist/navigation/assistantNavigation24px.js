@@ -21,4 +21,4 @@ export var assistantNavigation24px = [
       }
     ]
   ]
-]
+];

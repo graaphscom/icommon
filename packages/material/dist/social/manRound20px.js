@@ -49,4 +49,4 @@ export var manRound20px = [
       ]
     ]
   ]
-]
+];

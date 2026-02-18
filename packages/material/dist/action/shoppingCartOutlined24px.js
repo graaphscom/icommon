@@ -21,4 +21,4 @@ export var shoppingCartOutlined24px = [
       }
     ]
   ]
-]
+];

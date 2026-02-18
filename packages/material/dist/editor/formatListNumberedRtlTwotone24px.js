@@ -21,4 +21,4 @@ export var formatListNumberedRtlTwotone24px = [
       }
     ]
   ]
-]
+];

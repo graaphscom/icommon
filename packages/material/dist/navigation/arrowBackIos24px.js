@@ -21,4 +21,4 @@ export var arrowBackIos24px = [
       }
     ]
   ]
-]
+];

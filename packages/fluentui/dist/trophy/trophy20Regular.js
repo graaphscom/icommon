@@ -16,4 +16,4 @@ export var trophy20Regular = [
       }
     ]
   ]
-]
+];

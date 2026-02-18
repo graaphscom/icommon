@@ -16,4 +16,4 @@ export var shieldArrowRight28Filled = [
       }
     ]
   ]
-]
+];

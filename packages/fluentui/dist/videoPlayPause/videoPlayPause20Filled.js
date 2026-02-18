@@ -16,4 +16,4 @@ export var videoPlayPause20Filled = [
       }
     ]
   ]
-]
+];

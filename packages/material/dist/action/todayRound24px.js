@@ -21,4 +21,4 @@ export var todayRound24px = [
       }
     ]
   ]
-]
+];

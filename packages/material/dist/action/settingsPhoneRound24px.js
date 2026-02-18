@@ -65,4 +65,4 @@ export var settingsPhoneRound24px = [
       ]
     ]
   ]
-]
+];

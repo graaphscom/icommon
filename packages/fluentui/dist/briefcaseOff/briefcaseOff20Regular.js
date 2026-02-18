@@ -16,4 +16,4 @@ export var briefcaseOff20Regular = [
       }
     ]
   ]
-]
+];

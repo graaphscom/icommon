@@ -21,4 +21,4 @@ export var personSharp24px = [
       }
     ]
   ]
-]
+];

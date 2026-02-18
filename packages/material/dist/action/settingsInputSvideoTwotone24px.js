@@ -66,4 +66,4 @@ export var settingsInputSvideoTwotone24px = [
       }
     ]
   ]
-]
+];

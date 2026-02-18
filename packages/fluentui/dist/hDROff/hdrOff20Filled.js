@@ -16,4 +16,4 @@ export var hdrOff20Filled = [
       }
     ]
   ]
-]
+];

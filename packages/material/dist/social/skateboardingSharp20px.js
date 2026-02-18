@@ -29,4 +29,4 @@ export var skateboardingSharp20px = [
       ]
     ]
   ]
-]
+];

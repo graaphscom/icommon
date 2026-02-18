@@ -59,4 +59,4 @@ export var mailLock24px = [
       ]
     ]
   ]
-]
+];

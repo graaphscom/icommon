@@ -94,4 +94,4 @@ export var volcanoSharp20px = [
       ]
     ]
   ]
-]
+];

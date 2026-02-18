@@ -29,4 +29,4 @@ export var snippetFolderRound24px = [
       ]
     ]
   ]
-]
+];

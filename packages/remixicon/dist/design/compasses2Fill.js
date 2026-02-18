@@ -13,4 +13,4 @@ export var compasses2Fill = [
       }
     ]
   ]
-]
+];

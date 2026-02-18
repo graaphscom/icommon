@@ -35,4 +35,4 @@ export var hlsTwotone24px = [
       ]
     ]
   ]
-]
+];

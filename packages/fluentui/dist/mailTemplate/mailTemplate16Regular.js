@@ -16,4 +16,4 @@ export var mailTemplate16Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var signalCellularAltOutlined24px = [
       }
     ]
   ]
-]
+];

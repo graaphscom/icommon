@@ -35,4 +35,4 @@ export var straightSharp20px = [
       ]
     ]
   ]
-]
+];

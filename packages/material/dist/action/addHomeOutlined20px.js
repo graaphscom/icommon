@@ -60,4 +60,4 @@ export var addHomeOutlined20px = [
       ]
     ]
   ]
-]
+];

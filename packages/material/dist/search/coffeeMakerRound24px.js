@@ -48,4 +48,4 @@ export var coffeeMakerRound24px = [
       ]
     ]
   ]
-]
+];

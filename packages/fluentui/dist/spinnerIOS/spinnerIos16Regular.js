@@ -16,4 +16,4 @@ export var spinnerIos16Regular = [
       }
     ]
   ]
-]
+];

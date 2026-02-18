@@ -21,4 +21,4 @@ export var settingsVoiceOutlined24px = [
       }
     ]
   ]
-]
+];

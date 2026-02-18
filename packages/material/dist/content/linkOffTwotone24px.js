@@ -21,4 +21,4 @@ export var linkOffTwotone24px = [
       }
     ]
   ]
-]
+];

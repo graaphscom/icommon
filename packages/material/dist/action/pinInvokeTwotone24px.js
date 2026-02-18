@@ -23,4 +23,4 @@ export var pinInvokeTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -31,4 +31,4 @@ export var tourSharp24px = [
       ]
     ]
   ]
-]
+];

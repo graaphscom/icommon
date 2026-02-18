@@ -16,4 +16,4 @@ export var heartCircle16Regular = [
       }
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var ecoTwotone24px = [
       ]
     ]
   ]
-]
+];

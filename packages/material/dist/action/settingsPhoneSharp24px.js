@@ -21,4 +21,4 @@ export var settingsPhoneSharp24px = [
       }
     ]
   ]
-]
+];

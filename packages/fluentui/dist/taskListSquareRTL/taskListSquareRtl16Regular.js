@@ -16,4 +16,4 @@ export var taskListSquareRtl16Regular = [
       }
     ]
   ]
-]
+];

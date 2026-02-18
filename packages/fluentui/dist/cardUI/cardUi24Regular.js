@@ -16,4 +16,4 @@ export var cardUi24Regular = [
       }
     ]
   ]
-]
+];

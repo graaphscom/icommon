@@ -21,4 +21,4 @@ export var satelliteOutlined24px = [
       }
     ]
   ]
-]
+];

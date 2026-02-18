@@ -40,4 +40,4 @@ export var wifiTetheringErrorTwotone24px = [
       ]
     ]
   ]
-]
+];

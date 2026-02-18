@@ -40,4 +40,4 @@ export var rsvpTwotone24px = [
       ]
     ]
   ]
-]
+];

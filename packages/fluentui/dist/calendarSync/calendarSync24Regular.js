@@ -16,4 +16,4 @@ export var calendarSync24Regular = [
       }
     ]
   ]
-]
+];

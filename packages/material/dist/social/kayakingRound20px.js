@@ -23,4 +23,4 @@ export var kayakingRound20px = [
       }
     ]
   ]
-]
+];

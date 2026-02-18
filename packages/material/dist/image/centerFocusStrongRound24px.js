@@ -21,4 +21,4 @@ export var centerFocusStrongRound24px = [
       }
     ]
   ]
-]
+];

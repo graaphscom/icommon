@@ -21,4 +21,4 @@ export var removeShoppingCartSharp24px = [
       }
     ]
   ]
-]
+];

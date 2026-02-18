@@ -35,4 +35,4 @@ export var filterListOffTwotone24px = [
       ]
     ]
   ]
-]
+];

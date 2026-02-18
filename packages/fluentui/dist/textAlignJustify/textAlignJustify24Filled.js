@@ -16,4 +16,4 @@ export var textAlignJustify24Filled = [
       }
     ]
   ]
-]
+];

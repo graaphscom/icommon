@@ -16,4 +16,4 @@ export var tableCursor20Regular = [
       }
     ]
   ]
-]
+];

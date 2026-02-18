@@ -54,4 +54,4 @@ export var landslideOutlined20px = [
       ]
     ]
   ]
-]
+];

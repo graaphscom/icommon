@@ -86,4 +86,4 @@ export var flagPridePhiladelphia24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tableEdit20Regular = [
       }
     ]
   ]
-]
+];

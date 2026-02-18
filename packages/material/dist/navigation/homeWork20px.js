@@ -59,4 +59,4 @@ export var homeWork20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var syncTwotone24px = [
       }
     ]
   ]
-]
+];

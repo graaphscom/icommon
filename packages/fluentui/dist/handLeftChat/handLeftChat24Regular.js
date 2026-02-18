@@ -16,4 +16,4 @@ export var handLeftChat24Regular = [
       }
     ]
   ]
-]
+];

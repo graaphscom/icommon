@@ -23,4 +23,4 @@ export var schemaRound20px = [
       }
     ]
   ]
-]
+];

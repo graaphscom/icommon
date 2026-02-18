@@ -58,4 +58,4 @@ export var directionsTransitFilledOutlined24px = [
       ]
     ]
   ]
-]
+];

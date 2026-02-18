@@ -23,4 +23,4 @@ export var emergencyRound24px = [
       }
     ]
   ]
-]
+];

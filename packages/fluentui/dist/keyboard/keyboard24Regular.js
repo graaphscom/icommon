@@ -16,4 +16,4 @@ export var keyboard24Regular = [
       }
     ]
   ]
-]
+];

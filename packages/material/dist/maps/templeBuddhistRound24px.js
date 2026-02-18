@@ -79,4 +79,4 @@ export var templeBuddhistRound24px = [
       ]
     ]
   ]
-]
+];

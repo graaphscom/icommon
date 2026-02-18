@@ -16,4 +16,4 @@ export var personTentative16Regular = [
       }
     ]
   ]
-]
+];

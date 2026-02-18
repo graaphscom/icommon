@@ -21,4 +21,4 @@ export var filterDramaOutlined24px = [
       }
     ]
   ]
-]
+];

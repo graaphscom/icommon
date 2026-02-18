@@ -66,4 +66,4 @@ export var moveDownTwotone20px = [
       ]
     ]
   ]
-]
+];

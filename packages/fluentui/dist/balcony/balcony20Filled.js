@@ -16,4 +16,4 @@ export var balcony20Filled = [
       }
     ]
   ]
-]
+];

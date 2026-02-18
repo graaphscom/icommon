@@ -16,4 +16,4 @@ export var gridDots24Filled = [
       }
     ]
   ]
-]
+];

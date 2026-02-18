@@ -42,4 +42,4 @@ export var medicalInformationTwotone24px = [
       ]
     ]
   ]
-]
+];

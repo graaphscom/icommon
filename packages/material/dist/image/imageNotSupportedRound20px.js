@@ -36,4 +36,4 @@ export var imageNotSupportedRound20px = [
       ]
     ]
   ]
-]
+];

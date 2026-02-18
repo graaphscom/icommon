@@ -21,4 +21,4 @@ export var pictureAsPdfOutlined24px = [
       }
     ]
   ]
-]
+];

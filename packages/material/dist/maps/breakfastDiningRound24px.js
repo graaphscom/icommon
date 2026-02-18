@@ -36,4 +36,4 @@ export var breakfastDiningRound24px = [
       ]
     ]
   ]
-]
+];

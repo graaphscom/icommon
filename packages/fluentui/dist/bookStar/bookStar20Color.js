@@ -219,4 +219,4 @@ export var bookStar20Color = [
       ]
     ]
   ]
-]
+];

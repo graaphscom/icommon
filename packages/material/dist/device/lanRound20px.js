@@ -35,4 +35,4 @@ export var lanRound20px = [
       ]
     ]
   ]
-]
+];

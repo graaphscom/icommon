@@ -34,4 +34,4 @@ export var horizontalRule24px = [
       ]
     ]
   ]
-]
+];

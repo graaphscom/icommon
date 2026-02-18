@@ -16,4 +16,4 @@ export var resizeVideo24Regular = [
       }
     ]
   ]
-]
+];

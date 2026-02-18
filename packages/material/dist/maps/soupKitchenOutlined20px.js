@@ -29,4 +29,4 @@ export var soupKitchenOutlined20px = [
       ]
     ]
   ]
-]
+];

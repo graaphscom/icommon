@@ -21,4 +21,4 @@ export var callReceivedTwotone24px = [
       }
     ]
   ]
-]
+];

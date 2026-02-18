@@ -16,4 +16,4 @@ export var windowNewRotate18048Filled = [
       }
     ]
   ]
-]
+];

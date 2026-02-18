@@ -35,4 +35,4 @@ export var bedtimeOutlined24px = [
       ]
     ]
   ]
-]
+];

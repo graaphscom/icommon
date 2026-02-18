@@ -35,4 +35,4 @@ export var cellWifiTwotone24px = [
       ]
     ]
   ]
-]
+];

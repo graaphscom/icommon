@@ -21,4 +21,4 @@ export var replyRound24px = [
       }
     ]
   ]
-]
+];

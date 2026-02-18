@@ -21,4 +21,4 @@ export var hotelRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var chat20Regular = [
       }
     ]
   ]
-]
+];

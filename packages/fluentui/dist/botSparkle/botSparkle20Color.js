@@ -396,4 +396,4 @@ export var botSparkle20Color = [
       ]
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var attributionTwotone24px = [
       }
     ]
   ]
-]
+];

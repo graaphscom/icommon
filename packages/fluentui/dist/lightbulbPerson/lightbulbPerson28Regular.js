@@ -16,4 +16,4 @@ export var lightbulbPerson28Regular = [
       }
     ]
   ]
-]
+];

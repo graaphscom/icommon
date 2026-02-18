@@ -16,4 +16,4 @@ export var giftOpen20Filled = [
       }
     ]
   ]
-]
+];

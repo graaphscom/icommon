@@ -16,4 +16,4 @@ export var drinkWine16Regular = [
       }
     ]
   ]
-]
+];

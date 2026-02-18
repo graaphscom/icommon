@@ -47,4 +47,4 @@ export var hourglassDisabledSharp20px = [
       ]
     ]
   ]
-]
+];

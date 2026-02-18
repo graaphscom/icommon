@@ -21,4 +21,4 @@ export var gamesOutlined24px = [
       }
     ]
   ]
-]
+];

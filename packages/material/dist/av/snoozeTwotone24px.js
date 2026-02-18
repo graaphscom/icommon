@@ -21,4 +21,4 @@ export var snoozeTwotone24px = [
       }
     ]
   ]
-]
+];

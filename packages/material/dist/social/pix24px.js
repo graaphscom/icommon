@@ -54,4 +54,4 @@ export var pix24px = [
       ]
     ]
   ]
-]
+];

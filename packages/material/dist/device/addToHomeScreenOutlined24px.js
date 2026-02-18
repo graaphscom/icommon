@@ -21,4 +21,4 @@ export var addToHomeScreenOutlined24px = [
       }
     ]
   ]
-]
+];

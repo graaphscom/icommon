@@ -16,4 +16,4 @@ export var vehicleCar32Regular = [
       }
     ]
   ]
-]
+];

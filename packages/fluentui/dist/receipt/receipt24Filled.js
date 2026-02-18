@@ -16,4 +16,4 @@ export var receipt24Filled = [
       }
     ]
   ]
-]
+];

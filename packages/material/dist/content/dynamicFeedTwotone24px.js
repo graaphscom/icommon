@@ -118,4 +118,4 @@ export var dynamicFeedTwotone24px = [
       ]
     ]
   ]
-]
+];

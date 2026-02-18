@@ -36,4 +36,4 @@ export var turnSharpRightOutlined20px = [
       ]
     ]
   ]
-]
+];

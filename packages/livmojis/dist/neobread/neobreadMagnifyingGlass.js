@@ -129,4 +129,4 @@ export var neobreadMagnifyingGlass = [
       }
     ]
   ]
-]
+];

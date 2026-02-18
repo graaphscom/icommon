@@ -34,4 +34,4 @@ export var networkCellOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var tripOriginSharp24px = [
       }
     ]
   ]
-]
+];

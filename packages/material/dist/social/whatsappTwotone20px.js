@@ -48,4 +48,4 @@ export var whatsappTwotone20px = [
       ]
     ]
   ]
-]
+];

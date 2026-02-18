@@ -13,4 +13,4 @@ export var filter3Fill = [
       }
     ]
   ]
-]
+];

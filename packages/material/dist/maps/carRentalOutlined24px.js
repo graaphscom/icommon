@@ -70,4 +70,4 @@ export var carRentalOutlined24px = [
       ]
     ]
   ]
-]
+];

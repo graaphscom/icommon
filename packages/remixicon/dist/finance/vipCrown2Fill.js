@@ -13,4 +13,4 @@ export var vipCrown2Fill = [
       }
     ]
   ]
-]
+];

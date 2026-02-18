@@ -21,4 +21,4 @@ export var flashAutoTwotone24px = [
       }
     ]
   ]
-]
+];

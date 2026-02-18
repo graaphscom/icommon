@@ -21,4 +21,4 @@ export var lowPriorityRound24px = [
       }
     ]
   ]
-]
+];

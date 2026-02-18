@@ -16,4 +16,4 @@ export var weatherSnow24Filled = [
       }
     ]
   ]
-]
+];

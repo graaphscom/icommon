@@ -55,4 +55,4 @@ export var electricBikeRound24px = [
       ]
     ]
   ]
-]
+];

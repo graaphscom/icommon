@@ -29,4 +29,4 @@ export var snippetFolderSharp24px = [
       ]
     ]
   ]
-]
+];

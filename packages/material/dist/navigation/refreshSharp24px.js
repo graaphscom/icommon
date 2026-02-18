@@ -21,4 +21,4 @@ export var refreshSharp24px = [
       }
     ]
   ]
-]
+];

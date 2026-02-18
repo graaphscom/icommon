@@ -21,4 +21,4 @@ export var swapCallsRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tableOffsetLessThanOrEqualTo24Regular = [
       }
     ]
   ]
-]
+];

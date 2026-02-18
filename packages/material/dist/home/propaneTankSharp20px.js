@@ -47,4 +47,4 @@ export var propaneTankSharp20px = [
       ]
     ]
   ]
-]
+];

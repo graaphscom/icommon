@@ -16,4 +16,4 @@ export var shoppingBagTag32Regular = [
       }
     ]
   ]
-]
+];

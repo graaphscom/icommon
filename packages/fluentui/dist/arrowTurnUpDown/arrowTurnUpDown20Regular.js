@@ -16,4 +16,4 @@ export var arrowTurnUpDown20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var flightTakeoffOutlined24px = [
       }
     ]
   ]
-]
+];

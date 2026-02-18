@@ -60,4 +60,4 @@ export var wifiProtectedSetupOutlined20px = [
       ]
     ]
   ]
-]
+];

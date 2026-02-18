@@ -35,4 +35,4 @@ export var verticalShades20px = [
       ]
     ]
   ]
-]
+];

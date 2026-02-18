@@ -16,4 +16,4 @@ export var stove20Regular = [
       }
     ]
   ]
-]
+];

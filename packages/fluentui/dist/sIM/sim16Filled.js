@@ -16,4 +16,4 @@ export var sim16Filled = [
       }
     ]
   ]
-]
+];

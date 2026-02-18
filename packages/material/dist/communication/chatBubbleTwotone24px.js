@@ -28,4 +28,4 @@ export var chatBubbleTwotone24px = [
       }
     ]
   ]
-]
+];

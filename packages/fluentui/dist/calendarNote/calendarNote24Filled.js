@@ -16,4 +16,4 @@ export var calendarNote24Filled = [
       }
     ]
   ]
-]
+];

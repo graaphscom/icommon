@@ -278,4 +278,4 @@ export var borderRight = [
       }
     ]
   ]
-]
+];

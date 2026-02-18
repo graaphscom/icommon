@@ -16,4 +16,4 @@ export var clipboardTextEdit20Filled = [
       }
     ]
   ]
-]
+];

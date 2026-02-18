@@ -16,4 +16,4 @@ export var desktopToolbox20Filled = [
       }
     ]
   ]
-]
+];

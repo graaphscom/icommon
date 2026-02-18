@@ -16,4 +16,4 @@ export var sparkle28Filled = [
       }
     ]
   ]
-]
+];

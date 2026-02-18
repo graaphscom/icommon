@@ -21,4 +21,4 @@ export var subscriptionsSharp24px = [
       }
     ]
   ]
-]
+];

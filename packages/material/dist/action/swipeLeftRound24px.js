@@ -35,4 +35,4 @@ export var swipeLeftRound24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var recyclingTwotone24px = [
       }
     ]
   ]
-]
+];

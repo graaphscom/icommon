@@ -23,4 +23,4 @@ export var commentBankRound20px = [
       }
     ]
   ]
-]
+];

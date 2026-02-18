@@ -21,4 +21,4 @@ export var favoriteSharp24px = [
       }
     ]
   ]
-]
+];

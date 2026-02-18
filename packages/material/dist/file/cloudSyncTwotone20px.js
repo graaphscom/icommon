@@ -55,4 +55,4 @@ export var cloudSyncTwotone20px = [
       ]
     ]
   ]
-]
+];

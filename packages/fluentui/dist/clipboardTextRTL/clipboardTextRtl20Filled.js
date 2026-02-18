@@ -16,4 +16,4 @@ export var clipboardTextRtl20Filled = [
       }
     ]
   ]
-]
+];

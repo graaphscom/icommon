@@ -23,4 +23,4 @@ export var closedCaptionDisabledRound24px = [
       }
     ]
   ]
-]
+];

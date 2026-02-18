@@ -21,4 +21,4 @@ export var bluetoothSearchingRound24px = [
       }
     ]
   ]
-]
+];

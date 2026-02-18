@@ -47,4 +47,4 @@ export var signalWifiStatusbar1BarTwotone24px = [
       ]
     ]
   ]
-]
+];

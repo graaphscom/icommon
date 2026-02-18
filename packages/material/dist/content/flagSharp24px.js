@@ -21,4 +21,4 @@ export var flagSharp24px = [
       }
     ]
   ]
-]
+];

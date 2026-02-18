@@ -29,4 +29,4 @@ export var linkedCameraSharp24px = [
       }
     ]
   ]
-]
+];

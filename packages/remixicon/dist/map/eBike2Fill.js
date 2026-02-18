@@ -13,4 +13,4 @@ export var eBike2Fill = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var lensSharp24px = [
       }
     ]
   ]
-]
+];

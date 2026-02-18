@@ -47,4 +47,4 @@ export var repartitionSharp20px = [
       ]
     ]
   ]
-]
+];

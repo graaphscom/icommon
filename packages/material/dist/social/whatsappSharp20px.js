@@ -48,4 +48,4 @@ export var whatsappSharp20px = [
       ]
     ]
   ]
-]
+];

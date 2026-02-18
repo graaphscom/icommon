@@ -16,4 +16,4 @@ export var databaseArrowRight20Filled = [
       }
     ]
   ]
-]
+];

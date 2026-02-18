@@ -40,4 +40,4 @@ export var resetTvOutlined24px = [
       ]
     ]
   ]
-]
+];

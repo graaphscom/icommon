@@ -59,4 +59,4 @@ export var transcribe20px = [
       ]
     ]
   ]
-]
+];

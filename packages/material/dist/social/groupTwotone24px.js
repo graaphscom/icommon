@@ -37,4 +37,4 @@ export var groupTwotone24px = [
       }
     ]
   ]
-]
+];

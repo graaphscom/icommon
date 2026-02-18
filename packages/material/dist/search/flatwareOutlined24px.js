@@ -34,4 +34,4 @@ export var flatwareOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var wbAutoOutlined24px = [
       }
     ]
   ]
-]
+];

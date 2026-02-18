@@ -21,4 +21,4 @@ export var nightlightRound24px = [
       }
     ]
   ]
-]
+];

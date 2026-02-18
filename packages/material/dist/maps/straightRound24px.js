@@ -43,4 +43,4 @@ export var straightRound24px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var psychologyOutlined24px = [
       ]
     ]
   ]
-]
+];

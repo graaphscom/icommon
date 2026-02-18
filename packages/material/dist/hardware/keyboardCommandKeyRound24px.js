@@ -49,4 +49,4 @@ export var keyboardCommandKeyRound24px = [
       ]
     ]
   ]
-]
+];

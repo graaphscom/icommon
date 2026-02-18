@@ -40,4 +40,4 @@ export var airOutlined24px = [
       ]
     ]
   ]
-]
+];

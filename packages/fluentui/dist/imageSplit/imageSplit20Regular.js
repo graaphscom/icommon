@@ -16,4 +16,4 @@ export var imageSplit20Regular = [
       }
     ]
   ]
-]
+];

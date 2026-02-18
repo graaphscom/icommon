@@ -47,4 +47,4 @@ export var keyboardDoubleArrowUpOutlined24px = [
       ]
     ]
   ]
-]
+];

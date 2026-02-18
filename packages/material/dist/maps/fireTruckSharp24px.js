@@ -47,4 +47,4 @@ export var fireTruckSharp24px = [
       ]
     ]
   ]
-]
+];

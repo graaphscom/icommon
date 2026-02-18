@@ -16,4 +16,4 @@ export var bugArrowCounterclockwise20Regular = [
       }
     ]
   ]
-]
+];

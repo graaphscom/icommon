@@ -153,4 +153,4 @@ export var scanPerson20Color = [
       ]
     ]
   ]
-]
+];

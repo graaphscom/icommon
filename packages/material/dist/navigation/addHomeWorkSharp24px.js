@@ -59,4 +59,4 @@ export var addHomeWorkSharp24px = [
       ]
     ]
   ]
-]
+];

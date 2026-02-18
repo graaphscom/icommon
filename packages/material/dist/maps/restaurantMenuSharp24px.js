@@ -21,4 +21,4 @@ export var restaurantMenuSharp24px = [
       }
     ]
   ]
-]
+];

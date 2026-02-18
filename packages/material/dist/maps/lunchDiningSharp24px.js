@@ -56,4 +56,4 @@ export var lunchDiningSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var viewComfyAltRound24px = [
       ]
     ]
   ]
-]
+];

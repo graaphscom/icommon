@@ -21,4 +21,4 @@ export var formatAlignCenter24px = [
       }
     ]
   ]
-]
+];

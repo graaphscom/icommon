@@ -21,4 +21,4 @@ export var trendingUpRound24px = [
       }
     ]
   ]
-]
+];

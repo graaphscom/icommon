@@ -35,4 +35,4 @@ export var speakerGroup24px = [
       }
     ]
   ]
-]
+];

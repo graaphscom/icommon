@@ -21,4 +21,4 @@ export var batteryAlertSharp24px = [
       }
     ]
   ]
-]
+];

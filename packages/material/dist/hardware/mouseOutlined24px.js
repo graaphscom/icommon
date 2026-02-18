@@ -21,4 +21,4 @@ export var mouseOutlined24px = [
       }
     ]
   ]
-]
+];

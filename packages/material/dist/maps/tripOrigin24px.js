@@ -28,4 +28,4 @@ export var tripOrigin24px = [
       }
     ]
   ]
-]
+];

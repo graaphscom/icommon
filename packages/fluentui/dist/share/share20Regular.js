@@ -16,4 +16,4 @@ export var share20Regular = [
       }
     ]
   ]
-]
+];

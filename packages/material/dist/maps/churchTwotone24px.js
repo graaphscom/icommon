@@ -56,4 +56,4 @@ export var churchTwotone24px = [
       ]
     ]
   ]
-]
+];

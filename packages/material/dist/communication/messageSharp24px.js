@@ -21,4 +21,4 @@ export var messageSharp24px = [
       }
     ]
   ]
-]
+];

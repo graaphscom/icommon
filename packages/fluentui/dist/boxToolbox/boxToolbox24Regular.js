@@ -16,4 +16,4 @@ export var boxToolbox24Regular = [
       }
     ]
   ]
-]
+];

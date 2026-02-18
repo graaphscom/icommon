@@ -23,4 +23,4 @@ export var timer3SelectOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var folderOpenOutlined24px = [
       }
     ]
   ]
-]
+];

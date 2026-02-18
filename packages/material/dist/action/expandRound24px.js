@@ -34,4 +34,4 @@ export var expandRound24px = [
       ]
     ]
   ]
-]
+];

@@ -60,4 +60,4 @@ export var campaignTwotone24px = [
       }
     ]
   ]
-]
+];

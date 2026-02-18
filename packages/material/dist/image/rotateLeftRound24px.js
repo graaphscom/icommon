@@ -21,4 +21,4 @@ export var rotateLeftRound24px = [
       }
     ]
   ]
-]
+];

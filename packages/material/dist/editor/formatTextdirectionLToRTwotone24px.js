@@ -28,4 +28,4 @@ export var formatTextdirectionLToRTwotone24px = [
       }
     ]
   ]
-]
+];

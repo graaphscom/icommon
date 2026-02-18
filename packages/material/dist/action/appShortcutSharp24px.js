@@ -59,4 +59,4 @@ export var appShortcutSharp24px = [
       ]
     ]
   ]
-]
+];

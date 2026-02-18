@@ -21,4 +21,4 @@ export var fitnessCenterSharp24px = [
       }
     ]
   ]
-]
+];

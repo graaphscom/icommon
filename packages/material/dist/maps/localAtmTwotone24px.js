@@ -28,4 +28,4 @@ export var localAtmTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var selectObject20Regular = [
       }
     ]
   ]
-]
+];

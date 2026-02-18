@@ -28,4 +28,4 @@ export var devicesTwotone24px = [
       }
     ]
   ]
-]
+];

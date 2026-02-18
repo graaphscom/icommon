@@ -35,4 +35,4 @@ export var crop32Twotone20px = [
       ]
     ]
   ]
-]
+];

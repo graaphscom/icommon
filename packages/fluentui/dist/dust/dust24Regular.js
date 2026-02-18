@@ -16,4 +16,4 @@ export var dust24Regular = [
       }
     ]
   ]
-]
+];

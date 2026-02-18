@@ -16,4 +16,4 @@ export var eyedropper16Regular = [
       }
     ]
   ]
-]
+];

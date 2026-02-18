@@ -13,4 +13,4 @@ export var polaroid2Line = [
       }
     ]
   ]
-]
+];

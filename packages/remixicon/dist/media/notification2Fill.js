@@ -13,4 +13,4 @@ export var notification2Fill = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personMail24Filled = [
       }
     ]
   ]
-]
+];

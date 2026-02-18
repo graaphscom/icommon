@@ -28,4 +28,4 @@ export var creditCardTwotone24px = [
       }
     ]
   ]
-]
+];

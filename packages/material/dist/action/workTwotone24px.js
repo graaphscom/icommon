@@ -28,4 +28,4 @@ export var workTwotone24px = [
       }
     ]
   ]
-]
+];

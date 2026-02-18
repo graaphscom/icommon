@@ -16,4 +16,4 @@ export var peopleChat20Regular = [
       }
     ]
   ]
-]
+];

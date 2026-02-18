@@ -21,4 +21,4 @@ export var meetingRoomOutlined24px = [
       }
     ]
   ]
-]
+];

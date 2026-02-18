@@ -31,4 +31,4 @@ export var bookText = [
       }
     ]
   ]
-]
+];

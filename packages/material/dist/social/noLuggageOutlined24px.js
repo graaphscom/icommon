@@ -35,4 +35,4 @@ export var noLuggageOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -50,4 +50,4 @@ export var keyboardOptionKey24px = [
       ]
     ]
   ]
-]
+];

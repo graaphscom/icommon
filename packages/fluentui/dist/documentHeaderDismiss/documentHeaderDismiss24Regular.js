@@ -16,4 +16,4 @@ export var documentHeaderDismiss24Regular = [
       }
     ]
   ]
-]
+];

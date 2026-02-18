@@ -21,4 +21,4 @@ export var wbTwighlight24px = [
       }
     ]
   ]
-]
+];

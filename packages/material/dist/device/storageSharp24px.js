@@ -21,4 +21,4 @@ export var storageSharp24px = [
       }
     ]
   ]
-]
+];

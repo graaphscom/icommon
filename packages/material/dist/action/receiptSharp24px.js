@@ -21,4 +21,4 @@ export var receiptSharp24px = [
       }
     ]
   ]
-]
+];

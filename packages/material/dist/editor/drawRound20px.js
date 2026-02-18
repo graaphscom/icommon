@@ -23,4 +23,4 @@ export var drawRound20px = [
       }
     ]
   ]
-]
+];

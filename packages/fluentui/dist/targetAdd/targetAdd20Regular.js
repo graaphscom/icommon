@@ -16,4 +16,4 @@ export var targetAdd20Regular = [
       }
     ]
   ]
-]
+];

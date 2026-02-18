@@ -16,4 +16,4 @@ export var shiftsAdd20Filled = [
       }
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var schemaTwotone20px = [
       }
     ]
   ]
-]
+];

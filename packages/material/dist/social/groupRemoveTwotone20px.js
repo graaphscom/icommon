@@ -30,4 +30,4 @@ export var groupRemoveTwotone20px = [
       }
     ]
   ]
-]
+];

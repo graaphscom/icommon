@@ -16,4 +16,4 @@ export var notebook16Filled = [
       }
     ]
   ]
-]
+];

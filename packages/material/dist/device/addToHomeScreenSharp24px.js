@@ -21,4 +21,4 @@ export var addToHomeScreenSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dataLine16Filled = [
       }
     ]
   ]
-]
+];

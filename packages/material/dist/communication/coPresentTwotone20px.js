@@ -69,4 +69,4 @@ export var coPresentTwotone20px = [
       ]
     ]
   ]
-]
+];

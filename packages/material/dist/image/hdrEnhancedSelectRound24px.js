@@ -65,4 +65,4 @@ export var hdrEnhancedSelectRound24px = [
       ]
     ]
   ]
-]
+];

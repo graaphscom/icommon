@@ -51,4 +51,4 @@ export var replaySharp24px = [
       ]
     ]
   ]
-]
+];

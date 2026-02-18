@@ -40,4 +40,4 @@ export var summarize24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var importContactsOutlined24px = [
       }
     ]
   ]
-]
+];

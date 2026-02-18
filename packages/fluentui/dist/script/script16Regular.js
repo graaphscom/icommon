@@ -16,4 +16,4 @@ export var script16Regular = [
       }
     ]
   ]
-]
+];

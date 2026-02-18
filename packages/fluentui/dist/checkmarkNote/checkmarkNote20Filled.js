@@ -16,4 +16,4 @@ export var checkmarkNote20Filled = [
       }
     ]
   ]
-]
+];

@@ -63,4 +63,4 @@ export var cycloneTwotone20px = [
       ]
     ]
   ]
-]
+];

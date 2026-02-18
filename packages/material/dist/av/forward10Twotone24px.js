@@ -73,4 +73,4 @@ export var forward10Twotone24px = [
       ]
     ]
   ]
-]
+];

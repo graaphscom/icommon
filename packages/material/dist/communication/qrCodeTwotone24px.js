@@ -175,4 +175,4 @@ export var qrCodeTwotone24px = [
       ]
     ]
   ]
-]
+];

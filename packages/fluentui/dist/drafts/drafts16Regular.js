@@ -16,4 +16,4 @@ export var drafts16Regular = [
       }
     ]
   ]
-]
+];

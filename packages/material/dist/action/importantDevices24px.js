@@ -21,4 +21,4 @@ export var importantDevices24px = [
       }
     ]
   ]
-]
+];

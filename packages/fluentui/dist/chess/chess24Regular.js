@@ -16,4 +16,4 @@ export var chess24Regular = [
       }
     ]
   ]
-]
+];

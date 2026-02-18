@@ -35,4 +35,4 @@ export var currencyRubleSharp24px = [
       ]
     ]
   ]
-]
+];

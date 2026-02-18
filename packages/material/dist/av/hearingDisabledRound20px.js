@@ -29,4 +29,4 @@ export var hearingDisabledRound20px = [
       ]
     ]
   ]
-]
+];

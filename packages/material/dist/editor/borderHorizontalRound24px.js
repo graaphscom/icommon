@@ -21,4 +21,4 @@ export var borderHorizontalRound24px = [
       }
     ]
   ]
-]
+];

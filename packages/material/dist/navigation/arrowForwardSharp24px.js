@@ -21,4 +21,4 @@ export var arrowForwardSharp24px = [
       }
     ]
   ]
-]
+];

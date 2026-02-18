@@ -67,4 +67,4 @@ export var cameraswitchTwotone24px = [
       ]
     ]
   ]
-]
+];

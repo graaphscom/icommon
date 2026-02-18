@@ -16,4 +16,4 @@ export var bookmarkOff20Filled = [
       }
     ]
   ]
-]
+];

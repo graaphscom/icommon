@@ -41,4 +41,4 @@ export var cloudSyncOutlined24px = [
       ]
     ]
   ]
-]
+];

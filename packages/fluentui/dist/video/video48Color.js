@@ -179,4 +179,4 @@ export var video48Color = [
       ]
     ]
   ]
-]
+];

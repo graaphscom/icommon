@@ -51,4 +51,4 @@ export var emojiFoodBeverageRound20px = [
       ]
     ]
   ]
-]
+];

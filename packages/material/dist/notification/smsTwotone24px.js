@@ -28,4 +28,4 @@ export var smsTwotone24px = [
       }
     ]
   ]
-]
+];

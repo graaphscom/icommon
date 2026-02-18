@@ -21,4 +21,4 @@ export var starHalfSharp24px = [
       }
     ]
   ]
-]
+];

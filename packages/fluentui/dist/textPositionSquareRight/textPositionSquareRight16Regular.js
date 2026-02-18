@@ -16,4 +16,4 @@ export var textPositionSquareRight16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowSortDown16Regular = [
       }
     ]
   ]
-]
+];

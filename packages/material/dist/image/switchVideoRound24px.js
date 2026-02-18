@@ -21,4 +21,4 @@ export var switchVideoRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var chromeReaderModeRound24px = [
       }
     ]
   ]
-]
+];

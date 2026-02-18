@@ -36,4 +36,4 @@ export var directionsCarFilled24px = [
       ]
     ]
   ]
-]
+];

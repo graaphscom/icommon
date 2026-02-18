@@ -21,4 +21,4 @@ export var starRateSharp18px = [
       }
     ]
   ]
-]
+];

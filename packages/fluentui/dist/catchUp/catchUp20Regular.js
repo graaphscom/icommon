@@ -16,4 +16,4 @@ export var catchUp20Regular = [
       }
     ]
   ]
-]
+];

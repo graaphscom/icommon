@@ -13,4 +13,4 @@ export var settings5Fill = [
       }
     ]
   ]
-]
+];

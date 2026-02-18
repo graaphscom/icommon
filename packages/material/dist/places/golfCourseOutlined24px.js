@@ -29,4 +29,4 @@ export var golfCourseOutlined24px = [
       }
     ]
   ]
-]
+];

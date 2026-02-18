@@ -36,4 +36,4 @@ export var currencyRupeeOutlined20px = [
       ]
     ]
   ]
-]
+];

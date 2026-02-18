@@ -16,4 +16,4 @@ export var arrowShuffle20Filled = [
       }
     ]
   ]
-]
+];

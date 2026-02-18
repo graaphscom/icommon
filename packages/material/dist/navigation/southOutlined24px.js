@@ -23,4 +23,4 @@ export var southOutlined24px = [
       }
     ]
   ]
-]
+];

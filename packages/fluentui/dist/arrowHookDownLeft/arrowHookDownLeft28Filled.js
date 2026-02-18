@@ -16,4 +16,4 @@ export var arrowHookDownLeft28Filled = [
       }
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var stream24px = [
       }
     ]
   ]
-]
+];

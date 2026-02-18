@@ -16,4 +16,4 @@ export var buildingMosque48Regular = [
       }
     ]
   ]
-]
+];

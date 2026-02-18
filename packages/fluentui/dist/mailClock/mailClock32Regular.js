@@ -16,4 +16,4 @@ export var mailClock32Regular = [
       }
     ]
   ]
-]
+];

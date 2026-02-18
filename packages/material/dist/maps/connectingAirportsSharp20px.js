@@ -23,4 +23,4 @@ export var connectingAirportsSharp20px = [
       }
     ]
   ]
-]
+];

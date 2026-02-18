@@ -16,4 +16,4 @@ export var arrowExportRtl20Regular = [
       }
     ]
   ]
-]
+];

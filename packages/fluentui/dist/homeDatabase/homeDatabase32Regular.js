@@ -16,4 +16,4 @@ export var homeDatabase32Regular = [
       }
     ]
   ]
-]
+];

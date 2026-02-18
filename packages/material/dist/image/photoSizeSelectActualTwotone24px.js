@@ -28,4 +28,4 @@ export var photoSizeSelectActualTwotone24px = [
       }
     ]
   ]
-]
+];

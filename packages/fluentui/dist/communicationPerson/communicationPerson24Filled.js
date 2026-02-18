@@ -16,4 +16,4 @@ export var communicationPerson24Filled = [
       }
     ]
   ]
-]
+];

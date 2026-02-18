@@ -187,4 +187,4 @@ export var receipt28Color = [
       ]
     ]
   ]
-]
+];

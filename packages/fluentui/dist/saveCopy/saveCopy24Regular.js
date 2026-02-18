@@ -16,4 +16,4 @@ export var saveCopy24Regular = [
       }
     ]
   ]
-]
+];

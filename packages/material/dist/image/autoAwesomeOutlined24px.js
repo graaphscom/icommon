@@ -54,4 +54,4 @@ export var autoAwesomeOutlined24px = [
       ]
     ]
   ]
-]
+];

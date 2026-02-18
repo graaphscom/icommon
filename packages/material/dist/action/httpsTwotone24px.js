@@ -28,4 +28,4 @@ export var httpsTwotone24px = [
       }
     ]
   ]
-]
+];

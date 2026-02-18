@@ -23,4 +23,4 @@ export var noMeals24px = [
       }
     ]
   ]
-]
+];

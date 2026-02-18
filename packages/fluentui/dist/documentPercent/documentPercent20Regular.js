@@ -16,4 +16,4 @@ export var documentPercent20Regular = [
       }
     ]
   ]
-]
+];

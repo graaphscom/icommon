@@ -16,4 +16,4 @@ export var heartPulseCheckmark20Regular = [
       }
     ]
   ]
-]
+];

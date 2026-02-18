@@ -16,4 +16,4 @@ export var surfaceEarbuds24Filled = [
       }
     ]
   ]
-]
+];

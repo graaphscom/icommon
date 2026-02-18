@@ -22,4 +22,4 @@ export var pinDropSharp24px = [
       }
     ]
   ]
-]
+];

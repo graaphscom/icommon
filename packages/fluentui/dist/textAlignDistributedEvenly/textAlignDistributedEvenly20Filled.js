@@ -16,4 +16,4 @@ export var textAlignDistributedEvenly20Filled = [
       }
     ]
   ]
-]
+];

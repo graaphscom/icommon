@@ -42,4 +42,4 @@ export var differenceTwotone24px = [
       ]
     ]
   ]
-]
+];

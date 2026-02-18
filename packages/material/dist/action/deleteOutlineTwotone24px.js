@@ -21,4 +21,4 @@ export var deleteOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

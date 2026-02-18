@@ -35,4 +35,4 @@ export var swipeLeftAltOutlined24px = [
       ]
     ]
   ]
-]
+];

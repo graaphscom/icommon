@@ -16,4 +16,4 @@ export var mailInboxAll24Filled = [
       }
     ]
   ]
-]
+];

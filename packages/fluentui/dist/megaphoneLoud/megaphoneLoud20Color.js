@@ -258,4 +258,4 @@ export var megaphoneLoud20Color = [
       ]
     ]
   ]
-]
+];

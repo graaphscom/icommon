@@ -21,4 +21,4 @@ export var localConvenienceStoreOutlined24px = [
       }
     ]
   ]
-]
+];

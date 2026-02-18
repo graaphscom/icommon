@@ -16,4 +16,4 @@ export var emojiEdit20Filled = [
       }
     ]
   ]
-]
+];

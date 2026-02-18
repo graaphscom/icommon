@@ -23,4 +23,4 @@ export var houseboatRound20px = [
       }
     ]
   ]
-]
+];

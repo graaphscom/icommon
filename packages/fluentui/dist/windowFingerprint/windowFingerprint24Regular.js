@@ -16,4 +16,4 @@ export var windowFingerprint24Regular = [
       }
     ]
   ]
-]
+];

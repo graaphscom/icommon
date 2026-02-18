@@ -16,4 +16,4 @@ export var numberRow16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var checkmarkCircleSquare16Filled = [
       }
     ]
   ]
-]
+];

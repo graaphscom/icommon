@@ -215,4 +215,4 @@ export var gift20Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var calendarRecord20Filled = [
       }
     ]
   ]
-]
+];

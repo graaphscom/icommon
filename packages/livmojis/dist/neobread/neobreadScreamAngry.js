@@ -141,4 +141,4 @@ export var neobreadScreamAngry = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var smokingRoomsTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailUnread20Regular = [
       }
     ]
   ]
-]
+];

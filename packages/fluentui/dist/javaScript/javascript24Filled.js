@@ -16,4 +16,4 @@ export var javascript24Filled = [
       }
     ]
   ]
-]
+];

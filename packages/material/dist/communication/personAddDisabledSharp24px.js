@@ -21,4 +21,4 @@ export var personAddDisabledSharp24px = [
       }
     ]
   ]
-]
+];

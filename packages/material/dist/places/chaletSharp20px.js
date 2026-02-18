@@ -23,4 +23,4 @@ export var chaletSharp20px = [
       }
     ]
   ]
-]
+];

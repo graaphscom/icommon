@@ -40,4 +40,4 @@ export var lteMobiledataTwotone24px = [
       ]
     ]
   ]
-]
+];

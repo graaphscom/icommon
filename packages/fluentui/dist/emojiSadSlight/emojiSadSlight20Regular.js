@@ -16,4 +16,4 @@ export var emojiSadSlight20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var brush24px = [
       }
     ]
   ]
-]
+];

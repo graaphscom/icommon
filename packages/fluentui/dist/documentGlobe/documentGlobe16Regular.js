@@ -16,4 +16,4 @@ export var documentGlobe16Regular = [
       }
     ]
   ]
-]
+];

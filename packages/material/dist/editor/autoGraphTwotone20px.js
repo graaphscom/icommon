@@ -23,4 +23,4 @@ export var autoGraphTwotone20px = [
       }
     ]
   ]
-]
+];

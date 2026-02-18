@@ -35,4 +35,4 @@ export var wifiChannelRound20px = [
       ]
     ]
   ]
-]
+];

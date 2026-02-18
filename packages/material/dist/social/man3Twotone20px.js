@@ -51,4 +51,4 @@ export var man3Twotone20px = [
       ]
     ]
   ]
-]
+];

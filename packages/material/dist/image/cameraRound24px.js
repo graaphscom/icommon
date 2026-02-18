@@ -21,4 +21,4 @@ export var cameraRound24px = [
       }
     ]
   ]
-]
+];

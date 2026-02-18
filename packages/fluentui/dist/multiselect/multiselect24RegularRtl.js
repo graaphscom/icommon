@@ -16,4 +16,4 @@ export var multiselect24RegularRtl = [
       }
     ]
   ]
-]
+];

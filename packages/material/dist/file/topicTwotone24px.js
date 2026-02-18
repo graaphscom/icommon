@@ -36,4 +36,4 @@ export var topicTwotone24px = [
       ]
     ]
   ]
-]
+];

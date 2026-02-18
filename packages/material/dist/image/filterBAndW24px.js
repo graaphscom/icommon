@@ -21,4 +21,4 @@ export var filterBAndW24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personStanding16Regular = [
       }
     ]
   ]
-]
+];

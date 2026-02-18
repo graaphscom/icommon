@@ -16,4 +16,4 @@ export var fire20Filled = [
       }
     ]
   ]
-]
+];

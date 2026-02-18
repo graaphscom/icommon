@@ -78,4 +78,4 @@ export var face4Twotone24px = [
       ]
     ]
   ]
-]
+];

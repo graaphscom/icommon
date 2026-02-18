@@ -47,4 +47,4 @@ export var heightRound24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var southWestRound24px = [
       }
     ]
   ]
-]
+];

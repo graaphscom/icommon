@@ -16,4 +16,4 @@ export var videoClipOptimize20Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var featuredPlayListSharp24px = [
       }
     ]
   ]
-]
+];

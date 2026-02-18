@@ -47,4 +47,4 @@ export var lyrics24px = [
       ]
     ]
   ]
-]
+];

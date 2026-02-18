@@ -42,4 +42,4 @@ export var sportsSoccerOutlined20px = [
       ]
     ]
   ]
-]
+];

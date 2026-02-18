@@ -21,4 +21,4 @@ export var shareOutlined24px = [
       }
     ]
   ]
-]
+];

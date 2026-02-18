@@ -53,4 +53,4 @@ export var electricScooter20px = [
       ]
     ]
   ]
-]
+];

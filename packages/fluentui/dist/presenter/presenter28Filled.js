@@ -16,4 +16,4 @@ export var presenter28Filled = [
       }
     ]
   ]
-]
+];

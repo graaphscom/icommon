@@ -21,4 +21,4 @@ export var directionsBusSharp24px = [
       }
     ]
   ]
-]
+];

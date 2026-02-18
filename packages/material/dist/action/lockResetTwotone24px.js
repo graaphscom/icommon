@@ -23,4 +23,4 @@ export var lockResetTwotone24px = [
       }
     ]
   ]
-]
+];

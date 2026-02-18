@@ -35,4 +35,4 @@ export var audioFileRound20px = [
       ]
     ]
   ]
-]
+];

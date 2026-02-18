@@ -28,4 +28,4 @@ export var swapVerticalCircleTwotone24px = [
       }
     ]
   ]
-]
+];

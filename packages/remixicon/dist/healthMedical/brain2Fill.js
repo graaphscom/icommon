@@ -13,4 +13,4 @@ export var brain2Fill = [
       }
     ]
   ]
-]
+];

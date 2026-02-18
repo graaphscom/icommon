@@ -16,4 +16,4 @@ export var crop28Regular = [
       }
     ]
   ]
-]
+];

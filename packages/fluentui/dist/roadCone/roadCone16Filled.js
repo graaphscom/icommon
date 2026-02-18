@@ -16,4 +16,4 @@ export var roadCone16Filled = [
       }
     ]
   ]
-]
+];

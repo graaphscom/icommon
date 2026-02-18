@@ -16,4 +16,4 @@ export var cubeTree20Regular = [
       }
     ]
   ]
-]
+];

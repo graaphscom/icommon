@@ -78,4 +78,4 @@ export var viewCozyOutlined20px = [
       ]
     ]
   ]
-]
+];

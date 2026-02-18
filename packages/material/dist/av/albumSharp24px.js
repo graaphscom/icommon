@@ -21,4 +21,4 @@ export var albumSharp24px = [
       }
     ]
   ]
-]
+];

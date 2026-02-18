@@ -29,4 +29,4 @@ export var groupsSharp24px = [
       ]
     ]
   ]
-]
+];

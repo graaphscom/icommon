@@ -396,4 +396,4 @@ export var dataLine16Color = [
       ]
     ]
   ]
-]
+];

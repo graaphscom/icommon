@@ -41,4 +41,4 @@ export var wbShadeRound24px = [
       ]
     ]
   ]
-]
+];

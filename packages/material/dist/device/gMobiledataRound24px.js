@@ -40,4 +40,4 @@ export var gMobiledataRound24px = [
       ]
     ]
   ]
-]
+];

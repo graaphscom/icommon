@@ -23,4 +23,4 @@ export var dataExplorationSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var loopTwotone24px = [
       }
     ]
   ]
-]
+];

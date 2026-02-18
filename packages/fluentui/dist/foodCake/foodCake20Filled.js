@@ -16,4 +16,4 @@ export var foodCake20Filled = [
       }
     ]
   ]
-]
+];

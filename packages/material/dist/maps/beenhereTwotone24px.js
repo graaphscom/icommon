@@ -28,4 +28,4 @@ export var beenhereTwotone24px = [
       }
     ]
   ]
-]
+];

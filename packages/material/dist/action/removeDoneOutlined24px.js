@@ -35,4 +35,4 @@ export var removeDoneOutlined24px = [
       ]
     ]
   ]
-]
+];

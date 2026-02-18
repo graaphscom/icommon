@@ -16,4 +16,4 @@ export var mailFishHook28Filled = [
       }
     ]
   ]
-]
+];

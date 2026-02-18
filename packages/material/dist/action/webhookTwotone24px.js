@@ -35,4 +35,4 @@ export var webhookTwotone24px = [
       ]
     ]
   ]
-]
+];

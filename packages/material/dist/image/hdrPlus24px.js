@@ -59,4 +59,4 @@ export var hdrPlus24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var controlButton24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var imageAltText16Regular = [
       }
     ]
   ]
-]
+];

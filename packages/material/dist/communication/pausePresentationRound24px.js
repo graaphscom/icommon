@@ -21,4 +21,4 @@ export var pausePresentationRound24px = [
       }
     ]
   ]
-]
+];

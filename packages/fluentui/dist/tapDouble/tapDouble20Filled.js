@@ -16,4 +16,4 @@ export var tapDouble20Filled = [
       }
     ]
   ]
-]
+];

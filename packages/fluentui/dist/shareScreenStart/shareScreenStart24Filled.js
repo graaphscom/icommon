@@ -16,4 +16,4 @@ export var shareScreenStart24Filled = [
       }
     ]
   ]
-]
+];

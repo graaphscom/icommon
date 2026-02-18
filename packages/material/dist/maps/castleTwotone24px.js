@@ -84,4 +84,4 @@ export var castleTwotone24px = [
       ]
     ]
   ]
-]
+];

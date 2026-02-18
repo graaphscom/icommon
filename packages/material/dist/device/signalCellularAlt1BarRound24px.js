@@ -43,4 +43,4 @@ export var signalCellularAlt1BarRound24px = [
       ]
     ]
   ]
-]
+];

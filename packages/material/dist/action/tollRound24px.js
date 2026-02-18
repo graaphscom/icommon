@@ -21,4 +21,4 @@ export var tollRound24px = [
       }
     ]
   ]
-]
+];

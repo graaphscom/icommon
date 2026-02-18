@@ -21,4 +21,4 @@ export var inventory24px = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var __60fps24px = [
       ]
     ]
   ]
-]
+];

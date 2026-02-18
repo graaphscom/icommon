@@ -87,4 +87,4 @@ export var tungstenOutlined24px = [
       ]
     ]
   ]
-]
+];

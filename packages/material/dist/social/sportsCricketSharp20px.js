@@ -59,4 +59,4 @@ export var sportsCricketSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowTrendingWrench24Regular = [
       }
     ]
   ]
-]
+];

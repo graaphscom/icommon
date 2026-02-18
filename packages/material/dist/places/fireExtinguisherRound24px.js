@@ -29,4 +29,4 @@ export var fireExtinguisherRound24px = [
       ]
     ]
   ]
-]
+];

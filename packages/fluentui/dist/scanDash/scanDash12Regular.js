@@ -16,4 +16,4 @@ export var scanDash12Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shiftsProhibited24Regular = [
       }
     ]
   ]
-]
+];

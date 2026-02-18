@@ -16,4 +16,4 @@ export var drinkWine20Filled = [
       }
     ]
   ]
-]
+];

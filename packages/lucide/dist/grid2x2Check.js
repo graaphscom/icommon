@@ -25,4 +25,4 @@ export var grid2x2Check = [
       }
     ]
   ]
-]
+];

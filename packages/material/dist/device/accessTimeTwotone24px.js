@@ -28,4 +28,4 @@ export var accessTimeTwotone24px = [
       }
     ]
   ]
-]
+];

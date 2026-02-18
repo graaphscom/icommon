@@ -53,4 +53,4 @@ export var filePresentTwotone24px = [
       ]
     ]
   ]
-]
+];

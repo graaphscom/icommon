@@ -16,4 +16,4 @@ export var folder48Filled = [
       }
     ]
   ]
-]
+];

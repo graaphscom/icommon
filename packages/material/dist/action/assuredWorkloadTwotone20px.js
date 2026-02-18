@@ -84,4 +84,4 @@ export var assuredWorkloadTwotone20px = [
       ]
     ]
   ]
-]
+];

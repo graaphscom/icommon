@@ -21,4 +21,4 @@ export var mediation24px = [
       }
     ]
   ]
-]
+];

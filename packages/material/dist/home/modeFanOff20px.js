@@ -47,4 +47,4 @@ export var modeFanOff20px = [
       ]
     ]
   ]
-]
+];

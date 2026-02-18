@@ -16,4 +16,4 @@ export var windowEdit16Regular = [
       }
     ]
   ]
-]
+];

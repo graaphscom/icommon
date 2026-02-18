@@ -52,4 +52,4 @@ export var designServicesOutlined20px = [
       ]
     ]
   ]
-]
+];

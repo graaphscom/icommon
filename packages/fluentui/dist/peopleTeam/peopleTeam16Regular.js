@@ -16,4 +16,4 @@ export var peopleTeam16Regular = [
       }
     ]
   ]
-]
+];

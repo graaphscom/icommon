@@ -29,4 +29,4 @@ export var wifiLockTwotone20px = [
       ]
     ]
   ]
-]
+];

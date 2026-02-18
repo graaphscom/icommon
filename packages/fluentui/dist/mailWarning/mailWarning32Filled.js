@@ -16,4 +16,4 @@ export var mailWarning32Filled = [
       }
     ]
   ]
-]
+];

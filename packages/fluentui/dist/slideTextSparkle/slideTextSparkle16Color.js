@@ -416,4 +416,4 @@ export var slideTextSparkle16Color = [
       ]
     ]
   ]
-]
+];

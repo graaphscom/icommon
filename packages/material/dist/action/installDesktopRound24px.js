@@ -55,4 +55,4 @@ export var installDesktopRound24px = [
       ]
     ]
   ]
-]
+];

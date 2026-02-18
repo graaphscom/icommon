@@ -62,4 +62,4 @@ export var templeHinduTwotone20px = [
       ]
     ]
   ]
-]
+];

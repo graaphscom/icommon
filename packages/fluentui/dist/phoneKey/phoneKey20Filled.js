@@ -16,4 +16,4 @@ export var phoneKey20Filled = [
       }
     ]
   ]
-]
+];

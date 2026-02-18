@@ -14,4 +14,4 @@ export var securityRound24px = [
       }
     ]
   ]
-]
+];

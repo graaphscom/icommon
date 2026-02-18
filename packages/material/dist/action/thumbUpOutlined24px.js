@@ -21,4 +21,4 @@ export var thumbUpOutlined24px = [
       }
     ]
   ]
-]
+];

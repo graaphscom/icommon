@@ -73,4 +73,4 @@ export var gradingRound24px = [
       ]
     ]
   ]
-]
+];

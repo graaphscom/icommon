@@ -16,4 +16,4 @@ export var videoPersonCall24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var tocTwotone24px = [
       }
     ]
   ]
-]
+];

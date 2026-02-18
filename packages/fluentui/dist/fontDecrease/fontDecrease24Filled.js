@@ -16,4 +16,4 @@ export var fontDecrease24Filled = [
       }
     ]
   ]
-]
+];

@@ -126,4 +126,4 @@ export var pin48Color = [
       ]
     ]
   ]
-]
+];

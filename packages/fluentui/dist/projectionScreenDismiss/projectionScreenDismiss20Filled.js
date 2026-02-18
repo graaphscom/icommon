@@ -16,4 +16,4 @@ export var projectionScreenDismiss20Filled = [
       }
     ]
   ]
-]
+];

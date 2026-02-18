@@ -21,4 +21,4 @@ export var save24px = [
       }
     ]
   ]
-]
+];

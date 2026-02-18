@@ -16,4 +16,4 @@ export var tableCellAdd16Filled = [
       }
     ]
   ]
-]
+];

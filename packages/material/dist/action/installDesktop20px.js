@@ -47,4 +47,4 @@ export var installDesktop20px = [
       ]
     ]
   ]
-]
+];

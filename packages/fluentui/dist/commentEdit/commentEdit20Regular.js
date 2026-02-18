@@ -16,4 +16,4 @@ export var commentEdit20Regular = [
       }
     ]
   ]
-]
+];

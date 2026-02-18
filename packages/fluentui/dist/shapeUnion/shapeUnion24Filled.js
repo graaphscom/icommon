@@ -16,4 +16,4 @@ export var shapeUnion24Filled = [
       }
     ]
   ]
-]
+];

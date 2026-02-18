@@ -16,4 +16,4 @@ export var peopleTeamDelete32Filled = [
       }
     ]
   ]
-]
+];

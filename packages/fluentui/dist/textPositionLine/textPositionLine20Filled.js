@@ -16,4 +16,4 @@ export var textPositionLine20Filled = [
       }
     ]
   ]
-]
+];

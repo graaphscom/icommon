@@ -93,4 +93,4 @@ export var peopleAltTwotone20px = [
       ]
     ]
   ]
-]
+];

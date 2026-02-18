@@ -16,4 +16,4 @@ export var lasso20Filled = [
       }
     ]
   ]
-]
+];

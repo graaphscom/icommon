@@ -21,4 +21,4 @@ export var slowMotionVideo24px = [
       }
     ]
   ]
-]
+];

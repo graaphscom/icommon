@@ -79,4 +79,4 @@ export var screenCut20Regular = [
       }
     ]
   ]
-]
+];

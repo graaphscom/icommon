@@ -21,4 +21,4 @@ export var shuffleOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowReset24Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var listSharp24px = [
       }
     ]
   ]
-]
+];

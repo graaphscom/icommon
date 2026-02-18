@@ -21,4 +21,4 @@ export var swapVertTwotone24px = [
       }
     ]
   ]
-]
+];

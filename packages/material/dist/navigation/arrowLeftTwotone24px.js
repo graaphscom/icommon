@@ -22,4 +22,4 @@ export var arrowLeftTwotone24px = [
       }
     ]
   ]
-]
+];

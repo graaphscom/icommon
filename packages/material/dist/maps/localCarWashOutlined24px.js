@@ -37,4 +37,4 @@ export var localCarWashOutlined24px = [
       }
     ]
   ]
-]
+];

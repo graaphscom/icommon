@@ -28,4 +28,4 @@ export var deviceHub24px = [
       }
     ]
   ]
-]
+];

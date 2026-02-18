@@ -29,4 +29,4 @@ export var viewModule24px = [
       ]
     ]
   ]
-]
+];

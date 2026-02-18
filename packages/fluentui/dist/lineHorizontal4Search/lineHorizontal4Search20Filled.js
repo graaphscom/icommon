@@ -16,4 +16,4 @@ export var lineHorizontal4Search20Filled = [
       }
     ]
   ]
-]
+];

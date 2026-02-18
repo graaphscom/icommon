@@ -21,4 +21,4 @@ export var autoAwesomeMotion24px = [
       }
     ]
   ]
-]
+];

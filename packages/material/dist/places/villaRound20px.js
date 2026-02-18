@@ -23,4 +23,4 @@ export var villaRound20px = [
       }
     ]
   ]
-]
+];

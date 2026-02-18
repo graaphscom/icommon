@@ -39,4 +39,4 @@ export var heightSharp24px = [
       ]
     ]
   ]
-]
+];

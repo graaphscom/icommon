@@ -89,4 +89,4 @@ export var numberSymbolSquare20Color = [
       ]
     ]
   ]
-]
+];

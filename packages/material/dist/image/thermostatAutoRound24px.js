@@ -35,4 +35,4 @@ export var thermostatAutoRound24px = [
       ]
     ]
   ]
-]
+];

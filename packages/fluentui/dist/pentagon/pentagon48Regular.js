@@ -16,4 +16,4 @@ export var pentagon48Regular = [
       }
     ]
   ]
-]
+];

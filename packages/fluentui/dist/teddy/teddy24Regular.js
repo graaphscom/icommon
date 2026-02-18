@@ -16,4 +16,4 @@ export var teddy24Regular = [
       }
     ]
   ]
-]
+];

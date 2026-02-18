@@ -54,4 +54,4 @@ export var emojiFoodBeverageOutlined24px = [
       ]
     ]
   ]
-]
+];

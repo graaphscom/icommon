@@ -30,4 +30,4 @@ export var cleanHandsTwotone24px = [
       }
     ]
   ]
-]
+];

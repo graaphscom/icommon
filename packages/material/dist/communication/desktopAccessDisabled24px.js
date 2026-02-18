@@ -21,4 +21,4 @@ export var desktopAccessDisabled24px = [
       }
     ]
   ]
-]
+];

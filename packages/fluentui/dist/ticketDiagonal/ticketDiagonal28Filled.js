@@ -16,4 +16,4 @@ export var ticketDiagonal28Filled = [
       }
     ]
   ]
-]
+];

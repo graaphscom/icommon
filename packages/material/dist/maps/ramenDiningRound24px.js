@@ -35,4 +35,4 @@ export var ramenDiningRound24px = [
       ]
     ]
   ]
-]
+];

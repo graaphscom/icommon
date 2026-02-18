@@ -16,4 +16,4 @@ export var poll32Regular = [
       }
     ]
   ]
-]
+];

@@ -59,4 +59,4 @@ export var backupTableSharp20px = [
       ]
     ]
   ]
-]
+];

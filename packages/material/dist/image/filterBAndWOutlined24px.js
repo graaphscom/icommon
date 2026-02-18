@@ -21,4 +21,4 @@ export var filterBAndWOutlined24px = [
       }
     ]
   ]
-]
+];

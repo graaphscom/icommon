@@ -16,4 +16,4 @@ export var mailbox20Regular = [
       }
     ]
   ]
-]
+];

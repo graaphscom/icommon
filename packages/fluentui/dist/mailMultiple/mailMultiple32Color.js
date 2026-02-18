@@ -231,4 +231,4 @@ export var mailMultiple32Color = [
       ]
     ]
   ]
-]
+];

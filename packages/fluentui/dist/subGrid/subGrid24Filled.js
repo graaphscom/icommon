@@ -16,4 +16,4 @@ export var subGrid24Filled = [
       }
     ]
   ]
-]
+];

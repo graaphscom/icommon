@@ -30,4 +30,4 @@ export var starRateOutlined24px = [
       ]
     ]
   ]
-]
+];

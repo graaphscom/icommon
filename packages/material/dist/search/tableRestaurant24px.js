@@ -41,4 +41,4 @@ export var tableRestaurant24px = [
       ]
     ]
   ]
-]
+];

@@ -46,4 +46,4 @@ export var signalWifi4BarLockRound24px = [
       ]
     ]
   ]
-]
+];

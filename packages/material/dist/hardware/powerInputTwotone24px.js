@@ -21,4 +21,4 @@ export var powerInputTwotone24px = [
       }
     ]
   ]
-]
+];

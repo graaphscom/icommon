@@ -16,4 +16,4 @@ export var channelArrowLeft28Regular = [
       }
     ]
   ]
-]
+];

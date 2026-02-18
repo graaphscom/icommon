@@ -59,4 +59,4 @@ export var spatialAudioOutlined24px = [
       ]
     ]
   ]
-]
+];

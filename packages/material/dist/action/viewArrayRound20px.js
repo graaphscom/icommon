@@ -23,4 +23,4 @@ export var viewArrayRound20px = [
       }
     ]
   ]
-]
+];

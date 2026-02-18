@@ -21,4 +21,4 @@ export var noSimRound24px = [
       }
     ]
   ]
-]
+];

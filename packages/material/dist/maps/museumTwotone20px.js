@@ -54,4 +54,4 @@ export var museumTwotone20px = [
       ]
     ]
   ]
-]
+];

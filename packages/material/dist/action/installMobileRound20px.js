@@ -41,4 +41,4 @@ export var installMobileRound20px = [
       ]
     ]
   ]
-]
+];

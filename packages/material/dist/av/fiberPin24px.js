@@ -21,4 +21,4 @@ export var fiberPin24px = [
       }
     ]
   ]
-]
+];

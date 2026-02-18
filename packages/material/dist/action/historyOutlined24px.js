@@ -21,4 +21,4 @@ export var historyOutlined24px = [
       }
     ]
   ]
-]
+];

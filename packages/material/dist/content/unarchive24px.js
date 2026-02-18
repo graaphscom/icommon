@@ -48,4 +48,4 @@ export var unarchive24px = [
       ]
     ]
   ]
-]
+];

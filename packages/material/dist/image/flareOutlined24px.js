@@ -21,4 +21,4 @@ export var flareOutlined24px = [
       }
     ]
   ]
-]
+];

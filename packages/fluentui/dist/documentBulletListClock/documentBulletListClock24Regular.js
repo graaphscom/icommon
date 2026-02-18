@@ -16,4 +16,4 @@ export var documentBulletListClock24Regular = [
       }
     ]
   ]
-]
+];

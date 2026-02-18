@@ -16,4 +16,4 @@ export var drinkMargarita20Filled = [
       }
     ]
   ]
-]
+];

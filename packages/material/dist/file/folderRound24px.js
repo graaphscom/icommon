@@ -21,4 +21,4 @@ export var folderRound24px = [
       }
     ]
   ]
-]
+];

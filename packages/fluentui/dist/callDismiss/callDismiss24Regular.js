@@ -16,4 +16,4 @@ export var callDismiss24Regular = [
       }
     ]
   ]
-]
+];

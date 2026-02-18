@@ -50,4 +50,4 @@ export var __11mpRound24px = [
       ]
     ]
   ]
-]
+];

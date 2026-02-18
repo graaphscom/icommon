@@ -42,4 +42,4 @@ export var hexagonTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var directionsRunTwotone24px = [
       }
     ]
   ]
-]
+];

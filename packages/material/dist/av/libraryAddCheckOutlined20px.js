@@ -37,4 +37,4 @@ export var libraryAddCheckOutlined20px = [
       ]
     ]
   ]
-]
+];

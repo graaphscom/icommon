@@ -47,4 +47,4 @@ export var folderOffSharp24px = [
       ]
     ]
   ]
-]
+];

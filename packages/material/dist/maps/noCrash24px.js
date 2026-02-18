@@ -35,4 +35,4 @@ export var noCrash24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var localDiningOutlined24px = [
       }
     ]
   ]
-]
+];

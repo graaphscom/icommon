@@ -23,4 +23,4 @@ export var textIncreaseSharp24px = [
       }
     ]
   ]
-]
+];

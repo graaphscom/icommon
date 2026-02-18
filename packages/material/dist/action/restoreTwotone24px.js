@@ -21,4 +21,4 @@ export var restoreTwotone24px = [
       }
     ]
   ]
-]
+];

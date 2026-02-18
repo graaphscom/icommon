@@ -21,4 +21,4 @@ export var saveRound24px = [
       }
     ]
   ]
-]
+];

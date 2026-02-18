@@ -16,4 +16,4 @@ export var bookCoins24Filled = [
       }
     ]
   ]
-]
+];

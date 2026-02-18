@@ -16,4 +16,4 @@ export var ruler28Regular = [
       }
     ]
   ]
-]
+];

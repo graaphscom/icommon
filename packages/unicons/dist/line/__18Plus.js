@@ -12,4 +12,4 @@ export var __18Plus = [
       }
     ]
   ]
-]
+];

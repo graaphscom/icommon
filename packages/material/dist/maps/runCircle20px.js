@@ -41,4 +41,4 @@ export var runCircle20px = [
       ]
     ]
   ]
-]
+];

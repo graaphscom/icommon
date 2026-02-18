@@ -23,4 +23,4 @@ export var elderlyTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var escalatorWarningOutlined24px = [
       ]
     ]
   ]
-]
+];

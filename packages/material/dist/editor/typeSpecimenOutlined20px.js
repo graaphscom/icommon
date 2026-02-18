@@ -54,4 +54,4 @@ export var typeSpecimenOutlined20px = [
       ]
     ]
   ]
-]
+];

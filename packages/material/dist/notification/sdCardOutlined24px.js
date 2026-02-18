@@ -21,4 +21,4 @@ export var sdCardOutlined24px = [
       }
     ]
   ]
-]
+];

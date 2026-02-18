@@ -21,4 +21,4 @@ export var permDataSettingTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textCollapse24Regular = [
       }
     ]
   ]
-]
+];

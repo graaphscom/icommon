@@ -21,4 +21,4 @@ export var textRotationDownSharp24px = [
       }
     ]
   ]
-]
+];

@@ -60,4 +60,4 @@ export var addModeratorTwotone24px = [
       ]
     ]
   ]
-]
+];

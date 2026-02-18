@@ -71,4 +71,4 @@ export var sensorOccupiedOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var weatherDrizzle24Regular = [
       }
     ]
   ]
-]
+];

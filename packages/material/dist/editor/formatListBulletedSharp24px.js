@@ -14,4 +14,4 @@ export var formatListBulletedSharp24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var loginRound20px = [
       ]
     ]
   ]
-]
+];

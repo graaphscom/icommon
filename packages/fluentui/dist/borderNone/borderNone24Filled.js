@@ -16,4 +16,4 @@ export var borderNone24Filled = [
       }
     ]
   ]
-]
+];

@@ -14,4 +14,4 @@ export var keyboardArrowDownRound24px = [
       }
     ]
   ]
-]
+];

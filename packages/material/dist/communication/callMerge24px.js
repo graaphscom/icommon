@@ -21,4 +21,4 @@ export var callMerge24px = [
       }
     ]
   ]
-]
+];

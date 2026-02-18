@@ -65,4 +65,4 @@ export var templeBuddhistTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var addCircle20Regular = [
       }
     ]
   ]
-]
+];

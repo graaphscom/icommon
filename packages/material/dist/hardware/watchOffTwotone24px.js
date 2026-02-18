@@ -61,4 +61,4 @@ export var watchOffTwotone24px = [
       ]
     ]
   ]
-]
+];

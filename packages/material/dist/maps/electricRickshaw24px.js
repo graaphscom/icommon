@@ -41,4 +41,4 @@ export var electricRickshaw24px = [
       ]
     ]
   ]
-]
+];

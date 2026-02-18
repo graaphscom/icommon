@@ -36,4 +36,4 @@ export var turnLeftOutlined20px = [
       ]
     ]
   ]
-]
+];

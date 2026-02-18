@@ -16,4 +16,4 @@ export var tableSimpleCheckmark16Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var cycloneSharp20px = [
       ]
     ]
   ]
-]
+];

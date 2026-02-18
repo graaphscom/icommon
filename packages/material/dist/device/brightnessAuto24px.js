@@ -21,4 +21,4 @@ export var brightnessAuto24px = [
       }
     ]
   ]
-]
+];

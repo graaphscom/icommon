@@ -53,4 +53,4 @@ export var screenshotMonitorSharp20px = [
       ]
     ]
   ]
-]
+];

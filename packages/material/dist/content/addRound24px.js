@@ -21,4 +21,4 @@ export var addRound24px = [
       }
     ]
   ]
-]
+];

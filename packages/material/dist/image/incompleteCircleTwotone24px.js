@@ -23,4 +23,4 @@ export var incompleteCircleTwotone24px = [
       }
     ]
   ]
-]
+];

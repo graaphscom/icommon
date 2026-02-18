@@ -28,4 +28,4 @@ export var calendarViewDayTwotone24px = [
       }
     ]
   ]
-]
+];

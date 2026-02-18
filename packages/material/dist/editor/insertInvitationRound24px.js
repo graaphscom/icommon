@@ -21,4 +21,4 @@ export var insertInvitationRound24px = [
       }
     ]
   ]
-]
+];

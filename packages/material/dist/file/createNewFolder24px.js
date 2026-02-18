@@ -21,4 +21,4 @@ export var createNewFolder24px = [
       }
     ]
   ]
-]
+];

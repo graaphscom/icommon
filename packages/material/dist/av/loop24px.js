@@ -21,4 +21,4 @@ export var loop24px = [
       }
     ]
   ]
-]
+];

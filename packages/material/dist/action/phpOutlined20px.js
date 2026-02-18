@@ -36,4 +36,4 @@ export var phpOutlined20px = [
       ]
     ]
   ]
-]
+];

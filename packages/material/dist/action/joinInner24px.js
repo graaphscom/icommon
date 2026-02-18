@@ -56,4 +56,4 @@ export var joinInner24px = [
       ]
     ]
   ]
-]
+];

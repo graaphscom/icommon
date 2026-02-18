@@ -53,4 +53,4 @@ export var directionsOffOutlined24px = [
       ]
     ]
   ]
-]
+];

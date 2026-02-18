@@ -285,4 +285,4 @@ export var textBulletListSquareSparkle20Color = [
       ]
     ]
   ]
-]
+];

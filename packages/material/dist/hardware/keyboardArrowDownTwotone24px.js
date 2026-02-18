@@ -21,4 +21,4 @@ export var keyboardArrowDownTwotone24px = [
       }
     ]
   ]
-]
+];

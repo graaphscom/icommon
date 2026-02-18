@@ -16,4 +16,4 @@ export var checkboxWarning24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var beenhereOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var moreSharp24px = [
       }
     ]
   ]
-]
+];

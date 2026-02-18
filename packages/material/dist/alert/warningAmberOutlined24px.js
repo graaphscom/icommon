@@ -14,4 +14,4 @@ export var warningAmberOutlined24px = [
       }
     ]
   ]
-]
+];

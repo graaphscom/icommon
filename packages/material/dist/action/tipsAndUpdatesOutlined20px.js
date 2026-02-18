@@ -23,4 +23,4 @@ export var tipsAndUpdatesOutlined20px = [
       }
     ]
   ]
-]
+];

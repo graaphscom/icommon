@@ -16,4 +16,4 @@ export var arrowCircleLeft28Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowCircleUpRight24Regular = [
       }
     ]
   ]
-]
+];

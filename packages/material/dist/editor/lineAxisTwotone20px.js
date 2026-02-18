@@ -35,4 +35,4 @@ export var lineAxisTwotone20px = [
       ]
     ]
   ]
-]
+];

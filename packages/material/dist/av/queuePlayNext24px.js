@@ -48,4 +48,4 @@ export var queuePlayNext24px = [
       ]
     ]
   ]
-]
+];

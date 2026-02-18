@@ -34,4 +34,4 @@ export var bedOutlined24px = [
       ]
     ]
   ]
-]
+];

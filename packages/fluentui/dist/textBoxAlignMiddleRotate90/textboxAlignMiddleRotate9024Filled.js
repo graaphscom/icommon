@@ -16,4 +16,4 @@ export var textboxAlignMiddleRotate9024Filled = [
       }
     ]
   ]
-]
+];

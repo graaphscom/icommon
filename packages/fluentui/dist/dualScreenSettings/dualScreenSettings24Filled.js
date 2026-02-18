@@ -16,4 +16,4 @@ export var dualScreenSettings24Filled = [
       }
     ]
   ]
-]
+];

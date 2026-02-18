@@ -70,4 +70,4 @@ export var lightbulbRound24px = [
       ]
     ]
   ]
-]
+];

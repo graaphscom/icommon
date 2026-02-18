@@ -21,4 +21,4 @@ export var cloudQueueOutlined24px = [
       }
     ]
   ]
-]
+];

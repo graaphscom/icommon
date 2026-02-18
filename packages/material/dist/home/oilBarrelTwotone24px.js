@@ -54,4 +54,4 @@ export var oilBarrelTwotone24px = [
       ]
     ]
   ]
-]
+];

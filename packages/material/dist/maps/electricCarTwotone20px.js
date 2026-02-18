@@ -70,4 +70,4 @@ export var electricCarTwotone20px = [
       ]
     ]
   ]
-]
+];

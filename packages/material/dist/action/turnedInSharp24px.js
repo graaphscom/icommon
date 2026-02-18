@@ -21,4 +21,4 @@ export var turnedInSharp24px = [
       }
     ]
   ]
-]
+];

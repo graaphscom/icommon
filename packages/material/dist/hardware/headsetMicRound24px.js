@@ -14,4 +14,4 @@ export var headsetMicRound24px = [
       }
     ]
   ]
-]
+];

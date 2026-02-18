@@ -16,4 +16,4 @@ export var textboxAlignTop24Filled = [
       }
     ]
   ]
-]
+];

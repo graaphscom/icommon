@@ -213,4 +213,4 @@ export var form24Color = [
       ]
     ]
   ]
-]
+];

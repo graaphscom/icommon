@@ -16,4 +16,4 @@ export var columnEdit24Regular = [
       }
     ]
   ]
-]
+];

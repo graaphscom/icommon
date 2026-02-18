@@ -109,4 +109,4 @@ export var blurOffTwotone24px = [
       }
     ]
   ]
-]
+];

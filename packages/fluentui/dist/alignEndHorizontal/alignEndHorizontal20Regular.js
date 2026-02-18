@@ -23,4 +23,4 @@ export var alignEndHorizontal20Regular = [
       }
     ]
   ]
-]
+];

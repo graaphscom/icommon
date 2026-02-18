@@ -21,4 +21,4 @@ export var texture24px = [
       }
     ]
   ]
-]
+];

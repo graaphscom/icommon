@@ -16,4 +16,4 @@ export var codeFs16Regular = [
       }
     ]
   ]
-]
+];

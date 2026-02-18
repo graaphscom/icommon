@@ -21,4 +21,4 @@ export var fastfoodSharp24px = [
       }
     ]
   ]
-]
+];

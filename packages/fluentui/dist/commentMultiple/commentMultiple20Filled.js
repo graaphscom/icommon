@@ -16,4 +16,4 @@ export var commentMultiple20Filled = [
       }
     ]
   ]
-]
+];

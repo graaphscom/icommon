@@ -23,4 +23,4 @@ export var snowshoeingRound20px = [
       }
     ]
   ]
-]
+];

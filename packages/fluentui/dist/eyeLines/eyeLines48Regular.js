@@ -16,4 +16,4 @@ export var eyeLines48Regular = [
       }
     ]
   ]
-]
+];

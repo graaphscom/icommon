@@ -35,4 +35,4 @@ export var formatOverlineRound20px = [
       ]
     ]
   ]
-]
+];

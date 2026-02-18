@@ -16,4 +16,4 @@ export var drawerDismiss20Filled = [
       }
     ]
   ]
-]
+];

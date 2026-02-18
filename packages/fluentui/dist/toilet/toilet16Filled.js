@@ -16,4 +16,4 @@ export var toilet16Filled = [
       }
     ]
   ]
-]
+];

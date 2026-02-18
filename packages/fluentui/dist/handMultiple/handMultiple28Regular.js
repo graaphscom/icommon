@@ -16,4 +16,4 @@ export var handMultiple28Regular = [
       }
     ]
   ]
-]
+];

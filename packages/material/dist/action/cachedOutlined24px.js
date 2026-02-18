@@ -21,4 +21,4 @@ export var cachedOutlined24px = [
       }
     ]
   ]
-]
+];

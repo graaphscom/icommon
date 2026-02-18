@@ -35,4 +35,4 @@ export var crisisAlertSharp20px = [
       ]
     ]
   ]
-]
+];

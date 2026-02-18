@@ -47,4 +47,4 @@ export var keyboardDoubleArrowDownSharp24px = [
       ]
     ]
   ]
-]
+];

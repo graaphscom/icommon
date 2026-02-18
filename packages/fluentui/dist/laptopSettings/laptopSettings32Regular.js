@@ -16,4 +16,4 @@ export var laptopSettings32Regular = [
       }
     ]
   ]
-]
+];

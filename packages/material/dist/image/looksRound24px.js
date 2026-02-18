@@ -21,4 +21,4 @@ export var looksRound24px = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var networkWifi24px = [
       }
     ]
   ]
-]
+];

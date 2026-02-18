@@ -21,4 +21,4 @@ export var markAsUnread20px = [
       }
     ]
   ]
-]
+];

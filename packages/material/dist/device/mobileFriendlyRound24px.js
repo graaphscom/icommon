@@ -21,4 +21,4 @@ export var mobileFriendlyRound24px = [
       }
     ]
   ]
-]
+];

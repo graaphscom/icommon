@@ -21,4 +21,4 @@ export var swapVertOutlined24px = [
       }
     ]
   ]
-]
+];

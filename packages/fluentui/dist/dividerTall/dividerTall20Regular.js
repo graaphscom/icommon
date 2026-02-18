@@ -16,4 +16,4 @@ export var dividerTall20Regular = [
       }
     ]
   ]
-]
+];

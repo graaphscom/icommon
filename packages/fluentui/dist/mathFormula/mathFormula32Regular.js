@@ -16,4 +16,4 @@ export var mathFormula32Regular = [
       }
     ]
   ]
-]
+];

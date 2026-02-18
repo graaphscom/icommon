@@ -35,4 +35,4 @@ export var mergeOutlined24px = [
       ]
     ]
   ]
-]
+];

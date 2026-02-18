@@ -16,4 +16,4 @@ export var portHdmi24Regular = [
       }
     ]
   ]
-]
+];

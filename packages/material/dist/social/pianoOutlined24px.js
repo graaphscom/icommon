@@ -23,4 +23,4 @@ export var pianoOutlined24px = [
       }
     ]
   ]
-]
+];

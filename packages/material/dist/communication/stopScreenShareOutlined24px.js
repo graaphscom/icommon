@@ -21,4 +21,4 @@ export var stopScreenShareOutlined24px = [
       }
     ]
   ]
-]
+];

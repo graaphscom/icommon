@@ -67,4 +67,4 @@ export var airplayTwotone24px = [
       ]
     ]
   ]
-]
+];

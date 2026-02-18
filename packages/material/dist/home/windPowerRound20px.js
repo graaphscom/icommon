@@ -119,4 +119,4 @@ export var windPowerRound20px = [
       ]
     ]
   ]
-]
+];

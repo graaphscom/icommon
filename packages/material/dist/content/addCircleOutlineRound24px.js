@@ -21,4 +21,4 @@ export var addCircleOutlineRound24px = [
       }
     ]
   ]
-]
+];

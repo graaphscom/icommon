@@ -29,4 +29,4 @@ export var soapRound24px = [
       ]
     ]
   ]
-]
+];

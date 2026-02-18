@@ -16,4 +16,4 @@ export var textIndentDecreaseLtrRotate27024Filled = [
       }
     ]
   ]
-]
+];

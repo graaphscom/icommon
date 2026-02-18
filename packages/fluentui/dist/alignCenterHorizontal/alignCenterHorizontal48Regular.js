@@ -16,4 +16,4 @@ export var alignCenterHorizontal48Regular = [
       }
     ]
   ]
-]
+];

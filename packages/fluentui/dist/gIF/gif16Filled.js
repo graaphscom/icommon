@@ -16,4 +16,4 @@ export var gif16Filled = [
       }
     ]
   ]
-]
+];

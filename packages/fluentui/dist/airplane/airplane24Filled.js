@@ -16,4 +16,4 @@ export var airplane24Filled = [
       }
     ]
   ]
-]
+];

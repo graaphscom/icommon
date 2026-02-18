@@ -21,4 +21,4 @@ export var findInPage24px = [
       }
     ]
   ]
-]
+];

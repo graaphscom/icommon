@@ -16,4 +16,4 @@ export var linkMultiple16Regular = [
       }
     ]
   ]
-]
+];

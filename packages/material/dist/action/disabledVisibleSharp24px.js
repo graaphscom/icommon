@@ -23,4 +23,4 @@ export var disabledVisibleSharp24px = [
       }
     ]
   ]
-]
+];

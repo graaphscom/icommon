@@ -21,4 +21,4 @@ export var recentActors24px = [
       }
     ]
   ]
-]
+];

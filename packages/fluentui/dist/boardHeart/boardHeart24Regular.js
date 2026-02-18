@@ -16,4 +16,4 @@ export var boardHeart24Regular = [
       }
     ]
   ]
-]
+];

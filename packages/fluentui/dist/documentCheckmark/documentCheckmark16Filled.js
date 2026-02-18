@@ -16,4 +16,4 @@ export var documentCheckmark16Filled = [
       }
     ]
   ]
-]
+];

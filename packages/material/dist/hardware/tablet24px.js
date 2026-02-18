@@ -21,4 +21,4 @@ export var tablet24px = [
       }
     ]
   ]
-]
+];

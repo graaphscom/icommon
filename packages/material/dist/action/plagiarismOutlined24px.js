@@ -47,4 +47,4 @@ export var plagiarismOutlined24px = [
       ]
     ]
   ]
-]
+];

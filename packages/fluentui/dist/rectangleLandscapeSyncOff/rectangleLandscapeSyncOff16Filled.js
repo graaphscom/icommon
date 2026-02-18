@@ -16,4 +16,4 @@ export var rectangleLandscapeSyncOff16Filled = [
       }
     ]
   ]
-]
+];

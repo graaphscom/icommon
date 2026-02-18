@@ -21,4 +21,4 @@ export var starOutlineRound24px = [
       }
     ]
   ]
-]
+];

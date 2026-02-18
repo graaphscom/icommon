@@ -56,4 +56,4 @@ export var integrationInstructions24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var starOneQuarter12Regular = [
       }
     ]
   ]
-]
+];

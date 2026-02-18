@@ -21,4 +21,4 @@ export var landscapeRound24px = [
       }
     ]
   ]
-]
+];

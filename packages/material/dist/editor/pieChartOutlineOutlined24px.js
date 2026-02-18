@@ -21,4 +21,4 @@ export var pieChartOutlineOutlined24px = [
       }
     ]
   ]
-]
+];

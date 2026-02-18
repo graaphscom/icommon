@@ -47,4 +47,4 @@ export var outboxOutlined24px = [
       ]
     ]
   ]
-]
+];

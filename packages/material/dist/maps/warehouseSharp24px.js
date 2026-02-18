@@ -35,4 +35,4 @@ export var warehouseSharp24px = [
       ]
     ]
   ]
-]
+];

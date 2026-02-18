@@ -21,4 +21,4 @@ export var contentCopy24px = [
       }
     ]
   ]
-]
+];

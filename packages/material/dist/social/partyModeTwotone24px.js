@@ -28,4 +28,4 @@ export var partyModeTwotone24px = [
       }
     ]
   ]
-]
+];

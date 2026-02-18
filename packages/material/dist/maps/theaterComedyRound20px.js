@@ -59,4 +59,4 @@ export var theaterComedyRound20px = [
       ]
     ]
   ]
-]
+];

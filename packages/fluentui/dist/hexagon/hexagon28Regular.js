@@ -16,4 +16,4 @@ export var hexagon28Regular = [
       }
     ]
   ]
-]
+];

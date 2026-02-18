@@ -23,4 +23,4 @@ export var giteRound20px = [
       }
     ]
   ]
-]
+];

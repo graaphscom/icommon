@@ -21,4 +21,4 @@ export var rvHookupSharp24px = [
       }
     ]
   ]
-]
+];

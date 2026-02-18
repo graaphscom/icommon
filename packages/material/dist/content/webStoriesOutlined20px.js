@@ -54,4 +54,4 @@ export var webStoriesOutlined20px = [
       ]
     ]
   ]
-]
+];

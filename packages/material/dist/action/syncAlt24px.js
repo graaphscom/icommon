@@ -48,4 +48,4 @@ export var syncAlt24px = [
       ]
     ]
   ]
-]
+];

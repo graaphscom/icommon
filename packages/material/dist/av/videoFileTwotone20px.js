@@ -42,4 +42,4 @@ export var videoFileTwotone20px = [
       ]
     ]
   ]
-]
+];

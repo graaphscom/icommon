@@ -35,4 +35,4 @@ export var viewComfy24px = [
       ]
     ]
   ]
-]
+];

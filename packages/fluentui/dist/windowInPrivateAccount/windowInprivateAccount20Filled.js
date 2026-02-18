@@ -16,4 +16,4 @@ export var windowInprivateAccount20Filled = [
       }
     ]
   ]
-]
+];

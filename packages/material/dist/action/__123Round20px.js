@@ -35,4 +35,4 @@ export var __123Round20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var leafOne16Regular = [
       }
     ]
   ]
-]
+];

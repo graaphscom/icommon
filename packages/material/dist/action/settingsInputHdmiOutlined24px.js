@@ -21,4 +21,4 @@ export var settingsInputHdmiOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dataUsageToolbox24Filled = [
       }
     ]
   ]
-]
+];

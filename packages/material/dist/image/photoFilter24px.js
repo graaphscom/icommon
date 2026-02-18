@@ -21,4 +21,4 @@ export var photoFilter24px = [
       }
     ]
   ]
-]
+];

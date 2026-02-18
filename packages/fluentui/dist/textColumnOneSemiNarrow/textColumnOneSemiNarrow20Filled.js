@@ -16,4 +16,4 @@ export var textColumnOneSemiNarrow20Filled = [
       }
     ]
   ]
-]
+];

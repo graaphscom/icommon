@@ -60,4 +60,4 @@ export var addToDriveRound24px = [
       ]
     ]
   ]
-]
+];

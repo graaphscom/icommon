@@ -16,4 +16,4 @@ export var starHalf20Regular = [
       }
     ]
   ]
-]
+];

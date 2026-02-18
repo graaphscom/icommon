@@ -16,4 +16,4 @@ export var playCircle20Filled = [
       }
     ]
   ]
-]
+];

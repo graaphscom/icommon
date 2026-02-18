@@ -23,4 +23,4 @@ export var countertopsRound24px = [
       }
     ]
   ]
-]
+];

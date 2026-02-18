@@ -34,4 +34,4 @@ export var doorbellRound24px = [
       ]
     ]
   ]
-]
+];

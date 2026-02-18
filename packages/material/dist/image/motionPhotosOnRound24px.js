@@ -23,4 +23,4 @@ export var motionPhotosOnRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var deviceHubTwotone24px = [
       }
     ]
   ]
-]
+];

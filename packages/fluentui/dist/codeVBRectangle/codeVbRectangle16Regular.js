@@ -16,4 +16,4 @@ export var codeVbRectangle16Regular = [
       }
     ]
   ]
-]
+];

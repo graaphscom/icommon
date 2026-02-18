@@ -16,4 +16,4 @@ export var cloudLink24Filled = [
       }
     ]
   ]
-]
+];

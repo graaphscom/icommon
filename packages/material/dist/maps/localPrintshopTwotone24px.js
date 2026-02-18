@@ -36,4 +36,4 @@ export var localPrintshopTwotone24px = [
       }
     ]
   ]
-]
+];

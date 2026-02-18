@@ -16,4 +16,4 @@ export var documentArrowDownOff24Regular = [
       }
     ]
   ]
-]
+];

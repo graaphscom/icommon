@@ -16,4 +16,4 @@ export var tooltipQuote16Regular = [
       }
     ]
   ]
-]
+];

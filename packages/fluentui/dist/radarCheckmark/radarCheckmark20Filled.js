@@ -16,4 +16,4 @@ export var radarCheckmark20Filled = [
       }
     ]
   ]
-]
+];

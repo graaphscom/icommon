@@ -16,4 +16,4 @@ export var documentBorder20Filled = [
       }
     ]
   ]
-]
+];

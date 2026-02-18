@@ -16,4 +16,4 @@ export var panelLeftText24Regular = [
       }
     ]
   ]
-]
+];

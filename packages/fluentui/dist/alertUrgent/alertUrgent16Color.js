@@ -116,4 +116,4 @@ export var alertUrgent16Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var taskListAdd24Regular = [
       }
     ]
   ]
-]
+];

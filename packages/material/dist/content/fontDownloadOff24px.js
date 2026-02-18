@@ -23,4 +23,4 @@ export var fontDownloadOff24px = [
       }
     ]
   ]
-]
+];

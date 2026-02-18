@@ -16,4 +16,4 @@ export var documentPageNumber24Regular = [
       }
     ]
   ]
-]
+];

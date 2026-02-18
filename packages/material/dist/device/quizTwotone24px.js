@@ -41,4 +41,4 @@ export var quizTwotone24px = [
       ]
     ]
   ]
-]
+];

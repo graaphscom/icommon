@@ -16,4 +16,4 @@ export var stackStar20Filled = [
       }
     ]
   ]
-]
+];

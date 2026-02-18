@@ -21,4 +21,4 @@ export var partyModeOutlined24px = [
       }
     ]
   ]
-]
+];

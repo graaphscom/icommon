@@ -16,4 +16,4 @@ export var documentFooterDismiss20Filled = [
       }
     ]
   ]
-]
+];

@@ -87,4 +87,4 @@ export var gradingOutlined20px = [
       ]
     ]
   ]
-]
+];

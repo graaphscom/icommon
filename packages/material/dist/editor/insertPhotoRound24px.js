@@ -21,4 +21,4 @@ export var insertPhotoRound24px = [
       }
     ]
   ]
-]
+];

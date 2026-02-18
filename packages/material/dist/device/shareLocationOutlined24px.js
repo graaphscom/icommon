@@ -70,4 +70,4 @@ export var shareLocationOutlined24px = [
       ]
     ]
   ]
-]
+];

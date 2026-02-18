@@ -21,4 +21,4 @@ export var moreVertRound24px = [
       }
     ]
   ]
-]
+];

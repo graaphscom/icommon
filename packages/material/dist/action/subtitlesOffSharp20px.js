@@ -53,4 +53,4 @@ export var subtitlesOffSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentPageTopLeft24Regular = [
       }
     ]
   ]
-]
+];

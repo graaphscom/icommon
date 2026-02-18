@@ -16,4 +16,4 @@ export var editLineHorizontal320Regular = [
       }
     ]
   ]
-]
+];

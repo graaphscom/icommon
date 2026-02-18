@@ -21,4 +21,4 @@ export var moreHorizRound24px = [
       }
     ]
   ]
-]
+];

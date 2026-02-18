@@ -35,4 +35,4 @@ export var widthNormal24px = [
       ]
     ]
   ]
-]
+];

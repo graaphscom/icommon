@@ -47,4 +47,4 @@ export var savedSearchSharp24px = [
       ]
     ]
   ]
-]
+];

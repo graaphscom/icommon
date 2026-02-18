@@ -14,4 +14,4 @@ export var watchRound24px = [
       }
     ]
   ]
-]
+];

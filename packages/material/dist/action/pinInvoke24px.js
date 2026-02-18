@@ -23,4 +23,4 @@ export var pinInvoke24px = [
       }
     ]
   ]
-]
+];

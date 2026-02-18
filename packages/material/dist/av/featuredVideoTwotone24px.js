@@ -28,4 +28,4 @@ export var featuredVideoTwotone24px = [
       }
     ]
   ]
-]
+];

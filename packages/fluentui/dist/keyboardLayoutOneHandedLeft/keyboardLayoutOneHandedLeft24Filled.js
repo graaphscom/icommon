@@ -16,4 +16,4 @@ export var keyboardLayoutOneHandedLeft24Filled = [
       }
     ]
   ]
-]
+];

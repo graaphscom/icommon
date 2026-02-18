@@ -34,4 +34,4 @@ export var arrowForwardIosTwotone24px = [
       ]
     ]
   ]
-]
+];

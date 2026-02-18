@@ -16,4 +16,4 @@ export var emoji32Light = [
       }
     ]
   ]
-]
+];

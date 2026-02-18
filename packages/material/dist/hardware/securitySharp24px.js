@@ -21,4 +21,4 @@ export var securitySharp24px = [
       }
     ]
   ]
-]
+];

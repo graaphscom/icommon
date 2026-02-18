@@ -41,4 +41,4 @@ export var ecoRound20px = [
       ]
     ]
   ]
-]
+];

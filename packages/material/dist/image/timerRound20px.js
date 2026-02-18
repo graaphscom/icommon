@@ -47,4 +47,4 @@ export var timerRound20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var gamepadOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var fileOpenRound20px = [
       ]
     ]
   ]
-]
+];

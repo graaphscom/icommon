@@ -123,4 +123,4 @@ export var calculateOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var windowBulletListAdd20Regular = [
       }
     ]
   ]
-]
+];

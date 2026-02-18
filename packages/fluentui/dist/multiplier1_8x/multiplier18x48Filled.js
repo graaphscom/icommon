@@ -16,4 +16,4 @@ export var multiplier18x48Filled = [
       }
     ]
   ]
-]
+];

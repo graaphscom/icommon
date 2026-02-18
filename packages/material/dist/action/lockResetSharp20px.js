@@ -23,4 +23,4 @@ export var lockResetSharp20px = [
       }
     ]
   ]
-]
+];

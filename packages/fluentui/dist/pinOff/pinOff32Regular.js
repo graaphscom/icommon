@@ -16,4 +16,4 @@ export var pinOff32Regular = [
       }
     ]
   ]
-]
+];

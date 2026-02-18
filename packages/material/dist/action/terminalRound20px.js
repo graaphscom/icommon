@@ -35,4 +35,4 @@ export var terminalRound20px = [
       ]
     ]
   ]
-]
+];

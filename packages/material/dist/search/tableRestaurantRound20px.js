@@ -35,4 +35,4 @@ export var tableRestaurantRound20px = [
       ]
     ]
   ]
-]
+];

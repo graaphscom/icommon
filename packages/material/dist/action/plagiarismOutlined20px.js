@@ -48,4 +48,4 @@ export var plagiarismOutlined20px = [
       ]
     ]
   ]
-]
+];

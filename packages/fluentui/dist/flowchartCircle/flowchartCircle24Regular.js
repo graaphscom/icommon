@@ -16,4 +16,4 @@ export var flowchartCircle24Regular = [
       }
     ]
   ]
-]
+];

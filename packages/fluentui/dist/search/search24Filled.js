@@ -16,4 +16,4 @@ export var search24Filled = [
       }
     ]
   ]
-]
+];

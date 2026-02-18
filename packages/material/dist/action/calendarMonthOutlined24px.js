@@ -35,4 +35,4 @@ export var calendarMonthOutlined24px = [
       ]
     ]
   ]
-]
+];

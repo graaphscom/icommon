@@ -16,4 +16,4 @@ export var slideSearch28Regular = [
       }
     ]
   ]
-]
+];

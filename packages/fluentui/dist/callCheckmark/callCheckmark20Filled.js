@@ -16,4 +16,4 @@ export var callCheckmark20Filled = [
       }
     ]
   ]
-]
+];

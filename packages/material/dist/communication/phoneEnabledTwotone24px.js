@@ -35,4 +35,4 @@ export var phoneEnabledTwotone24px = [
       ]
     ]
   ]
-]
+];

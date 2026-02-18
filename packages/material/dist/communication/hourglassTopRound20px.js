@@ -35,4 +35,4 @@ export var hourglassTopRound20px = [
       ]
     ]
   ]
-]
+];

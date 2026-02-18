@@ -21,4 +21,4 @@ export var removeShoppingCartOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var checkBoxRound24px = [
       }
     ]
   ]
-]
+];

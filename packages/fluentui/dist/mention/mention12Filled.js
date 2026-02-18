@@ -46,4 +46,4 @@ export var mention12Filled = [
       ]
     ]
   ]
-]
+];

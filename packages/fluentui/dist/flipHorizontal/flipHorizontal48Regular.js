@@ -16,4 +16,4 @@ export var flipHorizontal48Regular = [
       }
     ]
   ]
-]
+];

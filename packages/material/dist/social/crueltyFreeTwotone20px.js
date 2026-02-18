@@ -43,4 +43,4 @@ export var crueltyFreeTwotone20px = [
       ]
     ]
   ]
-]
+];

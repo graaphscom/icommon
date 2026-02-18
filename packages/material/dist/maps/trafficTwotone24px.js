@@ -28,4 +28,4 @@ export var trafficTwotone24px = [
       }
     ]
   ]
-]
+];

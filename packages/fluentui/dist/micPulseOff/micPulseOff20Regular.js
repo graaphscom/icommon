@@ -16,4 +16,4 @@ export var micPulseOff20Regular = [
       }
     ]
   ]
-]
+];

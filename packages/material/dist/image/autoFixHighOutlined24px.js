@@ -60,4 +60,4 @@ export var autoFixHighOutlined24px = [
       ]
     ]
   ]
-]
+];

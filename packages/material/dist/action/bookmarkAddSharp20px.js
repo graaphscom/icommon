@@ -23,4 +23,4 @@ export var bookmarkAddSharp20px = [
       }
     ]
   ]
-]
+];

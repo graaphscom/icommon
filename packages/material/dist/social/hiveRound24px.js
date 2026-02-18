@@ -85,4 +85,4 @@ export var hiveRound24px = [
       ]
     ]
   ]
-]
+];

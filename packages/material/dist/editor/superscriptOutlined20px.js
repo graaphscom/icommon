@@ -29,4 +29,4 @@ export var superscriptOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var filterAltOff24px = [
       ]
     ]
   ]
-]
+];

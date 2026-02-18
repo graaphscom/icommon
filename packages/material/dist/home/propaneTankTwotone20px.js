@@ -55,4 +55,4 @@ export var propaneTankTwotone20px = [
       ]
     ]
   ]
-]
+];

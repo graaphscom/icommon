@@ -50,4 +50,4 @@ export var circleTwotone24px = [
       ]
     ]
   ]
-]
+];

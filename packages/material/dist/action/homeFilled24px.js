@@ -21,4 +21,4 @@ export var homeFilled24px = [
       }
     ]
   ]
-]
+];

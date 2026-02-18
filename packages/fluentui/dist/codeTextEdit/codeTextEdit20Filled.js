@@ -16,4 +16,4 @@ export var codeTextEdit20Filled = [
       }
     ]
   ]
-]
+];

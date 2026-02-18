@@ -23,4 +23,4 @@ export var autoGraphSharp20px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var maximizeRound24px = [
       }
     ]
   ]
-]
+];

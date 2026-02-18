@@ -42,4 +42,4 @@ export var recentActorsTwotone24px = [
       }
     ]
   ]
-]
+];

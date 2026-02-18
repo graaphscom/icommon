@@ -16,4 +16,4 @@ export var textFootnote20Regular = [
       }
     ]
   ]
-]
+];

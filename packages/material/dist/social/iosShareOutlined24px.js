@@ -35,4 +35,4 @@ export var iosShareOutlined24px = [
       ]
     ]
   ]
-]
+];

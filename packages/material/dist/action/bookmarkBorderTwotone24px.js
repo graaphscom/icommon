@@ -21,4 +21,4 @@ export var bookmarkBorderTwotone24px = [
       }
     ]
   ]
-]
+];

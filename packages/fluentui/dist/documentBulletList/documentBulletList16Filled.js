@@ -16,4 +16,4 @@ export var documentBulletList16Filled = [
       }
     ]
   ]
-]
+];

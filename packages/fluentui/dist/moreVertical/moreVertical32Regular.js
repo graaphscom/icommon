@@ -16,4 +16,4 @@ export var moreVertical32Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var calendarMonthSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var rMobiledata24px = [
       ]
     ]
   ]
-]
+];

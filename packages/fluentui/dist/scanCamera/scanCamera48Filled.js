@@ -16,4 +16,4 @@ export var scanCamera48Filled = [
       }
     ]
   ]
-]
+];

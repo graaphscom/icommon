@@ -16,4 +16,4 @@ export var arrowDownloadOff32Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var panelLeftHeaderAdd28Filled = [
       }
     ]
   ]
-]
+];

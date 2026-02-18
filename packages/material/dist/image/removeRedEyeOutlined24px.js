@@ -21,4 +21,4 @@ export var removeRedEyeOutlined24px = [
       }
     ]
   ]
-]
+];

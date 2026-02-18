@@ -53,4 +53,4 @@ export var directionsOffTwotone24px = [
       ]
     ]
   ]
-]
+];

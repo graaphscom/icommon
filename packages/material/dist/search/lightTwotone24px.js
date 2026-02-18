@@ -47,4 +47,4 @@ export var lightTwotone24px = [
       ]
     ]
   ]
-]
+];

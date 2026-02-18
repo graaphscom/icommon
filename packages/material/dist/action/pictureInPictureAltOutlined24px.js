@@ -21,4 +21,4 @@ export var pictureInPictureAltOutlined24px = [
       }
     ]
   ]
-]
+];

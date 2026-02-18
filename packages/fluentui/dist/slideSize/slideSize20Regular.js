@@ -16,4 +16,4 @@ export var slideSize20Regular = [
       }
     ]
   ]
-]
+];

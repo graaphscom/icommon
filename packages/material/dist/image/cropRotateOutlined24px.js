@@ -21,4 +21,4 @@ export var cropRotateOutlined24px = [
       }
     ]
   ]
-]
+];

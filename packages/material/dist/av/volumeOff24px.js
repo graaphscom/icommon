@@ -21,4 +21,4 @@ export var volumeOff24px = [
       }
     ]
   ]
-]
+];

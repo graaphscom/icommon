@@ -21,4 +21,4 @@ export var formatUnderlined24px = [
       }
     ]
   ]
-]
+];

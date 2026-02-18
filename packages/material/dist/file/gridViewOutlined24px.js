@@ -47,4 +47,4 @@ export var gridViewOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var joinLeftRound20px = [
       ]
     ]
   ]
-]
+];

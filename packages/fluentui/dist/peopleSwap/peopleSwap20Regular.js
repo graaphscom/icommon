@@ -16,4 +16,4 @@ export var peopleSwap20Regular = [
       }
     ]
   ]
-]
+];

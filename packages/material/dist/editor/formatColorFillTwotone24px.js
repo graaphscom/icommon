@@ -35,4 +35,4 @@ export var formatColorFillTwotone24px = [
       ]
     ]
   ]
-]
+];

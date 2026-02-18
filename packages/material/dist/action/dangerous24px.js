@@ -21,4 +21,4 @@ export var dangerous24px = [
       }
     ]
   ]
-]
+];

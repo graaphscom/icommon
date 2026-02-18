@@ -35,4 +35,4 @@ export var htmlSharp24px = [
       ]
     ]
   ]
-]
+];

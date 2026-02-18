@@ -23,4 +23,4 @@ export var snowshoeing24px = [
       }
     ]
   ]
-]
+];

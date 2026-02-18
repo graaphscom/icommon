@@ -41,4 +41,4 @@ export var syncLock20px = [
       ]
     ]
   ]
-]
+];

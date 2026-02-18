@@ -21,4 +21,4 @@ export var settingsOverscanOutlined24px = [
       }
     ]
   ]
-]
+];

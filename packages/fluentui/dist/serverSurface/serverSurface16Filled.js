@@ -16,4 +16,4 @@ export var serverSurface16Filled = [
       }
     ]
   ]
-]
+];

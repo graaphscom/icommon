@@ -149,4 +149,4 @@ export var searchSparkle32Color = [
       ]
     ]
   ]
-]
+];

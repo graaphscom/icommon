@@ -28,4 +28,4 @@ export var uploadTwotone24px = [
       }
     ]
   ]
-]
+];

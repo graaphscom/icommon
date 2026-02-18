@@ -40,4 +40,4 @@ export var splitscreenSharp24px = [
       ]
     ]
   ]
-]
+];

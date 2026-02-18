@@ -61,4 +61,4 @@ export var mopedRound24px = [
       ]
     ]
   ]
-]
+];

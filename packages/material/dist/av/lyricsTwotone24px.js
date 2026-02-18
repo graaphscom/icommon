@@ -81,4 +81,4 @@ export var lyricsTwotone24px = [
       ]
     ]
   ]
-]
+];

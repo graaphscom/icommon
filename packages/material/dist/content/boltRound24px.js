@@ -35,4 +35,4 @@ export var boltRound24px = [
       ]
     ]
   ]
-]
+];

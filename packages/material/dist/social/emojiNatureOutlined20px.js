@@ -52,4 +52,4 @@ export var emojiNatureOutlined20px = [
       ]
     ]
   ]
-]
+];

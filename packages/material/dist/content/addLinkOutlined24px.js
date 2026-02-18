@@ -35,4 +35,4 @@ export var addLinkOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var thermostatAutoTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var crueltyFreeRound24px = [
       }
     ]
   ]
-]
+];

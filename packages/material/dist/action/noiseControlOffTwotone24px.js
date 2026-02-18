@@ -73,4 +73,4 @@ export var noiseControlOffTwotone24px = [
       ]
     ]
   ]
-]
+];

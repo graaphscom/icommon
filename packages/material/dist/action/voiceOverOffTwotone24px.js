@@ -28,4 +28,4 @@ export var voiceOverOffTwotone24px = [
       }
     ]
   ]
-]
+];

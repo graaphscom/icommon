@@ -21,4 +21,4 @@ export var addCircleOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var noFlashOutlined24px = [
       ]
     ]
   ]
-]
+];

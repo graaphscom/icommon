@@ -64,4 +64,4 @@ export var compressSharp24px = [
       ]
     ]
   ]
-]
+];

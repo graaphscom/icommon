@@ -16,4 +16,4 @@ export var pi20Regular = [
       }
     ]
   ]
-]
+];

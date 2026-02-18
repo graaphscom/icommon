@@ -23,4 +23,4 @@ export var frontHandOutlined24px = [
       }
     ]
   ]
-]
+];

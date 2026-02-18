@@ -16,4 +16,4 @@ export var list28Regular = [
       }
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var autoFixNormalOutlined24px = [
       ]
     ]
   ]
-]
+];

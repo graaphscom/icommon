@@ -16,4 +16,4 @@ export var chatDismiss16Filled = [
       }
     ]
   ]
-]
+];

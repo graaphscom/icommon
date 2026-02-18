@@ -35,4 +35,4 @@ export var paidRound24px = [
       ]
     ]
   ]
-]
+];

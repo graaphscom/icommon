@@ -21,4 +21,4 @@ export var switchVideoOutlined24px = [
       }
     ]
   ]
-]
+];

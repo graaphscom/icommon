@@ -16,4 +16,4 @@ export var boxMultipleSearch24Regular = [
       }
     ]
   ]
-]
+];

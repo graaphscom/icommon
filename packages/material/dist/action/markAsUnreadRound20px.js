@@ -53,4 +53,4 @@ export var markAsUnreadRound20px = [
       ]
     ]
   ]
-]
+];

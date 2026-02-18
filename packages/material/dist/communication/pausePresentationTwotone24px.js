@@ -28,4 +28,4 @@ export var pausePresentationTwotone24px = [
       }
     ]
   ]
-]
+];

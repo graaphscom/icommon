@@ -21,4 +21,4 @@ export var addAlarmOutlined24px = [
       }
     ]
   ]
-]
+];

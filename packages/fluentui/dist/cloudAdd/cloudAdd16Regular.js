@@ -16,4 +16,4 @@ export var cloudAdd16Regular = [
       }
     ]
   ]
-]
+];

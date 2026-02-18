@@ -21,4 +21,4 @@ export var permDataSettingSharp24px = [
       }
     ]
   ]
-]
+];

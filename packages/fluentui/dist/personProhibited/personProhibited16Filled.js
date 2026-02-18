@@ -16,4 +16,4 @@ export var personProhibited16Filled = [
       }
     ]
   ]
-]
+];

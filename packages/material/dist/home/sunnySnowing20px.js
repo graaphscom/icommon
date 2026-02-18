@@ -123,4 +123,4 @@ export var sunnySnowing20px = [
       ]
     ]
   ]
-]
+];

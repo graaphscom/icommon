@@ -42,4 +42,4 @@ export var animationSharp24px = [
       ]
     ]
   ]
-]
+];

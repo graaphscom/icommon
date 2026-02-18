@@ -59,4 +59,4 @@ export var hardwareTwotone20px = [
       ]
     ]
   ]
-]
+];

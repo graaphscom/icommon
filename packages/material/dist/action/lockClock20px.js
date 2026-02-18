@@ -21,4 +21,4 @@ export var lockClock20px = [
       }
     ]
   ]
-]
+];

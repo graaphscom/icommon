@@ -16,4 +16,4 @@ export var broom16Filled = [
       }
     ]
   ]
-]
+];

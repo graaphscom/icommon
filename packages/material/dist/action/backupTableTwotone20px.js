@@ -89,4 +89,4 @@ export var backupTableTwotone20px = [
       ]
     ]
   ]
-]
+];

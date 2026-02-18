@@ -16,4 +16,4 @@ export var calendarPlay28Filled = [
       }
     ]
   ]
-]
+];

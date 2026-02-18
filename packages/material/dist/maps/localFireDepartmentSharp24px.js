@@ -59,4 +59,4 @@ export var localFireDepartmentSharp24px = [
       ]
     ]
   ]
-]
+];

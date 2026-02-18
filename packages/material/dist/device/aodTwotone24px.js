@@ -53,4 +53,4 @@ export var aodTwotone24px = [
       ]
     ]
   ]
-]
+];

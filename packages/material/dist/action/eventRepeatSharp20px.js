@@ -35,4 +35,4 @@ export var eventRepeatSharp20px = [
       ]
     ]
   ]
-]
+];

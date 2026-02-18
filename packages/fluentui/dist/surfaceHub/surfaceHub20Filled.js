@@ -16,4 +16,4 @@ export var surfaceHub20Filled = [
       }
     ]
   ]
-]
+];

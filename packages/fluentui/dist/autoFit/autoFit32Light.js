@@ -16,4 +16,4 @@ export var autoFit32Light = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var tollOutlined24px = [
       }
     ]
   ]
-]
+];

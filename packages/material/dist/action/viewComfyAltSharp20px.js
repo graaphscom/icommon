@@ -41,4 +41,4 @@ export var viewComfyAltSharp20px = [
       ]
     ]
   ]
-]
+];

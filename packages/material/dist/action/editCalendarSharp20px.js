@@ -23,4 +23,4 @@ export var editCalendarSharp20px = [
       }
     ]
   ]
-]
+];

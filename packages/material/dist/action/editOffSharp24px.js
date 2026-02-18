@@ -40,4 +40,4 @@ export var editOffSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var southAmericaOutlined24px = [
       }
     ]
   ]
-]
+];

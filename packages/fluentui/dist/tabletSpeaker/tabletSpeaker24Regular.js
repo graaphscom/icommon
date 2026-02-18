@@ -44,4 +44,4 @@ export var tabletSpeaker24Regular = [
       }
     ]
   ]
-]
+];

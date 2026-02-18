@@ -16,4 +16,4 @@ export var surfaceHub24Filled = [
       }
     ]
   ]
-]
+];

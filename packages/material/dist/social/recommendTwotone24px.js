@@ -55,4 +55,4 @@ export var recommendTwotone24px = [
       ]
     ]
   ]
-]
+];

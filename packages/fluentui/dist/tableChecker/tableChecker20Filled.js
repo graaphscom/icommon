@@ -16,4 +16,4 @@ export var tableChecker20Filled = [
       }
     ]
   ]
-]
+];

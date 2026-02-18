@@ -51,4 +51,4 @@ export var constructionTwotone20px = [
       ]
     ]
   ]
-]
+];

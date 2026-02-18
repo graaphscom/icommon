@@ -37,4 +37,4 @@ export var localLibraryTwotone24px = [
       }
     ]
   ]
-]
+];

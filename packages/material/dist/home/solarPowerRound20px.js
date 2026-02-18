@@ -95,4 +95,4 @@ export var solarPowerRound20px = [
       ]
     ]
   ]
-]
+];

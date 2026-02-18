@@ -21,4 +21,4 @@ export var replyOutlined24px = [
       }
     ]
   ]
-]
+];

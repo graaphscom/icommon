@@ -16,4 +16,4 @@ export var slideTextTitleCheckmark20Filled = [
       }
     ]
   ]
-]
+];

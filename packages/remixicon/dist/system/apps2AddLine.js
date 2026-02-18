@@ -13,4 +13,4 @@ export var apps2AddLine = [
       }
     ]
   ]
-]
+];

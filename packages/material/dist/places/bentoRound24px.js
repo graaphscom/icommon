@@ -29,4 +29,4 @@ export var bentoRound24px = [
       ]
     ]
   ]
-]
+];

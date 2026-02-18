@@ -16,4 +16,4 @@ export var bracesVariable24Filled = [
       }
     ]
   ]
-]
+];

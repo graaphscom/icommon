@@ -16,4 +16,4 @@ export var copyArrowRight16Filled = [
       }
     ]
   ]
-]
+];

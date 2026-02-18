@@ -24,4 +24,4 @@ export var switchAccessShortcutAddOutlined20px = [
       }
     ]
   ]
-]
+];

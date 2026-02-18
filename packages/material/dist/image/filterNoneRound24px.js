@@ -21,4 +21,4 @@ export var filterNoneRound24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var recycling20px = [
       }
     ]
   ]
-]
+];

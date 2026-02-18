@@ -27,4 +27,4 @@ export var pinDropOutlined24px = [
       }
     ]
   ]
-]
+];

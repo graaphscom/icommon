@@ -81,4 +81,4 @@ export var contentView16Color = [
       ]
     ]
   ]
-]
+];

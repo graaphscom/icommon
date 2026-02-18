@@ -50,4 +50,4 @@ export var blindOutlined20px = [
       ]
     ]
   ]
-]
+];

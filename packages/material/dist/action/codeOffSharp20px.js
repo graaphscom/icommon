@@ -23,4 +23,4 @@ export var codeOffSharp20px = [
       }
     ]
   ]
-]
+];

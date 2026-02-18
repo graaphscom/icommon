@@ -23,4 +23,4 @@ export var iceSkating20px = [
       }
     ]
   ]
-]
+];

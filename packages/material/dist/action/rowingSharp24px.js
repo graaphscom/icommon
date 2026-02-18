@@ -21,4 +21,4 @@ export var rowingSharp24px = [
       }
     ]
   ]
-]
+];

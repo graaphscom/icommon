@@ -60,4 +60,4 @@ export var addToDriveTwotone24px = [
       ]
     ]
   ]
-]
+];

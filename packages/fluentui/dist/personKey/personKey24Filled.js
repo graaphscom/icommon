@@ -16,4 +16,4 @@ export var personKey24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textAlignCenter20Filled = [
       }
     ]
   ]
-]
+];

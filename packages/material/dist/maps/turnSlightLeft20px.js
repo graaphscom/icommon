@@ -35,4 +35,4 @@ export var turnSlightLeft20px = [
       ]
     ]
   ]
-]
+];

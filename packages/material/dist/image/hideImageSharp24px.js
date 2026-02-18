@@ -47,4 +47,4 @@ export var hideImageSharp24px = [
       ]
     ]
   ]
-]
+];

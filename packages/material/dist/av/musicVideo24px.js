@@ -21,4 +21,4 @@ export var musicVideo24px = [
       }
     ]
   ]
-]
+];

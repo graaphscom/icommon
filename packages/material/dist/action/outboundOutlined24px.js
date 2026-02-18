@@ -25,4 +25,4 @@ export var outboundOutlined24px = [
       }
     ]
   ]
-]
+];

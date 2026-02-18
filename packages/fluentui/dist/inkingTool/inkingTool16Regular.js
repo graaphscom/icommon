@@ -16,4 +16,4 @@ export var inkingTool16Regular = [
       }
     ]
   ]
-]
+];

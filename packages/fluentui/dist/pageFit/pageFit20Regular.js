@@ -16,4 +16,4 @@ export var pageFit20Regular = [
       }
     ]
   ]
-]
+];

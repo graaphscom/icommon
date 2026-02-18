@@ -21,4 +21,4 @@ export var closedCaption24px = [
       }
     ]
   ]
-]
+];

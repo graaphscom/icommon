@@ -16,4 +16,4 @@ export var documentCsv16Regular = [
       }
     ]
   ]
-]
+];

@@ -62,4 +62,4 @@ export var stormTwotone24px = [
       ]
     ]
   ]
-]
+];

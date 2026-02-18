@@ -21,4 +21,4 @@ export var slowMotionVideoOutlined24px = [
       }
     ]
   ]
-]
+];

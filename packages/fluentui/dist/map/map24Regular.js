@@ -16,4 +16,4 @@ export var map24Regular = [
       }
     ]
   ]
-]
+];

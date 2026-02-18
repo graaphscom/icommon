@@ -21,4 +21,4 @@ export var dataUsageRound24px = [
       }
     ]
   ]
-]
+];

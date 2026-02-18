@@ -56,4 +56,4 @@ export var dinnerDiningTwotone24px = [
       ]
     ]
   ]
-]
+];

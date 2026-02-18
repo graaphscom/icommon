@@ -21,4 +21,4 @@ export var minimizeSharp24px = [
       }
     ]
   ]
-]
+];

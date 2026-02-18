@@ -35,4 +35,4 @@ export var keySharp20px = [
       ]
     ]
   ]
-]
+];

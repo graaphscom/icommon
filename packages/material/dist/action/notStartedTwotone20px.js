@@ -38,4 +38,4 @@ export var notStartedTwotone20px = [
       ]
     ]
   ]
-]
+];

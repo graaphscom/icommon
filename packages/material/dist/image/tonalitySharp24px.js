@@ -21,4 +21,4 @@ export var tonalitySharp24px = [
       }
     ]
   ]
-]
+];

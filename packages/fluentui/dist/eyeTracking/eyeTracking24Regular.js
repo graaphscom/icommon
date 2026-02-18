@@ -16,4 +16,4 @@ export var eyeTracking24Regular = [
       }
     ]
   ]
-]
+];

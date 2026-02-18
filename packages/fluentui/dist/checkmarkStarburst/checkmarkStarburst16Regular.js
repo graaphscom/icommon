@@ -16,4 +16,4 @@ export var checkmarkStarburst16Regular = [
       }
     ]
   ]
-]
+];

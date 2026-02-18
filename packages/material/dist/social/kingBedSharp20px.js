@@ -35,4 +35,4 @@ export var kingBedSharp20px = [
       ]
     ]
   ]
-]
+];

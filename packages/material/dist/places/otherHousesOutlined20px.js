@@ -23,4 +23,4 @@ export var otherHousesOutlined20px = [
       }
     ]
   ]
-]
+];

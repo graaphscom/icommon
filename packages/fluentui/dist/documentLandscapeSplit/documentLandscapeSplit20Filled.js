@@ -16,4 +16,4 @@ export var documentLandscapeSplit20Filled = [
       }
     ]
   ]
-]
+];

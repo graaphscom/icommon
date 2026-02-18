@@ -181,4 +181,4 @@ export var beach32Color = [
       ]
     ]
   ]
-]
+];

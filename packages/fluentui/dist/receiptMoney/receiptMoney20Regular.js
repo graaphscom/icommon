@@ -16,4 +16,4 @@ export var receiptMoney20Regular = [
       }
     ]
   ]
-]
+];

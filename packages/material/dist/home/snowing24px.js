@@ -35,4 +35,4 @@ export var snowing24px = [
       ]
     ]
   ]
-]
+];

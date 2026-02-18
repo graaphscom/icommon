@@ -16,4 +16,4 @@ export var videoBluetooth32Filled = [
       }
     ]
   ]
-]
+];

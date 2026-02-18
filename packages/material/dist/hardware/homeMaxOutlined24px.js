@@ -36,4 +36,4 @@ export var homeMaxOutlined24px = [
       ]
     ]
   ]
-]
+];

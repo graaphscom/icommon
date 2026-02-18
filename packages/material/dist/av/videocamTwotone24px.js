@@ -28,4 +28,4 @@ export var videocamTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var cabinSharp24px = [
       }
     ]
   ]
-]
+];

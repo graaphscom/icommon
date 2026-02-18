@@ -16,4 +16,4 @@ export var bookToolbox24Filled = [
       }
     ]
   ]
-]
+];

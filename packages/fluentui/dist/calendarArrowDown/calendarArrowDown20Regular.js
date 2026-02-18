@@ -16,4 +16,4 @@ export var calendarArrowDown20Regular = [
       }
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var webStoriesRound20px = [
       ]
     ]
   ]
-]
+];

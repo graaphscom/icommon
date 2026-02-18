@@ -21,4 +21,4 @@ export var extension24px = [
       }
     ]
   ]
-]
+];

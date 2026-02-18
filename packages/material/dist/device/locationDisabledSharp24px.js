@@ -21,4 +21,4 @@ export var locationDisabledSharp24px = [
       }
     ]
   ]
-]
+];

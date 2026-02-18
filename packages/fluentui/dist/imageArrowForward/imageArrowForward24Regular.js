@@ -16,4 +16,4 @@ export var imageArrowForward24Regular = [
       }
     ]
   ]
-]
+];

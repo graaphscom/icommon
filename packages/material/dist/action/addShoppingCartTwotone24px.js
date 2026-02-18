@@ -21,4 +21,4 @@ export var addShoppingCartTwotone24px = [
       }
     ]
   ]
-]
+];

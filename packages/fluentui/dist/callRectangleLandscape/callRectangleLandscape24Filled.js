@@ -16,4 +16,4 @@ export var callRectangleLandscape24Filled = [
       }
     ]
   ]
-]
+];

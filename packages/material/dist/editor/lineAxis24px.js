@@ -35,4 +35,4 @@ export var lineAxis24px = [
       ]
     ]
   ]
-]
+];

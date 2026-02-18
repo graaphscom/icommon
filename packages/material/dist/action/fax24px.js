@@ -47,4 +47,4 @@ export var fax24px = [
       ]
     ]
   ]
-]
+];

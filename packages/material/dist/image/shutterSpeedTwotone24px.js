@@ -28,4 +28,4 @@ export var shutterSpeedTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var httpsRound24px = [
       }
     ]
   ]
-]
+];

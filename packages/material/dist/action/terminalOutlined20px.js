@@ -36,4 +36,4 @@ export var terminalOutlined20px = [
       ]
     ]
   ]
-]
+];

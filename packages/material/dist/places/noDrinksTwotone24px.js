@@ -36,4 +36,4 @@ export var noDrinksTwotone24px = [
       ]
     ]
   ]
-]
+];

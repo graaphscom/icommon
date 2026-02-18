@@ -16,4 +16,4 @@ export var mail12Filled = [
       }
     ]
   ]
-]
+];

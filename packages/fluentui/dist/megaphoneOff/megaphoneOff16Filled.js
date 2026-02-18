@@ -16,4 +16,4 @@ export var megaphoneOff16Filled = [
       }
     ]
   ]
-]
+];

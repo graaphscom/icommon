@@ -35,4 +35,4 @@ export var sportsGymnasticsSharp24px = [
       ]
     ]
   ]
-]
+];

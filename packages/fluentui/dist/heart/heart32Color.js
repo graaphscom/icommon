@@ -48,4 +48,4 @@ export var heart32Color = [
       ]
     ]
   ]
-]
+];

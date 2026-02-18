@@ -66,4 +66,4 @@ export var liquorSharp24px = [
       ]
     ]
   ]
-]
+];

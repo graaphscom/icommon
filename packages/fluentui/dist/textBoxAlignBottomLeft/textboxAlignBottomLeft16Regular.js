@@ -16,4 +16,4 @@ export var textboxAlignBottomLeft16Regular = [
       }
     ]
   ]
-]
+];

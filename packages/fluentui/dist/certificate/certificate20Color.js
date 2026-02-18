@@ -149,4 +149,4 @@ export var certificate20Color = [
       ]
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var deckSharp20px = [
       ]
     ]
   ]
-]
+];

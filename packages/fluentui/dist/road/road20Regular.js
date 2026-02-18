@@ -16,4 +16,4 @@ export var road20Regular = [
       }
     ]
   ]
-]
+];

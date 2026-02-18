@@ -16,4 +16,4 @@ export var tabDesktopSearch20Regular = [
       }
     ]
   ]
-]
+];

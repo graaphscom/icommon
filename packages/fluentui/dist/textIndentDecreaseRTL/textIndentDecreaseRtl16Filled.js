@@ -16,4 +16,4 @@ export var textIndentDecreaseRtl16Filled = [
       }
     ]
   ]
-]
+];

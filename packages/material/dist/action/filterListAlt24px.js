@@ -28,4 +28,4 @@ export var filterListAlt24px = [
       }
     ]
   ]
-]
+];

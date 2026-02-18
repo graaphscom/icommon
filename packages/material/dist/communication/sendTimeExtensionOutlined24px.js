@@ -47,4 +47,4 @@ export var sendTimeExtensionOutlined24px = [
       ]
     ]
   ]
-]
+];

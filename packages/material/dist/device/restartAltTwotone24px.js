@@ -46,4 +46,4 @@ export var restartAltTwotone24px = [
       ]
     ]
   ]
-]
+];

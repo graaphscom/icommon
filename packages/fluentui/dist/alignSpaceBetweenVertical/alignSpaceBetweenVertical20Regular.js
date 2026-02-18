@@ -23,4 +23,4 @@ export var alignSpaceBetweenVertical20Regular = [
       }
     ]
   ]
-]
+];

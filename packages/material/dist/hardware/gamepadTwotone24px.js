@@ -28,4 +28,4 @@ export var gamepadTwotone24px = [
       }
     ]
   ]
-]
+];

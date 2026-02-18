@@ -16,4 +16,4 @@ export var tableCellCenter28Regular = [
       }
     ]
   ]
-]
+];

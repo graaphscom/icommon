@@ -228,4 +228,4 @@ export var bot24Color = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var abcTwotone24px = [
       ]
     ]
   ]
-]
+];

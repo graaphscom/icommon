@@ -16,4 +16,4 @@ export var flipVertical32Filled = [
       }
     ]
   ]
-]
+];

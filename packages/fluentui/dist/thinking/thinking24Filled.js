@@ -16,4 +16,4 @@ export var thinking24Filled = [
       }
     ]
   ]
-]
+];

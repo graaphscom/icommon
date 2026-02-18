@@ -16,4 +16,4 @@ export var textProofingToolsGaNaDa16Regular = [
       }
     ]
   ]
-]
+];

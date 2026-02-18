@@ -16,4 +16,4 @@ export var cloudDismiss20Filled = [
       }
     ]
   ]
-]
+];

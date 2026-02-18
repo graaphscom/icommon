@@ -16,4 +16,4 @@ export var arrowRoutingRectangleMultiple24Filled = [
       }
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var arrowForwardIos24px = [
       ]
     ]
   ]
-]
+];

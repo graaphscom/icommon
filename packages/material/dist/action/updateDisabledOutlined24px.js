@@ -29,4 +29,4 @@ export var updateDisabledOutlined24px = [
       }
     ]
   ]
-]
+];

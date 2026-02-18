@@ -35,4 +35,4 @@ export var categoryRound24px = [
       }
     ]
   ]
-]
+];

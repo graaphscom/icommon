@@ -34,4 +34,4 @@ export var modeNightRound24px = [
       ]
     ]
   ]
-]
+];

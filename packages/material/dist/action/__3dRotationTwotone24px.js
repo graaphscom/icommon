@@ -21,4 +21,4 @@ export var __3dRotationTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var repeatOnRound24px = [
       ]
     ]
   ]
-]
+];

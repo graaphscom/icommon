@@ -16,4 +16,4 @@ export var building32Filled = [
       }
     ]
   ]
-]
+];

@@ -54,4 +54,4 @@ export var driveFileMoveTwotone24px = [
       ]
     ]
   ]
-]
+];

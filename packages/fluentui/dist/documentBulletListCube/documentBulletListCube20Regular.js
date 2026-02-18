@@ -16,4 +16,4 @@ export var documentBulletListCube20Regular = [
       }
     ]
   ]
-]
+];

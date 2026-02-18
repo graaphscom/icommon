@@ -16,4 +16,4 @@ export var splitVertical20Filled = [
       }
     ]
   ]
-]
+];

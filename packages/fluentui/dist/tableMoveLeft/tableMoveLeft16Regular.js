@@ -16,4 +16,4 @@ export var tableMoveLeft16Regular = [
       }
     ]
   ]
-]
+];

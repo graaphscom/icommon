@@ -62,4 +62,4 @@ export var barChartOutlined24px = [
       ]
     ]
   ]
-]
+];

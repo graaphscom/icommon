@@ -16,4 +16,4 @@ export var screenshot24Filled = [
       }
     ]
   ]
-]
+];

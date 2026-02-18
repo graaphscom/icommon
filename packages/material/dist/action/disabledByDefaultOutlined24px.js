@@ -23,4 +23,4 @@ export var disabledByDefaultOutlined24px = [
       }
     ]
   ]
-]
+];

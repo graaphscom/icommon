@@ -28,4 +28,4 @@ export var playArrowTwotone24px = [
       }
     ]
   ]
-]
+];

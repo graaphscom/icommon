@@ -21,4 +21,4 @@ export var movieFilterRound24px = [
       }
     ]
   ]
-]
+];

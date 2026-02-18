@@ -90,4 +90,4 @@ export var stackedBarChartOutlined20px = [
       ]
     ]
   ]
-]
+];

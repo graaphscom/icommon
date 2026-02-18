@@ -16,4 +16,4 @@ export var flashPlay20Regular = [
       }
     ]
   ]
-]
+];

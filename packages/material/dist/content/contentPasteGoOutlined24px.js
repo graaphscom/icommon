@@ -47,4 +47,4 @@ export var contentPasteGoOutlined24px = [
       ]
     ]
   ]
-]
+];

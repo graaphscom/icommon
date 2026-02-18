@@ -21,4 +21,4 @@ export var usbRound24px = [
       }
     ]
   ]
-]
+];

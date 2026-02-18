@@ -23,4 +23,4 @@ export var pinEndSharp20px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var callSplitOutlined24px = [
       }
     ]
   ]
-]
+];

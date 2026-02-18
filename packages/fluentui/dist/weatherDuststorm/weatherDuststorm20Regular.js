@@ -16,4 +16,4 @@ export var weatherDuststorm20Regular = [
       }
     ]
   ]
-]
+];

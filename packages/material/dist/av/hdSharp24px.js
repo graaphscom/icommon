@@ -21,4 +21,4 @@ export var hdSharp24px = [
       }
     ]
   ]
-]
+];

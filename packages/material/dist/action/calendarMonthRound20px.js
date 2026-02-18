@@ -35,4 +35,4 @@ export var calendarMonthRound20px = [
       ]
     ]
   ]
-]
+];

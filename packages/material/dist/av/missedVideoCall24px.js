@@ -21,4 +21,4 @@ export var missedVideoCall24px = [
       }
     ]
   ]
-]
+];

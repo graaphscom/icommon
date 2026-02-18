@@ -21,4 +21,4 @@ export var formatItalicTwotone24px = [
       }
     ]
   ]
-]
+];

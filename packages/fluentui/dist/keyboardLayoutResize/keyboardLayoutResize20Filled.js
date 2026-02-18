@@ -16,4 +16,4 @@ export var keyboardLayoutResize20Filled = [
       }
     ]
   ]
-]
+];

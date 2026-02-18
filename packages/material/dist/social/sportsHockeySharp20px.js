@@ -83,4 +83,4 @@ export var sportsHockeySharp20px = [
       ]
     ]
   ]
-]
+];

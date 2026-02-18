@@ -28,4 +28,4 @@ export var imageSearch24px = [
       }
     ]
   ]
-]
+];

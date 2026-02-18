@@ -84,4 +84,4 @@ export var searchVisual16Color = [
       ]
     ]
   ]
-]
+];

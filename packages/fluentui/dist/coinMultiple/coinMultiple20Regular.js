@@ -16,4 +16,4 @@ export var coinMultiple20Regular = [
       }
     ]
   ]
-]
+];

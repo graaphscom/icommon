@@ -16,4 +16,4 @@ export var windowDevEdit16Filled = [
       }
     ]
   ]
-]
+];

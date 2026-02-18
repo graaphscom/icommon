@@ -55,4 +55,4 @@ export var woman224px = [
       ]
     ]
   ]
-]
+];

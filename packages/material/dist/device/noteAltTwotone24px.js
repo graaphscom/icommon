@@ -59,4 +59,4 @@ export var noteAltTwotone24px = [
       ]
     ]
   ]
-]
+];

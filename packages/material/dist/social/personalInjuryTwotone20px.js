@@ -30,4 +30,4 @@ export var personalInjuryTwotone20px = [
       }
     ]
   ]
-]
+];

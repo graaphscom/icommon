@@ -16,4 +16,4 @@ export var mapDrive24Filled = [
       }
     ]
   ]
-]
+];

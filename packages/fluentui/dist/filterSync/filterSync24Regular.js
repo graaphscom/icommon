@@ -16,4 +16,4 @@ export var filterSync24Regular = [
       }
     ]
   ]
-]
+];

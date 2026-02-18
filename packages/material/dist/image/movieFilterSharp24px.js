@@ -21,4 +21,4 @@ export var movieFilterSharp24px = [
       }
     ]
   ]
-]
+];

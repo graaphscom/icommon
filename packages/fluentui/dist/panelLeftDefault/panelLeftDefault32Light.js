@@ -16,4 +16,4 @@ export var panelLeftDefault32Light = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var abcOutlined24px = [
       ]
     ]
   ]
-]
+];

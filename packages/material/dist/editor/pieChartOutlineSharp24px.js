@@ -14,4 +14,4 @@ export var pieChartOutlineSharp24px = [
       }
     ]
   ]
-]
+];

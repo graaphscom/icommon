@@ -52,4 +52,4 @@ export var emojiEventsTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var handPoint16Filled = [
       }
     ]
   ]
-]
+];

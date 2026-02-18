@@ -61,4 +61,4 @@ export var timerOffRound24px = [
       ]
     ]
   ]
-]
+];

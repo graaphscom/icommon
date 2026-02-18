@@ -16,4 +16,4 @@ export var moviesAndTv20Regular = [
       }
     ]
   ]
-]
+];

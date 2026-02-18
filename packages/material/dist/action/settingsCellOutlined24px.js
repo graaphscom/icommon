@@ -21,4 +21,4 @@ export var settingsCellOutlined24px = [
       }
     ]
   ]
-]
+];

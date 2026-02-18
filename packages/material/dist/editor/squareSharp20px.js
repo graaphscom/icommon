@@ -38,4 +38,4 @@ export var squareSharp20px = [
       ]
     ]
   ]
-]
+];

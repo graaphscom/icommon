@@ -148,4 +148,4 @@ export var reward24Color = [
       ]
     ]
   ]
-]
+];

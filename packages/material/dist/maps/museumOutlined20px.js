@@ -48,4 +48,4 @@ export var museumOutlined20px = [
       ]
     ]
   ]
-]
+];

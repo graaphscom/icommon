@@ -28,4 +28,4 @@ export var liveHelpTwotone24px = [
       }
     ]
   ]
-]
+];

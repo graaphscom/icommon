@@ -16,4 +16,4 @@ export var squareArrowForward48Filled = [
       }
     ]
   ]
-]
+];

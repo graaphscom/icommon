@@ -16,4 +16,4 @@ export var subtract12Regular = [
       }
     ]
   ]
-]
+];

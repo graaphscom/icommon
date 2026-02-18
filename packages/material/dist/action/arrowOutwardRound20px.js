@@ -35,4 +35,4 @@ export var arrowOutwardRound20px = [
       ]
     ]
   ]
-]
+];

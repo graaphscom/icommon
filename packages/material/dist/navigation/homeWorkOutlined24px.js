@@ -74,4 +74,4 @@ export var homeWorkOutlined24px = [
       ]
     ]
   ]
-]
+];

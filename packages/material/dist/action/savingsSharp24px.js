@@ -29,4 +29,4 @@ export var savingsSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -79,4 +79,4 @@ export var wbTwilightOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var commute24px = [
       }
     ]
   ]
-]
+];

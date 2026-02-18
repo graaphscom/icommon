@@ -43,4 +43,4 @@ export var verticalShadesRound24px = [
       ]
     ]
   ]
-]
+];

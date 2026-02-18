@@ -21,4 +21,4 @@ export var visibilityRound24px = [
       }
     ]
   ]
-]
+];

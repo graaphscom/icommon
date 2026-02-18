@@ -16,4 +16,4 @@ export var mailList32Filled = [
       }
     ]
   ]
-]
+];

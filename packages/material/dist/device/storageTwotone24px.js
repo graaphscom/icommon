@@ -21,4 +21,4 @@ export var storageTwotone24px = [
       }
     ]
   ]
-]
+];

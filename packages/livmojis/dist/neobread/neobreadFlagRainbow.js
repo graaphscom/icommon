@@ -134,4 +134,4 @@ export var neobreadFlagRainbow = [
       ]
     ]
   ]
-]
+];

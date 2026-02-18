@@ -30,4 +30,4 @@ export var driveFileMoveRtlTwotone24px = [
       }
     ]
   ]
-]
+];

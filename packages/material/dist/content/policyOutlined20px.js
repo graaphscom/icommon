@@ -46,4 +46,4 @@ export var policyOutlined20px = [
       ]
     ]
   ]
-]
+];

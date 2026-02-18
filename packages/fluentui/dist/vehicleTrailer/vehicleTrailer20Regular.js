@@ -16,4 +16,4 @@ export var vehicleTrailer20Regular = [
       }
     ]
   ]
-]
+];

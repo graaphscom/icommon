@@ -16,4 +16,4 @@ export var personSettings20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var receiptCube24Filled = [
       }
     ]
   ]
-]
+];

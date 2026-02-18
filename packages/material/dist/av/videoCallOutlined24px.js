@@ -21,4 +21,4 @@ export var videoCallOutlined24px = [
       }
     ]
   ]
-]
+];

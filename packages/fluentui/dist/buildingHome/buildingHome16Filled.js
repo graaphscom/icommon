@@ -16,4 +16,4 @@ export var buildingHome16Filled = [
       }
     ]
   ]
-]
+];

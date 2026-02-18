@@ -16,4 +16,4 @@ export var mailShield16Filled = [
       }
     ]
   ]
-]
+];

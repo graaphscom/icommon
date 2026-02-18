@@ -21,4 +21,4 @@ export var layersClearOutlined24px = [
       }
     ]
   ]
-]
+];

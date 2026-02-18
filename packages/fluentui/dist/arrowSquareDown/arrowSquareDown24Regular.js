@@ -16,4 +16,4 @@ export var arrowSquareDown24Regular = [
       }
     ]
   ]
-]
+];

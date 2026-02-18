@@ -16,4 +16,4 @@ export var textEditStyle24Filled = [
       }
     ]
   ]
-]
+];

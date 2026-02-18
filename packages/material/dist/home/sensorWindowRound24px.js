@@ -29,4 +29,4 @@ export var sensorWindowRound24px = [
       ]
     ]
   ]
-]
+];

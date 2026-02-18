@@ -16,4 +16,4 @@ export var imageStack20Filled = [
       }
     ]
   ]
-]
+];

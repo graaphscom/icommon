@@ -33,4 +33,4 @@ export var freeCancellationTwotone24px = [
       }
     ]
   ]
-]
+];

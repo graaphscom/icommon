@@ -23,4 +23,4 @@ export var movingOutlined20px = [
       }
     ]
   ]
-]
+];

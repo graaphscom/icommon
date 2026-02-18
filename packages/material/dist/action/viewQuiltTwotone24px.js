@@ -30,4 +30,4 @@ export var viewQuiltTwotone24px = [
       }
     ]
   ]
-]
+];

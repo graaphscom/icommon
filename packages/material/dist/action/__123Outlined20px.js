@@ -36,4 +36,4 @@ export var __123Outlined20px = [
       ]
     ]
   ]
-]
+];

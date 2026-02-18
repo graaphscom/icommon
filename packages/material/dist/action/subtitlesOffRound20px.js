@@ -53,4 +53,4 @@ export var subtitlesOffRound20px = [
       ]
     ]
   ]
-]
+];

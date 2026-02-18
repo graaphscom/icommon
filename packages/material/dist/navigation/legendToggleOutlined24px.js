@@ -29,4 +29,4 @@ export var legendToggleOutlined24px = [
       ]
     ]
   ]
-]
+];

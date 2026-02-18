@@ -16,4 +16,4 @@ export var personClock24Filled = [
       }
     ]
   ]
-]
+];

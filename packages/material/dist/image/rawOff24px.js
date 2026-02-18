@@ -47,4 +47,4 @@ export var rawOff24px = [
       ]
     ]
   ]
-]
+];

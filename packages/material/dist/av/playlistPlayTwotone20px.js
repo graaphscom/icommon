@@ -68,4 +68,4 @@ export var playlistPlayTwotone20px = [
       ]
     ]
   ]
-]
+];

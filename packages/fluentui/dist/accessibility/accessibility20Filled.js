@@ -16,4 +16,4 @@ export var accessibility20Filled = [
       }
     ]
   ]
-]
+];

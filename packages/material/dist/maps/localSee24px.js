@@ -29,4 +29,4 @@ export var localSee24px = [
       }
     ]
   ]
-]
+];

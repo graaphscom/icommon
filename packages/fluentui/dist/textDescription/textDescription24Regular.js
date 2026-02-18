@@ -16,4 +16,4 @@ export var textDescription24Regular = [
       }
     ]
   ]
-]
+];

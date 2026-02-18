@@ -21,4 +21,4 @@ export var refreshRound24px = [
       }
     ]
   ]
-]
+];

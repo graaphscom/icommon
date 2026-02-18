@@ -16,4 +16,4 @@ export var textClearFormatting24Filled = [
       }
     ]
   ]
-]
+];

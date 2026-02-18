@@ -16,4 +16,4 @@ export var library20Regular = [
       }
     ]
   ]
-]
+];

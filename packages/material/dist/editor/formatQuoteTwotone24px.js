@@ -28,4 +28,4 @@ export var formatQuoteTwotone24px = [
       }
     ]
   ]
-]
+];

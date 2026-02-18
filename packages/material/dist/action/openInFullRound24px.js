@@ -23,4 +23,4 @@ export var openInFullRound24px = [
       }
     ]
   ]
-]
+];

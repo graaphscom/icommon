@@ -16,4 +16,4 @@ export var library32Regular = [
       }
     ]
   ]
-]
+];

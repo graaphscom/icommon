@@ -21,4 +21,4 @@ export var callMergeSharp24px = [
       }
     ]
   ]
-]
+];

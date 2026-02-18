@@ -63,4 +63,4 @@ export var supportAgentOutlined24px = [
       ]
     ]
   ]
-]
+];

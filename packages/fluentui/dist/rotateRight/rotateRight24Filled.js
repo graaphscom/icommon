@@ -16,4 +16,4 @@ export var rotateRight24Filled = [
       }
     ]
   ]
-]
+];

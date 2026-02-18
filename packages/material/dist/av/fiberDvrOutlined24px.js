@@ -21,4 +21,4 @@ export var fiberDvrOutlined24px = [
       }
     ]
   ]
-]
+];

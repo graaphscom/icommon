@@ -16,4 +16,4 @@ export var counter20Filled = [
       }
     ]
   ]
-]
+];

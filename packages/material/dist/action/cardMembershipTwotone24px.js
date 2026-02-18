@@ -28,4 +28,4 @@ export var cardMembershipTwotone24px = [
       }
     ]
   ]
-]
+];

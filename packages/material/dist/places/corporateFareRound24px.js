@@ -23,4 +23,4 @@ export var corporateFareRound24px = [
       }
     ]
   ]
-]
+];

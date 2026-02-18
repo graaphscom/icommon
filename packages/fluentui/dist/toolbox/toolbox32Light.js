@@ -16,4 +16,4 @@ export var toolbox32Light = [
       }
     ]
   ]
-]
+];

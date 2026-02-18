@@ -21,4 +21,4 @@ export var headsetMicOutlined24px = [
       }
     ]
   ]
-]
+];

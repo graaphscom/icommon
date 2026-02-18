@@ -23,4 +23,4 @@ export var editNoteRound20px = [
       }
     ]
   ]
-]
+];

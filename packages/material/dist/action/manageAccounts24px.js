@@ -54,4 +54,4 @@ export var manageAccounts24px = [
       ]
     ]
   ]
-]
+];

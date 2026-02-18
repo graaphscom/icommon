@@ -16,4 +16,4 @@ export var boardGames20Regular = [
       }
     ]
   ]
-]
+];

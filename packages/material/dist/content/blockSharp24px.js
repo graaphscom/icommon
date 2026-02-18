@@ -21,4 +21,4 @@ export var blockSharp24px = [
       }
     ]
   ]
-]
+];

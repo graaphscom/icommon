@@ -21,4 +21,4 @@ export var borderLeftRound24px = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var shieldRound24px = [
       ]
     ]
   ]
-]
+];

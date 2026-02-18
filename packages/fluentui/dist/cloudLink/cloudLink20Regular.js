@@ -16,4 +16,4 @@ export var cloudLink20Regular = [
       }
     ]
   ]
-]
+];

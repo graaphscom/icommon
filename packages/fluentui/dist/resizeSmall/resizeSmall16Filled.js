@@ -16,4 +16,4 @@ export var resizeSmall16Filled = [
       }
     ]
   ]
-]
+];

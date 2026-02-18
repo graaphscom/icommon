@@ -16,4 +16,4 @@ export var reward16Filled = [
       }
     ]
   ]
-]
+];

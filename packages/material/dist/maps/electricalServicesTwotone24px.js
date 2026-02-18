@@ -53,4 +53,4 @@ export var electricalServicesTwotone24px = [
       ]
     ]
   ]
-]
+];

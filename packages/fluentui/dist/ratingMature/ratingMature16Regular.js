@@ -16,4 +16,4 @@ export var ratingMature16Regular = [
       }
     ]
   ]
-]
+];

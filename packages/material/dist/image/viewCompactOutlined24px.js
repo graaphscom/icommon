@@ -41,4 +41,4 @@ export var viewCompactOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var libraryAddSharp24px = [
       }
     ]
   ]
-]
+];

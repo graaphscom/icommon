@@ -21,4 +21,4 @@ export var fileCopyRound24px = [
       }
     ]
   ]
-]
+];

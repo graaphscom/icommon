@@ -14,4 +14,4 @@ export var tabletAndroidRound24px = [
       }
     ]
   ]
-]
+];

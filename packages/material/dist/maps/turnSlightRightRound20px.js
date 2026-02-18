@@ -35,4 +35,4 @@ export var turnSlightRightRound20px = [
       ]
     ]
   ]
-]
+];

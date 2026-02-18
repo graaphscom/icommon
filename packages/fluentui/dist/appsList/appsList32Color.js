@@ -216,4 +216,4 @@ export var appsList32Color = [
       ]
     ]
   ]
-]
+];

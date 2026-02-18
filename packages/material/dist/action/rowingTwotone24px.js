@@ -21,4 +21,4 @@ export var rowingTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailMultiple16Regular = [
       }
     ]
   ]
-]
+];

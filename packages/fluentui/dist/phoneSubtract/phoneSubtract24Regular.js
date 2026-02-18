@@ -16,4 +16,4 @@ export var phoneSubtract24Regular = [
       }
     ]
   ]
-]
+];

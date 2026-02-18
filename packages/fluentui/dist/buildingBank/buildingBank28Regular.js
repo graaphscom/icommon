@@ -16,4 +16,4 @@ export var buildingBank28Regular = [
       }
     ]
   ]
-]
+];

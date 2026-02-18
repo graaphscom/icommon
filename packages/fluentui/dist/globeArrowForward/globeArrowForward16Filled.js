@@ -16,4 +16,4 @@ export var globeArrowForward16Filled = [
       }
     ]
   ]
-]
+];

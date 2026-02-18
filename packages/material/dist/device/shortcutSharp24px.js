@@ -34,4 +34,4 @@ export var shortcutSharp24px = [
       ]
     ]
   ]
-]
+];

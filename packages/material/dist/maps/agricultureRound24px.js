@@ -67,4 +67,4 @@ export var agricultureRound24px = [
       ]
     ]
   ]
-]
+];

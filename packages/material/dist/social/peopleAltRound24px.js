@@ -101,4 +101,4 @@ export var peopleAltRound24px = [
       ]
     ]
   ]
-]
+];

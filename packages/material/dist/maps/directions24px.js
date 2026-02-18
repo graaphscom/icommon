@@ -35,4 +35,4 @@ export var directions24px = [
       ]
     ]
   ]
-]
+];

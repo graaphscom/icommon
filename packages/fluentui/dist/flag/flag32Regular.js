@@ -16,4 +16,4 @@ export var flag32Regular = [
       }
     ]
   ]
-]
+];

@@ -95,4 +95,4 @@ export var hvacSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var flashOnTwotone24px = [
       }
     ]
   ]
-]
+];

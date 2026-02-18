@@ -23,4 +23,4 @@ export var viewModuleRound20px = [
       }
     ]
   ]
-]
+];

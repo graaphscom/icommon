@@ -21,4 +21,4 @@ export var circleNotifications24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var rttTwotone24px = [
       ]
     ]
   ]
-]
+];

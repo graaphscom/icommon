@@ -33,4 +33,4 @@ export var addchartSharp24px = [
       {}
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var windowSettings20Filled = [
       }
     ]
   ]
-]
+];

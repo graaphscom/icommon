@@ -21,4 +21,4 @@ export var formatClearOutlined24px = [
       }
     ]
   ]
-]
+];

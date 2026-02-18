@@ -16,4 +16,4 @@ export var editSettings24Regular = [
       }
     ]
   ]
-]
+];

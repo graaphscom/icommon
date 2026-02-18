@@ -21,4 +21,4 @@ export var keyboardReturnTwotone24px = [
       }
     ]
   ]
-]
+];

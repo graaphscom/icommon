@@ -13,4 +13,4 @@ export var safe2Line = [
       }
     ]
   ]
-]
+];

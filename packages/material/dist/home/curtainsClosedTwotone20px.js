@@ -61,4 +61,4 @@ export var curtainsClosedTwotone20px = [
       ]
     ]
   ]
-]
+];

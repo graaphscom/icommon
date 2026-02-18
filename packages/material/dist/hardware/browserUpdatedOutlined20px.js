@@ -29,4 +29,4 @@ export var browserUpdatedOutlined20px = [
       ]
     ]
   ]
-]
+];

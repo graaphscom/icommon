@@ -16,4 +16,4 @@ export var weatherSqualls48Regular = [
       }
     ]
   ]
-]
+];

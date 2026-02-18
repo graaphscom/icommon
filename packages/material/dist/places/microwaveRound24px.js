@@ -23,4 +23,4 @@ export var microwaveRound24px = [
       }
     ]
   ]
-]
+];

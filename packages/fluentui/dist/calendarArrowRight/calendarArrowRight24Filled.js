@@ -16,4 +16,4 @@ export var calendarArrowRight24Filled = [
       }
     ]
   ]
-]
+];

@@ -71,4 +71,4 @@ export var stackedBarChartRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentFooter24Filled = [
       }
     ]
   ]
-]
+];

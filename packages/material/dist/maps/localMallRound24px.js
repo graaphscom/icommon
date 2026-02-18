@@ -21,4 +21,4 @@ export var localMallRound24px = [
       }
     ]
   ]
-]
+];

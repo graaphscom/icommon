@@ -16,4 +16,4 @@ export var calendarAssistant16Regular = [
       }
     ]
   ]
-]
+];

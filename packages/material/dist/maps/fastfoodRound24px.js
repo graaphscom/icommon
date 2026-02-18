@@ -21,4 +21,4 @@ export var fastfoodRound24px = [
       }
     ]
   ]
-]
+];

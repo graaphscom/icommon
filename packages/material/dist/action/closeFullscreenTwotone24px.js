@@ -23,4 +23,4 @@ export var closeFullscreenTwotone24px = [
       }
     ]
   ]
-]
+];

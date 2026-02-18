@@ -282,4 +282,4 @@ export var peopleSync32Color = [
       ]
     ]
   ]
-]
+];

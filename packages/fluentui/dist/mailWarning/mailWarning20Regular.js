@@ -16,4 +16,4 @@ export var mailWarning20Regular = [
       }
     ]
   ]
-]
+];

@@ -14,4 +14,4 @@ export var moneyOffSharp24px = [
       }
     ]
   ]
-]
+];

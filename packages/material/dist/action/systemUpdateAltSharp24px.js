@@ -21,4 +21,4 @@ export var systemUpdateAltSharp24px = [
       }
     ]
   ]
-]
+];

@@ -14,4 +14,4 @@ export var replay10Round24px = [
       }
     ]
   ]
-]
+];

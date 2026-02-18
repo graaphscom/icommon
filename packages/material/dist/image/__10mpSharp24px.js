@@ -41,4 +41,4 @@ export var __10mpSharp24px = [
       ]
     ]
   ]
-]
+];

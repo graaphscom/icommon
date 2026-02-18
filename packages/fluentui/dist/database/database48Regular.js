@@ -16,4 +16,4 @@ export var database48Regular = [
       }
     ]
   ]
-]
+];

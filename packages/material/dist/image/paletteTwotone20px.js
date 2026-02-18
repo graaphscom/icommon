@@ -81,4 +81,4 @@ export var paletteTwotone20px = [
       ]
     ]
   ]
-]
+];

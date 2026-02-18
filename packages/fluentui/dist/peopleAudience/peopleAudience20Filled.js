@@ -16,4 +16,4 @@ export var peopleAudience20Filled = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var fileChart2Line = [
       }
     ]
   ]
-]
+];

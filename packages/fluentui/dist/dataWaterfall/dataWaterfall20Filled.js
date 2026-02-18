@@ -16,4 +16,4 @@ export var dataWaterfall20Filled = [
       }
     ]
   ]
-]
+];

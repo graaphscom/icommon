@@ -21,4 +21,4 @@ export var replay30Outlined24px = [
       }
     ]
   ]
-]
+];

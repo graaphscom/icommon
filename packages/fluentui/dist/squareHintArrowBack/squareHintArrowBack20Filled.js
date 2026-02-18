@@ -16,4 +16,4 @@ export var squareHintArrowBack20Filled = [
       }
     ]
   ]
-]
+];

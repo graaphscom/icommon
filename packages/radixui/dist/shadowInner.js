@@ -118,4 +118,4 @@ export var shadowInner = [
       }
     ]
   ]
-]
+];

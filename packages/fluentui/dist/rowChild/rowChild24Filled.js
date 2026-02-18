@@ -16,4 +16,4 @@ export var rowChild24Filled = [
       }
     ]
   ]
-]
+];

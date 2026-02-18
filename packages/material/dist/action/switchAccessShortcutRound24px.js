@@ -23,4 +23,4 @@ export var switchAccessShortcutRound24px = [
       }
     ]
   ]
-]
+];

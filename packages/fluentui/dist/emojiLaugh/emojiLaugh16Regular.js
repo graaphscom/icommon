@@ -16,4 +16,4 @@ export var emojiLaugh16Regular = [
       }
     ]
   ]
-]
+];

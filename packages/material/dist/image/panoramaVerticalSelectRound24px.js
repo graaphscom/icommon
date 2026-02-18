@@ -35,4 +35,4 @@ export var panoramaVerticalSelectRound24px = [
       ]
     ]
   ]
-]
+];

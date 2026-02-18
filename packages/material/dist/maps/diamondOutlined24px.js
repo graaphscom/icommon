@@ -35,4 +35,4 @@ export var diamondOutlined24px = [
       ]
     ]
   ]
-]
+];

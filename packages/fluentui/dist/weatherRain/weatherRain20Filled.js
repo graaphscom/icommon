@@ -16,4 +16,4 @@ export var weatherRain20Filled = [
       }
     ]
   ]
-]
+];

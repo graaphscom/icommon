@@ -21,4 +21,4 @@ export var menuOpen24px = [
       }
     ]
   ]
-]
+];

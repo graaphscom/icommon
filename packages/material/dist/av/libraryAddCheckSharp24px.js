@@ -28,4 +28,4 @@ export var libraryAddCheckSharp24px = [
       ]
     ]
   ]
-]
+];

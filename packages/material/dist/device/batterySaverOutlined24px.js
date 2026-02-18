@@ -40,4 +40,4 @@ export var batterySaverOutlined24px = [
       ]
     ]
   ]
-]
+];

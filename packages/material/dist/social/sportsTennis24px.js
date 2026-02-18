@@ -41,4 +41,4 @@ export var sportsTennis24px = [
       ]
     ]
   ]
-]
+];

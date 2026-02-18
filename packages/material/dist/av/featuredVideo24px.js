@@ -21,4 +21,4 @@ export var featuredVideo24px = [
       }
     ]
   ]
-]
+];

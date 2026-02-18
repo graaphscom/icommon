@@ -48,4 +48,4 @@ export var blenderOutlined24px = [
       ]
     ]
   ]
-]
+];

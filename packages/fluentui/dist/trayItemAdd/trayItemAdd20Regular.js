@@ -16,4 +16,4 @@ export var trayItemAdd20Regular = [
       }
     ]
   ]
-]
+];

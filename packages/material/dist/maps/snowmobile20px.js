@@ -23,4 +23,4 @@ export var snowmobile20px = [
       }
     ]
   ]
-]
+];

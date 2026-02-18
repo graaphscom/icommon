@@ -65,4 +65,4 @@ export var flagPridePhiladelphia48Filled = [
       }
     ]
   ]
-]
+];

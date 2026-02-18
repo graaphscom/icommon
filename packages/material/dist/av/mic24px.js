@@ -21,4 +21,4 @@ export var mic24px = [
       }
     ]
   ]
-]
+];

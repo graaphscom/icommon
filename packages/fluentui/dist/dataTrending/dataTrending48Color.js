@@ -88,4 +88,4 @@ export var dataTrending48Color = [
       ]
     ]
   ]
-]
+];

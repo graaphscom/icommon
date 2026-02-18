@@ -16,4 +16,4 @@ export var dataPie32Regular = [
       }
     ]
   ]
-]
+];

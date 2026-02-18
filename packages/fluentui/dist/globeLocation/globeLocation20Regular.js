@@ -16,4 +16,4 @@ export var globeLocation20Regular = [
       }
     ]
   ]
-]
+];

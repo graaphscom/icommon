@@ -83,4 +83,4 @@ export var autofpsSelectTwotone24px = [
       ]
     ]
   ]
-]
+];

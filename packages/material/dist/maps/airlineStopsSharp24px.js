@@ -23,4 +23,4 @@ export var airlineStopsSharp24px = [
       }
     ]
   ]
-]
+];

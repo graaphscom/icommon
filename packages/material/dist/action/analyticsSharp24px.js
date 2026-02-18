@@ -53,4 +53,4 @@ export var analyticsSharp24px = [
       }
     ]
   ]
-]
+];

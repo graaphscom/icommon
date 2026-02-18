@@ -21,4 +21,4 @@ export var polymerOutlined24px = [
       }
     ]
   ]
-]
+];

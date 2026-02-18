@@ -42,4 +42,4 @@ export var timelineOutlined24px = [
       ]
     ]
   ]
-]
+];

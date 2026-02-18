@@ -68,4 +68,4 @@ export var addHomeWorkOutlined24px = [
       ]
     ]
   ]
-]
+];

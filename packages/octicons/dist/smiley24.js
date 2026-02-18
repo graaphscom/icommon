@@ -26,4 +26,4 @@ export var smiley24 = [
       }
     ]
   ]
-]
+];

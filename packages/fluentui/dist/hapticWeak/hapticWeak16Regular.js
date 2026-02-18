@@ -16,4 +16,4 @@ export var hapticWeak16Regular = [
       }
     ]
   ]
-]
+];

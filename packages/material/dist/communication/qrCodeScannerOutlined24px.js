@@ -23,4 +23,4 @@ export var qrCodeScannerOutlined24px = [
       }
     ]
   ]
-]
+];

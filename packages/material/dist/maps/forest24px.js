@@ -56,4 +56,4 @@ export var forest24px = [
       ]
     ]
   ]
-]
+];

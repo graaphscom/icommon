@@ -23,4 +23,4 @@ export var schemaOutlined20px = [
       }
     ]
   ]
-]
+];

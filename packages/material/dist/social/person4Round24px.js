@@ -67,4 +67,4 @@ export var person4Round24px = [
       ]
     ]
   ]
-]
+];

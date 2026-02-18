@@ -29,4 +29,4 @@ export var noStrollerOutlined24px = [
       ]
     ]
   ]
-]
+];

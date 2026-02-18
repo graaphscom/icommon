@@ -21,4 +21,4 @@ export var fiberManualRecordOutlined24px = [
       }
     ]
   ]
-]
+];

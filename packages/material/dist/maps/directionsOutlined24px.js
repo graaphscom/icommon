@@ -21,4 +21,4 @@ export var directionsOutlined24px = [
       }
     ]
   ]
-]
+];

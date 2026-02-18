@@ -28,4 +28,4 @@ export var filterBAndWTwotone24px = [
       }
     ]
   ]
-]
+];

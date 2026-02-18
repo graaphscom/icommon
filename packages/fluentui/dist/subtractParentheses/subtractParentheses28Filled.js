@@ -16,4 +16,4 @@ export var subtractParentheses28Filled = [
       }
     ]
   ]
-]
+];

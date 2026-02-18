@@ -21,4 +21,4 @@ export var gpsFixedSharp24px = [
       }
     ]
   ]
-]
+];

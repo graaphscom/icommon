@@ -37,4 +37,4 @@ export var supervisedUserCircleTwotone24px = [
       }
     ]
   ]
-]
+];

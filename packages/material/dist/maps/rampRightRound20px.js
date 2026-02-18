@@ -35,4 +35,4 @@ export var rampRightRound20px = [
       ]
     ]
   ]
-]
+];

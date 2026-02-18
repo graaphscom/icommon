@@ -53,4 +53,4 @@ export var autoDeleteSharp20px = [
       ]
     ]
   ]
-]
+];

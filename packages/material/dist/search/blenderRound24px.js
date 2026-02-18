@@ -40,4 +40,4 @@ export var blenderRound24px = [
       ]
     ]
   ]
-]
+];

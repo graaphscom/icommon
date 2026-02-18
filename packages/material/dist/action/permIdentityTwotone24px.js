@@ -37,4 +37,4 @@ export var permIdentityTwotone24px = [
       }
     ]
   ]
-]
+];

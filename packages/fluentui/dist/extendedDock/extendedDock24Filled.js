@@ -16,4 +16,4 @@ export var extendedDock24Filled = [
       }
     ]
   ]
-]
+];

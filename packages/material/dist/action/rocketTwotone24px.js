@@ -67,4 +67,4 @@ export var rocketTwotone24px = [
       ]
     ]
   ]
-]
+];

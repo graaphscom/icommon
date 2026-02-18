@@ -21,4 +21,4 @@ export var lineWeightTwotone24px = [
       }
     ]
   ]
-]
+];

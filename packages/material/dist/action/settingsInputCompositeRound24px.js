@@ -36,4 +36,4 @@ export var settingsInputCompositeRound24px = [
       ]
     ]
   ]
-]
+];

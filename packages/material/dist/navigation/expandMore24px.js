@@ -21,4 +21,4 @@ export var expandMore24px = [
       }
     ]
   ]
-]
+];

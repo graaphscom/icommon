@@ -35,4 +35,4 @@ export var pinchSharp20px = [
       ]
     ]
   ]
-]
+];

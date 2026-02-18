@@ -59,4 +59,4 @@ export var modeFanOff24px = [
       ]
     ]
   ]
-]
+];

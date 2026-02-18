@@ -16,4 +16,4 @@ export var searchShield20Regular = [
       }
     ]
   ]
-]
+];

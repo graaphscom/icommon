@@ -21,4 +21,4 @@ export var exitToAppRound24px = [
       }
     ]
   ]
-]
+];

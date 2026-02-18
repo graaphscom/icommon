@@ -45,4 +45,4 @@ export var emojiObjectsSharp24px = [
       ]
     ]
   ]
-]
+];

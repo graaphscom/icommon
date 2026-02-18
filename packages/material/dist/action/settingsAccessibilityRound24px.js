@@ -35,4 +35,4 @@ export var settingsAccessibilityRound24px = [
       ]
     ]
   ]
-]
+];

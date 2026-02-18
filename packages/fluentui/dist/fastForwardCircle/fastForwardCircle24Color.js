@@ -88,4 +88,4 @@ export var fastForwardCircle24Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var autoFitHeight24Regular = [
       }
     ]
   ]
-]
+];

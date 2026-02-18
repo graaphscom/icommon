@@ -21,4 +21,4 @@ export var exposureOutlined24px = [
       }
     ]
   ]
-]
+];

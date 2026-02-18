@@ -21,4 +21,4 @@ export var launchSharp24px = [
       }
     ]
   ]
-]
+];

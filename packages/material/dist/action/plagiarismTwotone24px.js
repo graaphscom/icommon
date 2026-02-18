@@ -63,4 +63,4 @@ export var plagiarismTwotone24px = [
       ]
     ]
   ]
-]
+];

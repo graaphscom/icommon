@@ -35,4 +35,4 @@ export var precisionManufacturingRound20px = [
       ]
     ]
   ]
-]
+];

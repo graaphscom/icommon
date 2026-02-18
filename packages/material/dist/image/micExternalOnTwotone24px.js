@@ -54,4 +54,4 @@ export var micExternalOnTwotone24px = [
       ]
     ]
   ]
-]
+];

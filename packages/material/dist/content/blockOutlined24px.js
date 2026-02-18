@@ -21,4 +21,4 @@ export var blockOutlined24px = [
       }
     ]
   ]
-]
+];

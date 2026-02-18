@@ -16,4 +16,4 @@ export var locationRipple16Regular = [
       }
     ]
   ]
-]
+];

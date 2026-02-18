@@ -21,4 +21,4 @@ export var brokenImageRound24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var viewCarouselRound24px = [
       }
     ]
   ]
-]
+];

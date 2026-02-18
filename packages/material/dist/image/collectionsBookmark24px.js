@@ -34,4 +34,4 @@ export var collectionsBookmark24px = [
       }
     ]
   ]
-]
+];

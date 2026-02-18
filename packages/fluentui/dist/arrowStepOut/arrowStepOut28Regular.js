@@ -16,4 +16,4 @@ export var arrowStepOut28Regular = [
       }
     ]
   ]
-]
+];

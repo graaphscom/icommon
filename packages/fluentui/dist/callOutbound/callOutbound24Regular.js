@@ -16,4 +16,4 @@ export var callOutbound24Regular = [
       }
     ]
   ]
-]
+];

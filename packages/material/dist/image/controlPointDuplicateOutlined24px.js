@@ -21,4 +21,4 @@ export var controlPointDuplicateOutlined24px = [
       }
     ]
   ]
-]
+];

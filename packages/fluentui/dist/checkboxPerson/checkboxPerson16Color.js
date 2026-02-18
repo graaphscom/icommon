@@ -251,4 +251,4 @@ export var checkboxPerson16Color = [
       ]
     ]
   ]
-]
+];

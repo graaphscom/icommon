@@ -29,4 +29,4 @@ export var pianoOutlined20px = [
       ]
     ]
   ]
-]
+];

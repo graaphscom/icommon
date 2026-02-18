@@ -34,4 +34,4 @@ export var flatware24px = [
       ]
     ]
   ]
-]
+];

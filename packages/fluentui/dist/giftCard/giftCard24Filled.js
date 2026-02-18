@@ -16,4 +16,4 @@ export var giftCard24Filled = [
       }
     ]
   ]
-]
+];

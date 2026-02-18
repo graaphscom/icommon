@@ -21,4 +21,4 @@ export var flashOff24px = [
       }
     ]
   ]
-]
+];

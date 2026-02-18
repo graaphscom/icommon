@@ -21,4 +21,4 @@ export var insertLink24px = [
       }
     ]
   ]
-]
+];

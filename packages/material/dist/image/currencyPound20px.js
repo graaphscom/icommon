@@ -35,4 +35,4 @@ export var currencyPound20px = [
       ]
     ]
   ]
-]
+];

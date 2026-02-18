@@ -28,4 +28,4 @@ export var monetizationOnTwotone24px = [
       }
     ]
   ]
-]
+];

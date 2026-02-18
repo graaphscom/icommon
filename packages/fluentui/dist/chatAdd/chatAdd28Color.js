@@ -81,4 +81,4 @@ export var chatAdd28Color = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var speakerGroupTwotone24px = [
       }
     ]
   ]
-]
+];

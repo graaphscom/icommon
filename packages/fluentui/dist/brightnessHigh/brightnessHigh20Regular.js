@@ -16,4 +16,4 @@ export var brightnessHigh20Regular = [
       }
     ]
   ]
-]
+];

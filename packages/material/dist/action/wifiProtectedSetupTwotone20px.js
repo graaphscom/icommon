@@ -59,4 +59,4 @@ export var wifiProtectedSetupTwotone20px = [
       ]
     ]
   ]
-]
+];

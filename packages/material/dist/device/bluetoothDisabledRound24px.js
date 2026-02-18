@@ -21,4 +21,4 @@ export var bluetoothDisabledRound24px = [
       }
     ]
   ]
-]
+];

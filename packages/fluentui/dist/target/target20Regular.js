@@ -16,4 +16,4 @@ export var target20Regular = [
       }
     ]
   ]
-]
+];

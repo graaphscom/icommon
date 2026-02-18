@@ -43,4 +43,4 @@ export var networkWifi3BarRound24px = [
       ]
     ]
   ]
-]
+];

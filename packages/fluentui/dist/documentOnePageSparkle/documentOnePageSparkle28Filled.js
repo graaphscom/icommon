@@ -16,4 +16,4 @@ export var documentOnePageSparkle28Filled = [
       }
     ]
   ]
-]
+];

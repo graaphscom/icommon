@@ -21,4 +21,4 @@ export var history24px = [
       }
     ]
   ]
-]
+];

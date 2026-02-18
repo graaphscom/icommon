@@ -82,4 +82,4 @@ export var subtitlesOffTwotone20px = [
       ]
     ]
   ]
-]
+];

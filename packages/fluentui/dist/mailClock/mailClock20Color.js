@@ -350,4 +350,4 @@ export var mailClock20Color = [
       ]
     ]
   ]
-]
+];

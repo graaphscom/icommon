@@ -16,4 +16,4 @@ export var shieldError24Filled = [
       }
     ]
   ]
-]
+];

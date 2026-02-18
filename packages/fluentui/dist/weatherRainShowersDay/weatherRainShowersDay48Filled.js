@@ -16,4 +16,4 @@ export var weatherRainShowersDay48Filled = [
       }
     ]
   ]
-]
+];

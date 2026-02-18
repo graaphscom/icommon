@@ -16,4 +16,4 @@ export var contactCardGroup48Filled = [
       }
     ]
   ]
-]
+];

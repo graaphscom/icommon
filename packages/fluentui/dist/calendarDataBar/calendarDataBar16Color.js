@@ -323,4 +323,4 @@ export var calendarDataBar16Color = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var flagCircleOutlined24px = [
       ]
     ]
   ]
-]
+];

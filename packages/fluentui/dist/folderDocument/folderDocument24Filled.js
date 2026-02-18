@@ -16,4 +16,4 @@ export var folderDocument24Filled = [
       }
     ]
   ]
-]
+];

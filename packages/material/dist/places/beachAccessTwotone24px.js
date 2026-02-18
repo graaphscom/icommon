@@ -28,4 +28,4 @@ export var beachAccessTwotone24px = [
       }
     ]
   ]
-]
+];

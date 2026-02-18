@@ -21,4 +21,4 @@ export var allInclusiveOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -24,4 +24,4 @@ export var browserUpdatedTwotone24px = [
       }
     ]
   ]
-]
+];

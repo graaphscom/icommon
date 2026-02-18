@@ -54,4 +54,4 @@ export var outboxTwotone20px = [
       ]
     ]
   ]
-]
+];

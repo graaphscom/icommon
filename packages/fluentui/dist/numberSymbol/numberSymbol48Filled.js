@@ -16,4 +16,4 @@ export var numberSymbol48Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var ringVolumeOutlined24px = [
       }
     ]
   ]
-]
+];

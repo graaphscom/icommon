@@ -56,4 +56,4 @@ export var moveUpOutlined24px = [
       ]
     ]
   ]
-]
+];

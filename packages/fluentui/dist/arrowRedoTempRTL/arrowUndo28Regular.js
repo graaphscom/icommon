@@ -16,4 +16,4 @@ export var arrowUndo28Regular = [
       }
     ]
   ]
-]
+];

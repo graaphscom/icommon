@@ -21,4 +21,4 @@ export var eventNoteOutlined24px = [
       }
     ]
   ]
-]
+];

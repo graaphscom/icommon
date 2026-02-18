@@ -53,4 +53,4 @@ export var lockClockRound20px = [
       ]
     ]
   ]
-]
+];

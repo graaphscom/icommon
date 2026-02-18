@@ -56,4 +56,4 @@ export var gasMeterOutlined24px = [
       ]
     ]
   ]
-]
+];

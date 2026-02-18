@@ -35,4 +35,4 @@ export var infoOutlineRound24px = [
       }
     ]
   ]
-]
+];

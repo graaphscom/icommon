@@ -35,4 +35,4 @@ export var replayCircleFilledRound24px = [
       ]
     ]
   ]
-]
+];

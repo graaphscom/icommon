@@ -73,4 +73,4 @@ export var subtitlesOffTwotone24px = [
       ]
     ]
   ]
-]
+];

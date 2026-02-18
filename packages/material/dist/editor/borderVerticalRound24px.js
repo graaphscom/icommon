@@ -21,4 +21,4 @@ export var borderVerticalRound24px = [
       }
     ]
   ]
-]
+];

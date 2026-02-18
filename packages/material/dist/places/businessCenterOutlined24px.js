@@ -21,4 +21,4 @@ export var businessCenterOutlined24px = [
       }
     ]
   ]
-]
+];

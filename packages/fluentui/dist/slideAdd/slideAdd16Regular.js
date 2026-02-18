@@ -16,4 +16,4 @@ export var slideAdd16Regular = [
       }
     ]
   ]
-]
+];

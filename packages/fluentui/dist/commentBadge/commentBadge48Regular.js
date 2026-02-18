@@ -16,4 +16,4 @@ export var commentBadge48Regular = [
       }
     ]
   ]
-]
+];

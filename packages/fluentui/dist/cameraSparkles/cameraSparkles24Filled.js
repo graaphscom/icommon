@@ -16,4 +16,4 @@ export var cameraSparkles24Filled = [
       }
     ]
   ]
-]
+];

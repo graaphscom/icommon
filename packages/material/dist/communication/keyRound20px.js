@@ -35,4 +35,4 @@ export var keyRound20px = [
       ]
     ]
   ]
-]
+];

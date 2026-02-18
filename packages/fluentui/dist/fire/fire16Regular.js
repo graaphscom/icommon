@@ -16,4 +16,4 @@ export var fire16Regular = [
       }
     ]
   ]
-]
+];

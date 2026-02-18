@@ -47,4 +47,4 @@ export var watchOffOutlined24px = [
       ]
     ]
   ]
-]
+];

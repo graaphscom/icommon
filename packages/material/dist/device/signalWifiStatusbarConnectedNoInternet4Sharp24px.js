@@ -58,4 +58,4 @@ export var signalWifiStatusbarConnectedNoInternet4Sharp24px = [
       ]
     ]
   ]
-]
+];

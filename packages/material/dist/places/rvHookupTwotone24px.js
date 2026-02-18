@@ -28,4 +28,4 @@ export var rvHookupTwotone24px = [
       }
     ]
   ]
-]
+];

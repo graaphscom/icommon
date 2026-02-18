@@ -54,4 +54,4 @@ export var thunderstormOutlined20px = [
       ]
     ]
   ]
-]
+];

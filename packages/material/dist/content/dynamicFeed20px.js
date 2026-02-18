@@ -136,4 +136,4 @@ export var dynamicFeed20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var folderArrowUp24Filled = [
       }
     ]
   ]
-]
+];

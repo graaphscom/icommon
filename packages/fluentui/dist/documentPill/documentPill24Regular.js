@@ -16,4 +16,4 @@ export var documentPill24Regular = [
       }
     ]
   ]
-]
+];

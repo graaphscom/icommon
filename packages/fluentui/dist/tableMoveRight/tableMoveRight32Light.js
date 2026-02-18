@@ -16,4 +16,4 @@ export var tableMoveRight32Light = [
       }
     ]
   ]
-]
+];

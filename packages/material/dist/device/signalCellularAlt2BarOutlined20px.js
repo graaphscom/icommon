@@ -42,4 +42,4 @@ export var signalCellularAlt2BarOutlined20px = [
       ]
     ]
   ]
-]
+];

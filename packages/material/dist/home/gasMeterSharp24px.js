@@ -35,4 +35,4 @@ export var gasMeterSharp24px = [
       ]
     ]
   ]
-]
+];

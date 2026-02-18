@@ -23,4 +23,4 @@ export var travelExploreRound24px = [
       }
     ]
   ]
-]
+];

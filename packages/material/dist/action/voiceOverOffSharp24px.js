@@ -21,4 +21,4 @@ export var voiceOverOffSharp24px = [
       }
     ]
   ]
-]
+];

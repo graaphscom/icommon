@@ -22,4 +22,4 @@ export var controlCameraRound24px = [
       }
     ]
   ]
-]
+];

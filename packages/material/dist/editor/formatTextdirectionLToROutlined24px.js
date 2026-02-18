@@ -21,4 +21,4 @@ export var formatTextdirectionLToROutlined24px = [
       }
     ]
   ]
-]
+];

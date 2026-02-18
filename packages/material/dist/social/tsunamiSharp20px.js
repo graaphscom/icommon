@@ -47,4 +47,4 @@ export var tsunamiSharp20px = [
       ]
     ]
   ]
-]
+];

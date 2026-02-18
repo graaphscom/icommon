@@ -35,4 +35,4 @@ export var repeatOneOnOutlined24px = [
       ]
     ]
   ]
-]
+];

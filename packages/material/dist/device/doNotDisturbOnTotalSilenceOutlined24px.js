@@ -40,4 +40,4 @@ export var doNotDisturbOnTotalSilenceOutlined24px = [
       ]
     ]
   ]
-]
+];

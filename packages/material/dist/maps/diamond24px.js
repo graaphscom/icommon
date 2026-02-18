@@ -95,4 +95,4 @@ export var diamond24px = [
       ]
     ]
   ]
-]
+];

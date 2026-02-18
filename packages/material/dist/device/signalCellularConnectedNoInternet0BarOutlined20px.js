@@ -23,4 +23,4 @@ export var signalCellularConnectedNoInternet0BarOutlined20px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var cameraEdit20Regular = [
       }
     ]
   ]
-]
+];

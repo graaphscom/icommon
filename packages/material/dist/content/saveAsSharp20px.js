@@ -35,4 +35,4 @@ export var saveAsSharp20px = [
       ]
     ]
   ]
-]
+];

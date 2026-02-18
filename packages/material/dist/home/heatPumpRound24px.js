@@ -43,4 +43,4 @@ export var heatPumpRound24px = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var childFriendlyTwotone24px = [
       }
     ]
   ]
-]
+];

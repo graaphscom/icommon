@@ -16,4 +16,4 @@ export var drawText20Filled = [
       }
     ]
   ]
-]
+];

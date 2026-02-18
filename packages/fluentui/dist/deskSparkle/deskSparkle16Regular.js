@@ -16,4 +16,4 @@ export var deskSparkle16Regular = [
       }
     ]
   ]
-]
+];

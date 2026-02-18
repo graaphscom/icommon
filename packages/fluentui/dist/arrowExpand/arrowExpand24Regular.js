@@ -16,4 +16,4 @@ export var arrowExpand24Regular = [
       }
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var sportsMartialArtsRound20px = [
       ]
     ]
   ]
-]
+];

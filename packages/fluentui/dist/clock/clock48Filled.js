@@ -16,4 +16,4 @@ export var clock48Filled = [
       }
     ]
   ]
-]
+];

@@ -58,4 +58,4 @@ export var orientation20Regular = [
       }
     ]
   ]
-]
+];

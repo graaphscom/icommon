@@ -16,4 +16,4 @@ export var documentHeader20Regular = [
       }
     ]
   ]
-]
+];

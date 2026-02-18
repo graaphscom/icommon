@@ -54,4 +54,4 @@ export var browseGalleryOutlined20px = [
       ]
     ]
   ]
-]
+];

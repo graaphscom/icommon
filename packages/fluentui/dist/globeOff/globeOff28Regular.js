@@ -16,4 +16,4 @@ export var globeOff28Regular = [
       }
     ]
   ]
-]
+];

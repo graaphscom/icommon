@@ -16,4 +16,4 @@ export var elevator48Regular = [
       }
     ]
   ]
-]
+];

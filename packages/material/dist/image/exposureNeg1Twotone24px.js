@@ -21,4 +21,4 @@ export var exposureNeg1Twotone24px = [
       }
     ]
   ]
-]
+];

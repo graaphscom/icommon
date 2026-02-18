@@ -16,4 +16,4 @@ export var editProhibited20Regular = [
       }
     ]
   ]
-]
+];

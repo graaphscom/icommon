@@ -21,4 +21,4 @@ export var notificationsNoneRound24px = [
       }
     ]
   ]
-]
+];

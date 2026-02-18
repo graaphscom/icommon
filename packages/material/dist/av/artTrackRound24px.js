@@ -14,4 +14,4 @@ export var artTrackRound24px = [
       }
     ]
   ]
-]
+];

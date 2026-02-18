@@ -21,4 +21,4 @@ export var smsFailedSharp24px = [
       }
     ]
   ]
-]
+];

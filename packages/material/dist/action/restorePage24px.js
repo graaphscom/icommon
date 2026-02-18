@@ -21,4 +21,4 @@ export var restorePage24px = [
       }
     ]
   ]
-]
+];

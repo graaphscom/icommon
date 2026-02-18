@@ -41,4 +41,4 @@ export var egg24px = [
       ]
     ]
   ]
-]
+];

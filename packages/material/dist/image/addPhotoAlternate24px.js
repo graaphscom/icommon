@@ -21,4 +21,4 @@ export var addPhotoAlternate24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var speakerNotesOffRound24px = [
       }
     ]
   ]
-]
+];

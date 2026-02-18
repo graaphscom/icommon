@@ -22,4 +22,4 @@ export var cancelRound24px = [
       }
     ]
   ]
-]
+];

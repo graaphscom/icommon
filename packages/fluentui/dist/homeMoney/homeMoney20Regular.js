@@ -16,4 +16,4 @@ export var homeMoney20Regular = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var directionsBoatTwotone24px = [
       }
     ]
   ]
-]
+];

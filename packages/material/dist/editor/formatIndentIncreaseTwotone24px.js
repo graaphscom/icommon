@@ -21,4 +21,4 @@ export var formatIndentIncreaseTwotone24px = [
       }
     ]
   ]
-]
+];

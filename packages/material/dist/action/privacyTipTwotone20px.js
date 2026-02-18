@@ -38,4 +38,4 @@ export var privacyTipTwotone20px = [
       ]
     ]
   ]
-]
+];

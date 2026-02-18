@@ -16,4 +16,4 @@ export var calendarStar16Regular = [
       }
     ]
   ]
-]
+];

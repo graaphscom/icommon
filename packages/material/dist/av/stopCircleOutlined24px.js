@@ -23,4 +23,4 @@ export var stopCircleOutlined24px = [
       }
     ]
   ]
-]
+];

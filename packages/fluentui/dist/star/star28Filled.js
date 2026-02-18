@@ -16,4 +16,4 @@ export var star28Filled = [
       }
     ]
   ]
-]
+];

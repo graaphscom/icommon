@@ -21,4 +21,4 @@ export var nfcRound24px = [
       }
     ]
   ]
-]
+];

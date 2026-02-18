@@ -21,4 +21,4 @@ export var moneyOffRound24px = [
       }
     ]
   ]
-]
+];

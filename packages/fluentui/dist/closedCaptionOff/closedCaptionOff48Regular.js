@@ -16,4 +16,4 @@ export var closedCaptionOff48Regular = [
       }
     ]
   ]
-]
+];

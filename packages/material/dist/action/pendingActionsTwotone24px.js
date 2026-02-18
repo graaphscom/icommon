@@ -36,4 +36,4 @@ export var pendingActionsTwotone24px = [
       ]
     ]
   ]
-]
+];

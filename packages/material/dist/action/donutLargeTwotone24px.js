@@ -21,4 +21,4 @@ export var donutLargeTwotone24px = [
       }
     ]
   ]
-]
+];

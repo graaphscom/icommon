@@ -16,4 +16,4 @@ export var delete48Regular = [
       }
     ]
   ]
-]
+];

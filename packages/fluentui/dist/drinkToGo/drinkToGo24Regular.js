@@ -16,4 +16,4 @@ export var drinkToGo24Regular = [
       }
     ]
   ]
-]
+];

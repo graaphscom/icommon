@@ -16,4 +16,4 @@ export var stackArrowForward20Filled = [
       }
     ]
   ]
-]
+];

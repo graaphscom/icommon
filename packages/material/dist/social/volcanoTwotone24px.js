@@ -101,4 +101,4 @@ export var volcanoTwotone24px = [
       ]
     ]
   ]
-]
+];

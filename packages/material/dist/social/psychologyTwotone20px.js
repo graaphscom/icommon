@@ -54,4 +54,4 @@ export var psychologyTwotone20px = [
       ]
     ]
   ]
-]
+];

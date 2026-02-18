@@ -21,4 +21,4 @@ export var voiceOverOffOutlined24px = [
       }
     ]
   ]
-]
+];

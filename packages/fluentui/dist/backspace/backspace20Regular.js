@@ -16,4 +16,4 @@ export var backspace20Regular = [
       }
     ]
   ]
-]
+];

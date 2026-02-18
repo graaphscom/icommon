@@ -13,4 +13,4 @@ export var radio2Line = [
       }
     ]
   ]
-]
+];

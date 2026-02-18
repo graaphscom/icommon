@@ -21,4 +21,4 @@ export var pieChartRound24px = [
       }
     ]
   ]
-]
+];

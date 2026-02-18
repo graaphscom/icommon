@@ -34,4 +34,4 @@ export var doorBack24px = [
       ]
     ]
   ]
-]
+];

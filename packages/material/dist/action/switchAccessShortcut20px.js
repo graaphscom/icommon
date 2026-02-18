@@ -23,4 +23,4 @@ export var switchAccessShortcut20px = [
       }
     ]
   ]
-]
+];

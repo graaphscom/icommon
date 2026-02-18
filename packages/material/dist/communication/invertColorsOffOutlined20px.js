@@ -23,4 +23,4 @@ export var invertColorsOffOutlined20px = [
       }
     ]
   ]
-]
+];

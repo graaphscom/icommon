@@ -29,4 +29,4 @@ export var subscript24px = [
       ]
     ]
   ]
-]
+];

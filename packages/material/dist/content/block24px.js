@@ -21,4 +21,4 @@ export var block24px = [
       }
     ]
   ]
-]
+];

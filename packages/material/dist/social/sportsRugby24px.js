@@ -41,4 +41,4 @@ export var sportsRugby24px = [
       ]
     ]
   ]
-]
+];

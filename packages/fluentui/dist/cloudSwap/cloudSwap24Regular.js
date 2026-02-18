@@ -16,4 +16,4 @@ export var cloudSwap24Regular = [
       }
     ]
   ]
-]
+];

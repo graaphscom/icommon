@@ -36,4 +36,4 @@ export var tableViewTwotone24px = [
       ]
     ]
   ]
-]
+];

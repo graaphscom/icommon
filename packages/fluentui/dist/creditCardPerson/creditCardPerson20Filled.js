@@ -16,4 +16,4 @@ export var creditCardPerson20Filled = [
       }
     ]
   ]
-]
+];

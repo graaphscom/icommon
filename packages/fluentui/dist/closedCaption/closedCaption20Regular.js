@@ -16,4 +16,4 @@ export var closedCaption20Regular = [
       }
     ]
   ]
-]
+];

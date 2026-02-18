@@ -21,4 +21,4 @@ export var textFormatOutlined24px = [
       }
     ]
   ]
-]
+];

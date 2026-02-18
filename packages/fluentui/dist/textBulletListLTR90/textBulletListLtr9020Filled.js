@@ -16,4 +16,4 @@ export var textBulletListLtr9020Filled = [
       }
     ]
   ]
-]
+];

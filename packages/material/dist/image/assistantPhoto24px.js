@@ -21,4 +21,4 @@ export var assistantPhoto24px = [
       }
     ]
   ]
-]
+];

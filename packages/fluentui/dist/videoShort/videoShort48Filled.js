@@ -16,4 +16,4 @@ export var videoShort48Filled = [
       }
     ]
   ]
-]
+];

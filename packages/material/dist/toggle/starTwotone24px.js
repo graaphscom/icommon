@@ -54,4 +54,4 @@ export var starTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailInboxAdd20Regular = [
       }
     ]
   ]
-]
+];

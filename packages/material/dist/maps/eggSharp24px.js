@@ -41,4 +41,4 @@ export var eggSharp24px = [
       ]
     ]
   ]
-]
+];

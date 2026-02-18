@@ -73,4 +73,4 @@ export var synagogueRound24px = [
       ]
     ]
   ]
-]
+];

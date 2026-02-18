@@ -41,4 +41,4 @@ export var dataset24px = [
       ]
     ]
   ]
-]
+];

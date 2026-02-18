@@ -16,4 +16,4 @@ export var agentsAdd20Filled = [
       }
     ]
   ]
-]
+];

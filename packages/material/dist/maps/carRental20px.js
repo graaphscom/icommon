@@ -47,4 +47,4 @@ export var carRental20px = [
       ]
     ]
   ]
-]
+];

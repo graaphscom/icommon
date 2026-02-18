@@ -73,4 +73,4 @@ export var onDeviceTrainingRound24px = [
       ]
     ]
   ]
-]
+];

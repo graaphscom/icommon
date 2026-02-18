@@ -23,4 +23,4 @@ export var key16Regular = [
       }
     ]
   ]
-]
+];

@@ -57,4 +57,4 @@ export var gif24px = [
       ]
     ]
   ]
-]
+];

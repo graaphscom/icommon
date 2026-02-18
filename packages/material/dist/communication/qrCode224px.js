@@ -29,4 +29,4 @@ export var qrCode224px = [
       }
     ]
   ]
-]
+];

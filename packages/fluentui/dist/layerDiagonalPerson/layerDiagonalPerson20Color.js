@@ -182,4 +182,4 @@ export var layerDiagonalPerson20Color = [
       ]
     ]
   ]
-]
+];

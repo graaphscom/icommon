@@ -21,4 +21,4 @@ export var cardGiftcardRound24px = [
       }
     ]
   ]
-]
+];

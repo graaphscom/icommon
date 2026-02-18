@@ -16,4 +16,4 @@ export var key32Filled = [
       }
     ]
   ]
-]
+];

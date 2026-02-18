@@ -21,4 +21,4 @@ export var publish24px = [
       }
     ]
   ]
-]
+];

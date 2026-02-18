@@ -16,4 +16,4 @@ export var callTransfer32Filled = [
       }
     ]
   ]
-]
+];

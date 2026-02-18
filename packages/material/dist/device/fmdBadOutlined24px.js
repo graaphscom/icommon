@@ -58,4 +58,4 @@ export var fmdBadOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var videoLabelSharp24px = [
       }
     ]
   ]
-]
+];

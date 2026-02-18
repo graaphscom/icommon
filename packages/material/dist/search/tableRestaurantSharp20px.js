@@ -35,4 +35,4 @@ export var tableRestaurantSharp20px = [
       ]
     ]
   ]
-]
+];

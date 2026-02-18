@@ -16,4 +16,4 @@ export var arrowRepeatAllOff24Regular = [
       }
     ]
   ]
-]
+];

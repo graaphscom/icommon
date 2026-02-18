@@ -16,4 +16,4 @@ export var subtractParentheses32Regular = [
       }
     ]
   ]
-]
+];

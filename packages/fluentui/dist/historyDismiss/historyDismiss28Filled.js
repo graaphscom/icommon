@@ -16,4 +16,4 @@ export var historyDismiss28Filled = [
       }
     ]
   ]
-]
+];

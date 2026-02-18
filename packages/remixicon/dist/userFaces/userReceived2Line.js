@@ -13,4 +13,4 @@ export var userReceived2Line = [
       }
     ]
   ]
-]
+];

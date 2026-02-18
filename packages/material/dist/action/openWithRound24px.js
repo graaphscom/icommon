@@ -21,4 +21,4 @@ export var openWithRound24px = [
       }
     ]
   ]
-]
+];

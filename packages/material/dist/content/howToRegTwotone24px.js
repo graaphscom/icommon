@@ -37,4 +37,4 @@ export var howToRegTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var pauseCircleRound24px = [
       ]
     ]
   ]
-]
+];

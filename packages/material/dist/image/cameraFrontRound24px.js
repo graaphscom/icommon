@@ -21,4 +21,4 @@ export var cameraFrontRound24px = [
       }
     ]
   ]
-]
+];

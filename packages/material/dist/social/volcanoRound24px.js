@@ -91,4 +91,4 @@ export var volcanoRound24px = [
       ]
     ]
   ]
-]
+];

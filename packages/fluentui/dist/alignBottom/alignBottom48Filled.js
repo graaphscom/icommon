@@ -16,4 +16,4 @@ export var alignBottom48Filled = [
       }
     ]
   ]
-]
+];

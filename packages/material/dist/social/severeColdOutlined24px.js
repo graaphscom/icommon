@@ -59,4 +59,4 @@ export var severeColdOutlined24px = [
       ]
     ]
   ]
-]
+];

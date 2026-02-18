@@ -16,4 +16,4 @@ export var videoSettings28Filled = [
       }
     ]
   ]
-]
+];

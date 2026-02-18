@@ -59,4 +59,4 @@ export var person3Sharp24px = [
       ]
     ]
   ]
-]
+];

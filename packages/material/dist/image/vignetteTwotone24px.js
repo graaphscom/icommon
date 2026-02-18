@@ -28,4 +28,4 @@ export var vignetteTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var motionPhotosOn20px = [
       }
     ]
   ]
-]
+];

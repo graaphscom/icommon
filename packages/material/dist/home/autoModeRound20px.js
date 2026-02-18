@@ -71,4 +71,4 @@ export var autoModeRound20px = [
       ]
     ]
   ]
-]
+];

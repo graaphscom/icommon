@@ -35,4 +35,4 @@ export var wifiPasswordTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var directionsOffSharp24px = [
       ]
     ]
   ]
-]
+];

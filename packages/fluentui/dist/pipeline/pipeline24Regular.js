@@ -16,4 +16,4 @@ export var pipeline24Regular = [
       }
     ]
   ]
-]
+];

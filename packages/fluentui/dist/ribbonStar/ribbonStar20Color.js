@@ -115,4 +115,4 @@ export var ribbonStar20Color = [
       ]
     ]
   ]
-]
+];

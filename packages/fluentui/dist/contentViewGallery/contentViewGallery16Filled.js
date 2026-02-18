@@ -16,4 +16,4 @@ export var contentViewGallery16Filled = [
       }
     ]
   ]
-]
+];

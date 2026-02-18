@@ -21,4 +21,4 @@ export var playCircleOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

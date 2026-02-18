@@ -47,4 +47,4 @@ export var heatPumpOutlined24px = [
       ]
     ]
   ]
-]
+];

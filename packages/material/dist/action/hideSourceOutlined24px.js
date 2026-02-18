@@ -34,4 +34,4 @@ export var hideSourceOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var electricScooterTwotone20px = [
       ]
     ]
   ]
-]
+];

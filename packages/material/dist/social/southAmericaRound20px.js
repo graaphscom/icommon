@@ -23,4 +23,4 @@ export var southAmericaRound20px = [
       }
     ]
   ]
-]
+];

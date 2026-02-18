@@ -21,4 +21,4 @@ export var ondemandVideoRound24px = [
       }
     ]
   ]
-]
+];

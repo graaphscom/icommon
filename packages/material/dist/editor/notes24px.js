@@ -21,4 +21,4 @@ export var notes24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var hls24px = [
       ]
     ]
   ]
-]
+];

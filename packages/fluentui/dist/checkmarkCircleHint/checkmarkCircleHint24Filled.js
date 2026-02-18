@@ -16,4 +16,4 @@ export var checkmarkCircleHint24Filled = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var anchorTwotone24px = [
       ]
     ]
   ]
-]
+];

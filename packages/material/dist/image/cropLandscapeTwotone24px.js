@@ -21,4 +21,4 @@ export var cropLandscapeTwotone24px = [
       }
     ]
   ]
-]
+];

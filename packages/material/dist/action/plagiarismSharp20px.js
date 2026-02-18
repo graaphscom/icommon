@@ -61,4 +61,4 @@ export var plagiarismSharp20px = [
       ]
     ]
   ]
-]
+];

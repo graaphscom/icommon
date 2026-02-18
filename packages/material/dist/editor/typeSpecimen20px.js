@@ -53,4 +53,4 @@ export var typeSpecimen20px = [
       ]
     ]
   ]
-]
+];

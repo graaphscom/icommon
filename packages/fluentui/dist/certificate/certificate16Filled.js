@@ -16,4 +16,4 @@ export var certificate16Filled = [
       }
     ]
   ]
-]
+];

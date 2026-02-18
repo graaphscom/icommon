@@ -223,4 +223,4 @@ export var calendar48Color = [
       ]
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var spaTwotone24px = [
       }
     ]
   ]
-]
+];

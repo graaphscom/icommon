@@ -47,4 +47,4 @@ export var hlsOffRound20px = [
       ]
     ]
   ]
-]
+];

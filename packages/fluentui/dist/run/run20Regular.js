@@ -16,4 +16,4 @@ export var run20Regular = [
       }
     ]
   ]
-]
+];

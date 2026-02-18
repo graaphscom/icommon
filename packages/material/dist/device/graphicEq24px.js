@@ -21,4 +21,4 @@ export var graphicEq24px = [
       }
     ]
   ]
-]
+];

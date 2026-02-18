@@ -16,4 +16,4 @@ export var commentMention20Regular = [
       }
     ]
   ]
-]
+];

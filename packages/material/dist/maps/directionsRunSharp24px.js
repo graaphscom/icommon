@@ -21,4 +21,4 @@ export var directionsRunSharp24px = [
       }
     ]
   ]
-]
+];

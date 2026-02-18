@@ -41,4 +41,4 @@ export var boyRound24px = [
       ]
     ]
   ]
-]
+];

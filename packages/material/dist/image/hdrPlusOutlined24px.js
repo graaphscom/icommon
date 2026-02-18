@@ -41,4 +41,4 @@ export var hdrPlusOutlined24px = [
       ]
     ]
   ]
-]
+];

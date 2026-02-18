@@ -16,4 +16,4 @@ export var bluetoothConnected20Regular = [
       }
     ]
   ]
-]
+];

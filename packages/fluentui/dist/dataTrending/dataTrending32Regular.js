@@ -16,4 +16,4 @@ export var dataTrending32Regular = [
       }
     ]
   ]
-]
+];

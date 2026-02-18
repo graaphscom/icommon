@@ -59,4 +59,4 @@ export var __3mpOutlined24px = [
       ]
     ]
   ]
-]
+];

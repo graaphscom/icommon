@@ -21,4 +21,4 @@ export var insertInvitation24px = [
       }
     ]
   ]
-]
+];

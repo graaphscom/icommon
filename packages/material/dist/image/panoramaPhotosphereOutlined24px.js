@@ -41,4 +41,4 @@ export var panoramaPhotosphereOutlined24px = [
       ]
     ]
   ]
-]
+];

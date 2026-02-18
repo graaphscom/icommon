@@ -21,4 +21,4 @@ export var mapRound24px = [
       }
     ]
   ]
-]
+];

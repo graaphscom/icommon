@@ -16,4 +16,4 @@ export var locationLive24Regular = [
       }
     ]
   ]
-]
+];

@@ -60,4 +60,4 @@ export var addToDriveSharp20px = [
       ]
     ]
   ]
-]
+];

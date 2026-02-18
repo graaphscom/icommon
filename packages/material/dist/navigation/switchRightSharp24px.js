@@ -24,4 +24,4 @@ export var switchRightSharp24px = [
       }
     ]
   ]
-]
+];

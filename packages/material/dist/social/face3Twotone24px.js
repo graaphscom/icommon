@@ -85,4 +85,4 @@ export var face3Twotone24px = [
       ]
     ]
   ]
-]
+];

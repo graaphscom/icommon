@@ -21,4 +21,4 @@ export var workspacesFilled24px = [
       }
     ]
   ]
-]
+];

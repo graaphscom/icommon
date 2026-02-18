@@ -29,4 +29,4 @@ export var checkroomRound24px = [
       ]
     ]
   ]
-]
+];

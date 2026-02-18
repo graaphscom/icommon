@@ -65,4 +65,4 @@ export var signalCellularConnectedNoInternet4Bar20px = [
       ]
     ]
   ]
-]
+];

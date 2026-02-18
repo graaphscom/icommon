@@ -29,4 +29,4 @@ export var subscriptRound24px = [
       ]
     ]
   ]
-]
+];

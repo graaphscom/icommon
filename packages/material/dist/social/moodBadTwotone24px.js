@@ -44,4 +44,4 @@ export var moodBadTwotone24px = [
       }
     ]
   ]
-]
+];

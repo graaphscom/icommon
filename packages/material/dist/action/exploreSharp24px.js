@@ -21,4 +21,4 @@ export var exploreSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var airlineSeatFlatAngledRound24px = [
       }
     ]
   ]
-]
+];

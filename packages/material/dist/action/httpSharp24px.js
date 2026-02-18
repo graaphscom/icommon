@@ -22,4 +22,4 @@ export var httpSharp24px = [
       }
     ]
   ]
-]
+];

@@ -109,4 +109,4 @@ export var blurOffSharp24px = [
       }
     ]
   ]
-]
+];

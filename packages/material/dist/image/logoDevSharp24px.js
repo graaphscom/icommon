@@ -47,4 +47,4 @@ export var logoDevSharp24px = [
       ]
     ]
   ]
-]
+];

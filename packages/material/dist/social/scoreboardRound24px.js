@@ -43,4 +43,4 @@ export var scoreboardRound24px = [
       ]
     ]
   ]
-]
+];

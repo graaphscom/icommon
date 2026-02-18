@@ -40,4 +40,4 @@ export var doNotDisturbOnTotalSilenceTwotone24px = [
       ]
     ]
   ]
-]
+];

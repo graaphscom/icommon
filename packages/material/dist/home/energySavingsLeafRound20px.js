@@ -41,4 +41,4 @@ export var energySavingsLeafRound20px = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var wbIridescentTwotone24px = [
       }
     ]
   ]
-]
+];

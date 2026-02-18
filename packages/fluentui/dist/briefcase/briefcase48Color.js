@@ -191,4 +191,4 @@ export var briefcase48Color = [
       ]
     ]
   ]
-]
+];

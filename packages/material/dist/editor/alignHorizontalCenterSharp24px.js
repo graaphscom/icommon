@@ -23,4 +23,4 @@ export var alignHorizontalCenterSharp24px = [
       }
     ]
   ]
-]
+];

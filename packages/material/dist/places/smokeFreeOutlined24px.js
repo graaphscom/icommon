@@ -21,4 +21,4 @@ export var smokeFreeOutlined24px = [
       }
     ]
   ]
-]
+];

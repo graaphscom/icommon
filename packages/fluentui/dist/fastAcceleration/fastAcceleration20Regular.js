@@ -16,4 +16,4 @@ export var fastAcceleration20Regular = [
       }
     ]
   ]
-]
+];

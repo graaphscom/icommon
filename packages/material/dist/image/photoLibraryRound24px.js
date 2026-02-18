@@ -21,4 +21,4 @@ export var photoLibraryRound24px = [
       }
     ]
   ]
-]
+];

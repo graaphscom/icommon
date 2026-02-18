@@ -246,4 +246,4 @@ export var textEditStyle16Color = [
       ]
     ]
   ]
-]
+];

@@ -260,4 +260,4 @@ export var peopleChat48Color = [
       ]
     ]
   ]
-]
+];

@@ -78,4 +78,4 @@ export var sportsGolfTwotone24px = [
       ]
     ]
   ]
-]
+];

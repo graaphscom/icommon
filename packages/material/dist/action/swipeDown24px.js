@@ -35,4 +35,4 @@ export var swipeDown24px = [
       ]
     ]
   ]
-]
+];

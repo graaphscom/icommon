@@ -43,4 +43,4 @@ export var phpRound24px = [
       ]
     ]
   ]
-]
+];

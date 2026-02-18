@@ -29,4 +29,4 @@ export var drySharp24px = [
       ]
     ]
   ]
-]
+];

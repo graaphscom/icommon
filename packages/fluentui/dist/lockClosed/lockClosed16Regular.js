@@ -16,4 +16,4 @@ export var lockClosed16Regular = [
       }
     ]
   ]
-]
+];

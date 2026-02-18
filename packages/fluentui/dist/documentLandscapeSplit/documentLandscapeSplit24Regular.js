@@ -16,4 +16,4 @@ export var documentLandscapeSplit24Regular = [
       }
     ]
   ]
-]
+];

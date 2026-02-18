@@ -47,4 +47,4 @@ export var contentPasteGoRound20px = [
       ]
     ]
   ]
-]
+];

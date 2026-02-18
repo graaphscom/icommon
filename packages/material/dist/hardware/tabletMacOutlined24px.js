@@ -21,4 +21,4 @@ export var tabletMacOutlined24px = [
       }
     ]
   ]
-]
+];

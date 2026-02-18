@@ -55,4 +55,4 @@ export var sportsMotorsportsRound24px = [
       ]
     ]
   ]
-]
+];

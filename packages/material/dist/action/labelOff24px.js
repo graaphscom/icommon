@@ -21,4 +21,4 @@ export var labelOff24px = [
       }
     ]
   ]
-]
+];

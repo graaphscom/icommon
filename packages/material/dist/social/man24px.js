@@ -49,4 +49,4 @@ export var man24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var radioButton20Regular = [
       }
     ]
   ]
-]
+];

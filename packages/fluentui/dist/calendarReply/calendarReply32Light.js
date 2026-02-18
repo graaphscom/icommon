@@ -16,4 +16,4 @@ export var calendarReply32Light = [
       }
     ]
   ]
-]
+];

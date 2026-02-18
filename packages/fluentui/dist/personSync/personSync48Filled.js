@@ -16,4 +16,4 @@ export var personSync48Filled = [
       }
     ]
   ]
-]
+];

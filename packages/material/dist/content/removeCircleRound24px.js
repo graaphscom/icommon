@@ -21,4 +21,4 @@ export var removeCircleRound24px = [
       }
     ]
   ]
-]
+];

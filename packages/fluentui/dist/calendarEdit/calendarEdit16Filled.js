@@ -16,4 +16,4 @@ export var calendarEdit16Filled = [
       }
     ]
   ]
-]
+];

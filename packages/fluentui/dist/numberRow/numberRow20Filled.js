@@ -16,4 +16,4 @@ export var numberRow20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var slideSize24Filled = [
       }
     ]
   ]
-]
+];

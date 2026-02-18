@@ -43,4 +43,4 @@ export var pestControlRodentRound24px = [
       ]
     ]
   ]
-]
+];

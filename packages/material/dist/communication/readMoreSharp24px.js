@@ -68,4 +68,4 @@ export var readMoreSharp24px = [
       ]
     ]
   ]
-]
+];

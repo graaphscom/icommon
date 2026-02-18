@@ -51,4 +51,4 @@ export var singleBedTwotone24px = [
       ]
     ]
   ]
-]
+];

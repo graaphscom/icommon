@@ -21,4 +21,4 @@ export var formatSize24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var pictureAsPdfRound24px = [
       }
     ]
   ]
-]
+];

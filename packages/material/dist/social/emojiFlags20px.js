@@ -39,4 +39,4 @@ export var emojiFlags20px = [
       ]
     ]
   ]
-]
+];

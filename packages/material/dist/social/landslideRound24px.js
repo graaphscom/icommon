@@ -73,4 +73,4 @@ export var landslideRound24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var __360Round24px = [
       }
     ]
   ]
-]
+];

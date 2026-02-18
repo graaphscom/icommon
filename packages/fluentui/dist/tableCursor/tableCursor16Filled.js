@@ -16,4 +16,4 @@ export var tableCursor16Filled = [
       }
     ]
   ]
-]
+];

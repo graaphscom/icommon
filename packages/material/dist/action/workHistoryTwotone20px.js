@@ -54,4 +54,4 @@ export var workHistoryTwotone20px = [
       ]
     ]
   ]
-]
+];

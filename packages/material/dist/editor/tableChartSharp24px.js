@@ -14,4 +14,4 @@ export var tableChartSharp24px = [
       }
     ]
   ]
-]
+];

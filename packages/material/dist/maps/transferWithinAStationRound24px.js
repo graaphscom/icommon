@@ -21,4 +21,4 @@ export var transferWithinAStationRound24px = [
       }
     ]
   ]
-]
+];

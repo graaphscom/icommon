@@ -35,4 +35,4 @@ export var paid24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var calendarMultiple32Light = [
       }
     ]
   ]
-]
+];

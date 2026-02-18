@@ -35,4 +35,4 @@ export var stadiumRound24px = [
       ]
     ]
   ]
-]
+];

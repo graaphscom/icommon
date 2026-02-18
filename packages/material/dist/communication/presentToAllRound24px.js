@@ -21,4 +21,4 @@ export var presentToAllRound24px = [
       }
     ]
   ]
-]
+];

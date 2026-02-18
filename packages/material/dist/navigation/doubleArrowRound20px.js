@@ -47,4 +47,4 @@ export var doubleArrowRound20px = [
       ]
     ]
   ]
-]
+];

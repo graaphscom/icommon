@@ -21,4 +21,4 @@ export var importantDevicesSharp24px = [
       }
     ]
   ]
-]
+];

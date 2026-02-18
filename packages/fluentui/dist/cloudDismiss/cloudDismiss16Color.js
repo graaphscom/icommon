@@ -293,4 +293,4 @@ export var cloudDismiss16Color = [
       ]
     ]
   ]
-]
+];

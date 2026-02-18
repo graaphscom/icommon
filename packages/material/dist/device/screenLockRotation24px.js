@@ -21,4 +21,4 @@ export var screenLockRotation24px = [
       }
     ]
   ]
-]
+];

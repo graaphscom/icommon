@@ -16,4 +16,4 @@ export var drawShape20Regular = [
       }
     ]
   ]
-]
+];

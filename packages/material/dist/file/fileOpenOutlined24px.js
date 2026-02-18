@@ -35,4 +35,4 @@ export var fileOpenOutlined24px = [
       ]
     ]
   ]
-]
+];

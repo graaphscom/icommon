@@ -16,4 +16,4 @@ export var scanText24Filled = [
       }
     ]
   ]
-]
+];

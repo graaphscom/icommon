@@ -16,4 +16,4 @@ export var editOff32Regular = [
       }
     ]
   ]
-]
+];

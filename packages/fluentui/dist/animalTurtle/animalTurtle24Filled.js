@@ -16,4 +16,4 @@ export var animalTurtle24Filled = [
       }
     ]
   ]
-]
+];

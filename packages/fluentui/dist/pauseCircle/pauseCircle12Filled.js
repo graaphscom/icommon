@@ -16,4 +16,4 @@ export var pauseCircle12Filled = [
       }
     ]
   ]
-]
+];

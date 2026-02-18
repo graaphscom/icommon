@@ -16,4 +16,4 @@ export var lineHorizontal1Dot20Filled = [
       }
     ]
   ]
-]
+];

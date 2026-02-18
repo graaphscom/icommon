@@ -35,4 +35,4 @@ export var scubaDivingTwotone24px = [
       ]
     ]
   ]
-]
+];

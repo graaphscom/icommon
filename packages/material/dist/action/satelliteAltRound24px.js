@@ -35,4 +35,4 @@ export var satelliteAltRound24px = [
       ]
     ]
   ]
-]
+];

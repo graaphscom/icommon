@@ -34,4 +34,4 @@ export var resetTvSharp24px = [
       ]
     ]
   ]
-]
+];

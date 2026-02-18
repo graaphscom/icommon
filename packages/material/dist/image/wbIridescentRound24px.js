@@ -21,4 +21,4 @@ export var wbIridescentRound24px = [
       }
     ]
   ]
-]
+];

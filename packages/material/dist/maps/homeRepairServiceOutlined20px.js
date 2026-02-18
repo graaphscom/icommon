@@ -48,4 +48,4 @@ export var homeRepairServiceOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var southAmericaTwotone24px = [
       }
     ]
   ]
-]
+];

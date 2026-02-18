@@ -35,4 +35,4 @@ export var crisisAlertTwotone20px = [
       ]
     ]
   ]
-]
+];

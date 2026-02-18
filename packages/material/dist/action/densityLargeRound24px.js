@@ -55,4 +55,4 @@ export var densityLargeRound24px = [
       ]
     ]
   ]
-]
+];

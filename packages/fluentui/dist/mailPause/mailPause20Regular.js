@@ -16,4 +16,4 @@ export var mailPause20Regular = [
       }
     ]
   ]
-]
+];

@@ -58,4 +58,4 @@ export var expandOutlined24px = [
       ]
     ]
   ]
-]
+];

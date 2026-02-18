@@ -21,4 +21,4 @@ export var addLink24px = [
       }
     ]
   ]
-]
+];

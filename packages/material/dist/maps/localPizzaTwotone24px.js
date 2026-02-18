@@ -28,4 +28,4 @@ export var localPizzaTwotone24px = [
       }
     ]
   ]
-]
+];

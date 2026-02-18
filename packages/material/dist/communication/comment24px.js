@@ -21,4 +21,4 @@ export var comment24px = [
       }
     ]
   ]
-]
+];

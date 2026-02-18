@@ -37,4 +37,4 @@ export var sentimentDissatisfiedOutlined24px = [
       }
     ]
   ]
-]
+];

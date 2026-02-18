@@ -23,4 +23,4 @@ export var timer10SelectTwotone24px = [
       }
     ]
   ]
-]
+];

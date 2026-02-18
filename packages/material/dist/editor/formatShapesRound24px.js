@@ -21,4 +21,4 @@ export var formatShapesRound24px = [
       }
     ]
   ]
-]
+];

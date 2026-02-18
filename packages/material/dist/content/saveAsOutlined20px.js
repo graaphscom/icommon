@@ -36,4 +36,4 @@ export var saveAsOutlined20px = [
       ]
     ]
   ]
-]
+];

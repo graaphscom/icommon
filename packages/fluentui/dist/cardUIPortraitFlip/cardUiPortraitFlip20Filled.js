@@ -16,4 +16,4 @@ export var cardUiPortraitFlip20Filled = [
       }
     ]
   ]
-]
+];

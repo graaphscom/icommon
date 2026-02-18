@@ -21,4 +21,4 @@ export var swapVertRound24px = [
       }
     ]
   ]
-]
+];

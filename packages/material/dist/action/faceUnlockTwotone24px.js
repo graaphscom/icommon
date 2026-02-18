@@ -21,4 +21,4 @@ export var faceUnlockTwotone24px = [
       }
     ]
   ]
-]
+];

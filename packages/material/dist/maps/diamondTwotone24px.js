@@ -76,4 +76,4 @@ export var diamondTwotone24px = [
       ]
     ]
   ]
-]
+];

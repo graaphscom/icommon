@@ -16,4 +16,4 @@ export var moreHorizontal16Regular = [
       }
     ]
   ]
-]
+];

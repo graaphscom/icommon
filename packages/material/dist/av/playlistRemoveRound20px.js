@@ -35,4 +35,4 @@ export var playlistRemoveRound20px = [
       ]
     ]
   ]
-]
+];

@@ -43,4 +43,4 @@ export var removeModeratorOutlined24px = [
       ]
     ]
   ]
-]
+];

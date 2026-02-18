@@ -27,4 +27,4 @@ export var toll24px = [
       }
     ]
   ]
-]
+];

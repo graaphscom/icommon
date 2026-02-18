@@ -16,4 +16,4 @@ export var reOrder16Filled = [
       }
     ]
   ]
-]
+];

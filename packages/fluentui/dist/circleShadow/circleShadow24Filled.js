@@ -16,4 +16,4 @@ export var circleShadow24Filled = [
       }
     ]
   ]
-]
+];

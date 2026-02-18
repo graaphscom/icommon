@@ -16,4 +16,4 @@ export var dataUsageCheckmark32Filled = [
       }
     ]
   ]
-]
+];

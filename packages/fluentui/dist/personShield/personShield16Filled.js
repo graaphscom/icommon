@@ -16,4 +16,4 @@ export var personShield16Filled = [
       }
     ]
   ]
-]
+];

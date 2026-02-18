@@ -16,4 +16,4 @@ export var textEditStyleCharacterA32Regular = [
       }
     ]
   ]
-]
+];

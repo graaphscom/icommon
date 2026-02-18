@@ -16,4 +16,4 @@ export var calendar3Day28Regular = [
       }
     ]
   ]
-]
+];

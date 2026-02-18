@@ -77,4 +77,4 @@ export var designServicesTwotone24px = [
       ]
     ]
   ]
-]
+];

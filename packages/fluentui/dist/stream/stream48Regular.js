@@ -16,4 +16,4 @@ export var stream48Regular = [
       }
     ]
   ]
-]
+];

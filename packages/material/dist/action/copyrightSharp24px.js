@@ -21,4 +21,4 @@ export var copyrightSharp24px = [
       }
     ]
   ]
-]
+];

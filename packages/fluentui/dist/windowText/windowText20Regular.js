@@ -16,4 +16,4 @@ export var windowText20Regular = [
       }
     ]
   ]
-]
+];

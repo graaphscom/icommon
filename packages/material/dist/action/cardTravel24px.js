@@ -21,4 +21,4 @@ export var cardTravel24px = [
       }
     ]
   ]
-]
+];

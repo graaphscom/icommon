@@ -16,4 +16,4 @@ export var tableSparkle20Regular = [
       }
     ]
   ]
-]
+];

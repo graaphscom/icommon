@@ -16,4 +16,4 @@ export var emojiAdd24Filled = [
       }
     ]
   ]
-]
+];

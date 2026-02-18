@@ -21,4 +21,4 @@ export var gestureTwotone24px = [
       }
     ]
   ]
-]
+];

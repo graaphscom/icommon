@@ -35,4 +35,4 @@ export var wifiChannelOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var factoryRound24px = [
       ]
     ]
   ]
-]
+];

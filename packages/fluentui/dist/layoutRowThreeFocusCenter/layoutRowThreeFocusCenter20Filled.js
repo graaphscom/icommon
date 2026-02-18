@@ -16,4 +16,4 @@ export var layoutRowThreeFocusCenter20Filled = [
       }
     ]
   ]
-]
+];

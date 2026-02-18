@@ -35,4 +35,4 @@ export var curtainsClosedOutlined24px = [
       ]
     ]
   ]
-]
+];

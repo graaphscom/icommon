@@ -13,4 +13,4 @@ export var slideshow4Line = [
       }
     ]
   ]
-]
+];

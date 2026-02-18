@@ -55,4 +55,4 @@ export var __5gRound24px = [
       ]
     ]
   ]
-]
+];

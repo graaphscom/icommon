@@ -35,4 +35,4 @@ export var login24px = [
       ]
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var bedtimeOffSharp20px = [
       ]
     ]
   ]
-]
+];

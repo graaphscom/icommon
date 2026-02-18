@@ -21,4 +21,4 @@ export var sms24px = [
       }
     ]
   ]
-]
+];

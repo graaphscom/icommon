@@ -49,4 +49,4 @@ export var shareIos48Color = [
       ]
     ]
   ]
-]
+];

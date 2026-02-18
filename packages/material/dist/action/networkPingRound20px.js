@@ -35,4 +35,4 @@ export var networkPingRound20px = [
       ]
     ]
   ]
-]
+];

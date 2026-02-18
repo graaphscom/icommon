@@ -35,4 +35,4 @@ export var __2kPlusRound24px = [
       ]
     ]
   ]
-]
+];

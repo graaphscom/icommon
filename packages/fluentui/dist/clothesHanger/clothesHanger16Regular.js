@@ -16,4 +16,4 @@ export var clothesHanger16Regular = [
       }
     ]
   ]
-]
+];

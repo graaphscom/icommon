@@ -16,4 +16,4 @@ export var linkToolbox20Filled = [
       }
     ]
   ]
-]
+];

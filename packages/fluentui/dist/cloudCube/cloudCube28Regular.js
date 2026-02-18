@@ -16,4 +16,4 @@ export var cloudCube28Regular = [
       }
     ]
   ]
-]
+];

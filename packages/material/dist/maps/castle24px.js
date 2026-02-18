@@ -41,4 +41,4 @@ export var castle24px = [
       ]
     ]
   ]
-]
+];

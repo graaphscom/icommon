@@ -20,4 +20,4 @@ export var fileMoved16 = [
       }
     ]
   ]
-]
+];

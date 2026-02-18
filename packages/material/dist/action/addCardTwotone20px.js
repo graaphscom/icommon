@@ -35,4 +35,4 @@ export var addCardTwotone20px = [
       ]
     ]
   ]
-]
+];

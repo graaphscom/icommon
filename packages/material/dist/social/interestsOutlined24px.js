@@ -23,4 +23,4 @@ export var interestsOutlined24px = [
       }
     ]
   ]
-]
+];

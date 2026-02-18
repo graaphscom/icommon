@@ -16,4 +16,4 @@ export var arrowSquare32Filled = [
       }
     ]
   ]
-]
+];

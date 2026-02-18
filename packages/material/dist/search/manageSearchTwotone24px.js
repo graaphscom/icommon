@@ -67,4 +67,4 @@ export var manageSearchTwotone24px = [
       ]
     ]
   ]
-]
+];

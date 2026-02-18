@@ -16,4 +16,4 @@ export var arrowAutofitHeightIn24Regular = [
       }
     ]
   ]
-]
+];

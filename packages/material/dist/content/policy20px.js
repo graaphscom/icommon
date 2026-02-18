@@ -53,4 +53,4 @@ export var policy20px = [
       ]
     ]
   ]
-]
+];

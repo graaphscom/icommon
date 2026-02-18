@@ -21,4 +21,4 @@ export var starOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

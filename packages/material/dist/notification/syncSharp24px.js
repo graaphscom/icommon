@@ -21,4 +21,4 @@ export var syncSharp24px = [
       }
     ]
   ]
-]
+];

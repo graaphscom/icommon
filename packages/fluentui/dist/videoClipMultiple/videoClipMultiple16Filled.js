@@ -16,4 +16,4 @@ export var videoClipMultiple16Filled = [
       }
     ]
   ]
-]
+];

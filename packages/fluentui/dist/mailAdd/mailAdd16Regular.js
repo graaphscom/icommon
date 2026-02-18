@@ -16,4 +16,4 @@ export var mailAdd16Regular = [
       }
     ]
   ]
-]
+];

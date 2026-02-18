@@ -42,4 +42,4 @@ export var buildCircleRound20px = [
       ]
     ]
   ]
-]
+];

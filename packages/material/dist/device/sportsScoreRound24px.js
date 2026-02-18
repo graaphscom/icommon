@@ -40,4 +40,4 @@ export var sportsScoreRound24px = [
       ]
     ]
   ]
-]
+];

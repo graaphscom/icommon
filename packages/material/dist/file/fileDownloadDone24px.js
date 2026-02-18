@@ -21,4 +21,4 @@ export var fileDownloadDone24px = [
       }
     ]
   ]
-]
+];

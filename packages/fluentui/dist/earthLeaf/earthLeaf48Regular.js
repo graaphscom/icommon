@@ -16,4 +16,4 @@ export var earthLeaf48Regular = [
       }
     ]
   ]
-]
+];

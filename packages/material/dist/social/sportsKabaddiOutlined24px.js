@@ -61,4 +61,4 @@ export var sportsKabaddiOutlined24px = [
       ]
     ]
   ]
-]
+];

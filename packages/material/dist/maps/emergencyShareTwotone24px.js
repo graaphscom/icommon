@@ -42,4 +42,4 @@ export var emergencyShareTwotone24px = [
       ]
     ]
   ]
-]
+];

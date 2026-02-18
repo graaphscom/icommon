@@ -28,4 +28,4 @@ export var callEndTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowUpSquareSettings24Filled = [
       }
     ]
   ]
-]
+];

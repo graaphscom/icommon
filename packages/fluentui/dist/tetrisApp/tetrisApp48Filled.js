@@ -16,4 +16,4 @@ export var tetrisApp48Filled = [
       }
     ]
   ]
-]
+];

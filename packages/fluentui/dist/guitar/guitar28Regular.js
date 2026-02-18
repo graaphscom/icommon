@@ -16,4 +16,4 @@ export var guitar28Regular = [
       }
     ]
   ]
-]
+];

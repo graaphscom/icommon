@@ -21,4 +21,4 @@ export var natureOutlined24px = [
       }
     ]
   ]
-]
+];

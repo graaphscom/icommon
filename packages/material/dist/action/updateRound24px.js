@@ -41,4 +41,4 @@ export var updateRound24px = [
       ]
     ]
   ]
-]
+];

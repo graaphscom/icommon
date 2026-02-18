@@ -16,4 +16,4 @@ export var squareHint24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var timeToLeaveSharp24px = [
       }
     ]
   ]
-]
+];

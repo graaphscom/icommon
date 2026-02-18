@@ -16,4 +16,4 @@ export var vehicleBicycle16Regular = [
       }
     ]
   ]
-]
+];

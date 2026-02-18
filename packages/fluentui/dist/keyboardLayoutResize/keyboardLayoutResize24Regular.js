@@ -16,4 +16,4 @@ export var keyboardLayoutResize24Regular = [
       }
     ]
   ]
-]
+];

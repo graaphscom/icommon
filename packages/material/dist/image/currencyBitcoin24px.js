@@ -35,4 +35,4 @@ export var currencyBitcoin24px = [
       ]
     ]
   ]
-]
+];

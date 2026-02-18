@@ -21,4 +21,4 @@ export var exposurePlus1Twotone24px = [
       }
     ]
   ]
-]
+];

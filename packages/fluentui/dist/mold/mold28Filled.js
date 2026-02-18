@@ -16,4 +16,4 @@ export var mold28Filled = [
       }
     ]
   ]
-]
+];

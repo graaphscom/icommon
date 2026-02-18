@@ -21,4 +21,4 @@ export var addPhotoAlternateRound24px = [
       }
     ]
   ]
-]
+];

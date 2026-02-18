@@ -71,4 +71,4 @@ export var densitySmallOutlined24px = [
       ]
     ]
   ]
-]
+];

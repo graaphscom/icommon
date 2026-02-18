@@ -16,4 +16,4 @@ export var textEffects24Filled = [
       }
     ]
   ]
-]
+];

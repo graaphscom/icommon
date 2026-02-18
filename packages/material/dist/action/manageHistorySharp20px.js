@@ -35,4 +35,4 @@ export var manageHistorySharp20px = [
       ]
     ]
   ]
-]
+];

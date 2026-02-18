@@ -23,4 +23,4 @@ export var documentMultiple24Regular = [
       }
     ]
   ]
-]
+];

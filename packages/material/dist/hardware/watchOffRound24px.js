@@ -55,4 +55,4 @@ export var watchOffRound24px = [
       ]
     ]
   ]
-]
+];

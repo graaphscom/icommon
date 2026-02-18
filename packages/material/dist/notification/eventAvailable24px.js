@@ -21,4 +21,4 @@ export var eventAvailable24px = [
       }
     ]
   ]
-]
+];

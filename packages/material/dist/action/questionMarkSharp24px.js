@@ -35,4 +35,4 @@ export var questionMarkSharp24px = [
       ]
     ]
   ]
-]
+];

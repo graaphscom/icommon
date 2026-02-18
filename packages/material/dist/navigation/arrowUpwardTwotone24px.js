@@ -21,4 +21,4 @@ export var arrowUpwardTwotone24px = [
       }
     ]
   ]
-]
+];

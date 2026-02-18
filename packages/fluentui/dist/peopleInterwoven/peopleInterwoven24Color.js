@@ -449,4 +449,4 @@ export var peopleInterwoven24Color = [
       ]
     ]
   ]
-]
+];

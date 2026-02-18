@@ -28,4 +28,4 @@ export var airplanemodeActiveSharp24px = [
       ]
     ]
   ]
-]
+];

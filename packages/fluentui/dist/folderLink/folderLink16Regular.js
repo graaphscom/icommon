@@ -16,4 +16,4 @@ export var folderLink16Regular = [
       }
     ]
   ]
-]
+];

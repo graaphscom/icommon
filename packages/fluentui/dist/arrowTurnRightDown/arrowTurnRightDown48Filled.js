@@ -16,4 +16,4 @@ export var arrowTurnRightDown48Filled = [
       }
     ]
   ]
-]
+];

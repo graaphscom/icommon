@@ -447,4 +447,4 @@ export var buildingMultiple20Color = [
       ]
     ]
   ]
-]
+];

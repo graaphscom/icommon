@@ -29,4 +29,4 @@ export var notAccessibleOutlined20px = [
       ]
     ]
   ]
-]
+];

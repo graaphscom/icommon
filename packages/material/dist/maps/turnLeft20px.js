@@ -35,4 +35,4 @@ export var turnLeft20px = [
       ]
     ]
   ]
-]
+];

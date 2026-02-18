@@ -47,4 +47,4 @@ export var permMediaRound24px = [
       ]
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var filterDramaTwotone24px = [
       }
     ]
   ]
-]
+];

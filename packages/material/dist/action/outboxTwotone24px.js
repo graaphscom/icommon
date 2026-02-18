@@ -55,4 +55,4 @@ export var outboxTwotone24px = [
       ]
     ]
   ]
-]
+];

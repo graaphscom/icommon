@@ -23,4 +23,4 @@ export var waterDropOutlined24px = [
       }
     ]
   ]
-]
+];

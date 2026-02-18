@@ -35,4 +35,4 @@ export var medicalInformationSharp24px = [
       ]
     ]
   ]
-]
+];

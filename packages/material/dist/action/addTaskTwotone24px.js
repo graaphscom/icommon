@@ -23,4 +23,4 @@ export var addTaskTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowSync16Regular = [
       }
     ]
   ]
-]
+];

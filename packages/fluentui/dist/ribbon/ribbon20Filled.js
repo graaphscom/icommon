@@ -16,4 +16,4 @@ export var ribbon20Filled = [
       }
     ]
   ]
-]
+];

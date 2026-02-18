@@ -16,4 +16,4 @@ export var videoBackgroundEffect32Filled = [
       }
     ]
   ]
-]
+];

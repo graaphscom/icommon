@@ -53,4 +53,4 @@ export var nightsStay24px = [
       ]
     ]
   ]
-]
+];

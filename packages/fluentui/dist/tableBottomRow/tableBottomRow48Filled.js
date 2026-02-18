@@ -16,4 +16,4 @@ export var tableBottomRow48Filled = [
       }
     ]
   ]
-]
+];

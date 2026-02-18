@@ -23,4 +23,4 @@ export var motionPhotosAutoSharp24px = [
       }
     ]
   ]
-]
+];

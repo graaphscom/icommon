@@ -23,4 +23,4 @@ export var sickOutlined24px = [
       }
     ]
   ]
-]
+];

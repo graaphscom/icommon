@@ -16,4 +16,4 @@ export var ganttChart24Filled = [
       }
     ]
   ]
-]
+];

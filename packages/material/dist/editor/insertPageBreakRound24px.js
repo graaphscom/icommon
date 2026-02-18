@@ -73,4 +73,4 @@ export var insertPageBreakRound24px = [
       ]
     ]
   ]
-]
+];

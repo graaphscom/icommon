@@ -76,4 +76,4 @@ export var postAddOutlined20px = [
       ]
     ]
   ]
-]
+];

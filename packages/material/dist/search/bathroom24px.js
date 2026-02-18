@@ -34,4 +34,4 @@ export var bathroom24px = [
       ]
     ]
   ]
-]
+];

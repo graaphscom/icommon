@@ -21,4 +21,4 @@ export var accessTimeRound24px = [
       }
     ]
   ]
-]
+];

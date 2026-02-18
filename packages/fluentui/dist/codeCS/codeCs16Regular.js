@@ -16,4 +16,4 @@ export var codeCs16Regular = [
       }
     ]
   ]
-]
+];

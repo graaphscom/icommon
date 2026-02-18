@@ -16,4 +16,4 @@ export var flashAuto24Regular = [
       }
     ]
   ]
-]
+];

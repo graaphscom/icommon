@@ -16,4 +16,4 @@ export var recordStop24Regular = [
       }
     ]
   ]
-]
+];

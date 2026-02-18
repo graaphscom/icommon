@@ -55,4 +55,4 @@ export var person2Round24px = [
       ]
     ]
   ]
-]
+];

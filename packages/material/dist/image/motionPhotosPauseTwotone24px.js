@@ -23,4 +23,4 @@ export var motionPhotosPauseTwotone24px = [
       }
     ]
   ]
-]
+];

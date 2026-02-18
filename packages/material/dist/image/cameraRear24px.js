@@ -21,4 +21,4 @@ export var cameraRear24px = [
       }
     ]
   ]
-]
+];

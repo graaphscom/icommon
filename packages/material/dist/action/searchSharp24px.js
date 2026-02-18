@@ -21,4 +21,4 @@ export var searchSharp24px = [
       }
     ]
   ]
-]
+];

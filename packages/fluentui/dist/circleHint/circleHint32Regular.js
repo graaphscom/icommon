@@ -16,4 +16,4 @@ export var circleHint32Regular = [
       }
     ]
   ]
-]
+];

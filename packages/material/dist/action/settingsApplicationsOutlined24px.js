@@ -21,4 +21,4 @@ export var settingsApplicationsOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var permCameraMicOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -42,4 +42,4 @@ export var signLanguageTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var cursorHoverOff24Filled = [
       }
     ]
   ]
-]
+];

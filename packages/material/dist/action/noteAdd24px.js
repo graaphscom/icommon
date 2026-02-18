@@ -21,4 +21,4 @@ export var noteAdd24px = [
       }
     ]
   ]
-]
+];

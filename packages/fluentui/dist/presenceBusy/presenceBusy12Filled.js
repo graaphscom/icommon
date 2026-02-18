@@ -16,4 +16,4 @@ export var presenceBusy12Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var localShippingOutlined24px = [
       }
     ]
   ]
-]
+];

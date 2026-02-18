@@ -30,4 +30,4 @@ export var contentPasteOffTwotone24px = [
       }
     ]
   ]
-]
+];

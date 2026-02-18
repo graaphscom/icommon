@@ -16,4 +16,4 @@ export var highway24Filled = [
       }
     ]
   ]
-]
+];

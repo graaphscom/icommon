@@ -40,4 +40,4 @@ export var systemSecurityUpdateOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var badgeRound20px = [
       ]
     ]
   ]
-]
+];

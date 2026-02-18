@@ -21,4 +21,4 @@ export var flightLandTwotone24px = [
       }
     ]
   ]
-]
+];

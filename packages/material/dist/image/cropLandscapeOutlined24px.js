@@ -21,4 +21,4 @@ export var cropLandscapeOutlined24px = [
       }
     ]
   ]
-]
+];

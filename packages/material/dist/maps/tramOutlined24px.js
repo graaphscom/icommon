@@ -21,4 +21,4 @@ export var tramOutlined24px = [
       }
     ]
   ]
-]
+];

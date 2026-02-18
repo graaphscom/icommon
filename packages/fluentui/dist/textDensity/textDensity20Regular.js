@@ -16,4 +16,4 @@ export var textDensity20Regular = [
       }
     ]
   ]
-]
+];

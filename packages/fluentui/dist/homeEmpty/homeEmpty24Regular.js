@@ -16,4 +16,4 @@ export var homeEmpty24Regular = [
       }
     ]
   ]
-]
+];

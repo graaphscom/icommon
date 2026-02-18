@@ -21,4 +21,4 @@ export var permPhoneMsgOutlined24px = [
       }
     ]
   ]
-]
+];

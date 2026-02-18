@@ -28,4 +28,4 @@ export var albumTwotone24px = [
       }
     ]
   ]
-]
+];

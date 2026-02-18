@@ -16,4 +16,4 @@ export var desktopPulse32Filled = [
       }
     ]
   ]
-]
+];

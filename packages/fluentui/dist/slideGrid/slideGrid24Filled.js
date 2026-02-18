@@ -16,4 +16,4 @@ export var slideGrid24Filled = [
       }
     ]
   ]
-]
+];

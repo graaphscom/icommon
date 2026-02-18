@@ -29,4 +29,4 @@ export var wifiLockSharp20px = [
       ]
     ]
   ]
-]
+];

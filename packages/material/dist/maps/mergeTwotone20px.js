@@ -35,4 +35,4 @@ export var mergeTwotone20px = [
       ]
     ]
   ]
-]
+];

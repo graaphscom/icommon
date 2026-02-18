@@ -16,4 +16,4 @@ export var chatBubblesQuestion24Filled = [
       }
     ]
   ]
-]
+];

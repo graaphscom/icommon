@@ -70,4 +70,4 @@ export var hdrAutoSelectTwotone24px = [
       ]
     ]
   ]
-]
+];

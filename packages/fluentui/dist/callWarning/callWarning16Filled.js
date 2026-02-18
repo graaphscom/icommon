@@ -16,4 +16,4 @@ export var callWarning16Filled = [
       }
     ]
   ]
-]
+];

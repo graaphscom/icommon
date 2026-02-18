@@ -41,4 +41,4 @@ export var syncLockRound20px = [
       ]
     ]
   ]
-]
+];

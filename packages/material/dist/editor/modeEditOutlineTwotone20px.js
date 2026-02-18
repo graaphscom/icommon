@@ -55,4 +55,4 @@ export var modeEditOutlineTwotone20px = [
       ]
     ]
   ]
-]
+];

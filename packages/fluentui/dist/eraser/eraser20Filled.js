@@ -16,4 +16,4 @@ export var eraser20Filled = [
       }
     ]
   ]
-]
+];

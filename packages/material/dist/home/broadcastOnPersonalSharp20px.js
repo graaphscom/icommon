@@ -59,4 +59,4 @@ export var broadcastOnPersonalSharp20px = [
       ]
     ]
   ]
-]
+];

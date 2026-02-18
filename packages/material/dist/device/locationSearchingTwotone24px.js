@@ -21,4 +21,4 @@ export var locationSearchingTwotone24px = [
       }
     ]
   ]
-]
+];

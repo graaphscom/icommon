@@ -16,4 +16,4 @@ export var batteryCheckmark20Filled = [
       }
     ]
   ]
-]
+];

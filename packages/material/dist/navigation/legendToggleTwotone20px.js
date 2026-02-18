@@ -29,4 +29,4 @@ export var legendToggleTwotone20px = [
       ]
     ]
   ]
-]
+];

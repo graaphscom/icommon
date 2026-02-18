@@ -28,4 +28,4 @@ export var markunreadMailboxTwotone24px = [
       }
     ]
   ]
-]
+];

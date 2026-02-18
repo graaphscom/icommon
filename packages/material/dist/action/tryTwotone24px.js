@@ -56,4 +56,4 @@ export var tryTwotone24px = [
       ]
     ]
   ]
-]
+];

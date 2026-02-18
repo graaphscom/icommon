@@ -21,4 +21,4 @@ export var directionsRound24px = [
       }
     ]
   ]
-]
+];

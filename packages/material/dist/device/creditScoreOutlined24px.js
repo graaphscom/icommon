@@ -34,4 +34,4 @@ export var creditScoreOutlined24px = [
       ]
     ]
   ]
-]
+];

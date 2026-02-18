@@ -72,4 +72,4 @@ export var dynamicFeedRound20px = [
       ]
     ]
   ]
-]
+];

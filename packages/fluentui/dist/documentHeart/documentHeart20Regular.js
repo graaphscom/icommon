@@ -16,4 +16,4 @@ export var documentHeart20Regular = [
       }
     ]
   ]
-]
+];

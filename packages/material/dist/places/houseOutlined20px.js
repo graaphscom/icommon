@@ -48,4 +48,4 @@ export var houseOutlined20px = [
       ]
     ]
   ]
-]
+];

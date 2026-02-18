@@ -16,4 +16,4 @@ export var windowMultipleOff16Regular = [
       }
     ]
   ]
-]
+];

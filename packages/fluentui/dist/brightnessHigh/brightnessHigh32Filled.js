@@ -16,4 +16,4 @@ export var brightnessHigh32Filled = [
       }
     ]
   ]
-]
+];

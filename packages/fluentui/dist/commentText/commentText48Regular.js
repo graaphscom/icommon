@@ -16,4 +16,4 @@ export var commentText48Regular = [
       }
     ]
   ]
-]
+];

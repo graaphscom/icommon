@@ -21,4 +21,4 @@ export var linkOffOutlined24px = [
       }
     ]
   ]
-]
+];

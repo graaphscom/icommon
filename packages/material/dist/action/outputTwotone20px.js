@@ -47,4 +47,4 @@ export var outputTwotone20px = [
       ]
     ]
   ]
-]
+];

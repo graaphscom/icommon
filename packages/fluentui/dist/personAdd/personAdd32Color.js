@@ -204,4 +204,4 @@ export var personAdd32Color = [
       ]
     ]
   ]
-]
+];

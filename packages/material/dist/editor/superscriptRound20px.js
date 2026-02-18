@@ -29,4 +29,4 @@ export var superscriptRound20px = [
       ]
     ]
   ]
-]
+];

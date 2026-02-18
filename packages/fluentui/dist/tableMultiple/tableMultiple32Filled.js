@@ -16,4 +16,4 @@ export var tableMultiple32Filled = [
       }
     ]
   ]
-]
+];

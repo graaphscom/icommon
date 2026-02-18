@@ -28,4 +28,4 @@ export var personalVideoTwotone24px = [
       }
     ]
   ]
-]
+];

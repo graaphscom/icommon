@@ -16,4 +16,4 @@ export var cast20Filled = [
       }
     ]
   ]
-]
+];

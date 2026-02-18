@@ -28,4 +28,4 @@ export var pagesTwotone24px = [
       }
     ]
   ]
-]
+];

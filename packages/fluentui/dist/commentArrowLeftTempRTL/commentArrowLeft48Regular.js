@@ -16,4 +16,4 @@ export var commentArrowLeft48Regular = [
       }
     ]
   ]
-]
+];

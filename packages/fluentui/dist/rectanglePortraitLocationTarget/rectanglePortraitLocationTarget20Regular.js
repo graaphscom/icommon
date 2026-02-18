@@ -16,4 +16,4 @@ export var rectanglePortraitLocationTarget20Regular = [
       }
     ]
   ]
-]
+];

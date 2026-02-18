@@ -35,4 +35,4 @@ export var sosRound20px = [
       ]
     ]
   ]
-]
+];

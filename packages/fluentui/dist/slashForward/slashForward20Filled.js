@@ -16,4 +16,4 @@ export var slashForward20Filled = [
       }
     ]
   ]
-]
+];

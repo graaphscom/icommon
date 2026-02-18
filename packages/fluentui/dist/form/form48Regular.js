@@ -16,4 +16,4 @@ export var form48Regular = [
       }
     ]
   ]
-]
+];

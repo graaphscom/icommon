@@ -16,4 +16,4 @@ export var notepadPerson16Regular = [
       }
     ]
   ]
-]
+];

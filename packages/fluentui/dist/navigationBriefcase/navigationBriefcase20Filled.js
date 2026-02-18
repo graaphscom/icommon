@@ -16,4 +16,4 @@ export var navigationBriefcase20Filled = [
       }
     ]
   ]
-]
+];

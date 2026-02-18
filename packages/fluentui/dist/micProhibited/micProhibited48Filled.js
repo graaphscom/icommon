@@ -16,4 +16,4 @@ export var micProhibited48Filled = [
       }
     ]
   ]
-]
+];

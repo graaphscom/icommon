@@ -42,4 +42,4 @@ export var vapeFreeTwotone20px = [
       ]
     ]
   ]
-]
+];

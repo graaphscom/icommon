@@ -29,4 +29,4 @@ export var compostRound20px = [
       ]
     ]
   ]
-]
+];

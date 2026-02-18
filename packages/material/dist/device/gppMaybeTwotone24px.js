@@ -47,4 +47,4 @@ export var gppMaybeTwotone24px = [
       ]
     ]
   ]
-]
+];

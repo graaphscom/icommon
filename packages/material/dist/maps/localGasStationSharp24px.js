@@ -21,4 +21,4 @@ export var localGasStationSharp24px = [
       }
     ]
   ]
-]
+];

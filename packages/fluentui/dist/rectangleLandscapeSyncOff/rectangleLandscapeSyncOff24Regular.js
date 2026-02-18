@@ -16,4 +16,4 @@ export var rectangleLandscapeSyncOff24Regular = [
       }
     ]
   ]
-]
+];

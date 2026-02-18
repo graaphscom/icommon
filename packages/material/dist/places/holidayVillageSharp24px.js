@@ -23,4 +23,4 @@ export var holidayVillageSharp24px = [
       }
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var attractionsOutlined24px = [
       ]
     ]
   ]
-]
+];

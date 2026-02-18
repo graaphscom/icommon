@@ -43,4 +43,4 @@ export var arrowCircleRightRound24px = [
       ]
     ]
   ]
-]
+];

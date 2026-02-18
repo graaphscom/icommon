@@ -51,4 +51,4 @@ export var widthFullTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var developerBoard24px = [
       }
     ]
   ]
-]
+];

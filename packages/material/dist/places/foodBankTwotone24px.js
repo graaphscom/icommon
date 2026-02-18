@@ -30,4 +30,4 @@ export var foodBankTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var modeStandbyOutlined24px = [
       ]
     ]
   ]
-]
+];

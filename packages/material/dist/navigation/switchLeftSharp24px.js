@@ -23,4 +23,4 @@ export var switchLeftSharp24px = [
       }
     ]
   ]
-]
+];

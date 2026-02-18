@@ -21,4 +21,4 @@ export var localPhoneOutlined24px = [
       }
     ]
   ]
-]
+];

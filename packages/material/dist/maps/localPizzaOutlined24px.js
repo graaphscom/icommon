@@ -21,4 +21,4 @@ export var localPizzaOutlined24px = [
       }
     ]
   ]
-]
+];

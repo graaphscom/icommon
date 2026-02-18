@@ -35,4 +35,4 @@ export var zoomInMapTwotone24px = [
       ]
     ]
   ]
-]
+];

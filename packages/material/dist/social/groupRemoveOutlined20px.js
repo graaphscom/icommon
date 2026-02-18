@@ -23,4 +23,4 @@ export var groupRemoveOutlined20px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var mosqueSharp20px = [
       ]
     ]
   ]
-]
+];

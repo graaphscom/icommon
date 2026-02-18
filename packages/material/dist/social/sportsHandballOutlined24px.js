@@ -53,4 +53,4 @@ export var sportsHandballOutlined24px = [
       ]
     ]
   ]
-]
+];

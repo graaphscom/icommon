@@ -21,4 +21,4 @@ export var localPrintshop24px = [
       }
     ]
   ]
-]
+];

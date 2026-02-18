@@ -35,4 +35,4 @@ export var crisisAlertRound20px = [
       ]
     ]
   ]
-]
+];

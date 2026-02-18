@@ -16,4 +16,4 @@ export var approvalsApp24Filled = [
       }
     ]
   ]
-]
+];

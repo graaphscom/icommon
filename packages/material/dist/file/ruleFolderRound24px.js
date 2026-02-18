@@ -29,4 +29,4 @@ export var ruleFolderRound24px = [
       ]
     ]
   ]
-]
+];

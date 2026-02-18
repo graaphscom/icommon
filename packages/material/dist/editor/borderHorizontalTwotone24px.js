@@ -21,4 +21,4 @@ export var borderHorizontalTwotone24px = [
       }
     ]
   ]
-]
+];

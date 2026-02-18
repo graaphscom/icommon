@@ -16,4 +16,4 @@ export var documentPageNumber20Filled = [
       }
     ]
   ]
-]
+];

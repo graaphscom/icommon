@@ -23,4 +23,4 @@ export var startRound24px = [
       }
     ]
   ]
-]
+];

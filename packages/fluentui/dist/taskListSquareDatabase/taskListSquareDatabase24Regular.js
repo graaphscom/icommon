@@ -16,4 +16,4 @@ export var taskListSquareDatabase24Regular = [
       }
     ]
   ]
-]
+];

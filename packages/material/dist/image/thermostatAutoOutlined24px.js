@@ -35,4 +35,4 @@ export var thermostatAutoOutlined24px = [
       ]
     ]
   ]
-]
+];

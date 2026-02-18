@@ -238,4 +238,4 @@ export var neocatHugDlr = [
       ]
     ]
   ]
-]
+];

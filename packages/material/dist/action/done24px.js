@@ -21,4 +21,4 @@ export var done24px = [
       }
     ]
   ]
-]
+];

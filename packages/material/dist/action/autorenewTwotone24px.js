@@ -21,4 +21,4 @@ export var autorenewTwotone24px = [
       }
     ]
   ]
-]
+];

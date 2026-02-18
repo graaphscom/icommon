@@ -22,4 +22,4 @@ export var lastPageOutlined24px = [
       }
     ]
   ]
-]
+];

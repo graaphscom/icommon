@@ -189,4 +189,4 @@ export var gauge32Color = [
       ]
     ]
   ]
-]
+];

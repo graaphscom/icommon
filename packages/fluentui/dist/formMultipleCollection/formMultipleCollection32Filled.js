@@ -16,4 +16,4 @@ export var formMultipleCollection32Filled = [
       }
     ]
   ]
-]
+];

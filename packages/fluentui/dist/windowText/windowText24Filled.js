@@ -16,4 +16,4 @@ export var windowText24Filled = [
       }
     ]
   ]
-]
+];

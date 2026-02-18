@@ -16,4 +16,4 @@ export var panelLeftTextDismiss20Regular = [
       }
     ]
   ]
-]
+];

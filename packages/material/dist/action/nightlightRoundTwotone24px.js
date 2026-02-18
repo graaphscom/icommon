@@ -47,4 +47,4 @@ export var nightlightRoundTwotone24px = [
       ]
     ]
   ]
-]
+];

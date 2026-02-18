@@ -60,4 +60,4 @@ export var directionsBusFilledOutlined24px = [
       ]
     ]
   ]
-]
+];

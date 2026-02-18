@@ -16,4 +16,4 @@ export var textPositionTight24Filled = [
       }
     ]
   ]
-]
+];

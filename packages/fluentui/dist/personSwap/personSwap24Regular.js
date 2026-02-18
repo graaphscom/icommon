@@ -16,4 +16,4 @@ export var personSwap24Regular = [
       }
     ]
   ]
-]
+];

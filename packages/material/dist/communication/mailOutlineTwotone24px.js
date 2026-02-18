@@ -21,4 +21,4 @@ export var mailOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

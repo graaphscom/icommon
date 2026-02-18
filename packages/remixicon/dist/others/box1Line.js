@@ -13,4 +13,4 @@ export var box1Line = [
       }
     ]
   ]
-]
+];

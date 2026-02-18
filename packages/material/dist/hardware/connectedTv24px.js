@@ -21,4 +21,4 @@ export var connectedTv24px = [
       }
     ]
   ]
-]
+];

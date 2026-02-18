@@ -16,4 +16,4 @@ export var squareDismiss20Regular = [
       }
     ]
   ]
-]
+];

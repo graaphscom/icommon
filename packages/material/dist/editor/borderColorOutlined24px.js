@@ -56,4 +56,4 @@ export var borderColorOutlined24px = [
       ]
     ]
   ]
-]
+];

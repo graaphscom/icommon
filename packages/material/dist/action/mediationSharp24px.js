@@ -35,4 +35,4 @@ export var mediationSharp24px = [
       ]
     ]
   ]
-]
+];

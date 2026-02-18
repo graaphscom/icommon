@@ -35,4 +35,4 @@ export var noCrashRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentArrowLeft48Filled = [
       }
     ]
   ]
-]
+];

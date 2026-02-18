@@ -42,4 +42,4 @@ export var folderDeleteTwotone24px = [
       ]
     ]
   ]
-]
+];

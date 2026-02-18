@@ -37,4 +37,4 @@ export var outbondRound24px = [
       {}
     ]
   ]
-]
+];

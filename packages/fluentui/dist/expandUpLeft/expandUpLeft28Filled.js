@@ -16,4 +16,4 @@ export var expandUpLeft28Filled = [
       }
     ]
   ]
-]
+];

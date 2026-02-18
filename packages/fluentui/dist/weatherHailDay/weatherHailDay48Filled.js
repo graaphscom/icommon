@@ -16,4 +16,4 @@ export var weatherHailDay48Filled = [
       }
     ]
   ]
-]
+];

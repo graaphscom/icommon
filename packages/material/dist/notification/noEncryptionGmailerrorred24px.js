@@ -34,4 +34,4 @@ export var noEncryptionGmailerrorred24px = [
       ]
     ]
   ]
-]
+];

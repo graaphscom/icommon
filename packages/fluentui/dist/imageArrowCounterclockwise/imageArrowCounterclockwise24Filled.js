@@ -16,4 +16,4 @@ export var imageArrowCounterclockwise24Filled = [
       }
     ]
   ]
-]
+];

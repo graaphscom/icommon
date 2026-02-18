@@ -16,4 +16,4 @@ export var peopleEye20Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var youtubeSearchedForRound24px = [
       }
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var man3Round24px = [
       ]
     ]
   ]
-]
+];

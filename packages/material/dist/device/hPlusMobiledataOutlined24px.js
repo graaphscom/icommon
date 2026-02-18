@@ -40,4 +40,4 @@ export var hPlusMobiledataOutlined24px = [
       ]
     ]
   ]
-]
+];

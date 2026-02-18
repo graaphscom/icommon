@@ -21,4 +21,4 @@ export var assistantPhotoOutlined24px = [
       }
     ]
   ]
-]
+];

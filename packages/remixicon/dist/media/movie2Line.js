@@ -13,4 +13,4 @@ export var movie2Line = [
       }
     ]
   ]
-]
+];

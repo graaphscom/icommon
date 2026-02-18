@@ -21,4 +21,4 @@ export var laptopMacSharp24px = [
       }
     ]
   ]
-]
+];

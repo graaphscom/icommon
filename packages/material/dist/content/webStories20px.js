@@ -53,4 +53,4 @@ export var webStories20px = [
       ]
     ]
   ]
-]
+];

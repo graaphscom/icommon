@@ -21,4 +21,4 @@ export var formatBoldTwotone24px = [
       }
     ]
   ]
-]
+];

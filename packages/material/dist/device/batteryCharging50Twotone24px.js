@@ -28,4 +28,4 @@ export var batteryCharging50Twotone24px = [
       }
     ]
   ]
-]
+];

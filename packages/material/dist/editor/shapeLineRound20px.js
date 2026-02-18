@@ -53,4 +53,4 @@ export var shapeLineRound20px = [
       ]
     ]
   ]
-]
+];

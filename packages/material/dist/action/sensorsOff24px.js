@@ -23,4 +23,4 @@ export var sensorsOff24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var door16Filled = [
       }
     ]
   ]
-]
+];

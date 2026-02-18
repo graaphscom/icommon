@@ -220,4 +220,4 @@ export var calendarClock16Color = [
       ]
     ]
   ]
-]
+];

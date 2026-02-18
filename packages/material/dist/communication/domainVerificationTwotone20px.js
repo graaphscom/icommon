@@ -54,4 +54,4 @@ export var domainVerificationTwotone20px = [
       ]
     ]
   ]
-]
+];

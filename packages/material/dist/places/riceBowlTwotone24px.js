@@ -30,4 +30,4 @@ export var riceBowlTwotone24px = [
       }
     ]
   ]
-]
+];

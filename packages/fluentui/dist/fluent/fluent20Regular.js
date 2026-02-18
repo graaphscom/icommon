@@ -16,4 +16,4 @@ export var fluent20Regular = [
       }
     ]
   ]
-]
+];

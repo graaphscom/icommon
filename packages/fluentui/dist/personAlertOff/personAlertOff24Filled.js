@@ -16,4 +16,4 @@ export var personAlertOff24Filled = [
       }
     ]
   ]
-]
+];

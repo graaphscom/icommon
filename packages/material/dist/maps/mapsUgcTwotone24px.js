@@ -45,4 +45,4 @@ export var mapsUgcTwotone24px = [
       }
     ]
   ]
-]
+];

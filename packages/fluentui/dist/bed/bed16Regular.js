@@ -16,4 +16,4 @@ export var bed16Regular = [
       }
     ]
   ]
-]
+];

@@ -50,4 +50,4 @@ export var fileDownloadDoneTwotone24px = [
       ]
     ]
   ]
-]
+];

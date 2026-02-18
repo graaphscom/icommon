@@ -16,4 +16,4 @@ export var barcodeScannerDismiss32Filled = [
       }
     ]
   ]
-]
+];

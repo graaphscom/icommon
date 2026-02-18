@@ -16,4 +16,4 @@ export var taskListRtl20Regular = [
       }
     ]
   ]
-]
+];

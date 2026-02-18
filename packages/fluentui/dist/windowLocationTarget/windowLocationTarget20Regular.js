@@ -16,4 +16,4 @@ export var windowLocationTarget20Regular = [
       }
     ]
   ]
-]
+];

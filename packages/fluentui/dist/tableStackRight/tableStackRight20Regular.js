@@ -16,4 +16,4 @@ export var tableStackRight20Regular = [
       }
     ]
   ]
-]
+];

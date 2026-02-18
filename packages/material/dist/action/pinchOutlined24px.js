@@ -35,4 +35,4 @@ export var pinchOutlined24px = [
       ]
     ]
   ]
-]
+];

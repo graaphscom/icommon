@@ -21,4 +21,4 @@ export var radioButtonUncheckedRound24px = [
       }
     ]
   ]
-]
+];

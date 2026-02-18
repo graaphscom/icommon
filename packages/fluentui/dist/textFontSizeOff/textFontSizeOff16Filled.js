@@ -16,4 +16,4 @@ export var textFontSizeOff16Filled = [
       }
     ]
   ]
-]
+];

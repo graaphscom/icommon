@@ -16,4 +16,4 @@ export var boxEdit20Filled = [
       }
     ]
   ]
-]
+];

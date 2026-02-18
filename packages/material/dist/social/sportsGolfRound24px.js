@@ -79,4 +79,4 @@ export var sportsGolfRound24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var voiceChatRound24px = [
       }
     ]
   ]
-]
+];

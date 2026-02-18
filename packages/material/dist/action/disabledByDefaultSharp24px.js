@@ -23,4 +23,4 @@ export var disabledByDefaultSharp24px = [
       }
     ]
   ]
-]
+];

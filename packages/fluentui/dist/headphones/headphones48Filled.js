@@ -16,4 +16,4 @@ export var headphones48Filled = [
       }
     ]
   ]
-]
+];

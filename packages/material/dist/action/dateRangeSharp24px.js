@@ -21,4 +21,4 @@ export var dateRangeSharp24px = [
       }
     ]
   ]
-]
+];

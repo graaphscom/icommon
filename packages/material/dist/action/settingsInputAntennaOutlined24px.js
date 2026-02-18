@@ -21,4 +21,4 @@ export var settingsInputAntennaOutlined24px = [
       }
     ]
   ]
-]
+];

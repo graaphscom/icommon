@@ -35,4 +35,4 @@ export var verticalShadesClosedSharp20px = [
       ]
     ]
   ]
-]
+];

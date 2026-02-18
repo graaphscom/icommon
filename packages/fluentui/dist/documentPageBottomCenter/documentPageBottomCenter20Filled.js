@@ -16,4 +16,4 @@ export var documentPageBottomCenter20Filled = [
       }
     ]
   ]
-]
+];

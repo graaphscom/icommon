@@ -45,4 +45,4 @@ export var storefront24px = [
       ]
     ]
   ]
-]
+];

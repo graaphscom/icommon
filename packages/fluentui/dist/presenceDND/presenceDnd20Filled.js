@@ -16,4 +16,4 @@ export var presenceDnd20Filled = [
       }
     ]
   ]
-]
+];

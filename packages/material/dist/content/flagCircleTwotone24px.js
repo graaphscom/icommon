@@ -61,4 +61,4 @@ export var flagCircleTwotone24px = [
       ]
     ]
   ]
-]
+];

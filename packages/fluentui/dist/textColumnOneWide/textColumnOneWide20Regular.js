@@ -16,4 +16,4 @@ export var textColumnOneWide20Regular = [
       }
     ]
   ]
-]
+];

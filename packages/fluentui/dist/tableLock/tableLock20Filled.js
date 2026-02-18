@@ -16,4 +16,4 @@ export var tableLock20Filled = [
       }
     ]
   ]
-]
+];

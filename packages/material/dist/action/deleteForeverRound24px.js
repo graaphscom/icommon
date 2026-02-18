@@ -34,4 +34,4 @@ export var deleteForeverRound24px = [
       ]
     ]
   ]
-]
+];

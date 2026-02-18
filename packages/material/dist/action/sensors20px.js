@@ -23,4 +23,4 @@ export var sensors20px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var voicemailSubtract16Regular = [
       }
     ]
   ]
-]
+];

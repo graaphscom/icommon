@@ -21,4 +21,4 @@ export var attachmentRound24px = [
       }
     ]
   ]
-]
+];

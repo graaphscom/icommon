@@ -21,4 +21,4 @@ export var supervisorAccountSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var presenceOof16Regular = [
       }
     ]
   ]
-]
+];

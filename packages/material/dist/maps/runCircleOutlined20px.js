@@ -56,4 +56,4 @@ export var runCircleOutlined20px = [
       ]
     ]
   ]
-]
+];

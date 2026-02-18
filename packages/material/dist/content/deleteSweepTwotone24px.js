@@ -28,4 +28,4 @@ export var deleteSweepTwotone24px = [
       }
     ]
   ]
-]
+];

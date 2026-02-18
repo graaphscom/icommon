@@ -16,4 +16,4 @@ export var scanThumbUpOff24Filled = [
       }
     ]
   ]
-]
+];

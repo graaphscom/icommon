@@ -49,4 +49,4 @@ export var wrongLocationRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var phoneVerticalScroll20Regular = [
       }
     ]
   ]
-]
+];

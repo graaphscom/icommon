@@ -34,4 +34,4 @@ export var grid3x3Twotone24px = [
       ]
     ]
   ]
-]
+];

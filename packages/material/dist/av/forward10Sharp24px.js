@@ -69,4 +69,4 @@ export var forward10Sharp24px = [
       ]
     ]
   ]
-]
+];

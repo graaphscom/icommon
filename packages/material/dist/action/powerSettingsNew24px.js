@@ -21,4 +21,4 @@ export var powerSettingsNew24px = [
       }
     ]
   ]
-]
+];

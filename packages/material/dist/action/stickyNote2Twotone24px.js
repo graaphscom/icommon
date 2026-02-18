@@ -30,4 +30,4 @@ export var stickyNote2Twotone24px = [
       }
     ]
   ]
-]
+];

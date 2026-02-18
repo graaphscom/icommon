@@ -16,4 +16,4 @@ export var tagQuestionMark32Filled = [
       }
     ]
   ]
-]
+];

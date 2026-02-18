@@ -47,4 +47,4 @@ export var vrpanoOutlined24px = [
       ]
     ]
   ]
-]
+];

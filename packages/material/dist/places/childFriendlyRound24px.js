@@ -21,4 +21,4 @@ export var childFriendlyRound24px = [
       }
     ]
   ]
-]
+];

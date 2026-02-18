@@ -34,4 +34,4 @@ export var flatwareRound24px = [
       ]
     ]
   ]
-]
+];

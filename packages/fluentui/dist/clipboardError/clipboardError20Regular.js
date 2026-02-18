@@ -16,4 +16,4 @@ export var clipboardError20Regular = [
       }
     ]
   ]
-]
+];

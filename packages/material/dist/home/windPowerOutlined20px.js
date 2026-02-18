@@ -69,4 +69,4 @@ export var windPowerOutlined20px = [
       ]
     ]
   ]
-]
+];

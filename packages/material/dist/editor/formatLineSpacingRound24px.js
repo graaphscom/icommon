@@ -21,4 +21,4 @@ export var formatLineSpacingRound24px = [
       }
     ]
   ]
-]
+];

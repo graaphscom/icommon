@@ -23,4 +23,4 @@ export var kayakingTwotone24px = [
       }
     ]
   ]
-]
+];

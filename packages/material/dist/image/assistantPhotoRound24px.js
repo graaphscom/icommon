@@ -21,4 +21,4 @@ export var assistantPhotoRound24px = [
       }
     ]
   ]
-]
+];

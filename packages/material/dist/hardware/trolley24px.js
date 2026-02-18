@@ -35,4 +35,4 @@ export var trolley24px = [
       ]
     ]
   ]
-]
+];

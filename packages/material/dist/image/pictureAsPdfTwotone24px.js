@@ -34,4 +34,4 @@ export var pictureAsPdfTwotone24px = [
       }
     ]
   ]
-]
+];

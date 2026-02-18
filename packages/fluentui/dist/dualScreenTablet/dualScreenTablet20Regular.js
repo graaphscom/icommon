@@ -16,4 +16,4 @@ export var dualScreenTablet20Regular = [
       }
     ]
   ]
-]
+];

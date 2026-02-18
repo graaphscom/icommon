@@ -16,4 +16,4 @@ export var shoppingBagAdd24Filled = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var airRound24px = [
       ]
     ]
   ]
-]
+];

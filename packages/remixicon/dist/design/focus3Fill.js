@@ -13,4 +13,4 @@ export var focus3Fill = [
       }
     ]
   ]
-]
+];

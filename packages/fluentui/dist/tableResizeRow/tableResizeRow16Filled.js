@@ -16,4 +16,4 @@ export var tableResizeRow16Filled = [
       }
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var signalCellular0BarTwotone24px = [
       ]
     ]
   ]
-]
+];

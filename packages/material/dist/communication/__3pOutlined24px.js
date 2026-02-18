@@ -35,4 +35,4 @@ export var __3pOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -57,4 +57,4 @@ export var libraryAddCheckTwotone20px = [
       ]
     ]
   ]
-]
+];

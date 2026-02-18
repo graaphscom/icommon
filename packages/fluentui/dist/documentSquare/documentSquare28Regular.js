@@ -16,4 +16,4 @@ export var documentSquare28Regular = [
       }
     ]
   ]
-]
+];

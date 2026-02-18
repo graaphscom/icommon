@@ -34,4 +34,4 @@ export var signalWifiBadOutlined24px = [
       ]
     ]
   ]
-]
+];

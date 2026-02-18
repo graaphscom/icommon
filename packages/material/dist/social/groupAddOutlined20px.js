@@ -103,4 +103,4 @@ export var groupAddOutlined20px = [
       ]
     ]
   ]
-]
+];

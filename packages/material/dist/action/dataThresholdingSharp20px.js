@@ -35,4 +35,4 @@ export var dataThresholdingSharp20px = [
       ]
     ]
   ]
-]
+];

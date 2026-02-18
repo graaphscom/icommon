@@ -21,4 +21,4 @@ export var portableWifiOffTwotone24px = [
       }
     ]
   ]
-]
+];

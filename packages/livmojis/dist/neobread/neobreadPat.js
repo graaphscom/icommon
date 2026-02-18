@@ -121,4 +121,4 @@ export var neobreadPat = [
       ]
     ]
   ]
-]
+];

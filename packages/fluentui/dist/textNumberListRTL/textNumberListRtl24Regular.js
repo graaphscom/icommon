@@ -16,4 +16,4 @@ export var textNumberListRtl24Regular = [
       }
     ]
   ]
-]
+];

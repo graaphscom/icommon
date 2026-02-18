@@ -23,4 +23,4 @@ export var backHand24px = [
       }
     ]
   ]
-]
+];

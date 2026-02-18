@@ -16,4 +16,4 @@ export var textProofingToolsAbc16Regular = [
       }
     ]
   ]
-]
+];

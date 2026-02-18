@@ -16,4 +16,4 @@ export var shapes32Regular = [
       }
     ]
   ]
-]
+];

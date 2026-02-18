@@ -51,4 +51,4 @@ export var keyboardOptionKeyOutlined20px = [
       ]
     ]
   ]
-]
+];

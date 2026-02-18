@@ -23,4 +23,4 @@ export var transgenderTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var portraitTwotone24px = [
       }
     ]
   ]
-]
+];

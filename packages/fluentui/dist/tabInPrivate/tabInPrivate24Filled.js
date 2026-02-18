@@ -16,4 +16,4 @@ export var tabInPrivate24Filled = [
       }
     ]
   ]
-]
+];

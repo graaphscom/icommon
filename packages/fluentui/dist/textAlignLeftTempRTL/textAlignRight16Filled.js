@@ -16,4 +16,4 @@ export var textAlignRight16Filled = [
       }
     ]
   ]
-]
+];

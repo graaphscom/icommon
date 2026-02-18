@@ -21,4 +21,4 @@ export var colorizeOutlined24px = [
       }
     ]
   ]
-]
+];

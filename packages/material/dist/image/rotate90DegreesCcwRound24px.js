@@ -21,4 +21,4 @@ export var rotate90DegreesCcwRound24px = [
       }
     ]
   ]
-]
+];

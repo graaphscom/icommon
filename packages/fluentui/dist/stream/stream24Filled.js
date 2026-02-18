@@ -16,4 +16,4 @@ export var stream24Filled = [
       }
     ]
   ]
-]
+];

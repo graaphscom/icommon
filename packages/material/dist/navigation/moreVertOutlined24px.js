@@ -21,4 +21,4 @@ export var moreVertOutlined24px = [
       }
     ]
   ]
-]
+];

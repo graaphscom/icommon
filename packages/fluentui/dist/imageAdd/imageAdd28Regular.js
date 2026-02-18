@@ -16,4 +16,4 @@ export var imageAdd28Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentMultipleSync20Regular = [
       }
     ]
   ]
-]
+];

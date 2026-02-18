@@ -21,4 +21,4 @@ export var subjectTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var addShoppingCart24px = [
       }
     ]
   ]
-]
+];

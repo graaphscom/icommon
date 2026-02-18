@@ -21,4 +21,4 @@ export var report24px = [
       }
     ]
   ]
-]
+];

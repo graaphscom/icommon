@@ -48,4 +48,4 @@ export var fortTwotone20px = [
       ]
     ]
   ]
-]
+];

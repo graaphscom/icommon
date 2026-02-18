@@ -16,4 +16,4 @@ export var clipboardMathFormula28Filled = [
       }
     ]
   ]
-]
+];

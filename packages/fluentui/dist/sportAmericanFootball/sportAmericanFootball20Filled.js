@@ -16,4 +16,4 @@ export var sportAmericanFootball20Filled = [
       }
     ]
   ]
-]
+];

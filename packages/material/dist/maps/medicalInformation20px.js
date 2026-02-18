@@ -35,4 +35,4 @@ export var medicalInformation20px = [
       ]
     ]
   ]
-]
+];

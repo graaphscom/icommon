@@ -16,4 +16,4 @@ export var archiveMultiple20Regular = [
       }
     ]
   ]
-]
+];

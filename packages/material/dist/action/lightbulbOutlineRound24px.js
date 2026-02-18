@@ -21,4 +21,4 @@ export var lightbulbOutlineRound24px = [
       }
     ]
   ]
-]
+];

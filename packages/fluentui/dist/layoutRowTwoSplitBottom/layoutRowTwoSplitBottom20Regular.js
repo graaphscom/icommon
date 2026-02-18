@@ -16,4 +16,4 @@ export var layoutRowTwoSplitBottom20Regular = [
       }
     ]
   ]
-]
+];

@@ -153,4 +153,4 @@ export var devicesFoldTwotone24px = [
       ]
     ]
   ]
-]
+];

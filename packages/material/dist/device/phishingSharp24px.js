@@ -35,4 +35,4 @@ export var phishingSharp24px = [
       ]
     ]
   ]
-]
+];

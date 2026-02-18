@@ -34,4 +34,4 @@ export var feedSharp24px = [
       ]
     ]
   ]
-]
+];

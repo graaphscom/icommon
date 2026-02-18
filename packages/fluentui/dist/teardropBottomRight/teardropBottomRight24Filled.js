@@ -16,4 +16,4 @@ export var teardropBottomRight24Filled = [
       }
     ]
   ]
-]
+];

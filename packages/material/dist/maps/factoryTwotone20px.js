@@ -42,4 +42,4 @@ export var factoryTwotone20px = [
       ]
     ]
   ]
-]
+];

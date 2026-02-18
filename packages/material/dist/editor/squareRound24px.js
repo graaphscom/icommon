@@ -41,4 +41,4 @@ export var squareRound24px = [
       ]
     ]
   ]
-]
+];

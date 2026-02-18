@@ -16,4 +16,4 @@ export var cellular5g20Filled = [
       }
     ]
   ]
-]
+];

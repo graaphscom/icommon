@@ -23,4 +23,4 @@ export var cottageOutlined24px = [
       }
     ]
   ]
-]
+];

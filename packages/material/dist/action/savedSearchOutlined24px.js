@@ -47,4 +47,4 @@ export var savedSearchOutlined24px = [
       ]
     ]
   ]
-]
+];

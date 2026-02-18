@@ -21,4 +21,4 @@ export var verticalAlignCenterRound24px = [
       }
     ]
   ]
-]
+];

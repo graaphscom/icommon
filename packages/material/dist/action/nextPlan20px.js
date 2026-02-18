@@ -35,4 +35,4 @@ export var nextPlan20px = [
       ]
     ]
   ]
-]
+];

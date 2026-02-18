@@ -16,4 +16,4 @@ export var personVoice48Regular = [
       }
     ]
   ]
-]
+];

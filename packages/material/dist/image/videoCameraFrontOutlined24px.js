@@ -55,4 +55,4 @@ export var videoCameraFrontOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textNumberListLtr24Filled = [
       }
     ]
   ]
-]
+];

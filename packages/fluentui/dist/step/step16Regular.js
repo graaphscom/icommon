@@ -16,4 +16,4 @@ export var step16Regular = [
       }
     ]
   ]
-]
+];

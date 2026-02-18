@@ -30,4 +30,4 @@ export var dataExplorationTwotone20px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var readAloud28Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var xboxController32Filled = [
       }
     ]
   ]
-]
+];

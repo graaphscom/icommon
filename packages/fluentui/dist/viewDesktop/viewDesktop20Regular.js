@@ -16,4 +16,4 @@ export var viewDesktop20Regular = [
       }
     ]
   ]
-]
+];

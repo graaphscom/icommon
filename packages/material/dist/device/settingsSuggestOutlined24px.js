@@ -23,4 +23,4 @@ export var settingsSuggestOutlined24px = [
       }
     ]
   ]
-]
+];

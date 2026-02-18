@@ -117,4 +117,4 @@ export var database24Color = [
       ]
     ]
   ]
-]
+];

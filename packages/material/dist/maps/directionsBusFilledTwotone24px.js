@@ -76,4 +76,4 @@ export var directionsBusFilledTwotone24px = [
       ]
     ]
   ]
-]
+];

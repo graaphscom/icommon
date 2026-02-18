@@ -23,4 +23,4 @@ export var backHandSharp20px = [
       }
     ]
   ]
-]
+];

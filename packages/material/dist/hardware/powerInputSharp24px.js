@@ -21,4 +21,4 @@ export var powerInputSharp24px = [
       }
     ]
   ]
-]
+];

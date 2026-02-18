@@ -16,4 +16,4 @@ export var multiselectLtr16Filled = [
       }
     ]
   ]
-]
+];

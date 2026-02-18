@@ -28,4 +28,4 @@ export var castForEducation24px = [
       ]
     ]
   ]
-]
+];

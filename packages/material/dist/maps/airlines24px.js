@@ -24,4 +24,4 @@ export var airlines24px = [
       }
     ]
   ]
-]
+];

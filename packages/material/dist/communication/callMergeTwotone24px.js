@@ -21,4 +21,4 @@ export var callMergeTwotone24px = [
       }
     ]
   ]
-]
+];

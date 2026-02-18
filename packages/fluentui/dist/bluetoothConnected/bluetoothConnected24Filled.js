@@ -16,4 +16,4 @@ export var bluetoothConnected24Filled = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var punchClockRound20px = [
       ]
     ]
   ]
-]
+];

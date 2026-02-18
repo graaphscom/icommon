@@ -21,4 +21,4 @@ export var personPinCircleOutlined24px = [
       }
     ]
   ]
-]
+];

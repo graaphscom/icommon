@@ -21,4 +21,4 @@ export var panoramaWideAngleOutlined24px = [
       }
     ]
   ]
-]
+];

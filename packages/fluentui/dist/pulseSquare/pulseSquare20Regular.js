@@ -16,4 +16,4 @@ export var pulseSquare20Regular = [
       }
     ]
   ]
-]
+];

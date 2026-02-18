@@ -40,4 +40,4 @@ export var modeStandbyTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var flipToFrontRound24px = [
       }
     ]
   ]
-]
+];

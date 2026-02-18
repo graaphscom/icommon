@@ -54,4 +54,4 @@ export var wifiFindTwotone24px = [
       ]
     ]
   ]
-]
+];

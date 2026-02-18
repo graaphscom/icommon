@@ -224,4 +224,4 @@ export var news24Color = [
       ]
     ]
   ]
-]
+];

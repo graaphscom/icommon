@@ -23,4 +23,4 @@ export var westTwotone24px = [
       }
     ]
   ]
-]
+];

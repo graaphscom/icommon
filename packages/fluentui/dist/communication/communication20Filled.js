@@ -16,4 +16,4 @@ export var communication20Filled = [
       }
     ]
   ]
-]
+];

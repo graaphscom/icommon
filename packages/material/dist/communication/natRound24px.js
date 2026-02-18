@@ -55,4 +55,4 @@ export var natRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowSyncDismiss20Regular = [
       }
     ]
   ]
-]
+];

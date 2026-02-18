@@ -79,4 +79,4 @@ export var settingsInputSvideoRound24px = [
       ]
     ]
   ]
-]
+];

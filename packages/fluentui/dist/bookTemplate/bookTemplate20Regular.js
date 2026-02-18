@@ -16,4 +16,4 @@ export var bookTemplate20Regular = [
       }
     ]
   ]
-]
+];

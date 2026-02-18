@@ -16,4 +16,4 @@ export var remixAdd32Filled = [
       }
     ]
   ]
-]
+];

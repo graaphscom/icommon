@@ -21,4 +21,4 @@ export var callMissedSharp24px = [
       }
     ]
   ]
-]
+];

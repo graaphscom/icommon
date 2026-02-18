@@ -16,4 +16,4 @@ export var tableArrowRepeatAll24Filled = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var grid3x3 = [
       }
     ]
   ]
-]
+];

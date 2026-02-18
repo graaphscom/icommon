@@ -16,4 +16,4 @@ export var gas20Filled = [
       }
     ]
   ]
-]
+];

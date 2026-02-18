@@ -47,4 +47,4 @@ export var dataObjectTwotone24px = [
       ]
     ]
   ]
-]
+];

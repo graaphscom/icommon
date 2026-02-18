@@ -552,4 +552,4 @@ export var buildingMultiple24Color = [
       ]
     ]
   ]
-]
+];

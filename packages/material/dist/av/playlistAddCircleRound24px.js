@@ -23,4 +23,4 @@ export var playlistAddCircleRound24px = [
       }
     ]
   ]
-]
+];

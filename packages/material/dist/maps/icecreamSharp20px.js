@@ -42,4 +42,4 @@ export var icecreamSharp20px = [
       ]
     ]
   ]
-]
+];

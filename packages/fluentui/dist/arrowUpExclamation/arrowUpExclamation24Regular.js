@@ -16,4 +16,4 @@ export var arrowUpExclamation24Regular = [
       }
     ]
   ]
-]
+];

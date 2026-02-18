@@ -16,4 +16,4 @@ export var alignRight28Filled = [
       }
     ]
   ]
-]
+];

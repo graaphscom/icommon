@@ -35,4 +35,4 @@ export var commit20px = [
       ]
     ]
   ]
-]
+];

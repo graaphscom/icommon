@@ -21,4 +21,4 @@ export var shopSharp24px = [
       }
     ]
   ]
-]
+];

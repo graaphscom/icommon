@@ -55,4 +55,4 @@ export var timerRound24px = [
       ]
     ]
   ]
-]
+];

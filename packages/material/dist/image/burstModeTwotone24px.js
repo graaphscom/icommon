@@ -28,4 +28,4 @@ export var burstModeTwotone24px = [
       }
     ]
   ]
-]
+];

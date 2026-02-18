@@ -16,4 +16,4 @@ export var cubeCheckmark32Regular = [
       }
     ]
   ]
-]
+];

@@ -59,4 +59,4 @@ export var localFireDepartmentRound20px = [
       ]
     ]
   ]
-]
+];

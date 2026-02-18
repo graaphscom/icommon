@@ -47,4 +47,4 @@ export var electricBikeSharp24px = [
       ]
     ]
   ]
-]
+];

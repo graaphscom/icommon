@@ -40,4 +40,4 @@ export var screenshotRound24px = [
       ]
     ]
   ]
-]
+];

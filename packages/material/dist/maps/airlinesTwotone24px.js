@@ -31,4 +31,4 @@ export var airlinesTwotone24px = [
       }
     ]
   ]
-]
+];

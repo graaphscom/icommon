@@ -16,4 +16,4 @@ export var arrowAutofitContent20Regular = [
       }
     ]
   ]
-]
+];

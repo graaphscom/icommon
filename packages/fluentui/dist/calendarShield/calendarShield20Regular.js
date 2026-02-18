@@ -16,4 +16,4 @@ export var calendarShield20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var reOrderDotsHorizontal20Regular = [
       }
     ]
   ]
-]
+];

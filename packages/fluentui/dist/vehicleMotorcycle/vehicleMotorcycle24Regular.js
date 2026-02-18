@@ -16,4 +16,4 @@ export var vehicleMotorcycle24Regular = [
       }
     ]
   ]
-]
+];

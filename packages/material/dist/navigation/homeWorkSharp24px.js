@@ -47,4 +47,4 @@ export var homeWorkSharp24px = [
       ]
     ]
   ]
-]
+];

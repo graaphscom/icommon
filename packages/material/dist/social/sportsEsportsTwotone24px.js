@@ -70,4 +70,4 @@ export var sportsEsportsTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var doNotDisturbOn24px = [
       }
     ]
   ]
-]
+];

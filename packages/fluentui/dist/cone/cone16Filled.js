@@ -16,4 +16,4 @@ export var cone16Filled = [
       }
     ]
   ]
-]
+];

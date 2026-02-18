@@ -28,4 +28,4 @@ export var mobileScreenShareTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var settingsTwotone24px = [
       }
     ]
   ]
-]
+];

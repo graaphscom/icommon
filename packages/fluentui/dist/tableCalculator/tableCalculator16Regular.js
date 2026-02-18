@@ -16,4 +16,4 @@ export var tableCalculator16Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var loupe24px = [
       }
     ]
   ]
-]
+];

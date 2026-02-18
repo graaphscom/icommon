@@ -16,4 +16,4 @@ export var buildingSkyscraper24Filled = [
       }
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var generatingTokensTwotone20px = [
       }
     ]
   ]
-]
+];

@@ -253,4 +253,4 @@ export var peopleList24Color = [
       ]
     ]
   ]
-]
+];

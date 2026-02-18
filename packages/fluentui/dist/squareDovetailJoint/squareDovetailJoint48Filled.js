@@ -16,4 +16,4 @@ export var squareDovetailJoint48Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personAvailable24Filled = [
       }
     ]
   ]
-]
+];

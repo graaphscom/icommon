@@ -30,4 +30,4 @@ export var workspacePremiumTwotone24px = [
       }
     ]
   ]
-]
+];

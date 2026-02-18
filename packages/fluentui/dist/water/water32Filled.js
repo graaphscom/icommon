@@ -16,4 +16,4 @@ export var water32Filled = [
       }
     ]
   ]
-]
+];

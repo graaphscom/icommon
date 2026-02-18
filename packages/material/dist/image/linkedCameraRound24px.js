@@ -79,4 +79,4 @@ export var linkedCameraRound24px = [
       ]
     ]
   ]
-]
+];

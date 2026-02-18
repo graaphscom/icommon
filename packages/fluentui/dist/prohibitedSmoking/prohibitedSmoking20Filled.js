@@ -16,4 +16,4 @@ export var prohibitedSmoking20Filled = [
       }
     ]
   ]
-]
+];

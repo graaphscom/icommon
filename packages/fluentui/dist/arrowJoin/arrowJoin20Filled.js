@@ -16,4 +16,4 @@ export var arrowJoin20Filled = [
       }
     ]
   ]
-]
+];

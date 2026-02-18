@@ -61,4 +61,4 @@ export var hideImageTwotone24px = [
       ]
     ]
   ]
-]
+];

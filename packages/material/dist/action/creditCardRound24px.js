@@ -21,4 +21,4 @@ export var creditCardRound24px = [
       }
     ]
   ]
-]
+];

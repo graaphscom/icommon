@@ -16,4 +16,4 @@ export var chevronDown48Regular = [
       }
     ]
   ]
-]
+];

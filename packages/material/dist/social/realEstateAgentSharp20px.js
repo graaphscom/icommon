@@ -23,4 +23,4 @@ export var realEstateAgentSharp20px = [
       }
     ]
   ]
-]
+];

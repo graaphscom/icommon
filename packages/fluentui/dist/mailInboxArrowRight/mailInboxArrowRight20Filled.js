@@ -16,4 +16,4 @@ export var mailInboxArrowRight20Filled = [
       }
     ]
   ]
-]
+];

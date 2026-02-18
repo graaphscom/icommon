@@ -21,4 +21,4 @@ export var batteryUnknownTwotone24px = [
       }
     ]
   ]
-]
+];

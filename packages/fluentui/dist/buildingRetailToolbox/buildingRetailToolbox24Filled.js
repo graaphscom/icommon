@@ -16,4 +16,4 @@ export var buildingRetailToolbox24Filled = [
       }
     ]
   ]
-]
+];

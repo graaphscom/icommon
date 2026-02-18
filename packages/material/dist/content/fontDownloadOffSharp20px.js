@@ -23,4 +23,4 @@ export var fontDownloadOffSharp20px = [
       }
     ]
   ]
-]
+];

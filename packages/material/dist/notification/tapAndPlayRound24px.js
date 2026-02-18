@@ -21,4 +21,4 @@ export var tapAndPlayRound24px = [
       }
     ]
   ]
-]
+];

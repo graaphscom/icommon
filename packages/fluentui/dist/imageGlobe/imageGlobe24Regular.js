@@ -65,4 +65,4 @@ export var imageGlobe24Regular = [
       }
     ]
   ]
-]
+];

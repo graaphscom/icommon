@@ -35,4 +35,4 @@ export var noPhotographyOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var micOff28Filled = [
       }
     ]
   ]
-]
+];

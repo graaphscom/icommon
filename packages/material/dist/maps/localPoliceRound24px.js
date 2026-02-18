@@ -23,4 +23,4 @@ export var localPoliceRound24px = [
       }
     ]
   ]
-]
+];

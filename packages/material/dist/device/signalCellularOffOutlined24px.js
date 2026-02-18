@@ -21,4 +21,4 @@ export var signalCellularOffOutlined24px = [
       }
     ]
   ]
-]
+];

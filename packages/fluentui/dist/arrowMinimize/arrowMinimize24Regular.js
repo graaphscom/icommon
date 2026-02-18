@@ -16,4 +16,4 @@ export var arrowMinimize24Regular = [
       }
     ]
   ]
-]
+];

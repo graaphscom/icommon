@@ -29,4 +29,4 @@ export var dryRound24px = [
       ]
     ]
   ]
-]
+];

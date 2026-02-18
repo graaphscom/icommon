@@ -23,4 +23,4 @@ export var surfingOutlined24px = [
       }
     ]
   ]
-]
+];

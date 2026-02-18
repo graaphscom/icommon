@@ -56,4 +56,4 @@ export var personRemoveOutlined24px = [
       ]
     ]
   ]
-]
+];

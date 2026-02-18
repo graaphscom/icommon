@@ -59,4 +59,4 @@ export var noAdultContentSharp20px = [
       ]
     ]
   ]
-]
+];

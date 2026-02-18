@@ -83,4 +83,4 @@ export var monitorWeightTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var list16Regular = [
       }
     ]
   ]
-]
+];

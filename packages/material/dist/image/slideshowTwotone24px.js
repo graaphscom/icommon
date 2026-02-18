@@ -28,4 +28,4 @@ export var slideshowTwotone24px = [
       }
     ]
   ]
-]
+];

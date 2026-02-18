@@ -52,4 +52,4 @@ export var meetingRoomRound24px = [
       ]
     ]
   ]
-]
+];

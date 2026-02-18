@@ -16,4 +16,4 @@ export var speakerMute16Filled = [
       }
     ]
   ]
-]
+];

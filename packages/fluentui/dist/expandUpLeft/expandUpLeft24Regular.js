@@ -16,4 +16,4 @@ export var expandUpLeft24Regular = [
       }
     ]
   ]
-]
+];

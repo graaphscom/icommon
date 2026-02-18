@@ -16,4 +16,4 @@ export var save28Filled = [
       }
     ]
   ]
-]
+];

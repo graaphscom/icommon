@@ -16,4 +16,4 @@ export var handMultiple24Filled = [
       }
     ]
   ]
-]
+];

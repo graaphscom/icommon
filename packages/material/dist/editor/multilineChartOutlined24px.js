@@ -21,4 +21,4 @@ export var multilineChartOutlined24px = [
       }
     ]
   ]
-]
+];

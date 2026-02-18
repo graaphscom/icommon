@@ -16,4 +16,4 @@ export var linkDismiss24Filled = [
       }
     ]
   ]
-]
+];

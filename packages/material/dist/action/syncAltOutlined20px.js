@@ -47,4 +47,4 @@ export var syncAltOutlined20px = [
       ]
     ]
   ]
-]
+];

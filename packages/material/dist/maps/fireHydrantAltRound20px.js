@@ -49,4 +49,4 @@ export var fireHydrantAltRound20px = [
       ]
     ]
   ]
-]
+];

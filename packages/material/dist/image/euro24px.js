@@ -39,4 +39,4 @@ export var euro24px = [
       ]
     ]
   ]
-]
+];

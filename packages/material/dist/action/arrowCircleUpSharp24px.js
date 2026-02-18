@@ -29,4 +29,4 @@ export var arrowCircleUpSharp24px = [
       ]
     ]
   ]
-]
+];

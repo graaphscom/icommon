@@ -86,4 +86,4 @@ export var addRoadSharp20px = [
       ]
     ]
   ]
-]
+];

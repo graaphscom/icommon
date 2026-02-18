@@ -16,4 +16,4 @@ export var appsAddInOff20Regular = [
       }
     ]
   ]
-]
+];

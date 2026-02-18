@@ -28,4 +28,4 @@ export var kitchenTwotone24px = [
       }
     ]
   ]
-]
+];

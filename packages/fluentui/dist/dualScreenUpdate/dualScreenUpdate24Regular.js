@@ -16,4 +16,4 @@ export var dualScreenUpdate24Regular = [
       }
     ]
   ]
-]
+];

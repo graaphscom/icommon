@@ -43,4 +43,4 @@ export var soupKitchenTwotone20px = [
       ]
     ]
   ]
-]
+];

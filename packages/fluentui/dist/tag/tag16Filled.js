@@ -16,4 +16,4 @@ export var tag16Filled = [
       }
     ]
   ]
-]
+];

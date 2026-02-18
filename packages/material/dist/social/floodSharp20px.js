@@ -47,4 +47,4 @@ export var floodSharp20px = [
       ]
     ]
   ]
-]
+];

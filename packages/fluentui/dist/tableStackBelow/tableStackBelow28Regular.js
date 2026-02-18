@@ -16,4 +16,4 @@ export var tableStackBelow28Regular = [
       }
     ]
   ]
-]
+];

@@ -68,4 +68,4 @@ export var onDeviceTraining24px = [
       ]
     ]
   ]
-]
+];

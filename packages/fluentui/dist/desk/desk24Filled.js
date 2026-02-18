@@ -16,4 +16,4 @@ export var desk24Filled = [
       }
     ]
   ]
-]
+];

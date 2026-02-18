@@ -54,4 +54,4 @@ export var bikeScooterOutlined20px = [
       ]
     ]
   ]
-]
+];

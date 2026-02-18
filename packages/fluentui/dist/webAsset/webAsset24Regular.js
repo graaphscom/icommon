@@ -16,4 +16,4 @@ export var webAsset24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var copyrightRound24px = [
       }
     ]
   ]
-]
+];

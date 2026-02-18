@@ -70,4 +70,4 @@ export var punchClockTwotone24px = [
       ]
     ]
   ]
-]
+];

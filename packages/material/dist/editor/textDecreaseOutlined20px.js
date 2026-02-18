@@ -24,4 +24,4 @@ export var textDecreaseOutlined20px = [
       }
     ]
   ]
-]
+];

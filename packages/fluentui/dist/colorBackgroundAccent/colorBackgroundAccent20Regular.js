@@ -16,4 +16,4 @@ export var colorBackgroundAccent20Regular = [
       }
     ]
   ]
-]
+];

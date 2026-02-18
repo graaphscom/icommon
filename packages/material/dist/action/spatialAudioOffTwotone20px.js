@@ -75,4 +75,4 @@ export var spatialAudioOffTwotone20px = [
       ]
     ]
   ]
-]
+];

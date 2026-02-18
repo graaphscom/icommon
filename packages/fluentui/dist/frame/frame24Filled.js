@@ -16,4 +16,4 @@ export var frame24Filled = [
       }
     ]
   ]
-]
+];

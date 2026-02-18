@@ -35,4 +35,4 @@ export var paidSharp24px = [
       ]
     ]
   ]
-]
+];

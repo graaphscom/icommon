@@ -21,4 +21,4 @@ export var list24px = [
       }
     ]
   ]
-]
+];

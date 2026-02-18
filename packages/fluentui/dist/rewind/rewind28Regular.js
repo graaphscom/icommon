@@ -16,4 +16,4 @@ export var rewind28Regular = [
       }
     ]
   ]
-]
+];

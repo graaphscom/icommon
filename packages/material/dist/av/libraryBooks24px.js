@@ -21,4 +21,4 @@ export var libraryBooks24px = [
       }
     ]
   ]
-]
+];

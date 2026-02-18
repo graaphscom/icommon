@@ -16,4 +16,4 @@ export var columnArrowRight20Regular = [
       }
     ]
   ]
-]
+];

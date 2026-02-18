@@ -21,4 +21,4 @@ export var expandLessTwotone24px = [
       }
     ]
   ]
-]
+];

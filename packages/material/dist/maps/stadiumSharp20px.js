@@ -35,4 +35,4 @@ export var stadiumSharp20px = [
       ]
     ]
   ]
-]
+];

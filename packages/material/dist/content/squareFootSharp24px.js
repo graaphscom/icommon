@@ -41,4 +41,4 @@ export var squareFootSharp24px = [
       ]
     ]
   ]
-]
+];

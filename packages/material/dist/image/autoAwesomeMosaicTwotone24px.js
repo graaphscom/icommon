@@ -84,4 +84,4 @@ export var autoAwesomeMosaicTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var slideLayout24Regular = [
       }
     ]
   ]
-]
+];

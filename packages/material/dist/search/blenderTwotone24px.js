@@ -55,4 +55,4 @@ export var blenderTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var cloudArrowDown16Regular = [
       }
     ]
   ]
-]
+];

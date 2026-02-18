@@ -36,4 +36,4 @@ export var pushPin24px = [
       ]
     ]
   ]
-]
+];

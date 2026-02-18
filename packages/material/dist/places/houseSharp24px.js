@@ -35,4 +35,4 @@ export var houseSharp24px = [
       ]
     ]
   ]
-]
+];

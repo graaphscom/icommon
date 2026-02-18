@@ -16,4 +16,4 @@ export var accessTime20Filled = [
       }
     ]
   ]
-]
+];

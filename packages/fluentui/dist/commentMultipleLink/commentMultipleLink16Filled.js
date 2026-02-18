@@ -16,4 +16,4 @@ export var commentMultipleLink16Filled = [
       }
     ]
   ]
-]
+];

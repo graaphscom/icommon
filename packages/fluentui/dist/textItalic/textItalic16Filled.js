@@ -16,4 +16,4 @@ export var textItalic16Filled = [
       }
     ]
   ]
-]
+];

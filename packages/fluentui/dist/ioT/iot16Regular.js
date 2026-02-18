@@ -16,4 +16,4 @@ export var iot16Regular = [
       }
     ]
   ]
-]
+];

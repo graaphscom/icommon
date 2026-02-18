@@ -16,4 +16,4 @@ export var buildingFactory16Filled = [
       }
     ]
   ]
-]
+];

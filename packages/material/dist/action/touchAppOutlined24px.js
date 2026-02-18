@@ -41,4 +41,4 @@ export var touchAppOutlined24px = [
       ]
     ]
   ]
-]
+];

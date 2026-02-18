@@ -16,4 +16,4 @@ export var globeClock16Filled = [
       }
     ]
   ]
-]
+];

@@ -86,4 +86,4 @@ export var flagPrideProgress32Filled = [
       }
     ]
   ]
-]
+];

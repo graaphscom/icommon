@@ -86,4 +86,4 @@ export var addRoadOutlined24px = [
       ]
     ]
   ]
-]
+];

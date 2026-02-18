@@ -71,4 +71,4 @@ export var autoModeSharp20px = [
       ]
     ]
   ]
-]
+];

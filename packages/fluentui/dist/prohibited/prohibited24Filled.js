@@ -16,4 +16,4 @@ export var prohibited24Filled = [
       }
     ]
   ]
-]
+];

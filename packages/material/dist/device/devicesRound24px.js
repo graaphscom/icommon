@@ -21,4 +21,4 @@ export var devicesRound24px = [
       }
     ]
   ]
-]
+];

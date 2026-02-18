@@ -21,4 +21,4 @@ export var offlinePinOutlined24px = [
       }
     ]
   ]
-]
+];

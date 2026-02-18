@@ -21,4 +21,4 @@ export var arrowDropDown24px = [
       }
     ]
   ]
-]
+];

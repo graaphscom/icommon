@@ -14,4 +14,4 @@ export var dragHandleSharp24px = [
       }
     ]
   ]
-]
+];

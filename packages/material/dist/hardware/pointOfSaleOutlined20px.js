@@ -29,4 +29,4 @@ export var pointOfSaleOutlined20px = [
       ]
     ]
   ]
-]
+];

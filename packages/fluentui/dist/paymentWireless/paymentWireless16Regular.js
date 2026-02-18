@@ -16,4 +16,4 @@ export var paymentWireless16Regular = [
       }
     ]
   ]
-]
+];

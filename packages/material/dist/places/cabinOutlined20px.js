@@ -23,4 +23,4 @@ export var cabinOutlined20px = [
       }
     ]
   ]
-]
+];

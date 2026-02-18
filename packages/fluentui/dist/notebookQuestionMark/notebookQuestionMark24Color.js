@@ -284,4 +284,4 @@ export var notebookQuestionMark24Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentQuestionMark16Filled = [
       }
     ]
   ]
-]
+];

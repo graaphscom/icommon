@@ -42,4 +42,4 @@ export var pinchTwotone20px = [
       ]
     ]
   ]
-]
+];

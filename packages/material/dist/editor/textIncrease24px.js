@@ -23,4 +23,4 @@ export var textIncrease24px = [
       }
     ]
   ]
-]
+];

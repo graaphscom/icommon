@@ -59,4 +59,4 @@ export var replay1024px = [
       ]
     ]
   ]
-]
+];

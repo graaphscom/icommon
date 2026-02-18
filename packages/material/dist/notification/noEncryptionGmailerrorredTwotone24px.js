@@ -28,4 +28,4 @@ export var noEncryptionGmailerrorredTwotone24px = [
       }
     ]
   ]
-]
+];

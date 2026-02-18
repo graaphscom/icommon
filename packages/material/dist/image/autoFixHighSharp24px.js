@@ -60,4 +60,4 @@ export var autoFixHighSharp24px = [
       ]
     ]
   ]
-]
+];

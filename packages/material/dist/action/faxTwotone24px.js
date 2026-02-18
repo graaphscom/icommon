@@ -112,4 +112,4 @@ export var faxTwotone24px = [
       ]
     ]
   ]
-]
+];

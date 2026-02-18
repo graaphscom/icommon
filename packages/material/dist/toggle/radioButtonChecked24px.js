@@ -21,4 +21,4 @@ export var radioButtonChecked24px = [
       }
     ]
   ]
-]
+];

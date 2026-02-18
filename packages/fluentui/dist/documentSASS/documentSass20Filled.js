@@ -16,4 +16,4 @@ export var documentSass20Filled = [
       }
     ]
   ]
-]
+];

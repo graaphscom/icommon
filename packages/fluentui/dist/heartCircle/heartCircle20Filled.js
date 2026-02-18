@@ -16,4 +16,4 @@ export var heartCircle20Filled = [
       }
     ]
   ]
-]
+];

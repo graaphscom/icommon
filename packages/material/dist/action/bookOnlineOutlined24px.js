@@ -23,4 +23,4 @@ export var bookOnlineOutlined24px = [
       }
     ]
   ]
-]
+];

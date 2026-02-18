@@ -21,4 +21,4 @@ export var trendingFlatTwotone24px = [
       }
     ]
   ]
-]
+];

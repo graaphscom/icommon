@@ -21,4 +21,4 @@ export var avTimerSharp24px = [
       }
     ]
   ]
-]
+];

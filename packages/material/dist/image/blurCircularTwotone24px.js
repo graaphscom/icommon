@@ -71,4 +71,4 @@ export var blurCircularTwotone24px = [
       }
     ]
   ]
-]
+];

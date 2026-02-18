@@ -16,4 +16,4 @@ export var battery128Filled = [
       }
     ]
   ]
-]
+];

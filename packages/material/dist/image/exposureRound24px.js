@@ -21,4 +21,4 @@ export var exposureRound24px = [
       }
     ]
   ]
-]
+];

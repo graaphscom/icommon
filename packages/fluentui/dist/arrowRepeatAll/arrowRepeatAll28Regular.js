@@ -16,4 +16,4 @@ export var arrowRepeatAll28Regular = [
       }
     ]
   ]
-]
+];

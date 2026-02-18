@@ -60,4 +60,4 @@ export var spatialAudioOffOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -183,4 +183,4 @@ export var paintBrush16Color = [
       ]
     ]
   ]
-]
+];

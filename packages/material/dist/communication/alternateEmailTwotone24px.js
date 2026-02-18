@@ -22,4 +22,4 @@ export var alternateEmailTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var videoPersonOff24Filled = [
       }
     ]
   ]
-]
+];

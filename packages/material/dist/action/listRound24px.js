@@ -35,4 +35,4 @@ export var listRound24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var usbOffSharp20px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var pausePresentationSharp24px = [
       }
     ]
   ]
-]
+];

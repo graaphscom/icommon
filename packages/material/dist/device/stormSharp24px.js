@@ -40,4 +40,4 @@ export var stormSharp24px = [
       ]
     ]
   ]
-]
+];

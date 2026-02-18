@@ -34,4 +34,4 @@ export var networkCellTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var formatQuoteOutlined24px = [
       }
     ]
   ]
-]
+];

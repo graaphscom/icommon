@@ -47,4 +47,4 @@ export var dataThresholdingOutlined24px = [
       ]
     ]
   ]
-]
+];

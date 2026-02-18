@@ -16,4 +16,4 @@ export var weatherCloudy24Filled = [
       }
     ]
   ]
-]
+];

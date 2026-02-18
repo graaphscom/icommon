@@ -152,4 +152,4 @@ export var devicesFoldSharp20px = [
       ]
     ]
   ]
-]
+];

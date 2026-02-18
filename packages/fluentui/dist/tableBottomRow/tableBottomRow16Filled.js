@@ -16,4 +16,4 @@ export var tableBottomRow16Filled = [
       }
     ]
   ]
-]
+];

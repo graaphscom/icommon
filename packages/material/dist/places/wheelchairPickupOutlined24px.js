@@ -30,4 +30,4 @@ export var wheelchairPickupOutlined24px = [
       ]
     ]
   ]
-]
+];

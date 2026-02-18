@@ -16,4 +16,4 @@ export var documentArrowDown20Regular = [
       }
     ]
   ]
-]
+];

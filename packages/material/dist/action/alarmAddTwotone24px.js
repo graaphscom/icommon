@@ -28,4 +28,4 @@ export var alarmAddTwotone24px = [
       }
     ]
   ]
-]
+];

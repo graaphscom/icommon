@@ -49,4 +49,4 @@ export var pestControlRodentOutlined24px = [
       ]
     ]
   ]
-]
+];

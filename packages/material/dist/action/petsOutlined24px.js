@@ -53,4 +53,4 @@ export var petsOutlined24px = [
       }
     ]
   ]
-]
+];

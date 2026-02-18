@@ -21,4 +21,4 @@ export var locationCityOutlined24px = [
       }
     ]
   ]
-]
+];

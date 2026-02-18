@@ -35,4 +35,4 @@ export var vapingRoomsRound20px = [
       ]
     ]
   ]
-]
+];

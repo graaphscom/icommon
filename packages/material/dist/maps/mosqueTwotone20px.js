@@ -55,4 +55,4 @@ export var mosqueTwotone20px = [
       ]
     ]
   ]
-]
+];

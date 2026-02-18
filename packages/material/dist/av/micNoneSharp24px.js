@@ -21,4 +21,4 @@ export var micNoneSharp24px = [
       }
     ]
   ]
-]
+];

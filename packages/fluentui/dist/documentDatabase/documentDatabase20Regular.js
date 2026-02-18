@@ -16,4 +16,4 @@ export var documentDatabase20Regular = [
       }
     ]
   ]
-]
+];

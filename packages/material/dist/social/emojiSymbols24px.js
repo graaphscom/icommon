@@ -92,4 +92,4 @@ export var emojiSymbols24px = [
       ]
     ]
   ]
-]
+];

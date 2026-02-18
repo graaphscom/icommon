@@ -48,4 +48,4 @@ export var hourglassBottomTwotone20px = [
       ]
     ]
   ]
-]
+];

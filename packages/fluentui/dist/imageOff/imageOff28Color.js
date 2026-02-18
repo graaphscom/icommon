@@ -188,4 +188,4 @@ export var imageOff28Color = [
       ]
     ]
   ]
-]
+];

@@ -118,4 +118,4 @@ export var flagPrideIntersexInclusiveProgress48Filled = [
       }
     ]
   ]
-]
+];

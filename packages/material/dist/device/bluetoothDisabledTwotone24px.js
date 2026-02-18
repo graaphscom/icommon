@@ -21,4 +21,4 @@ export var bluetoothDisabledTwotone24px = [
       }
     ]
   ]
-]
+];

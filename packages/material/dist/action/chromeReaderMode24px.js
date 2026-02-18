@@ -21,4 +21,4 @@ export var chromeReaderMode24px = [
       }
     ]
   ]
-]
+];

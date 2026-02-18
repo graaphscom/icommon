@@ -16,4 +16,4 @@ export var guardian48Filled = [
       }
     ]
   ]
-]
+];

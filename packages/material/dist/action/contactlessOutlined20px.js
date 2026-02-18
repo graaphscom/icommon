@@ -60,4 +60,4 @@ export var contactlessOutlined20px = [
       ]
     ]
   ]
-]
+];

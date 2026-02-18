@@ -16,4 +16,4 @@ export var bookCompass20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowTrendingSettings24Regular = [
       }
     ]
   ]
-]
+];

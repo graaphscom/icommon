@@ -16,4 +16,4 @@ export var editPerson16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var deviceMeetingRoom20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var addToPhotosOutlined24px = [
       }
     ]
   ]
-]
+];

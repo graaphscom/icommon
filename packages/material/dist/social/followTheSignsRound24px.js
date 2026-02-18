@@ -23,4 +23,4 @@ export var followTheSignsRound24px = [
       }
     ]
   ]
-]
+];

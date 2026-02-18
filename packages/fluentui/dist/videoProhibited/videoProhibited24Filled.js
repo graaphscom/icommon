@@ -16,4 +16,4 @@ export var videoProhibited24Filled = [
       }
     ]
   ]
-]
+];

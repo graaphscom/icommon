@@ -28,4 +28,4 @@ export var storeMallDirectoryTwotone24px = [
       }
     ]
   ]
-]
+];

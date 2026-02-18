@@ -16,4 +16,4 @@ export var expandUpRight16Filled = [
       }
     ]
   ]
-]
+];

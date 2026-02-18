@@ -35,4 +35,4 @@ export var differenceRound20px = [
       ]
     ]
   ]
-]
+];

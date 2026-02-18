@@ -35,4 +35,4 @@ export var conveyorBelt24px = [
       ]
     ]
   ]
-]
+];

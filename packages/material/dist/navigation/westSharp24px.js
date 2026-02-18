@@ -23,4 +23,4 @@ export var westSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var shutterSpeedRound24px = [
       }
     ]
   ]
-]
+];

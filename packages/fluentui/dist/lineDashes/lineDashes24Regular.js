@@ -16,4 +16,4 @@ export var lineDashes24Regular = [
       }
     ]
   ]
-]
+];

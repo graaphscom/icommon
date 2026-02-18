@@ -21,4 +21,4 @@ export var addCircle24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentTextExtract28Filled = [
       }
     ]
   ]
-]
+];

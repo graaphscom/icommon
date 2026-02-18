@@ -16,4 +16,4 @@ export var flowDot20Filled = [
       }
     ]
   ]
-]
+];

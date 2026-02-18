@@ -21,4 +21,4 @@ export var mouse24px = [
       }
     ]
   ]
-]
+];

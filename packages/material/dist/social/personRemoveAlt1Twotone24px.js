@@ -72,4 +72,4 @@ export var personRemoveAlt1Twotone24px = [
       ]
     ]
   ]
-]
+];

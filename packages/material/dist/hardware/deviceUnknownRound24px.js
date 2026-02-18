@@ -14,4 +14,4 @@ export var deviceUnknownRound24px = [
       }
     ]
   ]
-]
+];

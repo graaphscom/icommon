@@ -70,4 +70,4 @@ export var offlineShareTwotone24px = [
       ]
     ]
   ]
-]
+];

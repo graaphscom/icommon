@@ -215,4 +215,4 @@ export var peopleCommunity48Color = [
       ]
     ]
   ]
-]
+];

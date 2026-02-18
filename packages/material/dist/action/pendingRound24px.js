@@ -43,4 +43,4 @@ export var pendingRound24px = [
       ]
     ]
   ]
-]
+];

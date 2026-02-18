@@ -16,4 +16,4 @@ export var keyboardShift24Regular = [
       }
     ]
   ]
-]
+];

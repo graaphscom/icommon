@@ -13,4 +13,4 @@ export var music2Line = [
       }
     ]
   ]
-]
+];

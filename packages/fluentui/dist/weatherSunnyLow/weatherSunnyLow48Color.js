@@ -354,4 +354,4 @@ export var weatherSunnyLow48Color = [
       ]
     ]
   ]
-]
+];

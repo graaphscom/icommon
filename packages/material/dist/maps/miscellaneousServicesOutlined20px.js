@@ -48,4 +48,4 @@ export var miscellaneousServicesOutlined20px = [
       ]
     ]
   ]
-]
+];

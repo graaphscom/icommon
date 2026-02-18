@@ -47,4 +47,4 @@ export var electricRickshawOutlined20px = [
       ]
     ]
   ]
-]
+];

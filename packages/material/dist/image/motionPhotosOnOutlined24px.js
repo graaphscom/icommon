@@ -23,4 +23,4 @@ export var motionPhotosOnOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -61,4 +61,4 @@ export var verticalShadesTwotone24px = [
       ]
     ]
   ]
-]
+];

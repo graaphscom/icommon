@@ -21,4 +21,4 @@ export var folderShared24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var wifiSharp24px = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var __60fpsTwotone24px = [
       ]
     ]
   ]
-]
+];

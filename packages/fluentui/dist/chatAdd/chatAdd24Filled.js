@@ -16,4 +16,4 @@ export var chatAdd24Filled = [
       }
     ]
   ]
-]
+];

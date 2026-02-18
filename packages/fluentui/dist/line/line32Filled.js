@@ -16,4 +16,4 @@ export var line32Filled = [
       }
     ]
   ]
-]
+];

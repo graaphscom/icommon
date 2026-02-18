@@ -35,4 +35,4 @@ export var pedalBikeOutlined24px = [
       ]
     ]
   ]
-]
+];

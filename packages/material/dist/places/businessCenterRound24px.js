@@ -21,4 +21,4 @@ export var businessCenterRound24px = [
       }
     ]
   ]
-]
+];

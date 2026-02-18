@@ -21,4 +21,4 @@ export var speakerNotesOffOutlined24px = [
       }
     ]
   ]
-]
+];

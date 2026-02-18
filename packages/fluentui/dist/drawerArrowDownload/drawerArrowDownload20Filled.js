@@ -16,4 +16,4 @@ export var drawerArrowDownload20Filled = [
       }
     ]
   ]
-]
+];

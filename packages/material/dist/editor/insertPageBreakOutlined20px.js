@@ -75,4 +75,4 @@ export var insertPageBreakOutlined20px = [
       ]
     ]
   ]
-]
+];

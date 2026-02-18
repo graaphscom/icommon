@@ -16,4 +16,4 @@ export var dataUsageSettings24Filled = [
       }
     ]
   ]
-]
+];

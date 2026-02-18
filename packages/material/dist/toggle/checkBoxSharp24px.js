@@ -21,4 +21,4 @@ export var checkBoxSharp24px = [
       }
     ]
   ]
-]
+];

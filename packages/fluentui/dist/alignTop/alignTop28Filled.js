@@ -16,4 +16,4 @@ export var alignTop28Filled = [
       }
     ]
   ]
-]
+];

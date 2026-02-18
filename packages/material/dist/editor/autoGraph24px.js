@@ -29,4 +29,4 @@ export var autoGraph24px = [
       ]
     ]
   ]
-]
+];

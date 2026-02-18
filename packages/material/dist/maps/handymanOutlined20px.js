@@ -48,4 +48,4 @@ export var handymanOutlined20px = [
       ]
     ]
   ]
-]
+];

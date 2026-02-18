@@ -34,4 +34,4 @@ export var cameraOutdoorSharp24px = [
       ]
     ]
   ]
-]
+];

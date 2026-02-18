@@ -21,4 +21,4 @@ export var editLocationOutlined24px = [
       }
     ]
   ]
-]
+];

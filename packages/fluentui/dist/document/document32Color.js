@@ -117,4 +117,4 @@ export var document32Color = [
       ]
     ]
   ]
-]
+];

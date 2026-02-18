@@ -16,4 +16,4 @@ export var presenterOff20Regular = [
       }
     ]
   ]
-]
+];

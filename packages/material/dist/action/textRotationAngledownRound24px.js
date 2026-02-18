@@ -21,4 +21,4 @@ export var textRotationAngledownRound24px = [
       }
     ]
   ]
-]
+];

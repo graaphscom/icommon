@@ -21,4 +21,4 @@ export var headsetOff24px = [
       }
     ]
   ]
-]
+];

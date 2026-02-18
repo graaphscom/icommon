@@ -21,4 +21,4 @@ export var tonalityOutlined24px = [
       }
     ]
   ]
-]
+];

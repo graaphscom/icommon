@@ -56,4 +56,4 @@ export var mopedOutlined24px = [
       ]
     ]
   ]
-]
+];

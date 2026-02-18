@@ -41,4 +41,4 @@ export var girlOutlined24px = [
       ]
     ]
   ]
-]
+];

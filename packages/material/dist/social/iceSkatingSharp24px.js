@@ -29,4 +29,4 @@ export var iceSkatingSharp24px = [
       ]
     ]
   ]
-]
+];

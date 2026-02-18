@@ -23,4 +23,4 @@ export var cloudySnowing24px = [
       }
     ]
   ]
-]
+];

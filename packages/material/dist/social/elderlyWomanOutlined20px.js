@@ -48,4 +48,4 @@ export var elderlyWomanOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var co2Outlined20px = [
       }
     ]
   ]
-]
+];

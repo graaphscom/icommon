@@ -21,4 +21,4 @@ export var filterTiltShiftRound24px = [
       }
     ]
   ]
-]
+];

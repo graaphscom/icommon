@@ -79,4 +79,4 @@ export var editRoadRound24px = [
       ]
     ]
   ]
-]
+];

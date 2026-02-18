@@ -30,4 +30,4 @@ export var bookOnlineTwotone24px = [
       }
     ]
   ]
-]
+];

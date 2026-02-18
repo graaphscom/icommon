@@ -31,4 +31,4 @@ export var notStartedRound20px = [
       ]
     ]
   ]
-]
+];

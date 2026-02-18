@@ -35,4 +35,4 @@ export var calculateSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -42,4 +42,4 @@ export var factCheckSharp24px = [
       ]
     ]
   ]
-]
+];

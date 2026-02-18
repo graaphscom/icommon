@@ -16,4 +16,4 @@ export var shiftsOpen20Regular = [
       }
     ]
   ]
-]
+];

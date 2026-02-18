@@ -21,4 +21,4 @@ export var artTrackOutlined24px = [
       }
     ]
   ]
-]
+];

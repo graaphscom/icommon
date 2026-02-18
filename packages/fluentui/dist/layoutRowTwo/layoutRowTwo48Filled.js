@@ -16,4 +16,4 @@ export var layoutRowTwo48Filled = [
       }
     ]
   ]
-]
+];

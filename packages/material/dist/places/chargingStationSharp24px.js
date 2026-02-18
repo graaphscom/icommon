@@ -29,4 +29,4 @@ export var chargingStationSharp24px = [
       ]
     ]
   ]
-]
+];

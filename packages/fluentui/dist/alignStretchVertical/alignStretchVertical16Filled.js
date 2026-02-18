@@ -16,4 +16,4 @@ export var alignStretchVertical16Filled = [
       }
     ]
   ]
-]
+];

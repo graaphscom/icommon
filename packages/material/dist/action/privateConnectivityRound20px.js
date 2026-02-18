@@ -23,4 +23,4 @@ export var privateConnectivityRound20px = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var forbid2Line = [
       }
     ]
   ]
-]
+];

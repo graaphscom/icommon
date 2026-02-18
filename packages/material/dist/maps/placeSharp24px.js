@@ -21,4 +21,4 @@ export var placeSharp24px = [
       }
     ]
   ]
-]
+];

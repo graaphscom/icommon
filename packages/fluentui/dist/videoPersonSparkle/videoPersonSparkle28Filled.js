@@ -16,4 +16,4 @@ export var videoPersonSparkle28Filled = [
       }
     ]
   ]
-]
+];

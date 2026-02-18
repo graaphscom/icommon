@@ -71,4 +71,4 @@ export var autoMode24px = [
       ]
     ]
   ]
-]
+];

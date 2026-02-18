@@ -21,4 +21,4 @@ export var reportOffSharp24px = [
       }
     ]
   ]
-]
+];

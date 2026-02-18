@@ -21,4 +21,4 @@ export var signalCellular4BarRound24px = [
       }
     ]
   ]
-]
+];

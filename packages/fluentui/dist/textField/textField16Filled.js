@@ -16,4 +16,4 @@ export var textField16Filled = [
       }
     ]
   ]
-]
+];

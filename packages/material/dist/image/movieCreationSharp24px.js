@@ -21,4 +21,4 @@ export var movieCreationSharp24px = [
       }
     ]
   ]
-]
+];

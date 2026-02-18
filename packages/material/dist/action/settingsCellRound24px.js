@@ -35,4 +35,4 @@ export var settingsCellRound24px = [
       ]
     ]
   ]
-]
+];

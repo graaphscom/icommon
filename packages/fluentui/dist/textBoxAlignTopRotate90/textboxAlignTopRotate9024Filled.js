@@ -16,4 +16,4 @@ export var textboxAlignTopRotate9024Filled = [
       }
     ]
   ]
-]
+];

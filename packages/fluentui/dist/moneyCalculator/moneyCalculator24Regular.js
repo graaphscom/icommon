@@ -16,4 +16,4 @@ export var moneyCalculator24Regular = [
       }
     ]
   ]
-]
+];

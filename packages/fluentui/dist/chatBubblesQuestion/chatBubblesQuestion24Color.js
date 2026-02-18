@@ -126,4 +126,4 @@ export var chatBubblesQuestion24Color = [
       ]
     ]
   ]
-]
+];

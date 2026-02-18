@@ -41,4 +41,4 @@ export var syncLockTwotone20px = [
       ]
     ]
   ]
-]
+];

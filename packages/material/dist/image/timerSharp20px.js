@@ -59,4 +59,4 @@ export var timerSharp20px = [
       ]
     ]
   ]
-]
+];

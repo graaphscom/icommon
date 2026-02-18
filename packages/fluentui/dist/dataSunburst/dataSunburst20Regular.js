@@ -16,4 +16,4 @@ export var dataSunburst20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var panelRightDefault28Filled = [
       }
     ]
   ]
-]
+];

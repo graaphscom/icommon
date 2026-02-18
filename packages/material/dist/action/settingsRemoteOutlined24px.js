@@ -35,4 +35,4 @@ export var settingsRemoteOutlined24px = [
       }
     ]
   ]
-]
+];

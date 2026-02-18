@@ -21,4 +21,4 @@ export var accessibilityTwotone24px = [
       }
     ]
   ]
-]
+];

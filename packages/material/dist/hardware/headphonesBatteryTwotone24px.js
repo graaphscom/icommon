@@ -63,4 +63,4 @@ export var headphonesBatteryTwotone24px = [
       ]
     ]
   ]
-]
+];

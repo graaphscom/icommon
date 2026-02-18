@@ -21,4 +21,4 @@ export var editSharp24px = [
       }
     ]
   ]
-]
+];

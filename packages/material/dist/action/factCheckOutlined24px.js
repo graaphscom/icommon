@@ -79,4 +79,4 @@ export var factCheckOutlined24px = [
       ]
     ]
   ]
-]
+];

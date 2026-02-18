@@ -13,4 +13,4 @@ export var layout6Line = [
       }
     ]
   ]
-]
+];

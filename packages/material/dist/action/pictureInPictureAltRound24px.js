@@ -21,4 +21,4 @@ export var pictureInPictureAltRound24px = [
       }
     ]
   ]
-]
+];

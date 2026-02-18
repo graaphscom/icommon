@@ -16,4 +16,4 @@ export var portMicroUsb24Filled = [
       }
     ]
   ]
-]
+];

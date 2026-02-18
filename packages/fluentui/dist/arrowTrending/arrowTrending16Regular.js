@@ -16,4 +16,4 @@ export var arrowTrending16Regular = [
       }
     ]
   ]
-]
+];

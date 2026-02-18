@@ -16,4 +16,4 @@ export var caretDown16Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var document20Filled = [
       }
     ]
   ]
-]
+];

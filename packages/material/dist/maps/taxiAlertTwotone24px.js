@@ -77,4 +77,4 @@ export var taxiAlertTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dataArea32Regular = [
       }
     ]
   ]
-]
+];

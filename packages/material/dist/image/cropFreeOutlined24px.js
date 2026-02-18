@@ -21,4 +21,4 @@ export var cropFreeOutlined24px = [
       }
     ]
   ]
-]
+];

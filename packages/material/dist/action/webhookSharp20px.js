@@ -35,4 +35,4 @@ export var webhookSharp20px = [
       ]
     ]
   ]
-]
+];

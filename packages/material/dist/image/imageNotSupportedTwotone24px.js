@@ -42,4 +42,4 @@ export var imageNotSupportedTwotone24px = [
       ]
     ]
   ]
-]
+];

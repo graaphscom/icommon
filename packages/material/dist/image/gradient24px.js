@@ -21,4 +21,4 @@ export var gradient24px = [
       }
     ]
   ]
-]
+];

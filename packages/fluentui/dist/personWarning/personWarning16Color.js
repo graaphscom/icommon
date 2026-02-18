@@ -219,4 +219,4 @@ export var personWarning16Color = [
       ]
     ]
   ]
-]
+];

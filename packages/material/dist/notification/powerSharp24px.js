@@ -21,4 +21,4 @@ export var powerSharp24px = [
       }
     ]
   ]
-]
+];

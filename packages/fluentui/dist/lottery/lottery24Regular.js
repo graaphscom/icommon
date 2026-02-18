@@ -16,4 +16,4 @@ export var lottery24Regular = [
       }
     ]
   ]
-]
+];

@@ -74,4 +74,4 @@ export var joinRightOutlined24px = [
       ]
     ]
   ]
-]
+];

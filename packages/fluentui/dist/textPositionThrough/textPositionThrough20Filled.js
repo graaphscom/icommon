@@ -16,4 +16,4 @@ export var textPositionThrough20Filled = [
       }
     ]
   ]
-]
+];

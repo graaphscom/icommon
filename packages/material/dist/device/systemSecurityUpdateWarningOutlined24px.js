@@ -58,4 +58,4 @@ export var systemSecurityUpdateWarningOutlined24px = [
       ]
     ]
   ]
-]
+];

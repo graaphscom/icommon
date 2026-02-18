@@ -16,4 +16,4 @@ export var bookContacts32Filled = [
       }
     ]
   ]
-]
+];

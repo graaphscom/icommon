@@ -21,4 +21,4 @@ export var monetizationOn24px = [
       }
     ]
   ]
-]
+];

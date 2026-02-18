@@ -21,4 +21,4 @@ export var approval24px = [
       }
     ]
   ]
-]
+];

@@ -198,4 +198,4 @@ export var trophy20Color = [
       ]
     ]
   ]
-]
+];

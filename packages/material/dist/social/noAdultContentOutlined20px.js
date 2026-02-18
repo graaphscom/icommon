@@ -60,4 +60,4 @@ export var noAdultContentOutlined20px = [
       ]
     ]
   ]
-]
+];

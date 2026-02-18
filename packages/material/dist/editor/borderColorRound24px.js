@@ -36,4 +36,4 @@ export var borderColorRound24px = [
       ]
     ]
   ]
-]
+];

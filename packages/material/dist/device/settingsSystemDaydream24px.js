@@ -21,4 +21,4 @@ export var settingsSystemDaydream24px = [
       }
     ]
   ]
-]
+];

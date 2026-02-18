@@ -41,4 +41,4 @@ export var viewKanbanRound20px = [
       ]
     ]
   ]
-]
+];

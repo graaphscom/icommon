@@ -23,4 +23,4 @@ export var editNotifications20px = [
       }
     ]
   ]
-]
+];

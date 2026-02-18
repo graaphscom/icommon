@@ -75,4 +75,4 @@ export var gavel24px = [
       ]
     ]
   ]
-]
+];

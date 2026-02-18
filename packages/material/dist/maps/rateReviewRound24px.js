@@ -21,4 +21,4 @@ export var rateReviewRound24px = [
       }
     ]
   ]
-]
+];

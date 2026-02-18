@@ -23,4 +23,4 @@ export var frontHandSharp20px = [
       }
     ]
   ]
-]
+];

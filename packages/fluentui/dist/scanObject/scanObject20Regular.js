@@ -16,4 +16,4 @@ export var scanObject20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailWarning28Filled = [
       }
     ]
   ]
-]
+];

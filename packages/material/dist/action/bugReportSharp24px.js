@@ -21,4 +21,4 @@ export var bugReportSharp24px = [
       }
     ]
   ]
-]
+];

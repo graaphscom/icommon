@@ -35,4 +35,4 @@ export var viewKanbanSharp24px = [
       ]
     ]
   ]
-]
+];

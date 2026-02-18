@@ -16,4 +16,4 @@ export var layoutRowTwoFocusTop32Light = [
       }
     ]
   ]
-]
+];

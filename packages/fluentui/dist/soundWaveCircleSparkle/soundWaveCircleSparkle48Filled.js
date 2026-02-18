@@ -16,4 +16,4 @@ export var soundWaveCircleSparkle48Filled = [
       }
     ]
   ]
-]
+];

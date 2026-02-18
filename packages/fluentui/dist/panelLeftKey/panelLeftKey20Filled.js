@@ -16,4 +16,4 @@ export var panelLeftKey20Filled = [
       }
     ]
   ]
-]
+];

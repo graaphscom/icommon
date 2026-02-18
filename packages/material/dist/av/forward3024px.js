@@ -53,4 +53,4 @@ export var forward3024px = [
       ]
     ]
   ]
-]
+];

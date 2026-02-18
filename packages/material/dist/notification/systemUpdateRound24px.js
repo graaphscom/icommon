@@ -21,4 +21,4 @@ export var systemUpdateRound24px = [
       }
     ]
   ]
-]
+];

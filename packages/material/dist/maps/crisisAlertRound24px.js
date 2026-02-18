@@ -43,4 +43,4 @@ export var crisisAlertRound24px = [
       ]
     ]
   ]
-]
+];

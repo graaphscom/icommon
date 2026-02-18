@@ -43,4 +43,4 @@ export var curtainsClosedRound24px = [
       ]
     ]
   ]
-]
+];

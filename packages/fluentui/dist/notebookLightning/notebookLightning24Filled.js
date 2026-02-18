@@ -16,4 +16,4 @@ export var notebookLightning24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var bookOpen48Regular = [
       }
     ]
   ]
-]
+];

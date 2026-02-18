@@ -16,4 +16,4 @@ export var animalCat24Regular = [
       }
     ]
   ]
-]
+];

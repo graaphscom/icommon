@@ -16,4 +16,4 @@ export var pulse20Filled = [
       }
     ]
   ]
-]
+];

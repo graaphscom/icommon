@@ -16,4 +16,4 @@ export var dismissSquareMultiple20Filled = [
       }
     ]
   ]
-]
+];

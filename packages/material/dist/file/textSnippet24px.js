@@ -29,4 +29,4 @@ export var textSnippet24px = [
       ]
     ]
   ]
-]
+];

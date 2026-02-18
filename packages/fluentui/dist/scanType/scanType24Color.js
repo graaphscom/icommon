@@ -98,4 +98,4 @@ export var scanType24Color = [
       ]
     ]
   ]
-]
+];

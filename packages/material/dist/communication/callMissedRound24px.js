@@ -21,4 +21,4 @@ export var callMissedRound24px = [
       }
     ]
   ]
-]
+];

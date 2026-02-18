@@ -70,4 +70,4 @@ export var manageAccountsTwotone24px = [
       ]
     ]
   ]
-]
+];

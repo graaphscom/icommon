@@ -60,4 +60,4 @@ export var markAsUnreadTwotone24px = [
       ]
     ]
   ]
-]
+];

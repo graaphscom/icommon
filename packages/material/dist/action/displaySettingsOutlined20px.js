@@ -72,4 +72,4 @@ export var displaySettingsOutlined20px = [
       ]
     ]
   ]
-]
+];

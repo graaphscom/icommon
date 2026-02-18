@@ -16,4 +16,4 @@ export var hardDrive24Filled = [
       }
     ]
   ]
-]
+];

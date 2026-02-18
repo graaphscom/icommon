@@ -21,4 +21,4 @@ export var settingsInputSvideoOutlined24px = [
       }
     ]
   ]
-]
+];

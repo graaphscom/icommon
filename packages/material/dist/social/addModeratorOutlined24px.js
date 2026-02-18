@@ -47,4 +47,4 @@ export var addModeratorOutlined24px = [
       ]
     ]
   ]
-]
+];

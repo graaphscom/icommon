@@ -61,4 +61,4 @@ export var installDesktopTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var chatMultiplePerson16Filled = [
       }
     ]
   ]
-]
+];

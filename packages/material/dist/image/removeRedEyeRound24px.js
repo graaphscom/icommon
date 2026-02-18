@@ -21,4 +21,4 @@ export var removeRedEyeRound24px = [
       }
     ]
   ]
-]
+];

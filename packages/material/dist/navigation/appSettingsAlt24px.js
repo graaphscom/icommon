@@ -21,4 +21,4 @@ export var appSettingsAlt24px = [
       }
     ]
   ]
-]
+];

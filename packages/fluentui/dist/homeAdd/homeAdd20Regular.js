@@ -16,4 +16,4 @@ export var homeAdd20Regular = [
       }
     ]
   ]
-]
+];

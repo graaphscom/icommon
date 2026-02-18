@@ -47,4 +47,4 @@ export var outgoingMail24px = [
       ]
     ]
   ]
-]
+];

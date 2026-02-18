@@ -21,4 +21,4 @@ export var cached24px = [
       }
     ]
   ]
-]
+];

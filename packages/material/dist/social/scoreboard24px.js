@@ -35,4 +35,4 @@ export var scoreboard24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var allInboxRound24px = [
       }
     ]
   ]
-]
+];

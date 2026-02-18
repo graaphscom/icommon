@@ -23,4 +23,4 @@ export var compostSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var weatherSunny48Regular = [
       }
     ]
   ]
-]
+];

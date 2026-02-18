@@ -16,4 +16,4 @@ export var tableResizeColumn28Filled = [
       }
     ]
   ]
-]
+];

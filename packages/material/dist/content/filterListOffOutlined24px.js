@@ -35,4 +35,4 @@ export var filterListOffOutlined24px = [
       ]
     ]
   ]
-]
+];

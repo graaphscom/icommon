@@ -16,4 +16,4 @@ export var arrowSplit24Regular = [
       }
     ]
   ]
-]
+];

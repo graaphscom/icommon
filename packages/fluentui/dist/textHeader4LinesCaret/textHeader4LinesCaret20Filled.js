@@ -16,4 +16,4 @@ export var textHeader4LinesCaret20Filled = [
       }
     ]
   ]
-]
+];

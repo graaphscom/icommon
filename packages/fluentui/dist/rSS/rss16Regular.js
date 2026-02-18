@@ -16,4 +16,4 @@ export var rss16Regular = [
       }
     ]
   ]
-]
+];

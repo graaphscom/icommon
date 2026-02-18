@@ -21,4 +21,4 @@ export var tuneSharp24px = [
       }
     ]
   ]
-]
+];

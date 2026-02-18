@@ -35,4 +35,4 @@ export var scubaDivingSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -66,4 +66,4 @@ export var broadcastOnHomeOutlined20px = [
       ]
     ]
   ]
-]
+];

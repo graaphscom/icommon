@@ -16,4 +16,4 @@ export var colorBackground24Regular = [
       }
     ]
   ]
-]
+];

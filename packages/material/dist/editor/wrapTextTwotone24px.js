@@ -21,4 +21,4 @@ export var wrapTextTwotone24px = [
       }
     ]
   ]
-]
+];

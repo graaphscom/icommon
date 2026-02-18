@@ -35,4 +35,4 @@ export var badge20px = [
       ]
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var gridGoldenratioRound24px = [
       ]
     ]
   ]
-]
+];

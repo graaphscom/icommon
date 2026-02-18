@@ -23,4 +23,4 @@ export var masksRound24px = [
       }
     ]
   ]
-]
+];

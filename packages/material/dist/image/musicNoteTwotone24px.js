@@ -30,4 +30,4 @@ export var musicNoteTwotone24px = [
       }
     ]
   ]
-]
+];

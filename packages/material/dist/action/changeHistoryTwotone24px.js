@@ -28,4 +28,4 @@ export var changeHistoryTwotone24px = [
       }
     ]
   ]
-]
+];

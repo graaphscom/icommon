@@ -16,4 +16,4 @@ export var circleMultipleConcentric16Regular = [
       }
     ]
   ]
-]
+];

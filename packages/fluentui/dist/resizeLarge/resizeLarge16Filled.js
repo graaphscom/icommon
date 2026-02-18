@@ -16,4 +16,4 @@ export var resizeLarge16Filled = [
       }
     ]
   ]
-]
+];

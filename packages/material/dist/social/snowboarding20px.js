@@ -29,4 +29,4 @@ export var snowboarding20px = [
       ]
     ]
   ]
-]
+];

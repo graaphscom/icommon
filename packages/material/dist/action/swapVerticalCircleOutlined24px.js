@@ -21,4 +21,4 @@ export var swapVerticalCircleOutlined24px = [
       }
     ]
   ]
-]
+];

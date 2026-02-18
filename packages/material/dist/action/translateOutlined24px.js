@@ -21,4 +21,4 @@ export var translateOutlined24px = [
       }
     ]
   ]
-]
+];

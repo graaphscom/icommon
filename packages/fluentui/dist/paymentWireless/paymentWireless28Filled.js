@@ -16,4 +16,4 @@ export var paymentWireless28Filled = [
       }
     ]
   ]
-]
+];

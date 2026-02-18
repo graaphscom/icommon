@@ -16,4 +16,4 @@ export var shieldPerson20Regular = [
       }
     ]
   ]
-]
+];

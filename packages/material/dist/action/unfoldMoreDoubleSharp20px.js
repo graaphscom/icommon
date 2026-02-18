@@ -59,4 +59,4 @@ export var unfoldMoreDoubleSharp20px = [
       ]
     ]
   ]
-]
+];

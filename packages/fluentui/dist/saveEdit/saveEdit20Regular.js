@@ -16,4 +16,4 @@ export var saveEdit20Regular = [
       }
     ]
   ]
-]
+];

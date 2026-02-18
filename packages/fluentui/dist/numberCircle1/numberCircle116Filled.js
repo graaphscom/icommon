@@ -16,4 +16,4 @@ export var numberCircle116Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var tabUnselectedSharp24px = [
       }
     ]
   ]
-]
+];

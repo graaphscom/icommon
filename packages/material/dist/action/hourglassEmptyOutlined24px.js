@@ -21,4 +21,4 @@ export var hourglassEmptyOutlined24px = [
       }
     ]
   ]
-]
+];

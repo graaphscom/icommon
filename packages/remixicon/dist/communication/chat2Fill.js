@@ -13,4 +13,4 @@ export var chat2Fill = [
       }
     ]
   ]
-]
+];

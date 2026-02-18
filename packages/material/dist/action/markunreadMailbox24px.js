@@ -21,4 +21,4 @@ export var markunreadMailbox24px = [
       }
     ]
   ]
-]
+];

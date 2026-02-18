@@ -75,4 +75,4 @@ export var postAddOutlined24px = [
       ]
     ]
   ]
-]
+];

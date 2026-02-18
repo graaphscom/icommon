@@ -16,4 +16,4 @@ export var fps96020Filled = [
       }
     ]
   ]
-]
+];

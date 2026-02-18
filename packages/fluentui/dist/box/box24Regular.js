@@ -16,4 +16,4 @@ export var box24Regular = [
       }
     ]
   ]
-]
+];

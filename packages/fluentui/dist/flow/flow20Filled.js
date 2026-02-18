@@ -16,4 +16,4 @@ export var flow20Filled = [
       }
     ]
   ]
-]
+];

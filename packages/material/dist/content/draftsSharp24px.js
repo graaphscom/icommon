@@ -21,4 +21,4 @@ export var draftsSharp24px = [
       }
     ]
   ]
-]
+];

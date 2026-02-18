@@ -21,4 +21,4 @@ export var mobileOffOutlined24px = [
       }
     ]
   ]
-]
+];

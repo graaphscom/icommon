@@ -35,4 +35,4 @@ export var settingsAccessibilityTwotone24px = [
       ]
     ]
   ]
-]
+];

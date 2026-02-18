@@ -35,4 +35,4 @@ export var segmentTwotone24px = [
       ]
     ]
   ]
-]
+];

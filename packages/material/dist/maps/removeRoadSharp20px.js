@@ -86,4 +86,4 @@ export var removeRoadSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var grid3x3Round24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var domainAdd20px = [
       ]
     ]
   ]
-]
+];

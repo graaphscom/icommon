@@ -23,4 +23,4 @@ export var catchingPokemonRound24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var settingsEthernetRound24px = [
       ]
     ]
   ]
-]
+];

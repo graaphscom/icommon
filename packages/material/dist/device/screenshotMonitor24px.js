@@ -53,4 +53,4 @@ export var screenshotMonitor24px = [
       ]
     ]
   ]
-]
+];

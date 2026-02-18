@@ -186,4 +186,4 @@ export var personTentative16Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tableAdd20Filled = [
       }
     ]
   ]
-]
+];

@@ -199,4 +199,4 @@ export var blobbeeFoxEars = [
       }
     ]
   ]
-]
+];

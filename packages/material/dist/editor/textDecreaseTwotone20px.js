@@ -23,4 +23,4 @@ export var textDecreaseTwotone20px = [
       }
     ]
   ]
-]
+];

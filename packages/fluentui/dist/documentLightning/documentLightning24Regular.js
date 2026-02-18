@@ -16,4 +16,4 @@ export var documentLightning24Regular = [
       }
     ]
   ]
-]
+];

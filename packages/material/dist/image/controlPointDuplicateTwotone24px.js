@@ -28,4 +28,4 @@ export var controlPointDuplicateTwotone24px = [
       }
     ]
   ]
-]
+];

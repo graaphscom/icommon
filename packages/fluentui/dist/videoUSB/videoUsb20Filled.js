@@ -16,4 +16,4 @@ export var videoUsb20Filled = [
       }
     ]
   ]
-]
+];

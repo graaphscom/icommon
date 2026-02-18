@@ -35,4 +35,4 @@ export var playlistAddSharp24px = [
       ]
     ]
   ]
-]
+];

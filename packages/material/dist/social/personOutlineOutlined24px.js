@@ -21,4 +21,4 @@ export var personOutlineOutlined24px = [
       }
     ]
   ]
-]
+];

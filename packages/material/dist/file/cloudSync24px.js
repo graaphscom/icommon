@@ -41,4 +41,4 @@ export var cloudSync24px = [
       ]
     ]
   ]
-]
+];

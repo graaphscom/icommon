@@ -35,4 +35,4 @@ export var filterListOff20px = [
       ]
     ]
   ]
-]
+];

@@ -74,4 +74,4 @@ export var editOffRound24px = [
       ]
     ]
   ]
-]
+];

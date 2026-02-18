@@ -21,4 +21,4 @@ export var getAppSharp24px = [
       }
     ]
   ]
-]
+];

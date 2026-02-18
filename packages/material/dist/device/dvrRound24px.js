@@ -21,4 +21,4 @@ export var dvrRound24px = [
       }
     ]
   ]
-]
+];

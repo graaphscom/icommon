@@ -35,4 +35,4 @@ export var cleaningServices24px = [
       ]
     ]
   ]
-]
+];

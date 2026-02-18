@@ -21,4 +21,4 @@ export var zoomInTwotone24px = [
       }
     ]
   ]
-]
+];

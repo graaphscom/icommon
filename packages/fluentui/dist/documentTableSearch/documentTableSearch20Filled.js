@@ -16,4 +16,4 @@ export var documentTableSearch20Filled = [
       }
     ]
   ]
-]
+];

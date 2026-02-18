@@ -16,4 +16,4 @@ export var peopleCheckmark32Filled = [
       }
     ]
   ]
-]
+];

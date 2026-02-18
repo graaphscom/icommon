@@ -16,4 +16,4 @@ export var calendarLink28Filled = [
       }
     ]
   ]
-]
+];

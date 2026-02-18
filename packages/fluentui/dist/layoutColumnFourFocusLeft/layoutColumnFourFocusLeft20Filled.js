@@ -16,4 +16,4 @@ export var layoutColumnFourFocusLeft20Filled = [
       }
     ]
   ]
-]
+];

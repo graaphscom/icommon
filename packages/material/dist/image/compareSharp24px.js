@@ -21,4 +21,4 @@ export var compareSharp24px = [
       }
     ]
   ]
-]
+];

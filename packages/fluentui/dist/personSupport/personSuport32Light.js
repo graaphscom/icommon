@@ -16,4 +16,4 @@ export var personSuport32Light = [
       }
     ]
   ]
-]
+];

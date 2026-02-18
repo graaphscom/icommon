@@ -35,4 +35,4 @@ export var electricBoltRound20px = [
       ]
     ]
   ]
-]
+];

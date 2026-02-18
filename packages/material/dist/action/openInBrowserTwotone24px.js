@@ -21,4 +21,4 @@ export var openInBrowserTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var imageSparkle20Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var fastForward24px = [
       }
     ]
   ]
-]
+];

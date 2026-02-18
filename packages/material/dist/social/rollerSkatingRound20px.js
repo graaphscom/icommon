@@ -35,4 +35,4 @@ export var rollerSkatingRound20px = [
       ]
     ]
   ]
-]
+];

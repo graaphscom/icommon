@@ -13,4 +13,4 @@ export var cloudy2Line = [
       }
     ]
   ]
-]
+];

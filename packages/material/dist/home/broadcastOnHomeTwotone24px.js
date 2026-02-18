@@ -75,4 +75,4 @@ export var broadcastOnHomeTwotone24px = [
       ]
     ]
   ]
-]
+];

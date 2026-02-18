@@ -47,4 +47,4 @@ export var natSharp24px = [
       ]
     ]
   ]
-]
+];

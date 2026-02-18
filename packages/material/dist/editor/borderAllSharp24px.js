@@ -14,4 +14,4 @@ export var borderAllSharp24px = [
       }
     ]
   ]
-]
+];

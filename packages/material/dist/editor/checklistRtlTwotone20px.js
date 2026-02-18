@@ -23,4 +23,4 @@ export var checklistRtlTwotone20px = [
       }
     ]
   ]
-]
+];

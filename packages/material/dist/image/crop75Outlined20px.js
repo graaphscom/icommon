@@ -35,4 +35,4 @@ export var crop75Outlined20px = [
       ]
     ]
   ]
-]
+];

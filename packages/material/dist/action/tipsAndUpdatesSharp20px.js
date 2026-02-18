@@ -23,4 +23,4 @@ export var tipsAndUpdatesSharp20px = [
       }
     ]
   ]
-]
+];

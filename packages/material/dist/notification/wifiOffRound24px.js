@@ -21,4 +21,4 @@ export var wifiOffRound24px = [
       }
     ]
   ]
-]
+];

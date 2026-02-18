@@ -16,4 +16,4 @@ export var textNumberFormat24Regular = [
       }
     ]
   ]
-]
+];

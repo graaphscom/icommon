@@ -21,4 +21,4 @@ export var portraitSharp24px = [
       }
     ]
   ]
-]
+];

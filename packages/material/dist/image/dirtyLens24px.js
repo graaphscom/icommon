@@ -21,4 +21,4 @@ export var dirtyLens24px = [
       }
     ]
   ]
-]
+];

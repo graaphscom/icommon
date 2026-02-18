@@ -16,4 +16,4 @@ export var games20Regular = [
       }
     ]
   ]
-]
+];

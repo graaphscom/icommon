@@ -42,4 +42,4 @@ export var icecreamOutlined20px = [
       ]
     ]
   ]
-]
+];

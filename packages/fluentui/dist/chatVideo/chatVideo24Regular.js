@@ -16,4 +16,4 @@ export var chatVideo24Regular = [
       }
     ]
   ]
-]
+];

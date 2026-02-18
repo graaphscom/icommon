@@ -23,4 +23,4 @@ export var key32Regular = [
       }
     ]
   ]
-]
+];

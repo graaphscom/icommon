@@ -28,4 +28,4 @@ export var noFlashSharp24px = [
       ]
     ]
   ]
-]
+];

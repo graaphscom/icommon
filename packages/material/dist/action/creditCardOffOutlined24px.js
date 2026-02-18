@@ -24,4 +24,4 @@ export var creditCardOffOutlined24px = [
       }
     ]
   ]
-]
+];

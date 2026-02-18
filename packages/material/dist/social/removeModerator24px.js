@@ -21,4 +21,4 @@ export var removeModerator24px = [
       }
     ]
   ]
-]
+];

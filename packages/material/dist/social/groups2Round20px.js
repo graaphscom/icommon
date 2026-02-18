@@ -71,4 +71,4 @@ export var groups2Round20px = [
       ]
     ]
   ]
-]
+];

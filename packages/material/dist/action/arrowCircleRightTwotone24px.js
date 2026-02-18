@@ -48,4 +48,4 @@ export var arrowCircleRightTwotone24px = [
       ]
     ]
   ]
-]
+];

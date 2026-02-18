@@ -16,4 +16,4 @@ export var tableFreezeRow20Filled = [
       }
     ]
   ]
-]
+];

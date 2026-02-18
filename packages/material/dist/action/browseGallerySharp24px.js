@@ -47,4 +47,4 @@ export var browseGallerySharp24px = [
       ]
     ]
   ]
-]
+];

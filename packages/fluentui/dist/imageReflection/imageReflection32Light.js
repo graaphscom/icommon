@@ -16,4 +16,4 @@ export var imageReflection32Light = [
       }
     ]
   ]
-]
+];

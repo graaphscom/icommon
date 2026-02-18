@@ -16,4 +16,4 @@ export var clipboardText32Filled = [
       }
     ]
   ]
-]
+];

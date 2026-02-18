@@ -35,4 +35,4 @@ export var dataThresholding24px = [
       ]
     ]
   ]
-]
+];

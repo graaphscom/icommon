@@ -53,4 +53,4 @@ export var screenshotMonitorRound20px = [
       ]
     ]
   ]
-]
+];

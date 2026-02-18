@@ -47,4 +47,4 @@ export var bedTwotone24px = [
       ]
     ]
   ]
-]
+];

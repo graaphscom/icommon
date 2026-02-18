@@ -16,4 +16,4 @@ export var searchInfo20Regular = [
       }
     ]
   ]
-]
+];

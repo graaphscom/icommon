@@ -34,4 +34,4 @@ export var signalWifiStatusbar4BarRound24px = [
       ]
     ]
   ]
-]
+];

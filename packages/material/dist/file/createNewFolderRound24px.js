@@ -21,4 +21,4 @@ export var createNewFolderRound24px = [
       }
     ]
   ]
-]
+];

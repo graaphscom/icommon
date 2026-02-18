@@ -21,4 +21,4 @@ export var exposureNeg2Outlined24px = [
       }
     ]
   ]
-]
+];

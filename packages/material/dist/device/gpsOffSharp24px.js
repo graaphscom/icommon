@@ -21,4 +21,4 @@ export var gpsOffSharp24px = [
       }
     ]
   ]
-]
+];

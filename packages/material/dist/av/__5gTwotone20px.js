@@ -53,4 +53,4 @@ export var __5gTwotone20px = [
       ]
     ]
   ]
-]
+];

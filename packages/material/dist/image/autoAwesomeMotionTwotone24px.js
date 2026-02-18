@@ -64,4 +64,4 @@ export var autoAwesomeMotionTwotone24px = [
       ]
     ]
   ]
-]
+];

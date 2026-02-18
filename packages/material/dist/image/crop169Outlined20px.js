@@ -35,4 +35,4 @@ export var crop169Outlined20px = [
       ]
     ]
   ]
-]
+];

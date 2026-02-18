@@ -21,4 +21,4 @@ export var callMissedOutgoingOutlined24px = [
       }
     ]
   ]
-]
+];

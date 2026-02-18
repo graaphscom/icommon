@@ -86,4 +86,4 @@ export var voiceChat24px = [
       ]
     ]
   ]
-]
+];

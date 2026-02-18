@@ -42,4 +42,4 @@ export var signpostTwotone24px = [
       ]
     ]
   ]
-]
+];

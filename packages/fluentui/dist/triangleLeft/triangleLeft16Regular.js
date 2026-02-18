@@ -16,4 +16,4 @@ export var triangleLeft16Regular = [
       }
     ]
   ]
-]
+];

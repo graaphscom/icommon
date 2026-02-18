@@ -16,4 +16,4 @@ export var calendarArrowRepeatAll32Regular = [
       }
     ]
   ]
-]
+];

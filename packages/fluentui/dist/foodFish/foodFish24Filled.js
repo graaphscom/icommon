@@ -16,4 +16,4 @@ export var foodFish24Filled = [
       }
     ]
   ]
-]
+];

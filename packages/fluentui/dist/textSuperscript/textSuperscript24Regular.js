@@ -16,4 +16,4 @@ export var textSuperscript24Regular = [
       }
     ]
   ]
-]
+];

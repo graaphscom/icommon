@@ -23,4 +23,4 @@ export var modeOfTravelTwotone20px = [
       }
     ]
   ]
-]
+];

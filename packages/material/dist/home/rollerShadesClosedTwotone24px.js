@@ -58,4 +58,4 @@ export var rollerShadesClosedTwotone24px = [
       ]
     ]
   ]
-]
+];

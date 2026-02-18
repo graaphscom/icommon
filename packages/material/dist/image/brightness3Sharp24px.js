@@ -21,4 +21,4 @@ export var brightness3Sharp24px = [
       }
     ]
   ]
-]
+];

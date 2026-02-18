@@ -23,4 +23,4 @@ export var autoGraphOutlined20px = [
       }
     ]
   ]
-]
+];

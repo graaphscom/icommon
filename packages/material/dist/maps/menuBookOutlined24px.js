@@ -69,4 +69,4 @@ export var menuBookOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -31,4 +31,4 @@ export var tokenTwotone20px = [
       }
     ]
   ]
-]
+];

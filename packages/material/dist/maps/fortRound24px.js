@@ -49,4 +49,4 @@ export var fortRound24px = [
       ]
     ]
   ]
-]
+];

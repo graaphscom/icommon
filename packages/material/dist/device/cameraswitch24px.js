@@ -52,4 +52,4 @@ export var cameraswitch24px = [
       ]
     ]
   ]
-]
+];

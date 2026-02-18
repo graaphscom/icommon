@@ -21,4 +21,4 @@ export var replay5Sharp24px = [
       }
     ]
   ]
-]
+];

@@ -408,4 +408,4 @@ export var calendarPeople20Color = [
       ]
     ]
   ]
-]
+];

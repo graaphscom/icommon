@@ -41,4 +41,4 @@ export var eggAlt20px = [
       ]
     ]
   ]
-]
+];

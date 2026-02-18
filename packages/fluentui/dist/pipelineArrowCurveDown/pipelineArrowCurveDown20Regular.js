@@ -16,4 +16,4 @@ export var pipelineArrowCurveDown20Regular = [
       }
     ]
   ]
-]
+];

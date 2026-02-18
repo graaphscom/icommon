@@ -16,4 +16,4 @@ export var shieldLock20Regular = [
       }
     ]
   ]
-]
+];

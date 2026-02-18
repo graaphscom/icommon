@@ -16,4 +16,4 @@ export var gesture24Filled = [
       }
     ]
   ]
-]
+];

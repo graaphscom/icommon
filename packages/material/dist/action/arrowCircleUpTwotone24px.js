@@ -36,4 +36,4 @@ export var arrowCircleUpTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var adsClickSharp20px = [
       }
     ]
   ]
-]
+];

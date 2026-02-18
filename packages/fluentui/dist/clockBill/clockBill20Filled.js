@@ -16,4 +16,4 @@ export var clockBill20Filled = [
       }
     ]
   ]
-]
+];

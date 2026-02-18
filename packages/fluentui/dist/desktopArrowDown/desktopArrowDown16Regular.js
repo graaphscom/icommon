@@ -16,4 +16,4 @@ export var desktopArrowDown16Regular = [
       }
     ]
   ]
-]
+];

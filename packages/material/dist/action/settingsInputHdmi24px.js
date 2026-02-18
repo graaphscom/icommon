@@ -21,4 +21,4 @@ export var settingsInputHdmi24px = [
       }
     ]
   ]
-]
+];

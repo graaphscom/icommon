@@ -53,4 +53,4 @@ export var moreTime20px = [
       ]
     ]
   ]
-]
+];

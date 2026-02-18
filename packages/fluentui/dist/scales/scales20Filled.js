@@ -16,4 +16,4 @@ export var scales20Filled = [
       }
     ]
   ]
-]
+];

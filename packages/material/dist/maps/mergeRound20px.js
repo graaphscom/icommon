@@ -35,4 +35,4 @@ export var mergeRound20px = [
       ]
     ]
   ]
-]
+];

@@ -43,4 +43,4 @@ export var widthNormalRound24px = [
       ]
     ]
   ]
-]
+];

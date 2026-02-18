@@ -82,4 +82,4 @@ export var paw32Color = [
       ]
     ]
   ]
-]
+];

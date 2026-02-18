@@ -21,4 +21,4 @@ export var check24px = [
       }
     ]
   ]
-]
+];

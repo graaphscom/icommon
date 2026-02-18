@@ -21,4 +21,4 @@ export var railwayAlert24px = [
       }
     ]
   ]
-]
+];

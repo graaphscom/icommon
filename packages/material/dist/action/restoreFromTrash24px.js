@@ -21,4 +21,4 @@ export var restoreFromTrash24px = [
       }
     ]
   ]
-]
+];

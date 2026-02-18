@@ -23,4 +23,4 @@ export var appsOutageTwotone20px = [
       }
     ]
   ]
-]
+];

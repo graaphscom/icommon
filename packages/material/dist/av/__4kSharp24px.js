@@ -21,4 +21,4 @@ export var __4kSharp24px = [
       }
     ]
   ]
-]
+];

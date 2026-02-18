@@ -16,4 +16,4 @@ export var routerOff24Filled = [
       }
     ]
   ]
-]
+];

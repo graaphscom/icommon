@@ -30,4 +30,4 @@ export var ttyOutlined24px = [
       ]
     ]
   ]
-]
+];

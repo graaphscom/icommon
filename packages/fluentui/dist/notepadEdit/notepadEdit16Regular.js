@@ -16,4 +16,4 @@ export var notepadEdit16Regular = [
       }
     ]
   ]
-]
+];

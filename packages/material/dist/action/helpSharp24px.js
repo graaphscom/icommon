@@ -21,4 +21,4 @@ export var helpSharp24px = [
       }
     ]
   ]
-]
+];

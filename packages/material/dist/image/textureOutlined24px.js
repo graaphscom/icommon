@@ -21,4 +21,4 @@ export var textureOutlined24px = [
       }
     ]
   ]
-]
+];

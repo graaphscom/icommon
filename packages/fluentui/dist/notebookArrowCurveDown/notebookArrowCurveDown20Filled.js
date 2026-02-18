@@ -16,4 +16,4 @@ export var notebookArrowCurveDown20Filled = [
       }
     ]
   ]
-]
+];

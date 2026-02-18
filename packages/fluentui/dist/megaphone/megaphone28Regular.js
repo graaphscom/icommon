@@ -16,4 +16,4 @@ export var megaphone28Regular = [
       }
     ]
   ]
-]
+];

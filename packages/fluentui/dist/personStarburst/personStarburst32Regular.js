@@ -16,4 +16,4 @@ export var personStarburst32Regular = [
       }
     ]
   ]
-]
+];

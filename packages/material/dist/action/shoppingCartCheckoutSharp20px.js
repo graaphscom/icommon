@@ -35,4 +35,4 @@ export var shoppingCartCheckoutSharp20px = [
       ]
     ]
   ]
-]
+];

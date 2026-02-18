@@ -16,4 +16,4 @@ export var copyArrowRight24Regular = [
       }
     ]
   ]
-]
+];

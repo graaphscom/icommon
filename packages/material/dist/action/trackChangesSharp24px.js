@@ -21,4 +21,4 @@ export var trackChangesSharp24px = [
       }
     ]
   ]
-]
+];

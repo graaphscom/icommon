@@ -29,4 +29,4 @@ export var villaSharp20px = [
       ]
     ]
   ]
-]
+];

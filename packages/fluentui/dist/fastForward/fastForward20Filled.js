@@ -16,4 +16,4 @@ export var fastForward20Filled = [
       }
     ]
   ]
-]
+];

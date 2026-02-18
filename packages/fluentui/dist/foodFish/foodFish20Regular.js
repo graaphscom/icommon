@@ -16,4 +16,4 @@ export var foodFish20Regular = [
       }
     ]
   ]
-]
+];

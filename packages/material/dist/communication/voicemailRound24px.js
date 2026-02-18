@@ -21,4 +21,4 @@ export var voicemailRound24px = [
       }
     ]
   ]
-]
+];

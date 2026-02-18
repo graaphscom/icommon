@@ -36,4 +36,4 @@ export var hourglassTopOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var hourglassDisabledRound20px = [
       ]
     ]
   ]
-]
+];

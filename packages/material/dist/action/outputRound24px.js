@@ -55,4 +55,4 @@ export var outputRound24px = [
       ]
     ]
   ]
-]
+];

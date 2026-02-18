@@ -380,4 +380,4 @@ export var neobreadMeeting = [
       ]
     ]
   ]
-]
+];

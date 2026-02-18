@@ -16,4 +16,4 @@ export var textIndentDecreaseRtl9020Filled = [
       }
     ]
   ]
-]
+];

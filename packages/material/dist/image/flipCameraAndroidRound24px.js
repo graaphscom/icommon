@@ -61,4 +61,4 @@ export var flipCameraAndroidRound24px = [
       ]
     ]
   ]
-]
+];

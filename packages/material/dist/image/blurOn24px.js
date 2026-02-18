@@ -21,4 +21,4 @@ export var blurOn24px = [
       }
     ]
   ]
-]
+];

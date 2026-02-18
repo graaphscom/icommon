@@ -16,4 +16,4 @@ export var calendarAgenda24Filled = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var insertCommentTwotone24px = [
       }
     ]
   ]
-]
+];

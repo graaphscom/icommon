@@ -40,4 +40,4 @@ export var waterfallChartRound24px = [
       ]
     ]
   ]
-]
+];

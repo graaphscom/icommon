@@ -23,4 +23,4 @@ export var editCalendarOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var phonelinkSetupSharp24px = [
       }
     ]
   ]
-]
+];

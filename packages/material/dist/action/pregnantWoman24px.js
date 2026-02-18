@@ -48,4 +48,4 @@ export var pregnantWoman24px = [
       ]
     ]
   ]
-]
+];

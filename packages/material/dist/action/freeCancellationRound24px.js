@@ -23,4 +23,4 @@ export var freeCancellationRound24px = [
       }
     ]
   ]
-]
+];

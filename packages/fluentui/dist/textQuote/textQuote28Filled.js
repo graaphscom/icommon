@@ -16,4 +16,4 @@ export var textQuote28Filled = [
       }
     ]
   ]
-]
+];

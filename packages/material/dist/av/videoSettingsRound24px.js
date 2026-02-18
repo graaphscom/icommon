@@ -61,4 +61,4 @@ export var videoSettingsRound24px = [
       ]
     ]
   ]
-]
+];

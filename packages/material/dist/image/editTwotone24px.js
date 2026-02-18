@@ -28,4 +28,4 @@ export var editTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var settingsChat24Filled = [
       }
     ]
   ]
-]
+];

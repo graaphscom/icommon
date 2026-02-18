@@ -59,4 +59,4 @@ export var assignmentAdd24px = [
       ]
     ]
   ]
-]
+];

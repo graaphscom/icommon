@@ -23,4 +23,4 @@ export var nordicWalkingOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var southWestOutlined24px = [
       }
     ]
   ]
-]
+];

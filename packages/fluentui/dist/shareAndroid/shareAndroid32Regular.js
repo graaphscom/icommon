@@ -16,4 +16,4 @@ export var shareAndroid32Regular = [
       }
     ]
   ]
-]
+];

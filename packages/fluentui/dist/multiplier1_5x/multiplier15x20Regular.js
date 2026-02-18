@@ -16,4 +16,4 @@ export var multiplier15x20Regular = [
       }
     ]
   ]
-]
+];

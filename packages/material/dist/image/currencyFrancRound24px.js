@@ -35,4 +35,4 @@ export var currencyFrancRound24px = [
       ]
     ]
   ]
-]
+];

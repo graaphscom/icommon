@@ -36,4 +36,4 @@ export var widthWideOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -221,4 +221,4 @@ export var documentAdd48Color = [
       ]
     ]
   ]
-]
+];

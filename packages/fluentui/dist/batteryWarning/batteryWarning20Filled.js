@@ -16,4 +16,4 @@ export var batteryWarning20Filled = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var dataObjectSharp24px = [
       ]
     ]
   ]
-]
+];

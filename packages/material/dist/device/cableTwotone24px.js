@@ -40,4 +40,4 @@ export var cableTwotone24px = [
       ]
     ]
   ]
-]
+];

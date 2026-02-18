@@ -28,4 +28,4 @@ export var dashboardTwotone24px = [
       }
     ]
   ]
-]
+];

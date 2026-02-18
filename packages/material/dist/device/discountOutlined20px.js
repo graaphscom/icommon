@@ -56,4 +56,4 @@ export var discountOutlined20px = [
       ]
     ]
   ]
-]
+];

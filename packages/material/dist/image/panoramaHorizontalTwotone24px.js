@@ -28,4 +28,4 @@ export var panoramaHorizontalTwotone24px = [
       }
     ]
   ]
-]
+];

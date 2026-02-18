@@ -30,4 +30,4 @@ export var commentsDisabledTwotone24px = [
       }
     ]
   ]
-]
+];

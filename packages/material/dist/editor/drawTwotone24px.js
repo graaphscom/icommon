@@ -30,4 +30,4 @@ export var drawTwotone24px = [
       }
     ]
   ]
-]
+];

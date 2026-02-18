@@ -47,4 +47,4 @@ export var repartitionRound20px = [
       ]
     ]
   ]
-]
+];

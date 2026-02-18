@@ -47,4 +47,4 @@ export var editOffTwotone24px = [
       ]
     ]
   ]
-]
+];

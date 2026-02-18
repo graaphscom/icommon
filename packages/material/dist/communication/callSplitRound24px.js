@@ -21,4 +21,4 @@ export var callSplitRound24px = [
       }
     ]
   ]
-]
+];

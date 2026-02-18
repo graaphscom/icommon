@@ -70,4 +70,4 @@ export var lunchDiningTwotone20px = [
       ]
     ]
   ]
-]
+];

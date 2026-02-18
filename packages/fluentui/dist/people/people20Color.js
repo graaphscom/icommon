@@ -221,4 +221,4 @@ export var people20Color = [
       ]
     ]
   ]
-]
+];

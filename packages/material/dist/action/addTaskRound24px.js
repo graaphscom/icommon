@@ -23,4 +23,4 @@ export var addTaskRound24px = [
       }
     ]
   ]
-]
+];

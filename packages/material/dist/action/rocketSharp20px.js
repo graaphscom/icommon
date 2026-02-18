@@ -35,4 +35,4 @@ export var rocketSharp20px = [
       ]
     ]
   ]
-]
+];

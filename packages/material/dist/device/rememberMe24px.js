@@ -48,4 +48,4 @@ export var rememberMe24px = [
       ]
     ]
   ]
-]
+];

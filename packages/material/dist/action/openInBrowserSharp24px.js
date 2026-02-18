@@ -21,4 +21,4 @@ export var openInBrowserSharp24px = [
       }
     ]
   ]
-]
+];

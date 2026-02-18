@@ -47,4 +47,4 @@ export var logoDevRound20px = [
       ]
     ]
   ]
-]
+];

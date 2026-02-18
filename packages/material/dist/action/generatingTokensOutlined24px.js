@@ -23,4 +23,4 @@ export var generatingTokensOutlined24px = [
       }
     ]
   ]
-]
+];

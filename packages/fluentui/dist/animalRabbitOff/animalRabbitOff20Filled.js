@@ -16,4 +16,4 @@ export var animalRabbitOff20Filled = [
       }
     ]
   ]
-]
+];

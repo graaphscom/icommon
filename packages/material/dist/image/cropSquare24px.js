@@ -21,4 +21,4 @@ export var cropSquare24px = [
       }
     ]
   ]
-]
+];

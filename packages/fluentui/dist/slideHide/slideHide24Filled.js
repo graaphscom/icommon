@@ -16,4 +16,4 @@ export var slideHide24Filled = [
       }
     ]
   ]
-]
+];

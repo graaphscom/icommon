@@ -16,4 +16,4 @@ export var tagDismiss16Regular = [
       }
     ]
   ]
-]
+];

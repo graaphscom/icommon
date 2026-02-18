@@ -21,4 +21,4 @@ export var gpsNotFixedOutlined24px = [
       }
     ]
   ]
-]
+];

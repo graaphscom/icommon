@@ -21,4 +21,4 @@ export var compareArrowsSharp24px = [
       }
     ]
   ]
-]
+];

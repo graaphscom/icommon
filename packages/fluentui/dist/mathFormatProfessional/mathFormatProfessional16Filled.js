@@ -16,4 +16,4 @@ export var mathFormatProfessional16Filled = [
       }
     ]
   ]
-]
+];

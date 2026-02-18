@@ -23,4 +23,4 @@ export var qrCodeScannerTwotone24px = [
       }
     ]
   ]
-]
+];

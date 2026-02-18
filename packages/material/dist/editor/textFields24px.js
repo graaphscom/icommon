@@ -47,4 +47,4 @@ export var textFields24px = [
       ]
     ]
   ]
-]
+];

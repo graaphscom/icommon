@@ -16,4 +16,4 @@ export var ticketDiagonal20Regular = [
       }
     ]
   ]
-]
+];

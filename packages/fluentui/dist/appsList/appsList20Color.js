@@ -84,4 +84,4 @@ export var appsList20Color = [
       ]
     ]
   ]
-]
+];

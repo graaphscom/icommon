@@ -16,4 +16,4 @@ export var autocorrect24Regular = [
       }
     ]
   ]
-]
+];

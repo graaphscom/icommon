@@ -21,4 +21,4 @@ export var panoramaPhotosphereSelect24px = [
       }
     ]
   ]
-]
+];

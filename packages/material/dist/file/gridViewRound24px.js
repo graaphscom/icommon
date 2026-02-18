@@ -59,4 +59,4 @@ export var gridViewRound24px = [
       ]
     ]
   ]
-]
+];

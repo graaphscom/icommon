@@ -16,4 +16,4 @@ export var desktopEdit16Regular = [
       }
     ]
   ]
-]
+];

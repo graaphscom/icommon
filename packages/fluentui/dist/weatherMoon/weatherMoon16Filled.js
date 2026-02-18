@@ -16,4 +16,4 @@ export var weatherMoon16Filled = [
       }
     ]
   ]
-]
+];

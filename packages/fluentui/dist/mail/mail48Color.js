@@ -203,4 +203,4 @@ export var mail48Color = [
       ]
     ]
   ]
-]
+];

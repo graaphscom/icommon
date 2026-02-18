@@ -76,4 +76,4 @@ export var flagPride48Filled = [
       }
     ]
   ]
-]
+];

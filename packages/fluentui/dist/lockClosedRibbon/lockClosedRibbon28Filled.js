@@ -16,4 +16,4 @@ export var lockClosedRibbon28Filled = [
       }
     ]
   ]
-]
+];

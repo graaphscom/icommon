@@ -16,4 +16,4 @@ export var fontSpaceTrackingIn28Filled = [
       }
     ]
   ]
-]
+];

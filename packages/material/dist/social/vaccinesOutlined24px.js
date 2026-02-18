@@ -23,4 +23,4 @@ export var vaccinesOutlined24px = [
       }
     ]
   ]
-]
+];

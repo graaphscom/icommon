@@ -16,4 +16,4 @@ export var desktopMac20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var chromeReaderModeOutlined24px = [
       }
     ]
   ]
-]
+];

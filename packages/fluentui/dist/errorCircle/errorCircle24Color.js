@@ -81,4 +81,4 @@ export var errorCircle24Color = [
       ]
     ]
   ]
-]
+];

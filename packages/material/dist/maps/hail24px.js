@@ -21,4 +21,4 @@ export var hail24px = [
       }
     ]
   ]
-]
+];

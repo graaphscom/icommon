@@ -16,4 +16,4 @@ export var foodEgg16Filled = [
       }
     ]
   ]
-]
+];

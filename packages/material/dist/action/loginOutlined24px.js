@@ -35,4 +35,4 @@ export var loginOutlined24px = [
       ]
     ]
   ]
-]
+];

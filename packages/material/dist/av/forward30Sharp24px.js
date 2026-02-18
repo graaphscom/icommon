@@ -21,4 +21,4 @@ export var forward30Sharp24px = [
       }
     ]
   ]
-]
+];

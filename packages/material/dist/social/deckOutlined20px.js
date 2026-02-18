@@ -54,4 +54,4 @@ export var deckOutlined20px = [
       ]
     ]
   ]
-]
+];

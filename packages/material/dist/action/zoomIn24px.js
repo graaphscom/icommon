@@ -27,4 +27,4 @@ export var zoomIn24px = [
       }
     ]
   ]
-]
+];

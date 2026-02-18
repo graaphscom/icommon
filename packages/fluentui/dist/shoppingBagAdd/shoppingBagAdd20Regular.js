@@ -16,4 +16,4 @@ export var shoppingBagAdd20Regular = [
       }
     ]
   ]
-]
+];

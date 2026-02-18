@@ -16,4 +16,4 @@ export var personSquareCheckmark16Regular = [
       }
     ]
   ]
-]
+];

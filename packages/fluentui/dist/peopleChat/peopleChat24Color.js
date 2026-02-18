@@ -267,4 +267,4 @@ export var peopleChat24Color = [
       ]
     ]
   ]
-]
+];

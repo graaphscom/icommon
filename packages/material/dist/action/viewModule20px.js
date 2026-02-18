@@ -23,4 +23,4 @@ export var viewModule20px = [
       }
     ]
   ]
-]
+];

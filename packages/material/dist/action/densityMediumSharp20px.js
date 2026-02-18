@@ -62,4 +62,4 @@ export var densityMediumSharp20px = [
       ]
     ]
   ]
-]
+];

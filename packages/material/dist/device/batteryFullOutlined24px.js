@@ -21,4 +21,4 @@ export var batteryFullOutlined24px = [
       }
     ]
   ]
-]
+];

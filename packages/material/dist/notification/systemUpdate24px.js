@@ -21,4 +21,4 @@ export var systemUpdate24px = [
       }
     ]
   ]
-]
+];

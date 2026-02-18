@@ -21,4 +21,4 @@ export var castOutlined24px = [
       }
     ]
   ]
-]
+];

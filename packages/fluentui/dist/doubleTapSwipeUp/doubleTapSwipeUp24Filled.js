@@ -16,4 +16,4 @@ export var doubleTapSwipeUp24Filled = [
       }
     ]
   ]
-]
+];

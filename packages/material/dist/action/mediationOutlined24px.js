@@ -29,4 +29,4 @@ export var mediationOutlined24px = [
       ]
     ]
   ]
-]
+];

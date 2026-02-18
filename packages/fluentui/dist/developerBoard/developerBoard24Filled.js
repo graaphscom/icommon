@@ -16,4 +16,4 @@ export var developerBoard24Filled = [
       }
     ]
   ]
-]
+];

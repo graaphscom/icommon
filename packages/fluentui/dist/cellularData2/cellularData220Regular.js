@@ -16,4 +16,4 @@ export var cellularData220Regular = [
       }
     ]
   ]
-]
+];

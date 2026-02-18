@@ -21,4 +21,4 @@ export var brushOutlined24px = [
       }
     ]
   ]
-]
+];

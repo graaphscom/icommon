@@ -16,4 +16,4 @@ export var mailInbox32Regular = [
       }
     ]
   ]
-]
+];

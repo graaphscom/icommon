@@ -21,4 +21,4 @@ export var insertEmoticon24px = [
       }
     ]
   ]
-]
+];

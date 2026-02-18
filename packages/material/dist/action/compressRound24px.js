@@ -58,4 +58,4 @@ export var compressRound24px = [
       ]
     ]
   ]
-]
+];

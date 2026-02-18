@@ -50,4 +50,4 @@ export var keyboardOptionKeyTwotone20px = [
       ]
     ]
   ]
-]
+];

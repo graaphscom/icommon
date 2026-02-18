@@ -16,4 +16,4 @@ export var airplaneLanding20Regular = [
       }
     ]
   ]
-]
+];

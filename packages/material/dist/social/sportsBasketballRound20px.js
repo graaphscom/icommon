@@ -131,4 +131,4 @@ export var sportsBasketballRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var megaphoneCircle24Regular = [
       }
     ]
   ]
-]
+];

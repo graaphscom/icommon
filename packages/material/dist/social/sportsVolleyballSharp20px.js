@@ -71,4 +71,4 @@ export var sportsVolleyballSharp20px = [
       ]
     ]
   ]
-]
+];

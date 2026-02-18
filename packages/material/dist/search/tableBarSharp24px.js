@@ -41,4 +41,4 @@ export var tableBarSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var archiveArrowBack24Filled = [
       }
     ]
   ]
-]
+];

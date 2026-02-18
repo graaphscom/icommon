@@ -21,4 +21,4 @@ export var flashOffSharp24px = [
       }
     ]
   ]
-]
+];

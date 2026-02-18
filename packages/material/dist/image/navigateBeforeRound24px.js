@@ -21,4 +21,4 @@ export var navigateBeforeRound24px = [
       }
     ]
   ]
-]
+];

@@ -63,4 +63,4 @@ export var lightbulbCircleOutlined20px = [
       ]
     ]
   ]
-]
+];

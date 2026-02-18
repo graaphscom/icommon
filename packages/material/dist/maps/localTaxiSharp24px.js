@@ -21,4 +21,4 @@ export var localTaxiSharp24px = [
       }
     ]
   ]
-]
+];

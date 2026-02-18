@@ -81,4 +81,4 @@ export var addCircle20Color = [
       ]
     ]
   ]
-]
+];

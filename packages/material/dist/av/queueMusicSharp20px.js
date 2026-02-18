@@ -68,4 +68,4 @@ export var queueMusicSharp20px = [
       ]
     ]
   ]
-]
+];

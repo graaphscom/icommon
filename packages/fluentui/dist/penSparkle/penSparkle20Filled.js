@@ -16,4 +16,4 @@ export var penSparkle20Filled = [
       }
     ]
   ]
-]
+];

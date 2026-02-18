@@ -16,4 +16,4 @@ export var flash28Filled = [
       }
     ]
   ]
-]
+];

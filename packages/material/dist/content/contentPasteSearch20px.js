@@ -47,4 +47,4 @@ export var contentPasteSearch20px = [
       ]
     ]
   ]
-]
+];

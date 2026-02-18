@@ -21,4 +21,4 @@ export var doDisturbAltOutlined24px = [
       }
     ]
   ]
-]
+];

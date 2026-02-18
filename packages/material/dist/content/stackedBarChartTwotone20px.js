@@ -89,4 +89,4 @@ export var stackedBarChartTwotone20px = [
       ]
     ]
   ]
-]
+];

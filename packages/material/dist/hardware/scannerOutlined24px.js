@@ -21,4 +21,4 @@ export var scannerOutlined24px = [
       }
     ]
   ]
-]
+];

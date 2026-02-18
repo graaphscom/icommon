@@ -36,4 +36,4 @@ export var networkWifi1BarOutlined20px = [
       ]
     ]
   ]
-]
+];

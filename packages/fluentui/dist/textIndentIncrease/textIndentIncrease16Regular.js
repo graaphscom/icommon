@@ -16,4 +16,4 @@ export var textIndentIncrease16Regular = [
       }
     ]
   ]
-]
+];

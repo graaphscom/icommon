@@ -16,4 +16,4 @@ export var vehicleSubway24Regular = [
       }
     ]
   ]
-]
+];

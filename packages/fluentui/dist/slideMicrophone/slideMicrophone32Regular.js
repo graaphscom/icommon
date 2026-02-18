@@ -16,4 +16,4 @@ export var slideMicrophone32Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textBold16Filled = [
       }
     ]
   ]
-]
+];

@@ -84,4 +84,4 @@ export var viewCozyTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var motionPhotosOnTwotone20px = [
       }
     ]
   ]
-]
+];

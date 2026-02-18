@@ -29,4 +29,4 @@ export var recordVoiceOverSharp24px = [
       }
     ]
   ]
-]
+];

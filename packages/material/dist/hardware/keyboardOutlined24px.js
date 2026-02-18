@@ -21,4 +21,4 @@ export var keyboardOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var settingsEthernetSharp24px = [
       }
     ]
   ]
-]
+];

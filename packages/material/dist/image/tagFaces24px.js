@@ -21,4 +21,4 @@ export var tagFaces24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var dirtyLensOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var rollerShadesSharp20px = [
       ]
     ]
   ]
-]
+];

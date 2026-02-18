@@ -21,4 +21,4 @@ export var callToActionOutlined24px = [
       }
     ]
   ]
-]
+];

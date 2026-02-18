@@ -16,4 +16,4 @@ export var documentHeaderFooter32Filled = [
       }
     ]
   ]
-]
+];

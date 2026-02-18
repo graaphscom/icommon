@@ -21,4 +21,4 @@ export var newReleasesOutlined24px = [
       }
     ]
   ]
-]
+];

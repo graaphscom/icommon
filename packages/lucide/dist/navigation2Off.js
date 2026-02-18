@@ -34,4 +34,4 @@ export var navigation2Off = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowSwap20Regular = [
       }
     ]
   ]
-]
+];

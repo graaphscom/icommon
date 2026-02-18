@@ -44,4 +44,4 @@ export var dualScreenSpeaker24Filled = [
       }
     ]
   ]
-]
+];

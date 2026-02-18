@@ -83,4 +83,4 @@ export var sportsHockeyRound20px = [
       ]
     ]
   ]
-]
+];

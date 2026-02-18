@@ -227,4 +227,4 @@ export var blobbeeInMug = [
       }
     ]
   ]
-]
+];

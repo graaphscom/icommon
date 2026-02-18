@@ -16,4 +16,4 @@ export var layoutColumnTwoSplitLeft20Regular = [
       }
     ]
   ]
-]
+];

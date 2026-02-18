@@ -56,4 +56,4 @@ export var addBusinessSharp24px = [
       ]
     ]
   ]
-]
+];

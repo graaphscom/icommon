@@ -62,4 +62,4 @@ export var upcomingSharp24px = [
       ]
     ]
   ]
-]
+];

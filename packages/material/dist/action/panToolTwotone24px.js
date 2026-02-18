@@ -28,4 +28,4 @@ export var panToolTwotone24px = [
       }
     ]
   ]
-]
+];

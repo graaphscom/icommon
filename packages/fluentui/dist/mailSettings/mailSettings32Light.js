@@ -16,4 +16,4 @@ export var mailSettings32Light = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var castConnectedOutlined24px = [
       }
     ]
   ]
-]
+];

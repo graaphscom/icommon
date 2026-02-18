@@ -16,4 +16,4 @@ export var saveImage20Regular = [
       }
     ]
   ]
-]
+];

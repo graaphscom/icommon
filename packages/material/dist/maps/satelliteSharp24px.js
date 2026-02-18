@@ -21,4 +21,4 @@ export var satelliteSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var editAttributesOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var callMergeRound24px = [
       }
     ]
   ]
-]
+];

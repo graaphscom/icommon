@@ -16,4 +16,4 @@ export var passwordClock16Regular = [
       }
     ]
   ]
-]
+];

@@ -213,4 +213,4 @@ export var headphones32Color = [
       ]
     ]
   ]
-]
+];

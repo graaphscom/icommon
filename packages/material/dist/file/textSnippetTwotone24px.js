@@ -36,4 +36,4 @@ export var textSnippetTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var folderArrowRight16Regular = [
       }
     ]
   ]
-]
+];

@@ -24,4 +24,4 @@ export var volumeDownAlt20px = [
       }
     ]
   ]
-]
+];

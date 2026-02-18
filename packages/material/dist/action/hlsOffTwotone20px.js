@@ -47,4 +47,4 @@ export var hlsOffTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var realEstate24Filled = [
       }
     ]
   ]
-]
+];

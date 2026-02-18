@@ -43,4 +43,4 @@ export var signLanguageRound24px = [
       ]
     ]
   ]
-]
+];

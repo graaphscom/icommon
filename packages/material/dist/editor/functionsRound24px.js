@@ -21,4 +21,4 @@ export var functionsRound24px = [
       }
     ]
   ]
-]
+];

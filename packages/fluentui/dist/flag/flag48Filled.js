@@ -16,4 +16,4 @@ export var flag48Filled = [
       }
     ]
   ]
-]
+];

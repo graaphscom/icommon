@@ -21,4 +21,4 @@ export var presentToAllSharp24px = [
       }
     ]
   ]
-]
+];

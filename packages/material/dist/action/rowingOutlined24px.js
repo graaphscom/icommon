@@ -21,4 +21,4 @@ export var rowingOutlined24px = [
       }
     ]
   ]
-]
+];

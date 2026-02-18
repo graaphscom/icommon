@@ -25,4 +25,4 @@ export var notStarted20px = [
       }
     ]
   ]
-]
+];

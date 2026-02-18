@@ -23,4 +23,4 @@ export var calendarViewDayRound24px = [
       }
     ]
   ]
-]
+];

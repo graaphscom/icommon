@@ -35,4 +35,4 @@ export var nightlife24px = [
       ]
     ]
   ]
-]
+];

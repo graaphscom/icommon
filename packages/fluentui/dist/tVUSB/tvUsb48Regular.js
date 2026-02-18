@@ -16,4 +16,4 @@ export var tvUsb48Regular = [
       }
     ]
   ]
-]
+];

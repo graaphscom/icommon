@@ -28,4 +28,4 @@ export var featuredPlayListTwotone24px = [
       }
     ]
   ]
-]
+];

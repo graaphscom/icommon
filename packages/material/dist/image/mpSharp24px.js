@@ -41,4 +41,4 @@ export var mpSharp24px = [
       ]
     ]
   ]
-]
+];

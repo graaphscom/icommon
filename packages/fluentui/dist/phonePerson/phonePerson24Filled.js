@@ -16,4 +16,4 @@ export var phonePerson24Filled = [
       }
     ]
   ]
-]
+];

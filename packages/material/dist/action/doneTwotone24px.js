@@ -21,4 +21,4 @@ export var doneTwotone24px = [
       }
     ]
   ]
-]
+];

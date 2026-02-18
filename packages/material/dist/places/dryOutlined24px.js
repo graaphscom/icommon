@@ -29,4 +29,4 @@ export var dryOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var strollerRound24px = [
       ]
     ]
   ]
-]
+];

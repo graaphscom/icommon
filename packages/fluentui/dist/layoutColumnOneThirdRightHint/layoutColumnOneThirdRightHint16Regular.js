@@ -16,4 +16,4 @@ export var layoutColumnOneThirdRightHint16Regular = [
       }
     ]
   ]
-]
+];

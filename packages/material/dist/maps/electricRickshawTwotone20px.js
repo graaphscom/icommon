@@ -61,4 +61,4 @@ export var electricRickshawTwotone20px = [
       ]
     ]
   ]
-]
+];

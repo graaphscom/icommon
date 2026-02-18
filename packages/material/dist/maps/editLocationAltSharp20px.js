@@ -76,4 +76,4 @@ export var editLocationAltSharp20px = [
       ]
     ]
   ]
-]
+];

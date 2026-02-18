@@ -16,4 +16,4 @@ export var cameraArrowUp24Filled = [
       }
     ]
   ]
-]
+];

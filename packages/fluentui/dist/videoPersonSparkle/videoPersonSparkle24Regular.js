@@ -16,4 +16,4 @@ export var videoPersonSparkle24Regular = [
       }
     ]
   ]
-]
+];

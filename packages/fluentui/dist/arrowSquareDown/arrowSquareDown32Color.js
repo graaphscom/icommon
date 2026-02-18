@@ -81,4 +81,4 @@ export var arrowSquareDown32Color = [
       ]
     ]
   ]
-]
+];

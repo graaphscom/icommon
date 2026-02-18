@@ -21,4 +21,4 @@ export var storeMallDirectorySharp24px = [
       }
     ]
   ]
-]
+];

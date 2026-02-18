@@ -47,4 +47,4 @@ export var modeFanOffOutlined24px = [
       ]
     ]
   ]
-]
+];

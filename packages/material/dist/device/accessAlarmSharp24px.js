@@ -21,4 +21,4 @@ export var accessAlarmSharp24px = [
       }
     ]
   ]
-]
+];

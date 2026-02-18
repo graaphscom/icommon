@@ -16,4 +16,4 @@ export var spatulaSpoon48Filled = [
       }
     ]
   ]
-]
+];

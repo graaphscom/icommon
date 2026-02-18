@@ -70,4 +70,4 @@ export var animationTwotone24px = [
       ]
     ]
   ]
-]
+];

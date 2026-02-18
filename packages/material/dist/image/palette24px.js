@@ -35,4 +35,4 @@ export var palette24px = [
       ]
     ]
   ]
-]
+];

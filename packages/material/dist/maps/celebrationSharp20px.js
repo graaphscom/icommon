@@ -66,4 +66,4 @@ export var celebrationSharp20px = [
       ]
     ]
   ]
-]
+];

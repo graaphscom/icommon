@@ -29,4 +29,4 @@ export var pointOfSaleSharp20px = [
       ]
     ]
   ]
-]
+];

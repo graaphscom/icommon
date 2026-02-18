@@ -23,4 +23,4 @@ export var gifBoxOutlined20px = [
       }
     ]
   ]
-]
+];

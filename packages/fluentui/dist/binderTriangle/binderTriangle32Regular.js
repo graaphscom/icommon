@@ -16,4 +16,4 @@ export var binderTriangle32Regular = [
       }
     ]
   ]
-]
+];

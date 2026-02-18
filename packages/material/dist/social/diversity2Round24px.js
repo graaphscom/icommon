@@ -61,4 +61,4 @@ export var diversity2Round24px = [
       ]
     ]
   ]
-]
+];

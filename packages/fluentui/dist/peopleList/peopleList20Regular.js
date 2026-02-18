@@ -16,4 +16,4 @@ export var peopleList20Regular = [
       }
     ]
   ]
-]
+];

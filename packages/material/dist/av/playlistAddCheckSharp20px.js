@@ -68,4 +68,4 @@ export var playlistAddCheckSharp20px = [
       ]
     ]
   ]
-]
+];

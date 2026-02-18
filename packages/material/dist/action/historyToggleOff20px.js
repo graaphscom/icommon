@@ -29,4 +29,4 @@ export var historyToggleOff20px = [
       ]
     ]
   ]
-]
+];

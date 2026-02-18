@@ -32,4 +32,4 @@ export var outboundTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -91,4 +91,4 @@ export var festivalTwotone20px = [
       ]
     ]
   ]
-]
+];

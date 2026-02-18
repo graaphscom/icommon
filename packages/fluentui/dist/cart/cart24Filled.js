@@ -16,4 +16,4 @@ export var cart24Filled = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var hotTubSharp24px = [
       }
     ]
   ]
-]
+];

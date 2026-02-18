@@ -23,4 +23,4 @@ export var viewStreamSharp20px = [
       }
     ]
   ]
-]
+];

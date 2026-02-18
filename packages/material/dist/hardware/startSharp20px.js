@@ -23,4 +23,4 @@ export var startSharp20px = [
       }
     ]
   ]
-]
+];

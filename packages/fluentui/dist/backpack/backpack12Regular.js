@@ -16,4 +16,4 @@ export var backpack12Regular = [
       }
     ]
   ]
-]
+];

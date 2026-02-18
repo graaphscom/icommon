@@ -16,4 +16,4 @@ export var documentDismiss16Filled = [
       }
     ]
   ]
-]
+];

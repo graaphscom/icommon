@@ -16,4 +16,4 @@ export var slideMultipleArrowRight24Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var fileDownloadOff20px = [
       }
     ]
   ]
-]
+];

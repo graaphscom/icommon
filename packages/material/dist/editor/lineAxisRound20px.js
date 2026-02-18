@@ -35,4 +35,4 @@ export var lineAxisRound20px = [
       ]
     ]
   ]
-]
+];

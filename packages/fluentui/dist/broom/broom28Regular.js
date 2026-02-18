@@ -16,4 +16,4 @@ export var broom28Regular = [
       }
     ]
   ]
-]
+];

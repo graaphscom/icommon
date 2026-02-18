@@ -71,4 +71,4 @@ export var sportsGolfSharp20px = [
       ]
     ]
   ]
-]
+];

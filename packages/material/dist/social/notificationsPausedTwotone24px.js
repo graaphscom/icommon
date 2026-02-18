@@ -28,4 +28,4 @@ export var notificationsPausedTwotone24px = [
       }
     ]
   ]
-]
+];

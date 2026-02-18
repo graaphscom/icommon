@@ -86,4 +86,4 @@ export var gradingSharp20px = [
       ]
     ]
   ]
-]
+];

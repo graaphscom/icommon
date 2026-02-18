@@ -16,4 +16,4 @@ export var bookQuestionMark24Filled = [
       }
     ]
   ]
-]
+];

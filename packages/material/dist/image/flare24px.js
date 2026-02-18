@@ -21,4 +21,4 @@ export var flare24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var house24px = [
       ]
     ]
   ]
-]
+];

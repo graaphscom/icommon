@@ -35,4 +35,4 @@ export var playlistAddOutlined24px = [
       ]
     ]
   ]
-]
+];

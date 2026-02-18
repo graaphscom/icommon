@@ -59,4 +59,4 @@ export var queueMusicRound20px = [
       ]
     ]
   ]
-]
+];

@@ -105,4 +105,4 @@ export var groupAddSharp20px = [
       ]
     ]
   ]
-]
+];

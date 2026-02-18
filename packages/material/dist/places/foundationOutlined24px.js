@@ -23,4 +23,4 @@ export var foundationOutlined24px = [
       }
     ]
   ]
-]
+];

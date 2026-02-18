@@ -16,4 +16,4 @@ export var imageShadow20Filled = [
       }
     ]
   ]
-]
+];

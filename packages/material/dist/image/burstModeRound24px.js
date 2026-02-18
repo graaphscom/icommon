@@ -21,4 +21,4 @@ export var burstModeRound24px = [
       }
     ]
   ]
-]
+];

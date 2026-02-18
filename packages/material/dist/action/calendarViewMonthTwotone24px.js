@@ -100,4 +100,4 @@ export var calendarViewMonthTwotone24px = [
       ]
     ]
   ]
-]
+];

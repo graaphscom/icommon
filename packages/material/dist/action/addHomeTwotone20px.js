@@ -67,4 +67,4 @@ export var addHomeTwotone20px = [
       ]
     ]
   ]
-]
+];

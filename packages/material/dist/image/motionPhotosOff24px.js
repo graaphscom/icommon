@@ -21,4 +21,4 @@ export var motionPhotosOff24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textboxAlignTopLeft16Filled = [
       }
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var earbudsTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var mmsOutlined24px = [
       }
     ]
   ]
-]
+];

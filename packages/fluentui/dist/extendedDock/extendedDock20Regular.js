@@ -16,4 +16,4 @@ export var extendedDock20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var plugConnectedAdd20Filled = [
       }
     ]
   ]
-]
+];

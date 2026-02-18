@@ -35,4 +35,4 @@ export var propane20px = [
       ]
     ]
   ]
-]
+];

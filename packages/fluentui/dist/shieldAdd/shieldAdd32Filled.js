@@ -16,4 +16,4 @@ export var shieldAdd32Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var networkLocked24px = [
       }
     ]
   ]
-]
+];

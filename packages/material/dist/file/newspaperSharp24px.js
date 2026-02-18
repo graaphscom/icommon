@@ -35,4 +35,4 @@ export var newspaperSharp24px = [
       ]
     ]
   ]
-]
+];

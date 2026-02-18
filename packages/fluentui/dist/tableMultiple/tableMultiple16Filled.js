@@ -16,4 +16,4 @@ export var tableMultiple16Filled = [
       }
     ]
   ]
-]
+];

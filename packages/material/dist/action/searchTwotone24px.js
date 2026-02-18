@@ -21,4 +21,4 @@ export var searchTwotone24px = [
       }
     ]
   ]
-]
+];

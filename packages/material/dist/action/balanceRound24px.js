@@ -35,4 +35,4 @@ export var balanceRound24px = [
       ]
     ]
   ]
-]
+];

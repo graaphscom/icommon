@@ -37,4 +37,4 @@ export var childCareRound24px = [
       }
     ]
   ]
-]
+];

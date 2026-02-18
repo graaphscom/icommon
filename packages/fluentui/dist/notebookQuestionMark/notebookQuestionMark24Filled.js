@@ -16,4 +16,4 @@ export var notebookQuestionMark24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var inkStroke24Filled = [
       }
     ]
   ]
-]
+];

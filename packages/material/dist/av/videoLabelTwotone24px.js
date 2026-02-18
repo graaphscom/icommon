@@ -28,4 +28,4 @@ export var videoLabelTwotone24px = [
       }
     ]
   ]
-]
+];

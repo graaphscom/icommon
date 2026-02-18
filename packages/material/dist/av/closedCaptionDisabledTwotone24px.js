@@ -31,4 +31,4 @@ export var closedCaptionDisabledTwotone24px = [
       }
     ]
   ]
-]
+];

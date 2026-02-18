@@ -44,4 +44,4 @@ export var directionsCarTwotone24px = [
       }
     ]
   ]
-]
+];

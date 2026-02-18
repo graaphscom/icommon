@@ -47,4 +47,4 @@ export var domainVerificationRound20px = [
       ]
     ]
   ]
-]
+];

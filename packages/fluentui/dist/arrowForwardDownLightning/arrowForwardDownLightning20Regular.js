@@ -16,4 +16,4 @@ export var arrowForwardDownLightning20Regular = [
       }
     ]
   ]
-]
+];

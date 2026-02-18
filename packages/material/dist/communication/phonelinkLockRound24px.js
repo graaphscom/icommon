@@ -47,4 +47,4 @@ export var phonelinkLockRound24px = [
       ]
     ]
   ]
-]
+];

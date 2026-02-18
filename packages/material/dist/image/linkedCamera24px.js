@@ -44,4 +44,4 @@ export var linkedCamera24px = [
       }
     ]
   ]
-]
+];

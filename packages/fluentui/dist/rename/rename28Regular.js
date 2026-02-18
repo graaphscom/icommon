@@ -16,4 +16,4 @@ export var rename28Regular = [
       }
     ]
   ]
-]
+];

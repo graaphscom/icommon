@@ -58,4 +58,4 @@ export var squareTwotone24px = [
       ]
     ]
   ]
-]
+];

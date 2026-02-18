@@ -30,4 +30,4 @@ export var carpenterTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var sortSharp24px = [
       }
     ]
   ]
-]
+];

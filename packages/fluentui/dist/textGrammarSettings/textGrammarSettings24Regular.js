@@ -16,4 +16,4 @@ export var textGrammarSettings24Regular = [
       }
     ]
   ]
-]
+];

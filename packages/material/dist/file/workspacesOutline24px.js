@@ -21,4 +21,4 @@ export var workspacesOutline24px = [
       }
     ]
   ]
-]
+];

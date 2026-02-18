@@ -16,4 +16,4 @@ export var vehicleCarProfile24Regular = [
       }
     ]
   ]
-]
+];

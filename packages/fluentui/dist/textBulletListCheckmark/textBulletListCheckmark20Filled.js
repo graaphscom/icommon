@@ -16,4 +16,4 @@ export var textBulletListCheckmark20Filled = [
       }
     ]
   ]
-]
+];

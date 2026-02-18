@@ -35,4 +35,4 @@ export var photoCameraBackRound24px = [
       ]
     ]
   ]
-]
+];

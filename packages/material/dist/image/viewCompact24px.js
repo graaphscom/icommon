@@ -35,4 +35,4 @@ export var viewCompact24px = [
       ]
     ]
   ]
-]
+];

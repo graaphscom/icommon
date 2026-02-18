@@ -21,4 +21,4 @@ export var signalCellularNoSimSharp24px = [
       }
     ]
   ]
-]
+];

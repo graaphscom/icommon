@@ -16,4 +16,4 @@ export var vote20Filled = [
       }
     ]
   ]
-]
+];

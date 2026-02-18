@@ -21,4 +21,4 @@ export var lockOutlineSharp24px = [
       }
     ]
   ]
-]
+];

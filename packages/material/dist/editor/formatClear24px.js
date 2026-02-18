@@ -21,4 +21,4 @@ export var formatClear24px = [
       }
     ]
   ]
-]
+];

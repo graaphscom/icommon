@@ -47,4 +47,4 @@ export var hvacOutlined24px = [
       ]
     ]
   ]
-]
+];

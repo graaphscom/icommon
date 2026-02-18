@@ -23,4 +23,4 @@ export var queryStatsOutlined20px = [
       }
     ]
   ]
-]
+];

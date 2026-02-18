@@ -36,4 +36,4 @@ export var stadiumOutlined20px = [
       ]
     ]
   ]
-]
+];

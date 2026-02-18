@@ -41,4 +41,4 @@ export var phishingOutlined24px = [
       ]
     ]
   ]
-]
+];

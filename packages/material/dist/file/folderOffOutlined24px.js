@@ -47,4 +47,4 @@ export var folderOffOutlined24px = [
       ]
     ]
   ]
-]
+];

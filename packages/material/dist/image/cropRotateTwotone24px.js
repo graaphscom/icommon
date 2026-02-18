@@ -21,4 +21,4 @@ export var cropRotateTwotone24px = [
       }
     ]
   ]
-]
+];

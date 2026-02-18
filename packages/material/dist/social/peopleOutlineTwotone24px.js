@@ -37,4 +37,4 @@ export var peopleOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

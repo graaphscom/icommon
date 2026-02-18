@@ -21,4 +21,4 @@ export var cakeSharp24px = [
       }
     ]
   ]
-]
+];

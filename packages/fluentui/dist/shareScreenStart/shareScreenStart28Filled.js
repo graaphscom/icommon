@@ -16,4 +16,4 @@ export var shareScreenStart28Filled = [
       }
     ]
   ]
-]
+];

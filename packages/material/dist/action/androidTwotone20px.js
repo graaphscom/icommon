@@ -47,4 +47,4 @@ export var androidTwotone20px = [
       ]
     ]
   ]
-]
+];

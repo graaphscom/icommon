@@ -13,4 +13,4 @@ export var spam2Line = [
       }
     ]
   ]
-]
+];

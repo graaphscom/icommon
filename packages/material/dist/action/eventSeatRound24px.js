@@ -21,4 +21,4 @@ export var eventSeatRound24px = [
       }
     ]
   ]
-]
+];

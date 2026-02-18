@@ -21,4 +21,4 @@ export var wbSunnyOutlined24px = [
       }
     ]
   ]
-]
+];

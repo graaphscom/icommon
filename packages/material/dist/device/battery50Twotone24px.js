@@ -28,4 +28,4 @@ export var battery50Twotone24px = [
       }
     ]
   ]
-]
+];

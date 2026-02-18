@@ -21,4 +21,4 @@ export var forumRound24px = [
       }
     ]
   ]
-]
+];

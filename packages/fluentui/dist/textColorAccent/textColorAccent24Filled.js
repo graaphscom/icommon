@@ -16,4 +16,4 @@ export var textColorAccent24Filled = [
       }
     ]
   ]
-]
+];

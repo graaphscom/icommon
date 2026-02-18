@@ -16,4 +16,4 @@ export var personError20Regular = [
       }
     ]
   ]
-]
+];

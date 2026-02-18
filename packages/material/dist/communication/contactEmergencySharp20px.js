@@ -35,4 +35,4 @@ export var contactEmergencySharp20px = [
       ]
     ]
   ]
-]
+];

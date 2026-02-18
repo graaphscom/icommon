@@ -16,4 +16,4 @@ export var layoutAddBelow32Filled = [
       }
     ]
   ]
-]
+];

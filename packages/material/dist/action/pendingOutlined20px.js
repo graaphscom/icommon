@@ -66,4 +66,4 @@ export var pendingOutlined20px = [
       ]
     ]
   ]
-]
+];

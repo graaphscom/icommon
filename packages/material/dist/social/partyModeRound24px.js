@@ -21,4 +21,4 @@ export var partyModeRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var couch24Regular = [
       }
     ]
   ]
-]
+];

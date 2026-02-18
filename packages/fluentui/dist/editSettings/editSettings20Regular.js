@@ -16,4 +16,4 @@ export var editSettings20Regular = [
       }
     ]
   ]
-]
+];

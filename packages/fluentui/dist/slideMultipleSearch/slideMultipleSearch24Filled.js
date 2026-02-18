@@ -16,4 +16,4 @@ export var slideMultipleSearch24Filled = [
       }
     ]
   ]
-]
+];

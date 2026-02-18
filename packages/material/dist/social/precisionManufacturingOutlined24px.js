@@ -35,4 +35,4 @@ export var precisionManufacturingOutlined24px = [
       ]
     ]
   ]
-]
+];

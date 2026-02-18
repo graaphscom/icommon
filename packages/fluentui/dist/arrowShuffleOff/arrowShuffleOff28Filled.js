@@ -16,4 +16,4 @@ export var arrowShuffleOff28Filled = [
       }
     ]
   ]
-]
+];

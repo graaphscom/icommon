@@ -71,4 +71,4 @@ export var editDocument24px = [
       ]
     ]
   ]
-]
+];

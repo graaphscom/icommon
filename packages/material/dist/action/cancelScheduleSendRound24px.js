@@ -55,4 +55,4 @@ export var cancelScheduleSendRound24px = [
       ]
     ]
   ]
-]
+];

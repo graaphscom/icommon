@@ -28,4 +28,4 @@ export var favoriteTwotone24px = [
       }
     ]
   ]
-]
+];

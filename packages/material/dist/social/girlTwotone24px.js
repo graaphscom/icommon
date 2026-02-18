@@ -41,4 +41,4 @@ export var girlTwotone24px = [
       ]
     ]
   ]
-]
+];

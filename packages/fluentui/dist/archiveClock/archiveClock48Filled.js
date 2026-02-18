@@ -16,4 +16,4 @@ export var archiveClock48Filled = [
       }
     ]
   ]
-]
+];

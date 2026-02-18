@@ -83,4 +83,4 @@ export var autofpsSelectOutlined24px = [
       ]
     ]
   ]
-]
+];

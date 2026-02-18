@@ -21,4 +21,4 @@ export var homeRound24px = [
       }
     ]
   ]
-]
+];

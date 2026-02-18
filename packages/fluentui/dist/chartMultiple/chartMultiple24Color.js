@@ -258,4 +258,4 @@ export var chartMultiple24Color = [
       ]
     ]
   ]
-]
+];

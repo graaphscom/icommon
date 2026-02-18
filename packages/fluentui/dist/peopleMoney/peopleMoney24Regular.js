@@ -16,4 +16,4 @@ export var peopleMoney24Regular = [
       }
     ]
   ]
-]
+];

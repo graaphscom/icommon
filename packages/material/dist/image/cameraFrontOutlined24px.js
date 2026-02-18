@@ -21,4 +21,4 @@ export var cameraFrontOutlined24px = [
       }
     ]
   ]
-]
+];

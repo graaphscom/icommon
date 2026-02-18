@@ -16,4 +16,4 @@ export var treeDeciduous24Filled = [
       }
     ]
   ]
-]
+];

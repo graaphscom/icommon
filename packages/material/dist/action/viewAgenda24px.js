@@ -49,4 +49,4 @@ export var viewAgenda24px = [
       ]
     ]
   ]
-]
+];

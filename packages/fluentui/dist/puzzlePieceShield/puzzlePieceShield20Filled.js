@@ -16,4 +16,4 @@ export var puzzlePieceShield20Filled = [
       }
     ]
   ]
-]
+];

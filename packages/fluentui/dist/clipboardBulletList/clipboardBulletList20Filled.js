@@ -16,4 +16,4 @@ export var clipboardBulletList20Filled = [
       }
     ]
   ]
-]
+];

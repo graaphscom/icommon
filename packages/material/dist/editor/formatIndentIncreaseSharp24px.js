@@ -14,4 +14,4 @@ export var formatIndentIncreaseSharp24px = [
       }
     ]
   ]
-]
+];

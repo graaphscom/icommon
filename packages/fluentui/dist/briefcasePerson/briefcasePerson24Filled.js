@@ -16,4 +16,4 @@ export var briefcasePerson24Filled = [
       }
     ]
   ]
-]
+];

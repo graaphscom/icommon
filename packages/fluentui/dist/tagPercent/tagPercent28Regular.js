@@ -16,4 +16,4 @@ export var tagPercent28Regular = [
       }
     ]
   ]
-]
+];

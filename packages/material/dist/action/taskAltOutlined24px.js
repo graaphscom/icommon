@@ -23,4 +23,4 @@ export var taskAltOutlined24px = [
       }
     ]
   ]
-]
+];

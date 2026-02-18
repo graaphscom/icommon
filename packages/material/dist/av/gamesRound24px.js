@@ -14,4 +14,4 @@ export var gamesRound24px = [
       }
     ]
   ]
-]
+];

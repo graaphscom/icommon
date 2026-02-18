@@ -21,4 +21,4 @@ export var maximize24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var flightLand24px = [
       ]
     ]
   ]
-]
+];

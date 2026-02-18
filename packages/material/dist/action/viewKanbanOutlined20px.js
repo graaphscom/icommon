@@ -93,4 +93,4 @@ export var viewKanbanOutlined20px = [
       ]
     ]
   ]
-]
+];

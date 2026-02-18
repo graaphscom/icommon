@@ -117,4 +117,4 @@ export var integrationInstructionsTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var tsunamiRound20px = [
       ]
     ]
   ]
-]
+];

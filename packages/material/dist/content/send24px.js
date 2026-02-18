@@ -21,4 +21,4 @@ export var send24px = [
       }
     ]
   ]
-]
+];

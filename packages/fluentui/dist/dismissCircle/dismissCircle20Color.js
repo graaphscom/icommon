@@ -83,4 +83,4 @@ export var dismissCircle20Color = [
       ]
     ]
   ]
-]
+];

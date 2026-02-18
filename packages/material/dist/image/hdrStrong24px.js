@@ -21,4 +21,4 @@ export var hdrStrong24px = [
       }
     ]
   ]
-]
+];

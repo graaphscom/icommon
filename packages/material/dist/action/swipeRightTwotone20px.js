@@ -42,4 +42,4 @@ export var swipeRightTwotone20px = [
       ]
     ]
   ]
-]
+];

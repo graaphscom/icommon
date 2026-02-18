@@ -16,4 +16,4 @@ export var mathFormulaSparkle20Regular = [
       }
     ]
   ]
-]
+];

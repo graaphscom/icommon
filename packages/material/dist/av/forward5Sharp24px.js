@@ -21,4 +21,4 @@ export var forward5Sharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var vehicleShip16Regular = [
       }
     ]
   ]
-]
+];

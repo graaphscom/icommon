@@ -16,4 +16,4 @@ export var bookArrowClockwise20Regular = [
       }
     ]
   ]
-]
+];

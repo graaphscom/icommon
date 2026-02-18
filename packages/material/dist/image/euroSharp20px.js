@@ -40,4 +40,4 @@ export var euroSharp20px = [
       ]
     ]
   ]
-]
+];

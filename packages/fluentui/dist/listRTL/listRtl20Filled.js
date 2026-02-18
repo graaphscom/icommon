@@ -16,4 +16,4 @@ export var listRtl20Filled = [
       }
     ]
   ]
-]
+];

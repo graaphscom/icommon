@@ -16,4 +16,4 @@ export var shareScreenPersonOverlayInside24Filled = [
       }
     ]
   ]
-]
+];

@@ -150,4 +150,4 @@ export var appRegistrationSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var linkSharp24px = [
       }
     ]
   ]
-]
+];

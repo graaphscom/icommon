@@ -16,4 +16,4 @@ export var board24Regular = [
       }
     ]
   ]
-]
+];

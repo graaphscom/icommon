@@ -21,4 +21,4 @@ export var euroSymbolRound24px = [
       }
     ]
   ]
-]
+];

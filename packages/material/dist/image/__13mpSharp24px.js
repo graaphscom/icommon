@@ -50,4 +50,4 @@ export var __13mpSharp24px = [
       ]
     ]
   ]
-]
+];

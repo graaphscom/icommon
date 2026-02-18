@@ -21,4 +21,4 @@ export var photoCameraOutlined24px = [
       }
     ]
   ]
-]
+];

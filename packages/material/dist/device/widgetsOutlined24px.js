@@ -21,4 +21,4 @@ export var widgetsOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -31,4 +31,4 @@ export var modelTrainingTwotone20px = [
       ]
     ]
   ]
-]
+];

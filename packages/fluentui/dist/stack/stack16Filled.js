@@ -16,4 +16,4 @@ export var stack16Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var thumbLike24Regular = [
       }
     ]
   ]
-]
+];

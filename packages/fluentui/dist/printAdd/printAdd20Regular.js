@@ -16,4 +16,4 @@ export var printAdd20Regular = [
       }
     ]
   ]
-]
+];

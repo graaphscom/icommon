@@ -41,4 +41,4 @@ export var keyboardCommandKeyOutlined24px = [
       ]
     ]
   ]
-]
+];

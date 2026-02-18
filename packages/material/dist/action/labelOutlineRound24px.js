@@ -21,4 +21,4 @@ export var labelOutlineRound24px = [
       }
     ]
   ]
-]
+];

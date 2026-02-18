@@ -16,4 +16,4 @@ export var arrowRoutingRectangleMultiple20Filled = [
       }
     ]
   ]
-]
+];

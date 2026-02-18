@@ -47,4 +47,4 @@ export var crop169Twotone24px = [
       ]
     ]
   ]
-]
+];

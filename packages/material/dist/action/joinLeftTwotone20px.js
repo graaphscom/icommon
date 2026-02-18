@@ -53,4 +53,4 @@ export var joinLeftTwotone20px = [
       ]
     ]
   ]
-]
+];

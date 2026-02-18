@@ -21,4 +21,4 @@ export var print24px = [
       }
     ]
   ]
-]
+];

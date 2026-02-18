@@ -35,4 +35,4 @@ export var currencyFrancSharp20px = [
       ]
     ]
   ]
-]
+];

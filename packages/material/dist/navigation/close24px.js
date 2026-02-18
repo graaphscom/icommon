@@ -21,4 +21,4 @@ export var close24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var sport16Regular = [
       }
     ]
   ]
-]
+];

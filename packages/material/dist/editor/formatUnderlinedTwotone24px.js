@@ -21,4 +21,4 @@ export var formatUnderlinedTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -22,4 +22,4 @@ export var notListedLocationOutlined24px = [
       }
     ]
   ]
-]
+];

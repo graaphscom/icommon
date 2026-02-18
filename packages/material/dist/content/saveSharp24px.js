@@ -21,4 +21,4 @@ export var saveSharp24px = [
       }
     ]
   ]
-]
+];

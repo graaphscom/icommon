@@ -21,4 +21,4 @@ export var liveTvRound24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var hiveOutlined24px = [
       ]
     ]
   ]
-]
+];

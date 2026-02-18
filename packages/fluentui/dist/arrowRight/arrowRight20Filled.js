@@ -16,4 +16,4 @@ export var arrowRight20Filled = [
       }
     ]
   ]
-]
+];

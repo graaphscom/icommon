@@ -21,4 +21,4 @@ export var smokingRoomsOutlined24px = [
       }
     ]
   ]
-]
+];

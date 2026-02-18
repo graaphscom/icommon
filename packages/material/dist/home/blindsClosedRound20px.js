@@ -35,4 +35,4 @@ export var blindsClosedRound20px = [
       ]
     ]
   ]
-]
+];

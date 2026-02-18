@@ -16,4 +16,4 @@ export var recycle32Regular = [
       }
     ]
   ]
-]
+];

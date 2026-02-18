@@ -35,4 +35,4 @@ export var filterAltRound24px = [
       ]
     ]
   ]
-]
+];

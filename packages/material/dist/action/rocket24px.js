@@ -35,4 +35,4 @@ export var rocket24px = [
       ]
     ]
   ]
-]
+];

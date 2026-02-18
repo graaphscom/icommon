@@ -16,4 +16,4 @@ export var borderOutsideThick24Regular = [
       }
     ]
   ]
-]
+];

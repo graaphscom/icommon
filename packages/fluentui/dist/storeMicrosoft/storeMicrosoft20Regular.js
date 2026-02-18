@@ -16,4 +16,4 @@ export var storeMicrosoft20Regular = [
       }
     ]
   ]
-]
+];

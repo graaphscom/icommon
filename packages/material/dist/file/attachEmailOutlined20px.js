@@ -48,4 +48,4 @@ export var attachEmailOutlined20px = [
       ]
     ]
   ]
-]
+];

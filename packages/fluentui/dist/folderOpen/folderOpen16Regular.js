@@ -16,4 +16,4 @@ export var folderOpen16Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var donutSmallOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var loupeOutlined24px = [
       }
     ]
   ]
-]
+];

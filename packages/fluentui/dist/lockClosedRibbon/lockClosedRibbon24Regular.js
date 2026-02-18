@@ -16,4 +16,4 @@ export var lockClosedRibbon24Regular = [
       }
     ]
   ]
-]
+];

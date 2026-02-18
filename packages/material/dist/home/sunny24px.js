@@ -23,4 +23,4 @@ export var sunny24px = [
       }
     ]
   ]
-]
+];

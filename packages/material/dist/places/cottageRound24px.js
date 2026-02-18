@@ -23,4 +23,4 @@ export var cottageRound24px = [
       }
     ]
   ]
-]
+];

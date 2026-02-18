@@ -47,4 +47,4 @@ export var browseGalleryRound20px = [
       ]
     ]
   ]
-]
+];

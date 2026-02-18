@@ -16,4 +16,4 @@ export var checkmarkCircleWarning24Regular = [
       }
     ]
   ]
-]
+];

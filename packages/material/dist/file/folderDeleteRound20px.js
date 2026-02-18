@@ -35,4 +35,4 @@ export var folderDeleteRound20px = [
       ]
     ]
   ]
-]
+];

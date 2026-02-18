@@ -16,4 +16,4 @@ export var peopleCommunication48Filled = [
       }
     ]
   ]
-]
+];

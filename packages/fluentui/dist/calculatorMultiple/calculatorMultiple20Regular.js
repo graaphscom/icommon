@@ -16,4 +16,4 @@ export var calculatorMultiple20Regular = [
       }
     ]
   ]
-]
+];

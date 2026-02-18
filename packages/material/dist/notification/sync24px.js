@@ -21,4 +21,4 @@ export var sync24px = [
       }
     ]
   ]
-]
+];

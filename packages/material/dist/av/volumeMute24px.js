@@ -21,4 +21,4 @@ export var volumeMute24px = [
       }
     ]
   ]
-]
+];

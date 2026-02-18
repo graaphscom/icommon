@@ -23,4 +23,4 @@ export var commentNote24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var fullscreenRound24px = [
       }
     ]
   ]
-]
+];

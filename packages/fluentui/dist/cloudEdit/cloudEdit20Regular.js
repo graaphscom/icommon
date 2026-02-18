@@ -16,4 +16,4 @@ export var cloudEdit20Regular = [
       }
     ]
   ]
-]
+];

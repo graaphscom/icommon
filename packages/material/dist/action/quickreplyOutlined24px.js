@@ -59,4 +59,4 @@ export var quickreplyOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var flashOffRound24px = [
       }
     ]
   ]
-]
+];

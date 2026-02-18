@@ -65,4 +65,4 @@ export var __23mpOutlined24px = [
       ]
     ]
   ]
-]
+];

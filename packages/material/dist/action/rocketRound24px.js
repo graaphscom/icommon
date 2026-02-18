@@ -43,4 +43,4 @@ export var rocketRound24px = [
       ]
     ]
   ]
-]
+];

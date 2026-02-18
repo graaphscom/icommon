@@ -359,4 +359,4 @@ export var buildingGovernmentSearch24Color = [
       ]
     ]
   ]
-]
+];

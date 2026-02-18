@@ -47,4 +47,4 @@ export var timeline24px = [
       ]
     ]
   ]
-]
+];

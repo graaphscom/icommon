@@ -16,4 +16,4 @@ export var presenceUnknown16Regular = [
       }
     ]
   ]
-]
+];

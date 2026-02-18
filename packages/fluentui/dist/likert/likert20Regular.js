@@ -16,4 +16,4 @@ export var likert20Regular = [
       }
     ]
   ]
-]
+];

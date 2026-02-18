@@ -83,4 +83,4 @@ export var windowRound20px = [
       ]
     ]
   ]
-]
+];

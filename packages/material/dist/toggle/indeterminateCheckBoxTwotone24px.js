@@ -28,4 +28,4 @@ export var indeterminateCheckBoxTwotone24px = [
       }
     ]
   ]
-]
+];

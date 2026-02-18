@@ -71,4 +71,4 @@ export var templeBuddhist20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var horizontalSplit24px = [
       }
     ]
   ]
-]
+];

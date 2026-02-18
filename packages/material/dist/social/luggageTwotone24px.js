@@ -43,4 +43,4 @@ export var luggageTwotone24px = [
       ]
     ]
   ]
-]
+];

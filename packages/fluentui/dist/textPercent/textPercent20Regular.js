@@ -16,4 +16,4 @@ export var textPercent20Regular = [
       }
     ]
   ]
-]
+];

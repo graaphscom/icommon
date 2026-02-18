@@ -16,4 +16,4 @@ export var gridCircles28Filled = [
       }
     ]
   ]
-]
+];

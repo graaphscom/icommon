@@ -16,4 +16,4 @@ export var taskListSquareRtl20Filled = [
       }
     ]
   ]
-]
+];

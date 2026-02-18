@@ -30,4 +30,4 @@ export var changeCircleTwotone20px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var formatItalicRound24px = [
       }
     ]
   ]
-]
+];

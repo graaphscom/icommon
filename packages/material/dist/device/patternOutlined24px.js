@@ -40,4 +40,4 @@ export var patternOutlined24px = [
       ]
     ]
   ]
-]
+];

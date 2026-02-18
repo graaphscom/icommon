@@ -16,4 +16,4 @@ export var textQuote24Regular = [
       }
     ]
   ]
-]
+];

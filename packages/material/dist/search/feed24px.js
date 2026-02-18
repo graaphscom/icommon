@@ -34,4 +34,4 @@ export var feed24px = [
       ]
     ]
   ]
-]
+];

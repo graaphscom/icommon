@@ -21,4 +21,4 @@ export var toc24px = [
       }
     ]
   ]
-]
+];

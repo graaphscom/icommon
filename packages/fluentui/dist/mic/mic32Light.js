@@ -16,4 +16,4 @@ export var mic32Light = [
       }
     ]
   ]
-]
+];

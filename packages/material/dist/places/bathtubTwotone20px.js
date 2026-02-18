@@ -65,4 +65,4 @@ export var bathtubTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var cake24px = [
       }
     ]
   ]
-]
+];

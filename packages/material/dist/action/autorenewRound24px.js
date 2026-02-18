@@ -21,4 +21,4 @@ export var autorenewRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personSwap16Filled = [
       }
     ]
   ]
-]
+];

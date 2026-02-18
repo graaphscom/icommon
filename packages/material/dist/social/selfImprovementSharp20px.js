@@ -49,4 +49,4 @@ export var selfImprovementSharp20px = [
       ]
     ]
   ]
-]
+];

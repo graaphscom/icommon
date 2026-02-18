@@ -36,4 +36,4 @@ export var lineAxisOutlined20px = [
       ]
     ]
   ]
-]
+];

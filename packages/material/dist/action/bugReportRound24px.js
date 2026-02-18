@@ -21,4 +21,4 @@ export var bugReportRound24px = [
       }
     ]
   ]
-]
+];

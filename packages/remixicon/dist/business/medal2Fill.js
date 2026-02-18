@@ -13,4 +13,4 @@ export var medal2Fill = [
       }
     ]
   ]
-]
+];

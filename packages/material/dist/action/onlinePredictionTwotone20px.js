@@ -31,4 +31,4 @@ export var onlinePredictionTwotone20px = [
       ]
     ]
   ]
-]
+];

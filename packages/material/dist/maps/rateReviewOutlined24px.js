@@ -21,4 +21,4 @@ export var rateReviewOutlined24px = [
       }
     ]
   ]
-]
+];

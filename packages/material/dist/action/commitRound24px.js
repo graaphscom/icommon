@@ -35,4 +35,4 @@ export var commitRound24px = [
       ]
     ]
   ]
-]
+];

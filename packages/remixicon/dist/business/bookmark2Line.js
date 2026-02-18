@@ -13,4 +13,4 @@ export var bookmark2Line = [
       }
     ]
   ]
-]
+];

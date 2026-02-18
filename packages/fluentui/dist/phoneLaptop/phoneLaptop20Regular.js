@@ -16,4 +16,4 @@ export var phoneLaptop20Regular = [
       }
     ]
   ]
-]
+];

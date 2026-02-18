@@ -35,4 +35,4 @@ export var fenceOutlined24px = [
       ]
     ]
   ]
-]
+];

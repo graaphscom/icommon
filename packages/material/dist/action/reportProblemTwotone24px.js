@@ -28,4 +28,4 @@ export var reportProblemTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var filterFrames24px = [
       }
     ]
   ]
-]
+];

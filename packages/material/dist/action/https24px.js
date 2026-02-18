@@ -21,4 +21,4 @@ export var https24px = [
       }
     ]
   ]
-]
+];

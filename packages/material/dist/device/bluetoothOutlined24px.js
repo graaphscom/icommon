@@ -21,4 +21,4 @@ export var bluetoothOutlined24px = [
       }
     ]
   ]
-]
+];

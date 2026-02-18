@@ -58,4 +58,4 @@ export var wifiCalling3Round24px = [
       ]
     ]
   ]
-]
+];

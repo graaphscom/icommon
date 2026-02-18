@@ -23,4 +23,4 @@ export var carpenter24px = [
       }
     ]
   ]
-]
+];

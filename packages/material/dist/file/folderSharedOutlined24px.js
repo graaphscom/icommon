@@ -21,4 +21,4 @@ export var folderSharedOutlined24px = [
       }
     ]
   ]
-]
+];

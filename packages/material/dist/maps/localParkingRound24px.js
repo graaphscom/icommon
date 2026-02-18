@@ -21,4 +21,4 @@ export var localParkingRound24px = [
       }
     ]
   ]
-]
+];

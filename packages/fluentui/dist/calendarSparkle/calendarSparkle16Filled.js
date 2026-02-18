@@ -16,4 +16,4 @@ export var calendarSparkle16Filled = [
       }
     ]
   ]
-]
+];

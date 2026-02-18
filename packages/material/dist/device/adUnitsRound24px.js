@@ -42,4 +42,4 @@ export var adUnitsRound24px = [
       ]
     ]
   ]
-]
+];

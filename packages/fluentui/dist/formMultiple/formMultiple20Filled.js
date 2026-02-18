@@ -30,4 +30,4 @@ export var formMultiple20Filled = [
       }
     ]
   ]
-]
+];

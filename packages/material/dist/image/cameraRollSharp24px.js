@@ -21,4 +21,4 @@ export var cameraRollSharp24px = [
       }
     ]
   ]
-]
+];

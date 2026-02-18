@@ -21,4 +21,4 @@ export var tapAndPlayTwotone24px = [
       }
     ]
   ]
-]
+];

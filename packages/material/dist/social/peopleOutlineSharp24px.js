@@ -21,4 +21,4 @@ export var peopleOutlineSharp24px = [
       }
     ]
   ]
-]
+];

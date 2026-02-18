@@ -13,4 +13,4 @@ export var coupon3Line = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var balanceOutlined24px = [
       ]
     ]
   ]
-]
+];

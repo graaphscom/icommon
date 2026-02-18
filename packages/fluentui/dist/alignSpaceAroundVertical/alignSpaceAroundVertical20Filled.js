@@ -16,4 +16,4 @@ export var alignSpaceAroundVertical20Filled = [
       }
     ]
   ]
-]
+];

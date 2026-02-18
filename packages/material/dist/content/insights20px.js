@@ -53,4 +53,4 @@ export var insights20px = [
       ]
     ]
   ]
-]
+];

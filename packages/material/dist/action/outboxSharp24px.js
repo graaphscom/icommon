@@ -47,4 +47,4 @@ export var outboxSharp24px = [
       ]
     ]
   ]
-]
+];

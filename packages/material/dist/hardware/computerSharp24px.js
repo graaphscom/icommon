@@ -21,4 +21,4 @@ export var computerSharp24px = [
       }
     ]
   ]
-]
+];

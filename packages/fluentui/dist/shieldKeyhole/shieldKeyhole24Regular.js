@@ -16,4 +16,4 @@ export var shieldKeyhole24Regular = [
       }
     ]
   ]
-]
+];

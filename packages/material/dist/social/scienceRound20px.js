@@ -23,4 +23,4 @@ export var scienceRound20px = [
       }
     ]
   ]
-]
+];

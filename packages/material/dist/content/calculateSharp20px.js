@@ -41,4 +41,4 @@ export var calculateSharp20px = [
       ]
     ]
   ]
-]
+];

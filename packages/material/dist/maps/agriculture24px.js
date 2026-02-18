@@ -59,4 +59,4 @@ export var agriculture24px = [
       ]
     ]
   ]
-]
+];

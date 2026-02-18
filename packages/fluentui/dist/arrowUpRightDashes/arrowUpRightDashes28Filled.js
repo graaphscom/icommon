@@ -16,4 +16,4 @@ export var arrowUpRightDashes28Filled = [
       }
     ]
   ]
-]
+];

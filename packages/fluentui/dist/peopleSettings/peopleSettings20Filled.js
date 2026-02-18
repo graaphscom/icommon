@@ -16,4 +16,4 @@ export var peopleSettings20Filled = [
       }
     ]
   ]
-]
+];

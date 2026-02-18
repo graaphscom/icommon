@@ -21,4 +21,4 @@ export var locationDisabledRound24px = [
       }
     ]
   ]
-]
+];

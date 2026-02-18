@@ -21,4 +21,4 @@ export var fileCopyOutlined24px = [
       }
     ]
   ]
-]
+];

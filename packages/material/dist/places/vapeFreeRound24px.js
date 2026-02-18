@@ -43,4 +43,4 @@ export var vapeFreeRound24px = [
       ]
     ]
   ]
-]
+];

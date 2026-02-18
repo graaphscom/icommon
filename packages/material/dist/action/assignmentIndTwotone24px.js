@@ -28,4 +28,4 @@ export var assignmentIndTwotone24px = [
       }
     ]
   ]
-]
+];

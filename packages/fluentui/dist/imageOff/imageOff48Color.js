@@ -195,4 +195,4 @@ export var imageOff48Color = [
       ]
     ]
   ]
-]
+];

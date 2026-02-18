@@ -16,4 +16,4 @@ export var peopleCommunication28Regular = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var accountCircle20px = [
       ]
     ]
   ]
-]
+];

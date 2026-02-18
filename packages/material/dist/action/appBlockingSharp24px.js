@@ -41,4 +41,4 @@ export var appBlockingSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var ttySharp24px = [
       ]
     ]
   ]
-]
+];

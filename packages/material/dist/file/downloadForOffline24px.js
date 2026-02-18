@@ -35,4 +35,4 @@ export var downloadForOffline24px = [
       ]
     ]
   ]
-]
+];

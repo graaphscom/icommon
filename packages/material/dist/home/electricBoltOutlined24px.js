@@ -41,4 +41,4 @@ export var electricBoltOutlined24px = [
       ]
     ]
   ]
-]
+];

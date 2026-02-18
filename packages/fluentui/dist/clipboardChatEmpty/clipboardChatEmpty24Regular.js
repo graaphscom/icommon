@@ -16,4 +16,4 @@ export var clipboardChatEmpty24Regular = [
       }
     ]
   ]
-]
+];

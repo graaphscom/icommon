@@ -21,4 +21,4 @@ export var imageAspectRatioSharp24px = [
       }
     ]
   ]
-]
+];

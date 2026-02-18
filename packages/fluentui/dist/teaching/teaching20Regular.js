@@ -16,4 +16,4 @@ export var teaching20Regular = [
       }
     ]
   ]
-]
+];

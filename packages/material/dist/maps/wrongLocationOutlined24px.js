@@ -55,4 +55,4 @@ export var wrongLocationOutlined24px = [
       ]
     ]
   ]
-]
+];

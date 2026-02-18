@@ -23,4 +23,4 @@ export var expandCircleDown24px = [
       }
     ]
   ]
-]
+];

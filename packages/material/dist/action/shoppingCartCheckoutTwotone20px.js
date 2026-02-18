@@ -35,4 +35,4 @@ export var shoppingCartCheckoutTwotone20px = [
       ]
     ]
   ]
-]
+];

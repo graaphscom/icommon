@@ -29,4 +29,4 @@ export var publicOffRound24px = [
       ]
     ]
   ]
-]
+];

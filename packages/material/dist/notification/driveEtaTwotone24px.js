@@ -44,4 +44,4 @@ export var driveEtaTwotone24px = [
       }
     ]
   ]
-]
+];

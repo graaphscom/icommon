@@ -75,4 +75,4 @@ export var appSettingsAltTwotone24px = [
       ]
     ]
   ]
-]
+];

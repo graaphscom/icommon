@@ -89,4 +89,4 @@ export var chatMultiple16Color = [
       ]
     ]
   ]
-]
+];

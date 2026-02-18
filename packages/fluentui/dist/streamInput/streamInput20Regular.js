@@ -16,4 +16,4 @@ export var streamInput20Regular = [
       }
     ]
   ]
-]
+];

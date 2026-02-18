@@ -355,4 +355,4 @@ export var calendar20Color = [
       ]
     ]
   ]
-]
+];

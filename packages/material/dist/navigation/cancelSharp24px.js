@@ -22,4 +22,4 @@ export var cancelSharp24px = [
       }
     ]
   ]
-]
+];

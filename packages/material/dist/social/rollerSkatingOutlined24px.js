@@ -47,4 +47,4 @@ export var rollerSkatingOutlined24px = [
       ]
     ]
   ]
-]
+];

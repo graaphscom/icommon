@@ -16,4 +16,4 @@ export var textBulletListSquareClock20Regular = [
       }
     ]
   ]
-]
+];

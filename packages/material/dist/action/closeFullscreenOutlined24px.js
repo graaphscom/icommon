@@ -23,4 +23,4 @@ export var closeFullscreenOutlined24px = [
       }
     ]
   ]
-]
+];

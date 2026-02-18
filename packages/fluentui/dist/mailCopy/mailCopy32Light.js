@@ -16,4 +16,4 @@ export var mailCopy32Light = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var bot32Regular = [
       }
     ]
   ]
-]
+];

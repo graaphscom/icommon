@@ -21,4 +21,4 @@ export var photoSizeSelectLargeRound24px = [
       }
     ]
   ]
-]
+];

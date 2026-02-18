@@ -14,4 +14,4 @@ export var titleSharp24px = [
       }
     ]
   ]
-]
+];

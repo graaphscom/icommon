@@ -16,4 +16,4 @@ export var mailReadMultiple16Regular = [
       }
     ]
   ]
-]
+];

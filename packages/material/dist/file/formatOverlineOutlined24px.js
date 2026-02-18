@@ -35,4 +35,4 @@ export var formatOverlineOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var databaseMultiple32Regular = [
       }
     ]
   ]
-]
+];

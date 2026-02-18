@@ -183,4 +183,4 @@ export var shieldCheckmark28Color = [
       ]
     ]
   ]
-]
+];

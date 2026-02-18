@@ -16,4 +16,4 @@ export var feed16Filled = [
       }
     ]
   ]
-]
+];

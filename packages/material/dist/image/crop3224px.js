@@ -47,4 +47,4 @@ export var crop3224px = [
       ]
     ]
   ]
-]
+];

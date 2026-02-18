@@ -21,4 +21,4 @@ export var repeatOneSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var fastRewind24px = [
       }
     ]
   ]
-]
+];

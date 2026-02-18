@@ -16,4 +16,4 @@ export var calendarEye16Regular = [
       }
     ]
   ]
-]
+];

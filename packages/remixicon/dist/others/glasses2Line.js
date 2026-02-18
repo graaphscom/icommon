@@ -13,4 +13,4 @@ export var glasses2Line = [
       }
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var removeShoppingCartTwotone24px = [
       }
     ]
   ]
-]
+];

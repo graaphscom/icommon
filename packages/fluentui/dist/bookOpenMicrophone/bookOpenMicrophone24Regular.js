@@ -16,4 +16,4 @@ export var bookOpenMicrophone24Regular = [
       }
     ]
   ]
-]
+];

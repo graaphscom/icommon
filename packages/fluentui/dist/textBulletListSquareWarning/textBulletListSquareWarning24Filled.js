@@ -16,4 +16,4 @@ export var textBulletListSquareWarning24Filled = [
       }
     ]
   ]
-]
+];

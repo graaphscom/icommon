@@ -21,4 +21,4 @@ export var redoTwotone24px = [
       }
     ]
   ]
-]
+];

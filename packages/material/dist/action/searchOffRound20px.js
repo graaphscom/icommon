@@ -47,4 +47,4 @@ export var searchOffRound20px = [
       ]
     ]
   ]
-]
+];

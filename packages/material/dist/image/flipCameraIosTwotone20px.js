@@ -60,4 +60,4 @@ export var flipCameraIosTwotone20px = [
       ]
     ]
   ]
-]
+];

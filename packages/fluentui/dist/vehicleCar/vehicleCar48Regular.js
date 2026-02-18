@@ -16,4 +16,4 @@ export var vehicleCar48Regular = [
       }
     ]
   ]
-]
+];

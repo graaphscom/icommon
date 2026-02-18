@@ -63,4 +63,4 @@ export var personSearchRound24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var image24Regular = [
       }
     ]
   ]
-]
+];

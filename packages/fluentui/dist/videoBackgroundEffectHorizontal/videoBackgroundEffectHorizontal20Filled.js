@@ -16,4 +16,4 @@ export var videoBackgroundEffectHorizontal20Filled = [
       }
     ]
   ]
-]
+];

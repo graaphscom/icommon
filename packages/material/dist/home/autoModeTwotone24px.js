@@ -71,4 +71,4 @@ export var autoModeTwotone24px = [
       ]
     ]
   ]
-]
+];

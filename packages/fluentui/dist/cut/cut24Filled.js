@@ -16,4 +16,4 @@ export var cut24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var insertInvitationOutlined24px = [
       }
     ]
   ]
-]
+];

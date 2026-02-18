@@ -41,4 +41,4 @@ export var satelliteAltSharp24px = [
       ]
     ]
   ]
-]
+];

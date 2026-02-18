@@ -22,4 +22,4 @@ export var httpOutlined24px = [
       }
     ]
   ]
-]
+];

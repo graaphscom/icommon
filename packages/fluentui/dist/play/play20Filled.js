@@ -16,4 +16,4 @@ export var play20Filled = [
       }
     ]
   ]
-]
+];

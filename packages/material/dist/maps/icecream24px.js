@@ -36,4 +36,4 @@ export var icecream24px = [
       ]
     ]
   ]
-]
+];

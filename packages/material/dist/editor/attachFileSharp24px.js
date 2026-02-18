@@ -14,4 +14,4 @@ export var attachFileSharp24px = [
       }
     ]
   ]
-]
+];

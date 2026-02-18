@@ -55,4 +55,4 @@ export var designServicesSharp24px = [
       ]
     ]
   ]
-]
+];

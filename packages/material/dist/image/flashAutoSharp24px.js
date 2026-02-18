@@ -21,4 +21,4 @@ export var flashAutoSharp24px = [
       }
     ]
   ]
-]
+];

@@ -14,4 +14,4 @@ export var insertEmoticonSharp24px = [
       }
     ]
   ]
-]
+];

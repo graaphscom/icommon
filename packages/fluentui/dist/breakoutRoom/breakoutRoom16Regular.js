@@ -16,4 +16,4 @@ export var breakoutRoom16Regular = [
       }
     ]
   ]
-]
+];

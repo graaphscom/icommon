@@ -29,4 +29,4 @@ export var subscriptSharp20px = [
       ]
     ]
   ]
-]
+];

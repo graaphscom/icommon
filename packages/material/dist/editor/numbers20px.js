@@ -35,4 +35,4 @@ export var numbers20px = [
       ]
     ]
   ]
-]
+];

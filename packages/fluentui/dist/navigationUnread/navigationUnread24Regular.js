@@ -16,4 +16,4 @@ export var navigationUnread24Regular = [
       }
     ]
   ]
-]
+];

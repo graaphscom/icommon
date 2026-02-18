@@ -21,4 +21,4 @@ export var highlightOff24px = [
       }
     ]
   ]
-]
+];

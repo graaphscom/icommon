@@ -40,4 +40,4 @@ export var hdrOnSelectSharp24px = [
       ]
     ]
   ]
-]
+];

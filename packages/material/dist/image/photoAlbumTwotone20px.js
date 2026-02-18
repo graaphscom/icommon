@@ -55,4 +55,4 @@ export var photoAlbumTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var wifiWarning24Filled = [
       }
     ]
   ]
-]
+];

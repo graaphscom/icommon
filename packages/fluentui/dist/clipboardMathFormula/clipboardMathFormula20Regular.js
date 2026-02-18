@@ -16,4 +16,4 @@ export var clipboardMathFormula20Regular = [
       }
     ]
   ]
-]
+];

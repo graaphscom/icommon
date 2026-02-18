@@ -83,4 +83,4 @@ export var sportsHockeyTwotone20px = [
       ]
     ]
   ]
-]
+];

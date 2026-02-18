@@ -21,4 +21,4 @@ export var forumOutlined24px = [
       }
     ]
   ]
-]
+];

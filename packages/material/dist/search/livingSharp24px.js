@@ -52,4 +52,4 @@ export var livingSharp24px = [
       ]
     ]
   ]
-]
+];

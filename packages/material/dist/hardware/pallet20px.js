@@ -47,4 +47,4 @@ export var pallet20px = [
       ]
     ]
   ]
-]
+];

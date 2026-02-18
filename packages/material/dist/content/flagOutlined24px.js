@@ -21,4 +21,4 @@ export var flagOutlined24px = [
       }
     ]
   ]
-]
+];

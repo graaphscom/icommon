@@ -21,4 +21,4 @@ export var localPostOffice24px = [
       }
     ]
   ]
-]
+];

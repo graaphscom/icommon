@@ -21,4 +21,4 @@ export var voiceOverOffRound24px = [
       }
     ]
   ]
-]
+];

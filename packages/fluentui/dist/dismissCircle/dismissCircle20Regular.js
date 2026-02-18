@@ -16,4 +16,4 @@ export var dismissCircle20Regular = [
       }
     ]
   ]
-]
+];

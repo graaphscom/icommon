@@ -16,4 +16,4 @@ export var dualScreenPagination24Regular = [
       }
     ]
   ]
-]
+];

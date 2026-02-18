@@ -16,4 +16,4 @@ export var handRightOff16Regular = [
       }
     ]
   ]
-]
+];

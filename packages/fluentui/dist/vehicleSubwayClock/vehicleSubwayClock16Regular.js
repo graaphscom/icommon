@@ -16,4 +16,4 @@ export var vehicleSubwayClock16Regular = [
       }
     ]
   ]
-]
+];

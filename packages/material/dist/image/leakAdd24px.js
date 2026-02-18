@@ -21,4 +21,4 @@ export var leakAdd24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textQuoteOpening16Regular = [
       }
     ]
   ]
-]
+];

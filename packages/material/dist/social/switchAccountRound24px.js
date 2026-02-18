@@ -35,4 +35,4 @@ export var switchAccountRound24px = [
       ]
     ]
   ]
-]
+];

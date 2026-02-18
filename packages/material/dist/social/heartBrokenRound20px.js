@@ -41,4 +41,4 @@ export var heartBrokenRound20px = [
       ]
     ]
   ]
-]
+];

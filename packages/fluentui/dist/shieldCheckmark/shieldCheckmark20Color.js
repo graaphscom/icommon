@@ -167,4 +167,4 @@ export var shieldCheckmark20Color = [
       ]
     ]
   ]
-]
+];

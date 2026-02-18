@@ -21,4 +21,4 @@ export var moodSharp24px = [
       }
     ]
   ]
-]
+];

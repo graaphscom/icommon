@@ -23,4 +23,4 @@ export var fontDownloadOffOutlined20px = [
       }
     ]
   ]
-]
+];

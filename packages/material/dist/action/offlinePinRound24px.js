@@ -21,4 +21,4 @@ export var offlinePinRound24px = [
       }
     ]
   ]
-]
+];

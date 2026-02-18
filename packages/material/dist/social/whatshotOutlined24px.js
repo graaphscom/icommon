@@ -21,4 +21,4 @@ export var whatshotOutlined24px = [
       }
     ]
   ]
-]
+];

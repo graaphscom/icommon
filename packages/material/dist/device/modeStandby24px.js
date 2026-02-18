@@ -40,4 +40,4 @@ export var modeStandby24px = [
       ]
     ]
   ]
-]
+];

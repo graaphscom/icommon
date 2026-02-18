@@ -222,4 +222,4 @@ export var blobbeeThoughtBubble = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tabletSpeaker20Regular = [
       }
     ]
   ]
-]
+];

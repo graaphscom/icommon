@@ -16,4 +16,4 @@ export var rewind16Filled = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var noteTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var ecoOutlined24px = [
       ]
     ]
   ]
-]
+];

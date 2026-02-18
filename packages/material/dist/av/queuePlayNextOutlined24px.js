@@ -21,4 +21,4 @@ export var queuePlayNextOutlined24px = [
       }
     ]
   ]
-]
+];

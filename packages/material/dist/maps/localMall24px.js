@@ -21,4 +21,4 @@ export var localMall24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var cribRound20px = [
       }
     ]
   ]
-]
+];

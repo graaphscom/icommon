@@ -16,4 +16,4 @@ export var umbrella24Filled = [
       }
     ]
   ]
-]
+];

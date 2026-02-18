@@ -23,4 +23,4 @@ export var appsOutageRound24px = [
       }
     ]
   ]
-]
+];

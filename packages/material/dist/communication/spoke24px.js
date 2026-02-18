@@ -23,4 +23,4 @@ export var spoke24px = [
       }
     ]
   ]
-]
+];

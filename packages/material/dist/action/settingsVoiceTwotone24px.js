@@ -28,4 +28,4 @@ export var settingsVoiceTwotone24px = [
       }
     ]
   ]
-]
+];

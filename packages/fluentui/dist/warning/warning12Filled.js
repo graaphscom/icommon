@@ -16,4 +16,4 @@ export var warning12Filled = [
       }
     ]
   ]
-]
+];

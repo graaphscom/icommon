@@ -56,4 +56,4 @@ export var printDisabledTwotone24px = [
       }
     ]
   ]
-]
+];

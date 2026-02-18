@@ -35,4 +35,4 @@ export var frontLoader20px = [
       ]
     ]
   ]
-]
+];

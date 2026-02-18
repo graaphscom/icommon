@@ -16,4 +16,4 @@ export var documentTextExtract48Regular = [
       }
     ]
   ]
-]
+];

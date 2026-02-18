@@ -35,4 +35,4 @@ export var zoomInMapRound24px = [
       ]
     ]
   ]
-]
+];

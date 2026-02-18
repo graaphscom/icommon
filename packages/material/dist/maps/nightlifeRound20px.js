@@ -47,4 +47,4 @@ export var nightlifeRound20px = [
       ]
     ]
   ]
-]
+];

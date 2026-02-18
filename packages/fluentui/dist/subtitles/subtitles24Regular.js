@@ -16,4 +16,4 @@ export var subtitles24Regular = [
       }
     ]
   ]
-]
+];

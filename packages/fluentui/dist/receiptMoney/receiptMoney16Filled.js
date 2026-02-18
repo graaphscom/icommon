@@ -16,4 +16,4 @@ export var receiptMoney16Filled = [
       }
     ]
   ]
-]
+];

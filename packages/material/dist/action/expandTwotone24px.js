@@ -34,4 +34,4 @@ export var expandTwotone24px = [
       ]
     ]
   ]
-]
+];

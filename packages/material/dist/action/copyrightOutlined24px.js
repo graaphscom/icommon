@@ -21,4 +21,4 @@ export var copyrightOutlined24px = [
       }
     ]
   ]
-]
+];

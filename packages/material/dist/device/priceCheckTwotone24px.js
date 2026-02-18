@@ -46,4 +46,4 @@ export var priceCheckTwotone24px = [
       ]
     ]
   ]
-]
+];

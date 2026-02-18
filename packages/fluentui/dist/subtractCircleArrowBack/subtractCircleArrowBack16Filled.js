@@ -16,4 +16,4 @@ export var subtractCircleArrowBack16Filled = [
       }
     ]
   ]
-]
+];

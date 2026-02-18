@@ -45,4 +45,4 @@ export var toysOutlined20px = [
       ]
     ]
   ]
-]
+];

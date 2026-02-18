@@ -16,4 +16,4 @@ export var clockPause20Filled = [
       }
     ]
   ]
-]
+];

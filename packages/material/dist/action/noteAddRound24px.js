@@ -21,4 +21,4 @@ export var noteAddRound24px = [
       }
     ]
   ]
-]
+];

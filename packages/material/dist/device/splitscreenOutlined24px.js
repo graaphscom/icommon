@@ -40,4 +40,4 @@ export var splitscreenOutlined24px = [
       ]
     ]
   ]
-]
+];

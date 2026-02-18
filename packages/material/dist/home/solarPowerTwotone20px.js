@@ -129,4 +129,4 @@ export var solarPowerTwotone20px = [
       ]
     ]
   ]
-]
+];

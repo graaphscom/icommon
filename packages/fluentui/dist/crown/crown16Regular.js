@@ -16,4 +16,4 @@ export var crown16Regular = [
       }
     ]
   ]
-]
+];

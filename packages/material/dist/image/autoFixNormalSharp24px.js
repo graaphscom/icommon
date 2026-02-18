@@ -48,4 +48,4 @@ export var autoFixNormalSharp24px = [
       ]
     ]
   ]
-]
+];

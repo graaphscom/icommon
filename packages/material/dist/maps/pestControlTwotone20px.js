@@ -70,4 +70,4 @@ export var pestControlTwotone20px = [
       ]
     ]
   ]
-]
+];

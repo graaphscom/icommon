@@ -28,4 +28,4 @@ export var receiptTwotone24px = [
       }
     ]
   ]
-]
+];

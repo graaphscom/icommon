@@ -21,4 +21,4 @@ export var powerOutlined24px = [
       }
     ]
   ]
-]
+];

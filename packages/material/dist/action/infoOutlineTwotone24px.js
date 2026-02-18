@@ -35,4 +35,4 @@ export var infoOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

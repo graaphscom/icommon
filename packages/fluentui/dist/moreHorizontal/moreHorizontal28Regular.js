@@ -16,4 +16,4 @@ export var moreHorizontal28Regular = [
       }
     ]
   ]
-]
+];

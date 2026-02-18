@@ -16,4 +16,4 @@ export var cloudCheckmark20Regular = [
       }
     ]
   ]
-]
+];

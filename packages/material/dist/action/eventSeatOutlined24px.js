@@ -21,4 +21,4 @@ export var eventSeatOutlined24px = [
       }
     ]
   ]
-]
+];

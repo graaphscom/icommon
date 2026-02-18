@@ -35,4 +35,4 @@ export var shieldMoonSharp24px = [
       ]
     ]
   ]
-]
+];

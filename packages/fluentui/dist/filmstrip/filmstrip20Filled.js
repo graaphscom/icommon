@@ -16,4 +16,4 @@ export var filmstrip20Filled = [
       }
     ]
   ]
-]
+];

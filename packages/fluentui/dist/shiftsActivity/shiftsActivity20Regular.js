@@ -16,4 +16,4 @@ export var shiftsActivity20Regular = [
       }
     ]
   ]
-]
+];

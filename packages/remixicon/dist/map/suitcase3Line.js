@@ -13,4 +13,4 @@ export var suitcase3Line = [
       }
     ]
   ]
-]
+];

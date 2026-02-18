@@ -47,4 +47,4 @@ export var psychologySharp24px = [
       ]
     ]
   ]
-]
+];

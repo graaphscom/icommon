@@ -28,4 +28,4 @@ export var addToHomeScreen24px = [
       }
     ]
   ]
-]
+];

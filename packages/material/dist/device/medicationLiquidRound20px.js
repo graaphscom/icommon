@@ -53,4 +53,4 @@ export var medicationLiquidRound20px = [
       ]
     ]
   ]
-]
+];

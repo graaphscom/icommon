@@ -21,4 +21,4 @@ export var permScanWifi24px = [
       }
     ]
   ]
-]
+];

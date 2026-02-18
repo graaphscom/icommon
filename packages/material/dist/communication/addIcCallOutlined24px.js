@@ -21,4 +21,4 @@ export var addIcCallOutlined24px = [
       }
     ]
   ]
-]
+];

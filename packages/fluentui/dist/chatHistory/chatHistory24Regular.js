@@ -16,4 +16,4 @@ export var chatHistory24Regular = [
       }
     ]
   ]
-]
+];

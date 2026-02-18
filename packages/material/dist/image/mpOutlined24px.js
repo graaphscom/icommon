@@ -53,4 +53,4 @@ export var mpOutlined24px = [
       ]
     ]
   ]
-]
+];

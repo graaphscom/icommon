@@ -30,4 +30,4 @@ export var bungalowTwotone24px = [
       }
     ]
   ]
-]
+];

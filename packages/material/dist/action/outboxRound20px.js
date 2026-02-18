@@ -47,4 +47,4 @@ export var outboxRound20px = [
       ]
     ]
   ]
-]
+];

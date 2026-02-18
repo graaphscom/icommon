@@ -16,4 +16,4 @@ export var doorArrowLeft24Filled = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var vapeFreeRound20px = [
       ]
     ]
   ]
-]
+];

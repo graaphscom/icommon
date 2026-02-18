@@ -16,4 +16,4 @@ export var serviceBell24Filled = [
       }
     ]
   ]
-]
+];

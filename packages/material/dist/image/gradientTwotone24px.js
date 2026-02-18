@@ -21,4 +21,4 @@ export var gradientTwotone24px = [
       }
     ]
   ]
-]
+];

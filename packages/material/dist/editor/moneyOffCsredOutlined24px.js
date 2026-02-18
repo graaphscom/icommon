@@ -21,4 +21,4 @@ export var moneyOffCsredOutlined24px = [
       }
     ]
   ]
-]
+];

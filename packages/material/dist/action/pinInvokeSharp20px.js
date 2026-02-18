@@ -23,4 +23,4 @@ export var pinInvokeSharp20px = [
       }
     ]
   ]
-]
+];

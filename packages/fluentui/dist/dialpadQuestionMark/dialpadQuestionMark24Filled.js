@@ -16,4 +16,4 @@ export var dialpadQuestionMark24Filled = [
       }
     ]
   ]
-]
+];

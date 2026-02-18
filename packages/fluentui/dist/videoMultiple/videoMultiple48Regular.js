@@ -16,4 +16,4 @@ export var videoMultiple48Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var exposureZeroOutlined24px = [
       }
     ]
   ]
-]
+];

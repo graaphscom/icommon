@@ -16,4 +16,4 @@ export var deleteOff24Filled = [
       }
     ]
   ]
-]
+];

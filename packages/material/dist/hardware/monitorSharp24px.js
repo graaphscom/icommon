@@ -42,4 +42,4 @@ export var monitorSharp24px = [
       ]
     ]
   ]
-]
+];

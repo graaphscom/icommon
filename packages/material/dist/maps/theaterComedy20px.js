@@ -49,4 +49,4 @@ export var theaterComedy20px = [
       ]
     ]
   ]
-]
+];

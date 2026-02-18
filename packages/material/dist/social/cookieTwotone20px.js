@@ -72,4 +72,4 @@ export var cookieTwotone20px = [
       ]
     ]
   ]
-]
+];

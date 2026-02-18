@@ -23,4 +23,4 @@ export var invertColorsOffRound24px = [
       }
     ]
   ]
-]
+];

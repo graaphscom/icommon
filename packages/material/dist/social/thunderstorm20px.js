@@ -53,4 +53,4 @@ export var thunderstorm20px = [
       ]
     ]
   ]
-]
+];

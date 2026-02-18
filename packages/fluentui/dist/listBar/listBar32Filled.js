@@ -16,4 +16,4 @@ export var listBar32Filled = [
       }
     ]
   ]
-]
+];

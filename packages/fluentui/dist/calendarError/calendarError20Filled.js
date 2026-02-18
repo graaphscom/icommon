@@ -16,4 +16,4 @@ export var calendarError20Filled = [
       }
     ]
   ]
-]
+];

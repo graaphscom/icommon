@@ -16,4 +16,4 @@ export var laptopOff20Regular = [
       }
     ]
   ]
-]
+];

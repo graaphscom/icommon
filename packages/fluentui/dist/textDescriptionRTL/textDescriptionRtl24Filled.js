@@ -16,4 +16,4 @@ export var textDescriptionRtl24Filled = [
       }
     ]
   ]
-]
+];

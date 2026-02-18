@@ -56,4 +56,4 @@ export var timerOff20px = [
       ]
     ]
   ]
-]
+];

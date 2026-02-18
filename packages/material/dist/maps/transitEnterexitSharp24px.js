@@ -21,4 +21,4 @@ export var transitEnterexitSharp24px = [
       }
     ]
   ]
-]
+];

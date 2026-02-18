@@ -28,4 +28,4 @@ export var insertInvitationTwotone24px = [
       }
     ]
   ]
-]
+];

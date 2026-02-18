@@ -54,4 +54,4 @@ export var pixTwotone24px = [
       ]
     ]
   ]
-]
+];

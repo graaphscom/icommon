@@ -63,4 +63,4 @@ export var mopedTwotone24px = [
       ]
     ]
   ]
-]
+];

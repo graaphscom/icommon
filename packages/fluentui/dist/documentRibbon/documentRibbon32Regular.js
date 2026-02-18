@@ -16,4 +16,4 @@ export var documentRibbon32Regular = [
       }
     ]
   ]
-]
+];

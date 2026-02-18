@@ -56,4 +56,4 @@ export var joinFullTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personCall16Regular = [
       }
     ]
   ]
-]
+];

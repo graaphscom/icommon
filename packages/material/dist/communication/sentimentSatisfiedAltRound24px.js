@@ -37,4 +37,4 @@ export var sentimentSatisfiedAltRound24px = [
       }
     ]
   ]
-]
+];

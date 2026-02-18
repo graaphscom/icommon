@@ -48,4 +48,4 @@ export var outputOutlined20px = [
       ]
     ]
   ]
-]
+];

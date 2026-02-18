@@ -16,4 +16,4 @@ export var circleOff20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textWordCount24Filled = [
       }
     ]
   ]
-]
+];

@@ -90,4 +90,4 @@ export var peopleAltOutlined20px = [
       ]
     ]
   ]
-]
+];

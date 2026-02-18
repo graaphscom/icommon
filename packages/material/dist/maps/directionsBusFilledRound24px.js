@@ -37,4 +37,4 @@ export var directionsBusFilledRound24px = [
       ]
     ]
   ]
-]
+];

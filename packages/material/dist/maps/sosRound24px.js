@@ -43,4 +43,4 @@ export var sosRound24px = [
       ]
     ]
   ]
-]
+];

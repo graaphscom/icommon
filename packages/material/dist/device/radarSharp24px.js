@@ -40,4 +40,4 @@ export var radarSharp24px = [
       ]
     ]
   ]
-]
+];

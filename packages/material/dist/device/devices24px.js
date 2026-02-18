@@ -21,4 +21,4 @@ export var devices24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var colorLine16Filled = [
       }
     ]
   ]
-]
+];

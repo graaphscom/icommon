@@ -47,4 +47,4 @@ export var shieldMoonOutlined24px = [
       ]
     ]
   ]
-]
+];

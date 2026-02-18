@@ -21,4 +21,4 @@ export var addAlertTwotone24px = [
       }
     ]
   ]
-]
+];

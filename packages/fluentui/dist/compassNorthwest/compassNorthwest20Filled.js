@@ -16,4 +16,4 @@ export var compassNorthwest20Filled = [
       }
     ]
   ]
-]
+];

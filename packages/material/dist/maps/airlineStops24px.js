@@ -23,4 +23,4 @@ export var airlineStops24px = [
       }
     ]
   ]
-]
+];

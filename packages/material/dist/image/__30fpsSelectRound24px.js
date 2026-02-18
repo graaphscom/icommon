@@ -41,4 +41,4 @@ export var __30fpsSelectRound24px = [
       ]
     ]
   ]
-]
+];

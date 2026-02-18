@@ -43,4 +43,4 @@ export var runCircleRound24px = [
       ]
     ]
   ]
-]
+];

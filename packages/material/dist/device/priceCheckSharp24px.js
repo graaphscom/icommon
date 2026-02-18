@@ -46,4 +46,4 @@ export var priceCheckSharp24px = [
       ]
     ]
   ]
-]
+];

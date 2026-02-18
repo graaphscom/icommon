@@ -16,4 +16,4 @@ export var document32Light = [
       }
     ]
   ]
-]
+];

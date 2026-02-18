@@ -16,4 +16,4 @@ export var drinkBottleOff20Regular = [
       }
     ]
   ]
-]
+];

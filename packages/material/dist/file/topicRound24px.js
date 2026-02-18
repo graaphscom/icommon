@@ -29,4 +29,4 @@ export var topicRound24px = [
       ]
     ]
   ]
-]
+];

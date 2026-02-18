@@ -53,4 +53,4 @@ export var mopedRound20px = [
       ]
     ]
   ]
-]
+];

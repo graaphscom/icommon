@@ -28,4 +28,4 @@ export var thumbDownTwotone24px = [
       }
     ]
   ]
-]
+];

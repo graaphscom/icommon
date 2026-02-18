@@ -16,4 +16,4 @@ export var subtractCircle24Filled = [
       }
     ]
   ]
-]
+];

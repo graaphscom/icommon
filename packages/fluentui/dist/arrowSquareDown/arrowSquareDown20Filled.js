@@ -16,4 +16,4 @@ export var arrowSquareDown20Filled = [
       }
     ]
   ]
-]
+];

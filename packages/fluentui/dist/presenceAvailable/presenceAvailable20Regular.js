@@ -16,4 +16,4 @@ export var presenceAvailable20Regular = [
       }
     ]
   ]
-]
+];

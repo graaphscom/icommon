@@ -16,4 +16,4 @@ export var couch20Filled = [
       }
     ]
   ]
-]
+];

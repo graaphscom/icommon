@@ -21,4 +21,4 @@ export var insertDriveFile24px = [
       }
     ]
   ]
-]
+];

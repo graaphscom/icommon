@@ -57,4 +57,4 @@ export var stroller24px = [
       ]
     ]
   ]
-]
+];

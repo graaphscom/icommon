@@ -23,4 +23,4 @@ export var connectingAirportsRound20px = [
       }
     ]
   ]
-]
+];

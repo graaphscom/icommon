@@ -23,4 +23,4 @@ export var eastOutlined24px = [
       }
     ]
   ]
-]
+];

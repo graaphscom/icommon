@@ -23,4 +23,4 @@ export var addTaskSharp24px = [
       }
     ]
   ]
-]
+];

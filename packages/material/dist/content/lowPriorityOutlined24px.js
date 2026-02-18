@@ -21,4 +21,4 @@ export var lowPriorityOutlined24px = [
       }
     ]
   ]
-]
+];

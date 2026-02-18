@@ -16,4 +16,4 @@ export var moneySettings20Filled = [
       }
     ]
   ]
-]
+];

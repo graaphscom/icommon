@@ -16,4 +16,4 @@ export var micOff16Regular = [
       }
     ]
   ]
-]
+];

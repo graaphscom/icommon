@@ -24,4 +24,4 @@ export var paraglidingOutlined20px = [
       }
     ]
   ]
-]
+];

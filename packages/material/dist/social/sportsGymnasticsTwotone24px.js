@@ -35,4 +35,4 @@ export var sportsGymnasticsTwotone24px = [
       ]
     ]
   ]
-]
+];

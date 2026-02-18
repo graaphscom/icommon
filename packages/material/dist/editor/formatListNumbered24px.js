@@ -21,4 +21,4 @@ export var formatListNumbered24px = [
       }
     ]
   ]
-]
+];

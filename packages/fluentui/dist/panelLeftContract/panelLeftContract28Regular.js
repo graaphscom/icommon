@@ -16,4 +16,4 @@ export var panelLeftContract28Regular = [
       }
     ]
   ]
-]
+];

@@ -43,4 +43,4 @@ export var sentimentNeutralOutlined24px = [
       }
     ]
   ]
-]
+];

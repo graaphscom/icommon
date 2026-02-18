@@ -21,4 +21,4 @@ export var ballotOutlined24px = [
       }
     ]
   ]
-]
+];

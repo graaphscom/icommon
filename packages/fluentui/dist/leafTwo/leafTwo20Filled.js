@@ -16,4 +16,4 @@ export var leafTwo20Filled = [
       }
     ]
   ]
-]
+];

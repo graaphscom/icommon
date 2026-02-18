@@ -13,4 +13,4 @@ export var plug3Line = [
       }
     ]
   ]
-]
+];

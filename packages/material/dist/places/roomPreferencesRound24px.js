@@ -29,4 +29,4 @@ export var roomPreferencesRound24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var saveAsRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var clipboardMonth24Regular = [
       }
     ]
   ]
-]
+];

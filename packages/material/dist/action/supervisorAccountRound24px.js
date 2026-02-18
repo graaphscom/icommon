@@ -21,4 +21,4 @@ export var supervisorAccountRound24px = [
       }
     ]
   ]
-]
+];

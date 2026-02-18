@@ -21,4 +21,4 @@ export var contactPhoneRound24px = [
       }
     ]
   ]
-]
+];

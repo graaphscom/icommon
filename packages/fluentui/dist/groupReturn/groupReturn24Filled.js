@@ -16,4 +16,4 @@ export var groupReturn24Filled = [
       }
     ]
   ]
-]
+];

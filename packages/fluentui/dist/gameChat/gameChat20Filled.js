@@ -16,4 +16,4 @@ export var gameChat20Filled = [
       }
     ]
   ]
-]
+];

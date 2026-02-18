@@ -16,4 +16,4 @@ export var memory16Regular = [
       }
     ]
   ]
-]
+];

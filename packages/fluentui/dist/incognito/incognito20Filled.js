@@ -16,4 +16,4 @@ export var incognito20Filled = [
       }
     ]
   ]
-]
+];

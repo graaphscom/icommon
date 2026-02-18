@@ -29,4 +29,4 @@ export var hotTubOutlined24px = [
       }
     ]
   ]
-]
+];

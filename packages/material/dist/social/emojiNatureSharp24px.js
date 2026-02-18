@@ -51,4 +51,4 @@ export var emojiNatureSharp24px = [
       ]
     ]
   ]
-]
+];

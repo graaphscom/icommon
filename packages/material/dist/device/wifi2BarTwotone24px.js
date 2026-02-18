@@ -38,4 +38,4 @@ export var wifi2BarTwotone24px = [
       ]
     ]
   ]
-]
+];

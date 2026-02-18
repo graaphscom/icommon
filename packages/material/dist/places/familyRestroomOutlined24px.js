@@ -29,4 +29,4 @@ export var familyRestroomOutlined24px = [
       ]
     ]
   ]
-]
+];

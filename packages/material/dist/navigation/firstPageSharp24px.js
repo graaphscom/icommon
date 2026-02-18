@@ -22,4 +22,4 @@ export var firstPageSharp24px = [
       }
     ]
   ]
-]
+];

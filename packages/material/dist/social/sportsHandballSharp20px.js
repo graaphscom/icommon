@@ -57,4 +57,4 @@ export var sportsHandballSharp20px = [
       ]
     ]
   ]
-]
+];

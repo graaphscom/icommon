@@ -16,4 +16,4 @@ export var patch24Filled = [
       }
     ]
   ]
-]
+];

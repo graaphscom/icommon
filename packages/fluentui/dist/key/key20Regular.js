@@ -16,4 +16,4 @@ export var key20Regular = [
       }
     ]
   ]
-]
+];

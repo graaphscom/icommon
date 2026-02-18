@@ -16,4 +16,4 @@ export var personCircle16Regular = [
       }
     ]
   ]
-]
+];

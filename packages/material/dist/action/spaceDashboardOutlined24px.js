@@ -23,4 +23,4 @@ export var spaceDashboardOutlined24px = [
       }
     ]
   ]
-]
+];

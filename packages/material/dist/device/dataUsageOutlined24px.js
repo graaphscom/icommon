@@ -21,4 +21,4 @@ export var dataUsageOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textCaseLowercase24Filled = [
       }
     ]
   ]
-]
+];

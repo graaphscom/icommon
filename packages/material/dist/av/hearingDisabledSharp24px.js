@@ -29,4 +29,4 @@ export var hearingDisabledSharp24px = [
       ]
     ]
   ]
-]
+];

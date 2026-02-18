@@ -13,4 +13,4 @@ export var menu2Fill = [
       }
     ]
   ]
-]
+];

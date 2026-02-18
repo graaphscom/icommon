@@ -16,4 +16,4 @@ export var textMore24Regular = [
       }
     ]
   ]
-]
+];

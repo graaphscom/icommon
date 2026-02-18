@@ -16,4 +16,4 @@ export var lockClosed32Regular = [
       }
     ]
   ]
-]
+];

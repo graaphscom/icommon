@@ -125,4 +125,4 @@ export var qrCodeOutlined24px = [
       ]
     ]
   ]
-]
+];

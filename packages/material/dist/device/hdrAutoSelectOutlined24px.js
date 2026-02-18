@@ -70,4 +70,4 @@ export var hdrAutoSelectOutlined24px = [
       ]
     ]
   ]
-]
+];

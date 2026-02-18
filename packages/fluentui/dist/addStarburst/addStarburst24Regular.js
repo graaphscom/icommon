@@ -16,4 +16,4 @@ export var addStarburst24Regular = [
       }
     ]
   ]
-]
+];

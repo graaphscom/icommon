@@ -250,4 +250,4 @@ export var documentEdit24Color = [
       ]
     ]
   ]
-]
+];

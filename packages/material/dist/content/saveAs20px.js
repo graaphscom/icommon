@@ -35,4 +35,4 @@ export var saveAs20px = [
       ]
     ]
   ]
-]
+];

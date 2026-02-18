@@ -16,4 +16,4 @@ export var laptopShield16Filled = [
       }
     ]
   ]
-]
+];

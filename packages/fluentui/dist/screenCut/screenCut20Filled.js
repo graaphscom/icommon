@@ -86,4 +86,4 @@ export var screenCut20Filled = [
       }
     ]
   ]
-]
+];

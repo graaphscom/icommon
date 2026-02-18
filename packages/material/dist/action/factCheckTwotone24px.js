@@ -81,4 +81,4 @@ export var factCheckTwotone24px = [
       ]
     ]
   ]
-]
+];

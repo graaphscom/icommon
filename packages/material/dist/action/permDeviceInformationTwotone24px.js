@@ -28,4 +28,4 @@ export var permDeviceInformationTwotone24px = [
       }
     ]
   ]
-]
+];

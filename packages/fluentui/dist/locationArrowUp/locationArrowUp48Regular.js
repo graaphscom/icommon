@@ -16,4 +16,4 @@ export var locationArrowUp48Regular = [
       }
     ]
   ]
-]
+];

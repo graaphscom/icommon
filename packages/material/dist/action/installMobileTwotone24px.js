@@ -67,4 +67,4 @@ export var installMobileTwotone24px = [
       ]
     ]
   ]
-]
+];

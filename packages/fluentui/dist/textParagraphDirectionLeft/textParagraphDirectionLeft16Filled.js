@@ -16,4 +16,4 @@ export var textParagraphDirectionLeft16Filled = [
       }
     ]
   ]
-]
+];

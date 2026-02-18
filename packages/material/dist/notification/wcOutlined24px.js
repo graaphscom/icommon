@@ -21,4 +21,4 @@ export var wcOutlined24px = [
       }
     ]
   ]
-]
+];

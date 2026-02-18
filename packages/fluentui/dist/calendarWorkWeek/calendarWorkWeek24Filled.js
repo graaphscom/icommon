@@ -16,4 +16,4 @@ export var calendarWorkWeek24Filled = [
       }
     ]
   ]
-]
+];

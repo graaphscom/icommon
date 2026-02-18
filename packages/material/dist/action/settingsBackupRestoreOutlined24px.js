@@ -21,4 +21,4 @@ export var settingsBackupRestoreOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -78,4 +78,4 @@ export var adfScannerTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var megaphoneOff20Regular = [
       }
     ]
   ]
-]
+];

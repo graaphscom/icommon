@@ -21,4 +21,4 @@ export var attachMoneyRound24px = [
       }
     ]
   ]
-]
+];

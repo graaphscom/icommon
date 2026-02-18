@@ -14,4 +14,4 @@ export var formatBoldSharp24px = [
       }
     ]
   ]
-]
+];

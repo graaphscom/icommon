@@ -36,4 +36,4 @@ export var trySharp24px = [
       ]
     ]
   ]
-]
+];

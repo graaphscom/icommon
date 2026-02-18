@@ -23,4 +23,4 @@ export var viewWeekRound24px = [
       }
     ]
   ]
-]
+];

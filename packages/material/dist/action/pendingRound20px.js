@@ -35,4 +35,4 @@ export var pendingRound20px = [
       ]
     ]
   ]
-]
+];

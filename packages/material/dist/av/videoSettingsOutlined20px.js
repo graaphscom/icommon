@@ -54,4 +54,4 @@ export var videoSettingsOutlined20px = [
       ]
     ]
   ]
-]
+];

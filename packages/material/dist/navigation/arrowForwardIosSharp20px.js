@@ -41,4 +41,4 @@ export var arrowForwardIosSharp20px = [
       ]
     ]
   ]
-]
+];

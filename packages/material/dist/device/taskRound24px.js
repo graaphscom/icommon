@@ -34,4 +34,4 @@ export var taskRound24px = [
       ]
     ]
   ]
-]
+];

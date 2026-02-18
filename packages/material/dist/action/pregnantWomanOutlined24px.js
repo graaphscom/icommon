@@ -21,4 +21,4 @@ export var pregnantWomanOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var tireRepairRound24px = [
       ]
     ]
   ]
-]
+];

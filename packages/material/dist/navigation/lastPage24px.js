@@ -21,4 +21,4 @@ export var lastPage24px = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var homeRepairServiceOutlined24px = [
       ]
     ]
   ]
-]
+];

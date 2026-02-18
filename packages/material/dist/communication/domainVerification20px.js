@@ -47,4 +47,4 @@ export var domainVerification20px = [
       ]
     ]
   ]
-]
+];

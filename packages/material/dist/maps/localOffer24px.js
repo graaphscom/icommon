@@ -21,4 +21,4 @@ export var localOffer24px = [
       }
     ]
   ]
-]
+];

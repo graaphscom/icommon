@@ -16,4 +16,4 @@ export var documentPrint32Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var globeVideo48Regular = [
       }
     ]
   ]
-]
+];

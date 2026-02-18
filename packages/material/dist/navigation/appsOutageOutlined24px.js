@@ -23,4 +23,4 @@ export var appsOutageOutlined24px = [
       }
     ]
   ]
-]
+];

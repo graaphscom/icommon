@@ -16,4 +16,4 @@ export var boxSearch20Regular = [
       }
     ]
   ]
-]
+];

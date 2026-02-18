@@ -48,4 +48,4 @@ export var propaneTwotone24px = [
       ]
     ]
   ]
-]
+];

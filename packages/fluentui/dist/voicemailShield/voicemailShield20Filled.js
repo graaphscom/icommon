@@ -16,4 +16,4 @@ export var voicemailShield20Filled = [
       }
     ]
   ]
-]
+];

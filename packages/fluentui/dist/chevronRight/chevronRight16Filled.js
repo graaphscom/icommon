@@ -16,4 +16,4 @@ export var chevronRight16Filled = [
       }
     ]
   ]
-]
+];

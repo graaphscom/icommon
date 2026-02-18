@@ -42,4 +42,4 @@ export var safetyCheckTwotone24px = [
       ]
     ]
   ]
-]
+];

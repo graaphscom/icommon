@@ -41,4 +41,4 @@ export var keyboardCommandKey24px = [
       ]
     ]
   ]
-]
+];

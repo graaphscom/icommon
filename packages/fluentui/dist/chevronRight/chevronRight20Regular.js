@@ -16,4 +16,4 @@ export var chevronRight20Regular = [
       }
     ]
   ]
-]
+];

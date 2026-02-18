@@ -21,4 +21,4 @@ export var flipToBackSharp24px = [
       }
     ]
   ]
-]
+];

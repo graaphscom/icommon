@@ -21,4 +21,4 @@ export var __6kPlus24px = [
       }
     ]
   ]
-]
+];

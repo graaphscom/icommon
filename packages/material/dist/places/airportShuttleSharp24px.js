@@ -21,4 +21,4 @@ export var airportShuttleSharp24px = [
       }
     ]
   ]
-]
+];

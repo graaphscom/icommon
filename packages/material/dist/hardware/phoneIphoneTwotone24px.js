@@ -28,4 +28,4 @@ export var phoneIphoneTwotone24px = [
       }
     ]
   ]
-]
+];

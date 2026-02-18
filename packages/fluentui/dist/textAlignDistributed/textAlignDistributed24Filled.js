@@ -16,4 +16,4 @@ export var textAlignDistributed24Filled = [
       }
     ]
   ]
-]
+];

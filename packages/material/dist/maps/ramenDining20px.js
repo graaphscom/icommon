@@ -35,4 +35,4 @@ export var ramenDining20px = [
       ]
     ]
   ]
-]
+];

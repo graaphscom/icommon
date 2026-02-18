@@ -16,4 +16,4 @@ export var chartPerson20Filled = [
       }
     ]
   ]
-]
+];

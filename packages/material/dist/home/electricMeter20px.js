@@ -35,4 +35,4 @@ export var electricMeter20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var callConnecting20Filled = [
       }
     ]
   ]
-]
+];

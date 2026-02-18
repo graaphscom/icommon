@@ -52,4 +52,4 @@ export var manageAccountsOutlined24px = [
       ]
     ]
   ]
-]
+];

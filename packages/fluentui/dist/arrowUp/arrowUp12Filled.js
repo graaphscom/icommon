@@ -16,4 +16,4 @@ export var arrowUp12Filled = [
       }
     ]
   ]
-]
+];

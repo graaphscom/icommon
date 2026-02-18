@@ -21,4 +21,4 @@ export var labelSharp24px = [
       }
     ]
   ]
-]
+];

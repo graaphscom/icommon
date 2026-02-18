@@ -21,4 +21,4 @@ export var moreVertTwotone24px = [
       }
     ]
   ]
-]
+];

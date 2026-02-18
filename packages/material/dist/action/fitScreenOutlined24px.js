@@ -34,4 +34,4 @@ export var fitScreenOutlined24px = [
       ]
     ]
   ]
-]
+];

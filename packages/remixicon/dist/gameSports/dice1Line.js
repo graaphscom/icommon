@@ -13,4 +13,4 @@ export var dice1Line = [
       }
     ]
   ]
-]
+];

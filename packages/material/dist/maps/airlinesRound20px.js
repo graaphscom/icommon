@@ -23,4 +23,4 @@ export var airlinesRound20px = [
       }
     ]
   ]
-]
+];

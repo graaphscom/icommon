@@ -16,4 +16,4 @@ export var headsetAdd20Filled = [
       }
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var rawOnOutlined24px = [
       ]
     ]
   ]
-]
+];

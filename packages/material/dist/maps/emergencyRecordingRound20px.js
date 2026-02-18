@@ -35,4 +35,4 @@ export var emergencyRecordingRound20px = [
       ]
     ]
   ]
-]
+];

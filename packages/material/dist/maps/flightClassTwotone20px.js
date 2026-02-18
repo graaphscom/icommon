@@ -33,4 +33,4 @@ export var flightClassTwotone20px = [
       }
     ]
   ]
-]
+];

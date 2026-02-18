@@ -365,4 +365,4 @@ export var molecule28Color = [
       ]
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var pauseCircleFilledOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var dataExplorationRound24px = [
       }
     ]
   ]
-]
+];

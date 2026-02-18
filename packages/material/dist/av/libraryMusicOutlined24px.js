@@ -21,4 +21,4 @@ export var libraryMusicOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -62,4 +62,4 @@ export var bloodtypeTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -54,4 +54,4 @@ export var contentPasteSearchTwotone24px = [
       ]
     ]
   ]
-]
+];

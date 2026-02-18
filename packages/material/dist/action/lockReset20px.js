@@ -23,4 +23,4 @@ export var lockReset20px = [
       }
     ]
   ]
-]
+];

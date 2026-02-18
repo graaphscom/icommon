@@ -16,4 +16,4 @@ export var rectangleLandscapeSparkle24Regular = [
       }
     ]
   ]
-]
+];

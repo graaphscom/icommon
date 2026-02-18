@@ -21,4 +21,4 @@ export var vpnKeySharp24px = [
       }
     ]
   ]
-]
+];

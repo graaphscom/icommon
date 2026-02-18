@@ -330,4 +330,4 @@ export var bookOpenLightbulb20Color = [
       ]
     ]
   ]
-]
+];

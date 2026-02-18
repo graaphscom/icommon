@@ -21,4 +21,4 @@ export var fastRewindOutlined24px = [
       }
     ]
   ]
-]
+];

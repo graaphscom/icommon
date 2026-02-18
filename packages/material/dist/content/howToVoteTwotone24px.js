@@ -41,4 +41,4 @@ export var howToVoteTwotone24px = [
       }
     ]
   ]
-]
+];

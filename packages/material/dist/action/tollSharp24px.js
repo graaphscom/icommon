@@ -21,4 +21,4 @@ export var tollSharp24px = [
       }
     ]
   ]
-]
+];

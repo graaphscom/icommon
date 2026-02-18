@@ -21,4 +21,4 @@ export var segment24px = [
       }
     ]
   ]
-]
+];

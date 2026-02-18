@@ -29,4 +29,4 @@ export var noCellSharp24px = [
       ]
     ]
   ]
-]
+];

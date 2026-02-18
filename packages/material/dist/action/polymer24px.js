@@ -21,4 +21,4 @@ export var polymer24px = [
       }
     ]
   ]
-]
+];

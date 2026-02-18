@@ -40,4 +40,4 @@ export var screenshotOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tabGroup20Regular = [
       }
     ]
   ]
-]
+];

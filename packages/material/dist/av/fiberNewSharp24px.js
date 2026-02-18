@@ -21,4 +21,4 @@ export var fiberNewSharp24px = [
       }
     ]
   ]
-]
+];

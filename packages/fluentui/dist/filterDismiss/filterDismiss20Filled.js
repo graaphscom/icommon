@@ -16,4 +16,4 @@ export var filterDismiss20Filled = [
       }
     ]
   ]
-]
+];

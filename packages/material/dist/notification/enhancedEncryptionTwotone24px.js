@@ -28,4 +28,4 @@ export var enhancedEncryptionTwotone24px = [
       }
     ]
   ]
-]
+];

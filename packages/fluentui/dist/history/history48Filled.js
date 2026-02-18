@@ -16,4 +16,4 @@ export var history48Filled = [
       }
     ]
   ]
-]
+];

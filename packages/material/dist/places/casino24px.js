@@ -21,4 +21,4 @@ export var casino24px = [
       }
     ]
   ]
-]
+];

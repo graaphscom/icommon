@@ -16,4 +16,4 @@ export var vehicleTrailerArrowDown20Regular = [
       }
     ]
   ]
-]
+];

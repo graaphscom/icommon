@@ -16,4 +16,4 @@ export var documentPageBreak24Regular = [
       }
     ]
   ]
-]
+];

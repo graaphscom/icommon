@@ -16,4 +16,4 @@ export var calendar12Regular = [
       }
     ]
   ]
-]
+];

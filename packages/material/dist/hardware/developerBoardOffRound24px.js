@@ -29,4 +29,4 @@ export var developerBoardOffRound24px = [
       ]
     ]
   ]
-]
+];

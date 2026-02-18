@@ -21,4 +21,4 @@ export var lockOpenSharp24px = [
       }
     ]
   ]
-]
+];

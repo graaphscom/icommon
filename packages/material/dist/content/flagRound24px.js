@@ -21,4 +21,4 @@ export var flagRound24px = [
       }
     ]
   ]
-]
+];

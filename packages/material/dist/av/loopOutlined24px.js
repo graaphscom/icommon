@@ -21,4 +21,4 @@ export var loopOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var fastfoodTwotone24px = [
       }
     ]
   ]
-]
+];

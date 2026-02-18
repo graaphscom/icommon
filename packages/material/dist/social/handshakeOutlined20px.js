@@ -36,4 +36,4 @@ export var handshakeOutlined20px = [
       ]
     ]
   ]
-]
+];

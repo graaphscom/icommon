@@ -16,4 +16,4 @@ export var transparencySquare16Filled = [
       }
     ]
   ]
-]
+];

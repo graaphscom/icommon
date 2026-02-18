@@ -21,4 +21,4 @@ export var callEndOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var keyboardTabTwotone24px = [
       }
     ]
   ]
-]
+];

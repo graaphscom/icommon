@@ -21,4 +21,4 @@ export var exploreRound24px = [
       }
     ]
   ]
-]
+];

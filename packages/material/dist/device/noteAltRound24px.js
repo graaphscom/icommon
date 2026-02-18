@@ -34,4 +34,4 @@ export var noteAltRound24px = [
       ]
     ]
   ]
-]
+];

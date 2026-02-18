@@ -21,4 +21,4 @@ export var imagesearchRoller24px = [
       }
     ]
   ]
-]
+];

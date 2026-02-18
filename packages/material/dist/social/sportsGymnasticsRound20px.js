@@ -35,4 +35,4 @@ export var sportsGymnasticsRound20px = [
       ]
     ]
   ]
-]
+];

@@ -14,4 +14,4 @@ export var replay5Round24px = [
       }
     ]
   ]
-]
+];

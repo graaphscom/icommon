@@ -23,4 +23,4 @@ export var coronavirusOutlined24px = [
       }
     ]
   ]
-]
+];

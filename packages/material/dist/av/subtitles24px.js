@@ -21,4 +21,4 @@ export var subtitles24px = [
       }
     ]
   ]
-]
+];

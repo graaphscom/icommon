@@ -35,4 +35,4 @@ export var uTurnRightOutlined24px = [
       ]
     ]
   ]
-]
+];

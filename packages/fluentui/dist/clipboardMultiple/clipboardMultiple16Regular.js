@@ -16,4 +16,4 @@ export var clipboardMultiple16Regular = [
       }
     ]
   ]
-]
+];

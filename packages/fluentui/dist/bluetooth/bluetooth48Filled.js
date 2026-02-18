@@ -16,4 +16,4 @@ export var bluetooth48Filled = [
       }
     ]
   ]
-]
+];

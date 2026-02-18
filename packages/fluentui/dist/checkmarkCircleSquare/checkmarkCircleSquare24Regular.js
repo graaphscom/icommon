@@ -16,4 +16,4 @@ export var checkmarkCircleSquare24Regular = [
       }
     ]
   ]
-]
+];

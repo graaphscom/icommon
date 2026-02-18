@@ -46,4 +46,4 @@ export var playLessonSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var musicNoteOff216Regular = [
       }
     ]
   ]
-]
+];

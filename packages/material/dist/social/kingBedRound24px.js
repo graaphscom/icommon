@@ -69,4 +69,4 @@ export var kingBedRound24px = [
       ]
     ]
   ]
-]
+];

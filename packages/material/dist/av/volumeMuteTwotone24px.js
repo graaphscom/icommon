@@ -28,4 +28,4 @@ export var volumeMuteTwotone24px = [
       }
     ]
   ]
-]
+];

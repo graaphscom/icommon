@@ -21,4 +21,4 @@ export var contactSupportOutlined24px = [
       }
     ]
   ]
-]
+];

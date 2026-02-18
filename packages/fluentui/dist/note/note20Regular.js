@@ -16,4 +16,4 @@ export var note20Regular = [
       }
     ]
   ]
-]
+];

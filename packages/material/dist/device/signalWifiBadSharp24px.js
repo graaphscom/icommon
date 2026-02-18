@@ -34,4 +34,4 @@ export var signalWifiBadSharp24px = [
       ]
     ]
   ]
-]
+];

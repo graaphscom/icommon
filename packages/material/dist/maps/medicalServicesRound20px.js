@@ -41,4 +41,4 @@ export var medicalServicesRound20px = [
       ]
     ]
   ]
-]
+];

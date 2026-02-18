@@ -35,4 +35,4 @@ export var forkRightOutlined24px = [
       ]
     ]
   ]
-]
+];

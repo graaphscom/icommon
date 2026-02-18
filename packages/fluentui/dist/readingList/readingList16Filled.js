@@ -16,4 +16,4 @@ export var readingList16Filled = [
       }
     ]
   ]
-]
+];

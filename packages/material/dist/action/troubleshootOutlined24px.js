@@ -47,4 +47,4 @@ export var troubleshootOutlined24px = [
       ]
     ]
   ]
-]
+];

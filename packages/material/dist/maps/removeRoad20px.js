@@ -86,4 +86,4 @@ export var removeRoad20px = [
       ]
     ]
   ]
-]
+];

@@ -46,4 +46,4 @@ export var mobiledataOffRound24px = [
       ]
     ]
   ]
-]
+];

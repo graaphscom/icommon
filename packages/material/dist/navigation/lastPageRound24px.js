@@ -22,4 +22,4 @@ export var lastPageRound24px = [
       }
     ]
   ]
-]
+];

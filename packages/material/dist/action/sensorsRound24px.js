@@ -23,4 +23,4 @@ export var sensorsRound24px = [
       }
     ]
   ]
-]
+];

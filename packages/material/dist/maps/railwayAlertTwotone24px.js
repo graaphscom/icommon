@@ -89,4 +89,4 @@ export var railwayAlertTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var target32Filled = [
       }
     ]
   ]
-]
+];

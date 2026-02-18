@@ -29,4 +29,4 @@ export var pianoSharp20px = [
       ]
     ]
   ]
-]
+];

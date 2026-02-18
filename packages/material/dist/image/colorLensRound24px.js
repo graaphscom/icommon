@@ -21,4 +21,4 @@ export var colorLensRound24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var frontHandRound20px = [
       }
     ]
   ]
-]
+];

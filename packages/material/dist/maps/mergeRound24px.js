@@ -43,4 +43,4 @@ export var mergeRound24px = [
       ]
     ]
   ]
-]
+];

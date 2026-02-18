@@ -16,4 +16,4 @@ export var paintBucket20Regular = [
       }
     ]
   ]
-]
+];

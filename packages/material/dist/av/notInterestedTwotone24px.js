@@ -21,4 +21,4 @@ export var notInterestedTwotone24px = [
       }
     ]
   ]
-]
+];

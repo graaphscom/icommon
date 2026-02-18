@@ -16,4 +16,4 @@ export var tagLock32Regular = [
       }
     ]
   ]
-]
+];

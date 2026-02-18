@@ -71,4 +71,4 @@ export var sportsVolleyball20px = [
       ]
     ]
   ]
-]
+];

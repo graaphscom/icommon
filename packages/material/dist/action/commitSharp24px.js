@@ -35,4 +35,4 @@ export var commitSharp24px = [
       ]
     ]
   ]
-]
+];

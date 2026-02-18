@@ -16,4 +16,4 @@ export var videoLink28Filled = [
       }
     ]
   ]
-]
+];

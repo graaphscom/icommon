@@ -75,4 +75,4 @@ export var eggAltTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var castleRound24px = [
       ]
     ]
   ]
-]
+];

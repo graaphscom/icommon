@@ -16,4 +16,4 @@ export var desktopPulse24Filled = [
       }
     ]
   ]
-]
+];

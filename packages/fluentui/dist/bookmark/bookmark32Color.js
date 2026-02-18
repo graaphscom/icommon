@@ -48,4 +48,4 @@ export var bookmark32Color = [
       ]
     ]
   ]
-]
+];

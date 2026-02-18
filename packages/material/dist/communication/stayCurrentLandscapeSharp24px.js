@@ -21,4 +21,4 @@ export var stayCurrentLandscapeSharp24px = [
       }
     ]
   ]
-]
+];

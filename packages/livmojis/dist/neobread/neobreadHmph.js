@@ -143,4 +143,4 @@ export var neobreadHmph = [
       }
     ]
   ]
-]
+];

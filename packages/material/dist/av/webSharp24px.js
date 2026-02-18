@@ -51,4 +51,4 @@ export var webSharp24px = [
       ]
     ]
   ]
-]
+];

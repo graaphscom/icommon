@@ -23,4 +23,4 @@ export var personalInjurySharp20px = [
       }
     ]
   ]
-]
+];

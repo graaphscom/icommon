@@ -41,4 +41,4 @@ export var currencyRupeeTwotone24px = [
       ]
     ]
   ]
-]
+];

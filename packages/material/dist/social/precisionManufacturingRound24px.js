@@ -43,4 +43,4 @@ export var precisionManufacturingRound24px = [
       ]
     ]
   ]
-]
+];

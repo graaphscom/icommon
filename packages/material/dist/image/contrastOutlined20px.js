@@ -36,4 +36,4 @@ export var contrastOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var removeCircleOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

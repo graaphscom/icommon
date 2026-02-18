@@ -29,4 +29,4 @@ export var chargingStation24px = [
       ]
     ]
   ]
-]
+];

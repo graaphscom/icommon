@@ -16,4 +16,4 @@ export var trophyLock28Regular = [
       }
     ]
   ]
-]
+];

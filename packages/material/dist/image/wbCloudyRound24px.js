@@ -21,4 +21,4 @@ export var wbCloudyRound24px = [
       }
     ]
   ]
-]
+];

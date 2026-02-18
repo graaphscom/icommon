@@ -188,4 +188,4 @@ export var neobreadHugWolf = [
       }
     ]
   ]
-]
+];

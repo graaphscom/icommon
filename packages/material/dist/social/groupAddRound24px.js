@@ -73,4 +73,4 @@ export var groupAddRound24px = [
       ]
     ]
   ]
-]
+];

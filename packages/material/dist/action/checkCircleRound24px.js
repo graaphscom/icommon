@@ -21,4 +21,4 @@ export var checkCircleRound24px = [
       }
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var tableRowsTwotone24px = [
       }
     ]
   ]
-]
+];

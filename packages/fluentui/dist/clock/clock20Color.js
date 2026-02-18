@@ -81,4 +81,4 @@ export var clock20Color = [
       ]
     ]
   ]
-]
+];

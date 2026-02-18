@@ -425,4 +425,4 @@ export var dataLine32Color = [
       ]
     ]
   ]
-]
+];

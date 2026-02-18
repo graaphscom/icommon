@@ -48,4 +48,4 @@ export var candlestickChartOutlined20px = [
       ]
     ]
   ]
-]
+];

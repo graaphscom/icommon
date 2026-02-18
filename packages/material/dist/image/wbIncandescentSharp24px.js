@@ -21,4 +21,4 @@ export var wbIncandescentSharp24px = [
       }
     ]
   ]
-]
+];

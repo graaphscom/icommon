@@ -16,4 +16,4 @@ export var videoClip24Regular = [
       }
     ]
   ]
-]
+];

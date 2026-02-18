@@ -21,4 +21,4 @@ export var laptopChromebookSharp24px = [
       }
     ]
   ]
-]
+];

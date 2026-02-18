@@ -299,4 +299,4 @@ export var linkMultiple24Color = [
       ]
     ]
   ]
-]
+];

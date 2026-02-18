@@ -21,4 +21,4 @@ export var formatQuote24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var navigateNextTwotone24px = [
       }
     ]
   ]
-]
+];

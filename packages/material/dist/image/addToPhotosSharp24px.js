@@ -21,4 +21,4 @@ export var addToPhotosSharp24px = [
       }
     ]
   ]
-]
+];

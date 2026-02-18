@@ -29,4 +29,4 @@ export var checkroomTwotone24px = [
       ]
     ]
   ]
-]
+];

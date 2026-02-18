@@ -34,4 +34,4 @@ export var reviewsSharp24px = [
       ]
     ]
   ]
-]
+];

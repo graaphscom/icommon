@@ -23,4 +23,4 @@ export var viewListSharp24px = [
       }
     ]
   ]
-]
+];

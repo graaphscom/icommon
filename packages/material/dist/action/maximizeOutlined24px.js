@@ -21,4 +21,4 @@ export var maximizeOutlined24px = [
       }
     ]
   ]
-]
+];

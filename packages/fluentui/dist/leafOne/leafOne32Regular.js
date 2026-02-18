@@ -16,4 +16,4 @@ export var leafOne32Regular = [
       }
     ]
   ]
-]
+];

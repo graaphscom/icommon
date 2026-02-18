@@ -29,4 +29,4 @@ export var markEmailReadOutlined24px = [
       ]
     ]
   ]
-]
+];

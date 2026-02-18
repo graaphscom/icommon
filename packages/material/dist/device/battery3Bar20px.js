@@ -35,4 +35,4 @@ export var battery3Bar20px = [
       ]
     ]
   ]
-]
+];

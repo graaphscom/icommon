@@ -16,4 +16,4 @@ export var weatherSnowShowerDay48Filled = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var compass4Line = [
       }
     ]
   ]
-]
+];

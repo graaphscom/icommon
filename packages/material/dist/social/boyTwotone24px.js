@@ -41,4 +41,4 @@ export var boyTwotone24px = [
       ]
     ]
   ]
-]
+];

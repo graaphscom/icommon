@@ -16,4 +16,4 @@ export var fiberManualRecordRound24px = [
       }
     ]
   ]
-]
+];

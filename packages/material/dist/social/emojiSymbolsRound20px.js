@@ -95,4 +95,4 @@ export var emojiSymbolsRound20px = [
       ]
     ]
   ]
-]
+];

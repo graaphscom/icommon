@@ -28,4 +28,4 @@ export var downloadTwotone24px = [
       }
     ]
   ]
-]
+];

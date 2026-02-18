@@ -172,4 +172,4 @@ export var neobreadInMug = [
       }
     ]
   ]
-]
+];

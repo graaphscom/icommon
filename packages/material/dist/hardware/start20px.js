@@ -23,4 +23,4 @@ export var start20px = [
       }
     ]
   ]
-]
+];

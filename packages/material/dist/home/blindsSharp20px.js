@@ -35,4 +35,4 @@ export var blindsSharp20px = [
       ]
     ]
   ]
-]
+];

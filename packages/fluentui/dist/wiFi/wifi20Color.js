@@ -151,4 +151,4 @@ export var wifi20Color = [
       ]
     ]
   ]
-]
+];

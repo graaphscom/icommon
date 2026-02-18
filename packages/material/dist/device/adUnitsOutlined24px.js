@@ -53,4 +53,4 @@ export var adUnitsOutlined24px = [
       ]
     ]
   ]
-]
+];

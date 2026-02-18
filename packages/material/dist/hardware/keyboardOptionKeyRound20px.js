@@ -47,4 +47,4 @@ export var keyboardOptionKeyRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var localLanguage24Filled = [
       }
     ]
   ]
-]
+];

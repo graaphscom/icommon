@@ -16,4 +16,4 @@ export var flowSparkle16Regular = [
       }
     ]
   ]
-]
+];

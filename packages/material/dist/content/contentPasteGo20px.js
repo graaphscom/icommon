@@ -47,4 +47,4 @@ export var contentPasteGo20px = [
       ]
     ]
   ]
-]
+];

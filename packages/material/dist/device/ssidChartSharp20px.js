@@ -41,4 +41,4 @@ export var ssidChartSharp20px = [
       ]
     ]
   ]
-]
+];

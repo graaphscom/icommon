@@ -16,4 +16,4 @@ export var contractUpRight20Regular = [
       }
     ]
   ]
-]
+];

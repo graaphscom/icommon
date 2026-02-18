@@ -71,4 +71,4 @@ export var lightModeRound20px = [
       }
     ]
   ]
-]
+];

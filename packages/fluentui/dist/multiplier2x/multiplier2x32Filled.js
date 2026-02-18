@@ -16,4 +16,4 @@ export var multiplier2x32Filled = [
       }
     ]
   ]
-]
+];

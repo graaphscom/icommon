@@ -35,4 +35,4 @@ export var fireplaceRound20px = [
       ]
     ]
   ]
-]
+];

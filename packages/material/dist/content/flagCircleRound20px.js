@@ -41,4 +41,4 @@ export var flagCircleRound20px = [
       ]
     ]
   ]
-]
+];

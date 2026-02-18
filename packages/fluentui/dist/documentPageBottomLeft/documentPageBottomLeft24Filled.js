@@ -16,4 +16,4 @@ export var documentPageBottomLeft24Filled = [
       }
     ]
   ]
-]
+];

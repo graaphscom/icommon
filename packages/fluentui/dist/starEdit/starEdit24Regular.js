@@ -16,4 +16,4 @@ export var starEdit24Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var scaleRound20px = [
       ]
     ]
   ]
-]
+];

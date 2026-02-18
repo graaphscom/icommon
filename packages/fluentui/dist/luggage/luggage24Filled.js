@@ -16,4 +16,4 @@ export var luggage24Filled = [
       }
     ]
   ]
-]
+];

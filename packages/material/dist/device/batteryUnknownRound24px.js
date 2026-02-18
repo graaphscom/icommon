@@ -21,4 +21,4 @@ export var batteryUnknownRound24px = [
       }
     ]
   ]
-]
+];

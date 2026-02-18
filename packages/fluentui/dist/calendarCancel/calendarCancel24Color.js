@@ -218,4 +218,4 @@ export var calendarCancel24Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var eraserSegment24Regular = [
       }
     ]
   ]
-]
+];

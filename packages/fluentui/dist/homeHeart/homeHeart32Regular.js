@@ -16,4 +16,4 @@ export var homeHeart32Regular = [
       }
     ]
   ]
-]
+];

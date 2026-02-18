@@ -23,4 +23,4 @@ export var sanitizerOutlined24px = [
       }
     ]
   ]
-]
+];

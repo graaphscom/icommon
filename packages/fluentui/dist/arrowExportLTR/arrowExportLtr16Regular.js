@@ -16,4 +16,4 @@ export var arrowExportLtr16Regular = [
       }
     ]
   ]
-]
+];

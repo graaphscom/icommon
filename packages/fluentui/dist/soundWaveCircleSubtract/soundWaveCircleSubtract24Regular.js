@@ -16,4 +16,4 @@ export var soundWaveCircleSubtract24Regular = [
       }
     ]
   ]
-]
+];

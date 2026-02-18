@@ -48,4 +48,4 @@ export var electricBikeOutlined20px = [
       ]
     ]
   ]
-]
+];

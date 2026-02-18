@@ -43,4 +43,4 @@ export var panToolAltRound24px = [
       ]
     ]
   ]
-]
+];

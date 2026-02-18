@@ -14,4 +14,4 @@ export var formatPaintSharp24px = [
       }
     ]
   ]
-]
+];

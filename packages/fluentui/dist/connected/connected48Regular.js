@@ -16,4 +16,4 @@ export var connected48Regular = [
       }
     ]
   ]
-]
+];

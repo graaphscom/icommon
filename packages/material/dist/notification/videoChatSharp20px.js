@@ -35,4 +35,4 @@ export var videoChatSharp20px = [
       ]
     ]
   ]
-]
+];

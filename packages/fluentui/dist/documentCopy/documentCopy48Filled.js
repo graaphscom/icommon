@@ -16,4 +16,4 @@ export var documentCopy48Filled = [
       }
     ]
   ]
-]
+];

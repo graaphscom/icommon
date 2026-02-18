@@ -30,4 +30,4 @@ export var tty24px = [
       ]
     ]
   ]
-]
+];

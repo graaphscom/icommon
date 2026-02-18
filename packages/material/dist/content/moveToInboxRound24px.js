@@ -35,4 +35,4 @@ export var moveToInboxRound24px = [
       ]
     ]
   ]
-]
+];

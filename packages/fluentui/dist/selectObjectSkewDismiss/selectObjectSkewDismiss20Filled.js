@@ -16,4 +16,4 @@ export var selectObjectSkewDismiss20Filled = [
       }
     ]
   ]
-]
+];

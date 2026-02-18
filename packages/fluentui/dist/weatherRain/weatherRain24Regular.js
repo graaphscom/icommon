@@ -16,4 +16,4 @@ export var weatherRain24Regular = [
       }
     ]
   ]
-]
+];

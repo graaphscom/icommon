@@ -41,4 +41,4 @@ export var pushPinRound20px = [
       ]
     ]
   ]
-]
+];

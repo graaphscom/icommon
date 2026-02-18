@@ -58,4 +58,4 @@ export var pivotTableChartTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mailLink24Regular = [
       }
     ]
   ]
-]
+];

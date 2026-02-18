@@ -16,4 +16,4 @@ export var tableCopy20Filled = [
       }
     ]
   ]
-]
+];

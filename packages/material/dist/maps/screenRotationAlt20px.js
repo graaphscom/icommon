@@ -35,4 +35,4 @@ export var screenRotationAlt20px = [
       ]
     ]
   ]
-]
+];

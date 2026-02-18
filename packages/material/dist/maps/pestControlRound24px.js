@@ -49,4 +49,4 @@ export var pestControlRound24px = [
       ]
     ]
   ]
-]
+];

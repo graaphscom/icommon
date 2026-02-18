@@ -23,4 +23,4 @@ export var webAssetOffRound24px = [
       }
     ]
   ]
-]
+];

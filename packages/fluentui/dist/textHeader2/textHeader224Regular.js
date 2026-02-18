@@ -16,4 +16,4 @@ export var textHeader224Regular = [
       }
     ]
   ]
-]
+];

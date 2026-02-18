@@ -43,4 +43,4 @@ export var safetyCheckRound24px = [
       ]
     ]
   ]
-]
+];

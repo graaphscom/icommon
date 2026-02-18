@@ -21,4 +21,4 @@ export var airlineSeatFlatRound24px = [
       }
     ]
   ]
-]
+];

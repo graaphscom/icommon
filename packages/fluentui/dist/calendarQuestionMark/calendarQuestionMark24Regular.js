@@ -16,4 +16,4 @@ export var calendarQuestionMark24Regular = [
       }
     ]
   ]
-]
+];

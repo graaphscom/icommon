@@ -21,4 +21,4 @@ export var addBox24px = [
       }
     ]
   ]
-]
+];

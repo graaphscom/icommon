@@ -37,4 +37,4 @@ export var timeToLeaveOutlined24px = [
       }
     ]
   ]
-]
+];

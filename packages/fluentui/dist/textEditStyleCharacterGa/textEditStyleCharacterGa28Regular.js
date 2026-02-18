@@ -16,4 +16,4 @@ export var textEditStyleCharacterGa28Regular = [
       }
     ]
   ]
-]
+];

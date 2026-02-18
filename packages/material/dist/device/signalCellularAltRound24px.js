@@ -21,4 +21,4 @@ export var signalCellularAltRound24px = [
       }
     ]
   ]
-]
+];

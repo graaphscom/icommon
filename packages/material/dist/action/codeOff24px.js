@@ -23,4 +23,4 @@ export var codeOff24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var hearingTwotone24px = [
       }
     ]
   ]
-]
+];

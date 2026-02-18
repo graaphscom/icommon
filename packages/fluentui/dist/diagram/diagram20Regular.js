@@ -16,4 +16,4 @@ export var diagram20Regular = [
       }
     ]
   ]
-]
+];

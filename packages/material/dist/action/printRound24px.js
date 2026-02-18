@@ -21,4 +21,4 @@ export var printRound24px = [
       }
     ]
   ]
-]
+];

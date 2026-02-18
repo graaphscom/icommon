@@ -16,4 +16,4 @@ export var arrowTrendingCheckmark24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dataScatter32Regular = [
       }
     ]
   ]
-]
+];

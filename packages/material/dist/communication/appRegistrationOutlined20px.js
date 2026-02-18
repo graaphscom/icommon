@@ -146,4 +146,4 @@ export var appRegistrationOutlined20px = [
       ]
     ]
   ]
-]
+];

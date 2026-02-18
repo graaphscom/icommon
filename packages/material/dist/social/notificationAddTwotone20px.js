@@ -23,4 +23,4 @@ export var notificationAddTwotone20px = [
       }
     ]
   ]
-]
+];

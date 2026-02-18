@@ -71,4 +71,4 @@ export var carRepairTwotone20px = [
       ]
     ]
   ]
-]
+];

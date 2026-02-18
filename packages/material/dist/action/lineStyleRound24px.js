@@ -21,4 +21,4 @@ export var lineStyleRound24px = [
       }
     ]
   ]
-]
+];

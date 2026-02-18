@@ -35,4 +35,4 @@ export var listTwotone24px = [
       }
     ]
   ]
-]
+];

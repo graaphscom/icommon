@@ -21,4 +21,4 @@ export var findReplace24px = [
       }
     ]
   ]
-]
+];

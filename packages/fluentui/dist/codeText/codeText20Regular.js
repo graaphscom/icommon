@@ -16,4 +16,4 @@ export var codeText20Regular = [
       }
     ]
   ]
-]
+];

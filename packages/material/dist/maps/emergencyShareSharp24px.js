@@ -35,4 +35,4 @@ export var emergencyShareSharp24px = [
       ]
     ]
   ]
-]
+];

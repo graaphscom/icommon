@@ -36,4 +36,4 @@ export var locationOnTwotone24px = [
       }
     ]
   ]
-]
+];

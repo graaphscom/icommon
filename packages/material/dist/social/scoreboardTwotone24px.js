@@ -42,4 +42,4 @@ export var scoreboardTwotone24px = [
       ]
     ]
   ]
-]
+];

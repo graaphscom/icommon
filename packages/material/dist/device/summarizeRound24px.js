@@ -40,4 +40,4 @@ export var summarizeRound24px = [
       ]
     ]
   ]
-]
+];

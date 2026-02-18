@@ -29,4 +29,4 @@ export var fireExtinguisherTwotone24px = [
       ]
     ]
   ]
-]
+];

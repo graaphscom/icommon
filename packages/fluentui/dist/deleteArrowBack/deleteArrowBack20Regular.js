@@ -16,4 +16,4 @@ export var deleteArrowBack20Regular = [
       }
     ]
   ]
-]
+];

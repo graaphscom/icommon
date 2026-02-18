@@ -16,4 +16,4 @@ export var squareHintApps20Filled = [
       }
     ]
   ]
-]
+];

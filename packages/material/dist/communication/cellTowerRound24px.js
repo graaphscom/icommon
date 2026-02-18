@@ -73,4 +73,4 @@ export var cellTowerRound24px = [
       ]
     ]
   ]
-]
+];

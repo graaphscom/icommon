@@ -21,4 +21,4 @@ export var tapAndPlay24px = [
       }
     ]
   ]
-]
+];

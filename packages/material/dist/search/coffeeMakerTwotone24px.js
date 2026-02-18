@@ -61,4 +61,4 @@ export var coffeeMakerTwotone24px = [
       ]
     ]
   ]
-]
+];

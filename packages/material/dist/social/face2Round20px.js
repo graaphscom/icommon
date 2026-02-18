@@ -57,4 +57,4 @@ export var face2Round20px = [
       ]
     ]
   ]
-]
+];

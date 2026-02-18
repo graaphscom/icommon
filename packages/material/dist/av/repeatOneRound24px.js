@@ -14,4 +14,4 @@ export var repeatOneRound24px = [
       }
     ]
   ]
-]
+];

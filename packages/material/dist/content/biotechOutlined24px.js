@@ -35,4 +35,4 @@ export var biotechOutlined24px = [
       ]
     ]
   ]
-]
+];

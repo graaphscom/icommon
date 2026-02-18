@@ -16,4 +16,4 @@ export var scanType20Regular = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var __24HoursFill = [
       }
     ]
   ]
-]
+];

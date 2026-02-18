@@ -21,4 +21,4 @@ export var addAlarm24px = [
       }
     ]
   ]
-]
+];

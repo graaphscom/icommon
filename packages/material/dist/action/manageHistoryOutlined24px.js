@@ -35,4 +35,4 @@ export var manageHistoryOutlined24px = [
       ]
     ]
   ]
-]
+];

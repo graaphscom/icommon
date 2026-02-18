@@ -16,4 +16,4 @@ export var flagOff16Regular = [
       }
     ]
   ]
-]
+];

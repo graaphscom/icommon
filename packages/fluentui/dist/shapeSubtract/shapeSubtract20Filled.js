@@ -16,4 +16,4 @@ export var shapeSubtract20Filled = [
       }
     ]
   ]
-]
+];

@@ -42,4 +42,4 @@ export var autoAwesomeRound24px = [
       ]
     ]
   ]
-]
+];

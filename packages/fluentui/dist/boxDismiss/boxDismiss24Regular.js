@@ -16,4 +16,4 @@ export var boxDismiss24Regular = [
       }
     ]
   ]
-]
+];

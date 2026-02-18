@@ -47,4 +47,4 @@ export var handymanSharp20px = [
       ]
     ]
   ]
-]
+];

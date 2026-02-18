@@ -16,4 +16,4 @@ export var trophyOff48Filled = [
       }
     ]
   ]
-]
+];

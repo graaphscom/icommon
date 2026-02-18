@@ -66,4 +66,4 @@ export var adfScannerTwotone24px = [
       ]
     ]
   ]
-]
+];

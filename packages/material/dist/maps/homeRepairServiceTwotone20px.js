@@ -75,4 +75,4 @@ export var homeRepairServiceTwotone20px = [
       ]
     ]
   ]
-]
+];

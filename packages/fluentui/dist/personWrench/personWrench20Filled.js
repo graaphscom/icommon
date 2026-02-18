@@ -16,4 +16,4 @@ export var personWrench20Filled = [
       }
     ]
   ]
-]
+];

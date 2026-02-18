@@ -23,4 +23,4 @@ export var soupKitchenRound24px = [
       }
     ]
   ]
-]
+];

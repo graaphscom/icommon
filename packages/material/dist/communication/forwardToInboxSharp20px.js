@@ -29,4 +29,4 @@ export var forwardToInboxSharp20px = [
       ]
     ]
   ]
-]
+];

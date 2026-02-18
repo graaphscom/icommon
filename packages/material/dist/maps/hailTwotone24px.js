@@ -36,4 +36,4 @@ export var hailTwotone24px = [
       ]
     ]
   ]
-]
+];

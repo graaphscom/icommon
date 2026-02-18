@@ -28,4 +28,4 @@ export var satelliteTwotone24px = [
       }
     ]
   ]
-]
+];

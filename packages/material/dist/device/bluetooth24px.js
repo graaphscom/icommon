@@ -21,4 +21,4 @@ export var bluetooth24px = [
       }
     ]
   ]
-]
+];

@@ -114,4 +114,4 @@ export var book48Color = [
       ]
     ]
   ]
-]
+];

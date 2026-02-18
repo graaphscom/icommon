@@ -16,4 +16,4 @@ export var signOut20Filled = [
       }
     ]
   ]
-]
+];

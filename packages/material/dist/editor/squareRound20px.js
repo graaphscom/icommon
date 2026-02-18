@@ -35,4 +35,4 @@ export var squareRound20px = [
       ]
     ]
   ]
-]
+];

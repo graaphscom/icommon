@@ -16,4 +16,4 @@ export var squareHintHexagon28Filled = [
       }
     ]
   ]
-]
+];

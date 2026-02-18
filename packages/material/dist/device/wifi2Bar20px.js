@@ -44,4 +44,4 @@ export var wifi2Bar20px = [
       ]
     ]
   ]
-]
+];

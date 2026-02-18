@@ -47,4 +47,4 @@ export var lockPersonSharp20px = [
       ]
     ]
   ]
-]
+];

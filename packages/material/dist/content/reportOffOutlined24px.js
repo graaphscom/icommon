@@ -35,4 +35,4 @@ export var reportOffOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var reduceCapacityOutlined24px = [
       }
     ]
   ]
-]
+];

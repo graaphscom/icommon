@@ -16,4 +16,4 @@ export var heartOff16Filled = [
       }
     ]
   ]
-]
+];

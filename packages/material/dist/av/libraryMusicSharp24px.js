@@ -21,4 +21,4 @@ export var libraryMusicSharp24px = [
       }
     ]
   ]
-]
+];

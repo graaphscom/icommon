@@ -21,4 +21,4 @@ export var settingsApplications24px = [
       }
     ]
   ]
-]
+];

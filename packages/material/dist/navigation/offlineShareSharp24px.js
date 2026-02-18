@@ -70,4 +70,4 @@ export var offlineShareSharp24px = [
       ]
     ]
   ]
-]
+];

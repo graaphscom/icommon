@@ -16,4 +16,4 @@ export var rectangleLandscape48Regular = [
       }
     ]
   ]
-]
+];

@@ -45,4 +45,4 @@ export var groupWorkOutlined24px = [
       }
     ]
   ]
-]
+];

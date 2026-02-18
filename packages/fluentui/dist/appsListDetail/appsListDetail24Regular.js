@@ -16,4 +16,4 @@ export var appsListDetail24Regular = [
       }
     ]
   ]
-]
+];

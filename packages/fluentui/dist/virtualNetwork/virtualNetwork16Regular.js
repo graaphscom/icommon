@@ -16,4 +16,4 @@ export var virtualNetwork16Regular = [
       }
     ]
   ]
-]
+];

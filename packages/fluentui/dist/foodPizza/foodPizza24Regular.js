@@ -16,4 +16,4 @@ export var foodPizza24Regular = [
       }
     ]
   ]
-]
+];

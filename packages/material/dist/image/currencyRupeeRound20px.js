@@ -35,4 +35,4 @@ export var currencyRupeeRound20px = [
       ]
     ]
   ]
-]
+];

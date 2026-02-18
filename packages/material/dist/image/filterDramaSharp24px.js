@@ -21,4 +21,4 @@ export var filterDramaSharp24px = [
       }
     ]
   ]
-]
+];

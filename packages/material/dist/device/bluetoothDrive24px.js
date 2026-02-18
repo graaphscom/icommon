@@ -46,4 +46,4 @@ export var bluetoothDrive24px = [
       ]
     ]
   ]
-]
+];

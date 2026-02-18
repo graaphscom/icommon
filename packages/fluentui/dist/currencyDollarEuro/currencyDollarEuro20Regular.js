@@ -16,4 +16,4 @@ export var currencyDollarEuro20Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var uTurnRightTwotone24px = [
       ]
     ]
   ]
-]
+];

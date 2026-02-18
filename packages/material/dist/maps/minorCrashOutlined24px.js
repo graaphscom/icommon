@@ -35,4 +35,4 @@ export var minorCrashOutlined24px = [
       ]
     ]
   ]
-]
+];

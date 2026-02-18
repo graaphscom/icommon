@@ -16,4 +16,4 @@ export var important32Regular = [
       }
     ]
   ]
-]
+];

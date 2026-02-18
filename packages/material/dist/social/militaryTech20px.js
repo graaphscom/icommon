@@ -35,4 +35,4 @@ export var militaryTech20px = [
       ]
     ]
   ]
-]
+];

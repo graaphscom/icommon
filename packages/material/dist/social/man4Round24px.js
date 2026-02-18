@@ -57,4 +57,4 @@ export var man4Round24px = [
       ]
     ]
   ]
-]
+];

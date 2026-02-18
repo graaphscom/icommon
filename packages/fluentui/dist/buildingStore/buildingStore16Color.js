@@ -217,4 +217,4 @@ export var buildingStore16Color = [
       ]
     ]
   ]
-]
+];

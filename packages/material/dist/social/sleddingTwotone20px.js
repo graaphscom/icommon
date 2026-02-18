@@ -23,4 +23,4 @@ export var sleddingTwotone20px = [
       }
     ]
   ]
-]
+];

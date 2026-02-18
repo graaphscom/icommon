@@ -20,4 +20,4 @@ export var codescan16 = [
       }
     ]
   ]
-]
+];

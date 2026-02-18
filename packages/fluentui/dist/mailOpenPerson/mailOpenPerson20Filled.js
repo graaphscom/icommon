@@ -16,4 +16,4 @@ export var mailOpenPerson20Filled = [
       }
     ]
   ]
-]
+];

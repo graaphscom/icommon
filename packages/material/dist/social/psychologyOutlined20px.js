@@ -48,4 +48,4 @@ export var psychologyOutlined20px = [
       ]
     ]
   ]
-]
+];

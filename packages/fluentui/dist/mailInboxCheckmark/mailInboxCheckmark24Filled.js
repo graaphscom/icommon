@@ -16,4 +16,4 @@ export var mailInboxCheckmark24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentSparkle48Regular = [
       }
     ]
   ]
-]
+];

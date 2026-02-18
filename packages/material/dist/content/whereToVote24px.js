@@ -21,4 +21,4 @@ export var whereToVote24px = [
       }
     ]
   ]
-]
+];

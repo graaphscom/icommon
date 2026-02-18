@@ -67,4 +67,4 @@ export var viewInArOutlined24px = [
       ]
     ]
   ]
-]
+];

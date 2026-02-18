@@ -21,4 +21,4 @@ export var gridOffOutlined24px = [
       }
     ]
   ]
-]
+];

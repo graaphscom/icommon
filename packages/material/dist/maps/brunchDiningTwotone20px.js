@@ -64,4 +64,4 @@ export var brunchDiningTwotone20px = [
       ]
     ]
   ]
-]
+];

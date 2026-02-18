@@ -21,4 +21,4 @@ export var menuOutlined24px = [
       }
     ]
   ]
-]
+];

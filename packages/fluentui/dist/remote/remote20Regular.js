@@ -16,4 +16,4 @@ export var remote20Regular = [
       }
     ]
   ]
-]
+];

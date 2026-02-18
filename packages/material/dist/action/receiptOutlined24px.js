@@ -21,4 +21,4 @@ export var receiptOutlined24px = [
       }
     ]
   ]
-]
+];

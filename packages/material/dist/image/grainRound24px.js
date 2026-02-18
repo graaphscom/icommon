@@ -21,4 +21,4 @@ export var grainRound24px = [
       }
     ]
   ]
-]
+];

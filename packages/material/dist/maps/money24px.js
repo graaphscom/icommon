@@ -34,4 +34,4 @@ export var money24px = [
       }
     ]
   ]
-]
+];

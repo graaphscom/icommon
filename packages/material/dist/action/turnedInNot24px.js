@@ -21,4 +21,4 @@ export var turnedInNot24px = [
       }
     ]
   ]
-]
+];

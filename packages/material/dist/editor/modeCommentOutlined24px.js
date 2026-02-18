@@ -21,4 +21,4 @@ export var modeCommentOutlined24px = [
       }
     ]
   ]
-]
+];

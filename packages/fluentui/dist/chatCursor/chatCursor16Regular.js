@@ -16,4 +16,4 @@ export var chatCursor16Regular = [
       }
     ]
   ]
-]
+];

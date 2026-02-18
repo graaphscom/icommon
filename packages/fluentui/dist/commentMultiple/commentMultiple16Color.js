@@ -62,4 +62,4 @@ export var commentMultiple16Color = [
       ]
     ]
   ]
-]
+];

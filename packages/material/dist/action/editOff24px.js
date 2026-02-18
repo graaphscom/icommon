@@ -25,4 +25,4 @@ export var editOff24px = [
       }
     ]
   ]
-]
+];

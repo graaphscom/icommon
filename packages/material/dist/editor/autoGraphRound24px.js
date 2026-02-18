@@ -29,4 +29,4 @@ export var autoGraphRound24px = [
       ]
     ]
   ]
-]
+];

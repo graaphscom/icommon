@@ -47,4 +47,4 @@ export var scheduleSendSharp24px = [
       ]
     ]
   ]
-]
+];

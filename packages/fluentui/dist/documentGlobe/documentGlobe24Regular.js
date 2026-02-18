@@ -16,4 +16,4 @@ export var documentGlobe24Regular = [
       }
     ]
   ]
-]
+];

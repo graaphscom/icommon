@@ -41,4 +41,4 @@ export var percentSharp20px = [
       ]
     ]
   ]
-]
+];

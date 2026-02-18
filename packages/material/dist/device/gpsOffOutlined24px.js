@@ -21,4 +21,4 @@ export var gpsOffOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var foodApple24Filled = [
       }
     ]
   ]
-]
+];

@@ -75,4 +75,4 @@ export var postAddSharp20px = [
       ]
     ]
   ]
-]
+];

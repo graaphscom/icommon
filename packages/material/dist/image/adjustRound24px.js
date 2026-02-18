@@ -21,4 +21,4 @@ export var adjustRound24px = [
       }
     ]
   ]
-]
+];

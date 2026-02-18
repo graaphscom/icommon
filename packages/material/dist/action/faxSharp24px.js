@@ -50,4 +50,4 @@ export var faxSharp24px = [
       ]
     ]
   ]
-]
+];

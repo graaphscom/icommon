@@ -16,4 +16,4 @@ export var catchUp16Regular = [
       }
     ]
   ]
-]
+];

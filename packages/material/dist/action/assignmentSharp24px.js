@@ -21,4 +21,4 @@ export var assignmentSharp24px = [
       }
     ]
   ]
-]
+];

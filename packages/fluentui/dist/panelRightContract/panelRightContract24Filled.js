@@ -16,4 +16,4 @@ export var panelRightContract24Filled = [
       }
     ]
   ]
-]
+];

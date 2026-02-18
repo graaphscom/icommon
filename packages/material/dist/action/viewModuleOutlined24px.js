@@ -23,4 +23,4 @@ export var viewModuleOutlined24px = [
       }
     ]
   ]
-]
+];

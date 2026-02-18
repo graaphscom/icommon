@@ -41,4 +41,4 @@ export var church20px = [
       ]
     ]
   ]
-]
+];

@@ -55,4 +55,4 @@ export var commentBankRound24px = [
       ]
     ]
   ]
-]
+];

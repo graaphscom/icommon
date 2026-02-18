@@ -23,4 +23,4 @@ export var airlines20px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var callTransfer20Regular = [
       }
     ]
   ]
-]
+];

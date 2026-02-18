@@ -28,4 +28,4 @@ export var loupeTwotone24px = [
       }
     ]
   ]
-]
+];

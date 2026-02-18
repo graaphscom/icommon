@@ -21,4 +21,4 @@ export var appBlocking24px = [
       }
     ]
   ]
-]
+];

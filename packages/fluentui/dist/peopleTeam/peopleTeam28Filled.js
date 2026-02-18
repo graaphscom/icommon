@@ -16,4 +16,4 @@ export var peopleTeam28Filled = [
       }
     ]
   ]
-]
+];

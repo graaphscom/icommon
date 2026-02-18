@@ -59,4 +59,4 @@ export var candlestickChartSharp20px = [
       ]
     ]
   ]
-]
+];

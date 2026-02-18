@@ -16,4 +16,4 @@ export var boxMultipleArrowLeft20Regular = [
       }
     ]
   ]
-]
+];

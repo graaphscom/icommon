@@ -41,4 +41,4 @@ export var carCrash24px = [
       ]
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var cameraIndoorTwotone24px = [
       ]
     ]
   ]
-]
+];

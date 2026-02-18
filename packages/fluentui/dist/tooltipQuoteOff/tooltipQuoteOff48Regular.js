@@ -16,4 +16,4 @@ export var tooltipQuoteOff48Regular = [
       }
     ]
   ]
-]
+];

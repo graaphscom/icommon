@@ -264,4 +264,4 @@ export var textEditStyle20Color = [
       ]
     ]
   ]
-]
+];

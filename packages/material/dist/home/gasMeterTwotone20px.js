@@ -63,4 +63,4 @@ export var gasMeterTwotone20px = [
       ]
     ]
   ]
-]
+];

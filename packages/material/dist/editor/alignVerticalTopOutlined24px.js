@@ -23,4 +23,4 @@ export var alignVerticalTopOutlined24px = [
       }
     ]
   ]
-]
+];

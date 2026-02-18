@@ -16,4 +16,4 @@ export var arrowTrendingSparkle24Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var airlineStopsRound20px = [
       }
     ]
   ]
-]
+];

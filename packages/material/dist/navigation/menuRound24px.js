@@ -21,4 +21,4 @@ export var menuRound24px = [
       }
     ]
   ]
-]
+];

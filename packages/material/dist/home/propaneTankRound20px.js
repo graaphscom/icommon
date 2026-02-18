@@ -47,4 +47,4 @@ export var propaneTankRound20px = [
       ]
     ]
   ]
-]
+];

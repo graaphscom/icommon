@@ -21,4 +21,4 @@ export var checkOutlined24px = [
       }
     ]
   ]
-]
+];

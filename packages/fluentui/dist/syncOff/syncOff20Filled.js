@@ -16,4 +16,4 @@ export var syncOff20Filled = [
       }
     ]
   ]
-]
+];

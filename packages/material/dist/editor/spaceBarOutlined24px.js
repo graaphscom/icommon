@@ -21,4 +21,4 @@ export var spaceBarOutlined24px = [
       }
     ]
   ]
-]
+];

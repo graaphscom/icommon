@@ -21,4 +21,4 @@ export var closedCaptionOff24px = [
       }
     ]
   ]
-]
+];

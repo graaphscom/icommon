@@ -21,4 +21,4 @@ export var wifiOffTwotone24px = [
       }
     ]
   ]
-]
+];

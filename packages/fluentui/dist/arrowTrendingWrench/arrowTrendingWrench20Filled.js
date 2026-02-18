@@ -16,4 +16,4 @@ export var arrowTrendingWrench20Filled = [
       }
     ]
   ]
-]
+];

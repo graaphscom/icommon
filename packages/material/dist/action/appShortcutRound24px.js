@@ -67,4 +67,4 @@ export var appShortcutRound24px = [
       ]
     ]
   ]
-]
+];

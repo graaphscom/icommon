@@ -16,4 +16,4 @@ export var deleteLines20Regular = [
       }
     ]
   ]
-]
+];

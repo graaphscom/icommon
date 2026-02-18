@@ -16,4 +16,4 @@ export var cubeAdd20Filled = [
       }
     ]
   ]
-]
+];

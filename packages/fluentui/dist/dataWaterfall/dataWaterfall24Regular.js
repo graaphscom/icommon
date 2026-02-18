@@ -16,4 +16,4 @@ export var dataWaterfall24Regular = [
       }
     ]
   ]
-]
+];

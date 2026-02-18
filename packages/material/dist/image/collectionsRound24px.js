@@ -21,4 +21,4 @@ export var collectionsRound24px = [
       }
     ]
   ]
-]
+];

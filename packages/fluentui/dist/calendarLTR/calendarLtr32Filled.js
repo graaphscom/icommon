@@ -16,4 +16,4 @@ export var calendarLtr32Filled = [
       }
     ]
   ]
-]
+];

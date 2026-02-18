@@ -40,4 +40,4 @@ export var __60fpsRound24px = [
       ]
     ]
   ]
-]
+];

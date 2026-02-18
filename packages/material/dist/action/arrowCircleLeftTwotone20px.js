@@ -48,4 +48,4 @@ export var arrowCircleLeftTwotone20px = [
       ]
     ]
   ]
-]
+];

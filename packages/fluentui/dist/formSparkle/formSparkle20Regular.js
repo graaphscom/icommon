@@ -16,4 +16,4 @@ export var formSparkle20Regular = [
       }
     ]
   ]
-]
+];

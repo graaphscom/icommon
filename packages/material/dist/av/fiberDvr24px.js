@@ -48,4 +48,4 @@ export var fiberDvr24px = [
       ]
     ]
   ]
-]
+];

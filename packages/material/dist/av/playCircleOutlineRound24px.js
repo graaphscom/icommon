@@ -14,4 +14,4 @@ export var playCircleOutlineRound24px = [
       }
     ]
   ]
-]
+];

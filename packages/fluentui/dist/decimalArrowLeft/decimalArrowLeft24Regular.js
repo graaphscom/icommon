@@ -16,4 +16,4 @@ export var decimalArrowLeft24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var importExportRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var mapDrive20Regular = [
       }
     ]
   ]
-]
+];

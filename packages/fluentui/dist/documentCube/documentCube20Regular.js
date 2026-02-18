@@ -16,4 +16,4 @@ export var documentCube20Regular = [
       }
     ]
   ]
-]
+];

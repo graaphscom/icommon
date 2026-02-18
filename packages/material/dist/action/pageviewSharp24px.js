@@ -21,4 +21,4 @@ export var pageviewSharp24px = [
       }
     ]
   ]
-]
+];

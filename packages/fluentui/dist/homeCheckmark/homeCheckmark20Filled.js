@@ -16,4 +16,4 @@ export var homeCheckmark20Filled = [
       }
     ]
   ]
-]
+];

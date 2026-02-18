@@ -28,4 +28,4 @@ export var accessAlarmTwotone24px = [
       }
     ]
   ]
-]
+];

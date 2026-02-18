@@ -47,4 +47,4 @@ export var monitorHeartRound20px = [
       ]
     ]
   ]
-]
+];

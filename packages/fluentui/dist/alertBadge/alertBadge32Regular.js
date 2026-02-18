@@ -16,4 +16,4 @@ export var alertBadge32Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var subjectRound24px = [
       }
     ]
   ]
-]
+];

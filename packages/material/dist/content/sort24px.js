@@ -21,4 +21,4 @@ export var sort24px = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var cookieSharp20px = [
       ]
     ]
   ]
-]
+];

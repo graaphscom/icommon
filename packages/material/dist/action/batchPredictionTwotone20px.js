@@ -36,4 +36,4 @@ export var batchPredictionTwotone20px = [
       ]
     ]
   ]
-]
+];

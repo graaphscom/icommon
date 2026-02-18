@@ -16,4 +16,4 @@ export var subtractSquare24Regular = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var controlCameraSharp24px = [
       }
     ]
   ]
-]
+];

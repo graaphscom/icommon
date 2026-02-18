@@ -109,4 +109,4 @@ export var qrCodeRound24px = [
       ]
     ]
   ]
-]
+];

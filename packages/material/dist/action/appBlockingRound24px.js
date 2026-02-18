@@ -41,4 +41,4 @@ export var appBlockingRound24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var highlightRound24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var interpreterModeOutlined20px = [
       }
     ]
   ]
-]
+];

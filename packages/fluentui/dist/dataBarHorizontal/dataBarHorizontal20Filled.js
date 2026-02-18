@@ -16,4 +16,4 @@ export var dataBarHorizontal20Filled = [
       }
     ]
   ]
-]
+];

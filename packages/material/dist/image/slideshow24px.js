@@ -21,4 +21,4 @@ export var slideshow24px = [
       }
     ]
   ]
-]
+];

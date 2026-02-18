@@ -48,4 +48,4 @@ export var headsetOffSharp24px = [
       ]
     ]
   ]
-]
+];

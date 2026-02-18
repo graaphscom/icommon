@@ -21,4 +21,4 @@ export var localPlayOutlined24px = [
       }
     ]
   ]
-]
+];

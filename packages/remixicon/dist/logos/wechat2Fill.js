@@ -13,4 +13,4 @@ export var wechat2Fill = [
       }
     ]
   ]
-]
+];

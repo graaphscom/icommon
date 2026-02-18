@@ -16,4 +16,4 @@ export var resizeImage20Regular = [
       }
     ]
   ]
-]
+];

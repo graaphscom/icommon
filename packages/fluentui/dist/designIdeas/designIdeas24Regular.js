@@ -16,4 +16,4 @@ export var designIdeas24Regular = [
       }
     ]
   ]
-]
+];

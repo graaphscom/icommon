@@ -23,4 +23,4 @@ export var sendToMobile24px = [
       }
     ]
   ]
-]
+];

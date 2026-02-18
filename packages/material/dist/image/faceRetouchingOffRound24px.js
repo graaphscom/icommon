@@ -55,4 +55,4 @@ export var faceRetouchingOffRound24px = [
       ]
     ]
   ]
-]
+];

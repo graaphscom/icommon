@@ -21,4 +21,4 @@ export var compassCalibrationOutlined24px = [
       }
     ]
   ]
-]
+];

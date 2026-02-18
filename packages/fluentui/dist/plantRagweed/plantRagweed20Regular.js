@@ -16,4 +16,4 @@ export var plantRagweed20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentFlowchart24Regular = [
       }
     ]
   ]
-]
+];

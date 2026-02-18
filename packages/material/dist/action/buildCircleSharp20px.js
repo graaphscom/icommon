@@ -42,4 +42,4 @@ export var buildCircleSharp20px = [
       ]
     ]
   ]
-]
+];

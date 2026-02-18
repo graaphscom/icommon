@@ -21,4 +21,4 @@ export var replySharp24px = [
       }
     ]
   ]
-]
+];

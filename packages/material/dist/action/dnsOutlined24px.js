@@ -21,4 +21,4 @@ export var dnsOutlined24px = [
       }
     ]
   ]
-]
+];

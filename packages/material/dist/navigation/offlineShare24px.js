@@ -21,4 +21,4 @@ export var offlineShare24px = [
       }
     ]
   ]
-]
+];

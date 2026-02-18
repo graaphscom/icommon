@@ -13,4 +13,4 @@ export var equalizer2Fill = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var calendarSettings24Filled = [
       }
     ]
   ]
-]
+];

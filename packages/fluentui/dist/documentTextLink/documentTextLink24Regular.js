@@ -16,4 +16,4 @@ export var documentTextLink24Regular = [
       }
     ]
   ]
-]
+];

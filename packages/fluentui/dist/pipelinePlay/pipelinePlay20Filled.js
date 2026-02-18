@@ -16,4 +16,4 @@ export var pipelinePlay20Filled = [
       }
     ]
   ]
-]
+];

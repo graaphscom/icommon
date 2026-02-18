@@ -92,4 +92,4 @@ export var __20mpTwotone24px = [
       ]
     ]
   ]
-]
+];

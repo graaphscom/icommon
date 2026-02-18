@@ -16,4 +16,4 @@ export var documentText32Regular = [
       }
     ]
   ]
-]
+];

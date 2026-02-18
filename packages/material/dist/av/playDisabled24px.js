@@ -21,4 +21,4 @@ export var playDisabled24px = [
       }
     ]
   ]
-]
+];

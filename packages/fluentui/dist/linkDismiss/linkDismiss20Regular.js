@@ -16,4 +16,4 @@ export var linkDismiss20Regular = [
       }
     ]
   ]
-]
+];

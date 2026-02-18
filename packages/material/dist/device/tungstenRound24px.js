@@ -70,4 +70,4 @@ export var tungstenRound24px = [
       ]
     ]
   ]
-]
+];

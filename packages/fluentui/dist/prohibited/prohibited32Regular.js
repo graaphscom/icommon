@@ -16,4 +16,4 @@ export var prohibited32Regular = [
       }
     ]
   ]
-]
+];

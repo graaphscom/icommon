@@ -46,4 +46,4 @@ export var mapsHomeWork24px = [
       ]
     ]
   ]
-]
+];

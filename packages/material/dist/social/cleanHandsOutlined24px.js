@@ -23,4 +23,4 @@ export var cleanHandsOutlined24px = [
       }
     ]
   ]
-]
+];

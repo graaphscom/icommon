@@ -16,4 +16,4 @@ export var sticker32Regular = [
       }
     ]
   ]
-]
+];

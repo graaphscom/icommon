@@ -16,4 +16,4 @@ export var radioButtonOff16Regular = [
       }
     ]
   ]
-]
+];

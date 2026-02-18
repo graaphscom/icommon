@@ -146,4 +146,4 @@ export var circleMultipleHintCheckmark28Color = [
       ]
     ]
   ]
-]
+];

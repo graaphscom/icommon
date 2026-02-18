@@ -16,4 +16,4 @@ export var rowChild32Regular = [
       }
     ]
   ]
-]
+];

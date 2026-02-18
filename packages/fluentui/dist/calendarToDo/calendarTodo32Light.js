@@ -16,4 +16,4 @@ export var calendarTodo32Light = [
       }
     ]
   ]
-]
+];

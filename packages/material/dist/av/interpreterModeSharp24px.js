@@ -23,4 +23,4 @@ export var interpreterModeSharp24px = [
       }
     ]
   ]
-]
+];

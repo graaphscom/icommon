@@ -16,4 +16,4 @@ export var diamond24Filled = [
       }
     ]
   ]
-]
+];

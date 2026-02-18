@@ -16,4 +16,4 @@ export var borderTopBottom20Filled = [
       }
     ]
   ]
-]
+];

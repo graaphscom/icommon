@@ -34,4 +34,4 @@ export var circleNotificationsSharp24px = [
       ]
     ]
   ]
-]
+];

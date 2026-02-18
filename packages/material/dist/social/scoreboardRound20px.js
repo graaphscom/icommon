@@ -35,4 +35,4 @@ export var scoreboardRound20px = [
       ]
     ]
   ]
-]
+];

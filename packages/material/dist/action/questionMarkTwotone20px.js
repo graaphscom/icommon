@@ -35,4 +35,4 @@ export var questionMarkTwotone20px = [
       ]
     ]
   ]
-]
+];

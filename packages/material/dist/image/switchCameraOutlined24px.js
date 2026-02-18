@@ -27,4 +27,4 @@ export var switchCameraOutlined24px = [
       }
     ]
   ]
-]
+];

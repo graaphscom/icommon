@@ -14,4 +14,4 @@ export var mouseRound24px = [
       }
     ]
   ]
-]
+];

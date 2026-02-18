@@ -16,4 +16,4 @@ export var eyeOff20Filled = [
       }
     ]
   ]
-]
+];

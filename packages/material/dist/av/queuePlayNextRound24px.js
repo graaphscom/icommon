@@ -14,4 +14,4 @@ export var queuePlayNextRound24px = [
       }
     ]
   ]
-]
+];

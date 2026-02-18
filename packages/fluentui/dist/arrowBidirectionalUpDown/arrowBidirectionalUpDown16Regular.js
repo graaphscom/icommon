@@ -16,4 +16,4 @@ export var arrowBidirectionalUpDown16Regular = [
       }
     ]
   ]
-]
+];

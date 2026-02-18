@@ -47,4 +47,4 @@ export var filterAltOffRound24px = [
       ]
     ]
   ]
-]
+];

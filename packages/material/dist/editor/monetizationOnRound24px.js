@@ -21,4 +21,4 @@ export var monetizationOnRound24px = [
       }
     ]
   ]
-]
+];

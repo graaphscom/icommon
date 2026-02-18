@@ -16,4 +16,4 @@ export var fluent48Filled = [
       }
     ]
   ]
-]
+];

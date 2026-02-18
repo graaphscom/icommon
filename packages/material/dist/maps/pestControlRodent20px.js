@@ -35,4 +35,4 @@ export var pestControlRodent20px = [
       ]
     ]
   ]
-]
+];

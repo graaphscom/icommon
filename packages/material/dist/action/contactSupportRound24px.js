@@ -21,4 +21,4 @@ export var contactSupportRound24px = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var dynamicFormTwotone24px = [
       ]
     ]
   ]
-]
+];

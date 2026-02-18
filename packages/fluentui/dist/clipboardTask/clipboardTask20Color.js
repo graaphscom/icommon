@@ -185,4 +185,4 @@ export var clipboardTask20Color = [
       ]
     ]
   ]
-]
+];

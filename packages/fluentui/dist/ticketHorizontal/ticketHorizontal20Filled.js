@@ -16,4 +16,4 @@ export var ticketHorizontal20Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var filter7Sharp24px = [
       }
     ]
   ]
-]
+];

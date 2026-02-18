@@ -16,4 +16,4 @@ export var textBulletListSquareSparkle20Regular = [
       }
     ]
   ]
-]
+];

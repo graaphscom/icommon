@@ -13,4 +13,4 @@ export var pencilAi2Fill = [
       }
     ]
   ]
-]
+];

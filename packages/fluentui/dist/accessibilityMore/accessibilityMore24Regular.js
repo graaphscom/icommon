@@ -16,4 +16,4 @@ export var accessibilityMore24Regular = [
       }
     ]
   ]
-]
+];

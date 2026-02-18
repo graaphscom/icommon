@@ -46,4 +46,4 @@ export var restartAlt24px = [
       ]
     ]
   ]
-]
+];

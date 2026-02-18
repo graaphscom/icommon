@@ -21,4 +21,4 @@ export var airlineSeatLegroomReducedOutlined24px = [
       }
     ]
   ]
-]
+];

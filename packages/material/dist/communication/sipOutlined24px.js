@@ -35,4 +35,4 @@ export var sipOutlined24px = [
       ]
     ]
   ]
-]
+];

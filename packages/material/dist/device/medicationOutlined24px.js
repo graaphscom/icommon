@@ -40,4 +40,4 @@ export var medicationOutlined24px = [
       ]
     ]
   ]
-]
+];

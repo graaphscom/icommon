@@ -53,4 +53,4 @@ export var diversity220px = [
       ]
     ]
   ]
-]
+];

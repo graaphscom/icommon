@@ -16,4 +16,4 @@ export var inprivateAccount28Regular = [
       }
     ]
   ]
-]
+];

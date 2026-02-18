@@ -16,4 +16,4 @@ export var tvArrowRight20Regular = [
       }
     ]
   ]
-]
+];

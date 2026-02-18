@@ -53,4 +53,4 @@ export var joinLeftSharp20px = [
       ]
     ]
   ]
-]
+];

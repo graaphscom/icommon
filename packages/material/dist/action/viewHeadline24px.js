@@ -21,4 +21,4 @@ export var viewHeadline24px = [
       }
     ]
   ]
-]
+];

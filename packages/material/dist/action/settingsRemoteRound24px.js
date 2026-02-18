@@ -53,4 +53,4 @@ export var settingsRemoteRound24px = [
       ]
     ]
   ]
-]
+];

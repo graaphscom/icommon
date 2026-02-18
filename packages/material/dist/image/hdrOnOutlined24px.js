@@ -21,4 +21,4 @@ export var hdrOnOutlined24px = [
       }
     ]
   ]
-]
+];

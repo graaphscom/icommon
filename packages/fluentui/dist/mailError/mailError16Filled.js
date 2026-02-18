@@ -16,4 +16,4 @@ export var mailError16Filled = [
       }
     ]
   ]
-]
+];

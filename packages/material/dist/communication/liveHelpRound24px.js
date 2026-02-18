@@ -21,4 +21,4 @@ export var liveHelpRound24px = [
       }
     ]
   ]
-]
+];

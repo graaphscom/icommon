@@ -249,4 +249,4 @@ export var premium16Color = [
       ]
     ]
   ]
-]
+];

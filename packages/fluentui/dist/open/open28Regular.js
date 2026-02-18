@@ -16,4 +16,4 @@ export var open28Regular = [
       }
     ]
   ]
-]
+];

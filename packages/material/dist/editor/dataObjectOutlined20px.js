@@ -48,4 +48,4 @@ export var dataObjectOutlined20px = [
       ]
     ]
   ]
-]
+];

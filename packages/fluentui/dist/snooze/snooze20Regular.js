@@ -16,4 +16,4 @@ export var snooze20Regular = [
       }
     ]
   ]
-]
+];

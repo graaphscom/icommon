@@ -16,4 +16,4 @@ export var folderList16Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var findReplaceTwotone24px = [
       }
     ]
   ]
-]
+];

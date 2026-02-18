@@ -23,4 +23,4 @@ export var waterDamageRound24px = [
       }
     ]
   ]
-]
+];

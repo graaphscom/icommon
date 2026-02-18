@@ -21,4 +21,4 @@ export var cropLandscapeRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var squareTextArrowRepeatAll24Filled = [
       }
     ]
   ]
-]
+];

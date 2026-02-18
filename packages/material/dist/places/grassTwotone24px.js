@@ -23,4 +23,4 @@ export var grassTwotone24px = [
       }
     ]
   ]
-]
+];

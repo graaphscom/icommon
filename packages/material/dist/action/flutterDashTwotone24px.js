@@ -43,4 +43,4 @@ export var flutterDashTwotone24px = [
       ]
     ]
   ]
-]
+];

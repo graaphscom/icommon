@@ -16,4 +16,4 @@ export var hourglass20Filled = [
       }
     ]
   ]
-]
+];

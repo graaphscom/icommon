@@ -28,4 +28,4 @@ export var insertChartTwotone24px = [
       }
     ]
   ]
-]
+];

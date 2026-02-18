@@ -30,4 +30,4 @@ export var addLocationAltTwotone24px = [
       }
     ]
   ]
-]
+];

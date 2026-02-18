@@ -16,4 +16,4 @@ export var tableSearch24Filled = [
       }
     ]
   ]
-]
+];

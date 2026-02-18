@@ -35,4 +35,4 @@ export var singleBedRound20px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var __9kPlusSharp24px = [
       ]
     ]
   ]
-]
+];

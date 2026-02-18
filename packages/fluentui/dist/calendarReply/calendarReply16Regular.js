@@ -16,4 +16,4 @@ export var calendarReply16Regular = [
       }
     ]
   ]
-]
+];

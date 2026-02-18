@@ -35,4 +35,4 @@ export var vapeFreeSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -213,4 +213,4 @@ export var coinMultiple16Color = [
       ]
     ]
   ]
-]
+];

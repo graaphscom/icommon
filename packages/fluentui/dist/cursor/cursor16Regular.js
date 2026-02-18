@@ -16,4 +16,4 @@ export var cursor16Regular = [
       }
     ]
   ]
-]
+];

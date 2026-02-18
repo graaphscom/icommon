@@ -29,4 +29,4 @@ export var topicSharp24px = [
       ]
     ]
   ]
-]
+];

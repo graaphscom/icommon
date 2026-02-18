@@ -41,4 +41,4 @@ export var ecoSharp20px = [
       ]
     ]
   ]
-]
+];

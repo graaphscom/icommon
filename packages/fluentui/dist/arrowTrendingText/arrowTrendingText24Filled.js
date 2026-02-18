@@ -16,4 +16,4 @@ export var arrowTrendingText24Filled = [
       }
     ]
   ]
-]
+];

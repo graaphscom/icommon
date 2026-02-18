@@ -16,4 +16,4 @@ export var panelLeftKey24Regular = [
       }
     ]
   ]
-]
+];

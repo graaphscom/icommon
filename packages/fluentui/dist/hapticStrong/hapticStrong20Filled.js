@@ -16,4 +16,4 @@ export var hapticStrong20Filled = [
       }
     ]
   ]
-]
+];

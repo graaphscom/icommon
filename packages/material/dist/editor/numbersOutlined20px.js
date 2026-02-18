@@ -36,4 +36,4 @@ export var numbersOutlined20px = [
       ]
     ]
   ]
-]
+];

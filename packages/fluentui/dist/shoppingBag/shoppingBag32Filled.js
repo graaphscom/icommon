@@ -16,4 +16,4 @@ export var shoppingBag32Filled = [
       }
     ]
   ]
-]
+];

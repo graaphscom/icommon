@@ -21,4 +21,4 @@ export var accountBalanceRound24px = [
       }
     ]
   ]
-]
+];

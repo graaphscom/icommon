@@ -69,4 +69,4 @@ export var adminPanelSettingsTwotone24px = [
       ]
     ]
   ]
-]
+];

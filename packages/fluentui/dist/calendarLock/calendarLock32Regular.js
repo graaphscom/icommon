@@ -16,4 +16,4 @@ export var calendarLock32Regular = [
       }
     ]
   ]
-]
+];

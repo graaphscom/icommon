@@ -16,4 +16,4 @@ export var notepadSparkle20Regular = [
       }
     ]
   ]
-]
+];

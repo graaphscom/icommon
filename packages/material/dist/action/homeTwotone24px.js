@@ -28,4 +28,4 @@ export var homeTwotone24px = [
       }
     ]
   ]
-]
+];

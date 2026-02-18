@@ -16,4 +16,4 @@ export var clockWarning16Filled = [
       }
     ]
   ]
-]
+];

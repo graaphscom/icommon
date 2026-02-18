@@ -47,4 +47,4 @@ export var hlsOff20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var phonePausedRound24px = [
       }
     ]
   ]
-]
+];

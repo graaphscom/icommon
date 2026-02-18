@@ -16,4 +16,4 @@ export var textColumnOneWide24Filled = [
       }
     ]
   ]
-]
+];

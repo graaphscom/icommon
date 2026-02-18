@@ -16,4 +16,4 @@ export var personDesktop20Regular = [
       }
     ]
   ]
-]
+];

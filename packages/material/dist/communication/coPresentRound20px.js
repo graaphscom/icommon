@@ -55,4 +55,4 @@ export var coPresentRound20px = [
       ]
     ]
   ]
-]
+];

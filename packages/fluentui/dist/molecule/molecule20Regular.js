@@ -16,4 +16,4 @@ export var molecule20Regular = [
       }
     ]
   ]
-]
+];

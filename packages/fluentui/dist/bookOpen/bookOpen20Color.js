@@ -148,4 +148,4 @@ export var bookOpen20Color = [
       ]
     ]
   ]
-]
+];

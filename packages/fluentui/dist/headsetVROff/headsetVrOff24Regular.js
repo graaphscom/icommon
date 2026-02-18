@@ -16,4 +16,4 @@ export var headsetVrOff24Regular = [
       }
     ]
   ]
-]
+];

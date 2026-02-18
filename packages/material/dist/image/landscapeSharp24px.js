@@ -21,4 +21,4 @@ export var landscapeSharp24px = [
       }
     ]
   ]
-]
+];

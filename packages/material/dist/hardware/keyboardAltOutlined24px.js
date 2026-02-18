@@ -42,4 +42,4 @@ export var keyboardAltOutlined24px = [
       ]
     ]
   ]
-]
+];

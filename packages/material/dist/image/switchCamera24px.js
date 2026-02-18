@@ -21,4 +21,4 @@ export var switchCamera24px = [
       }
     ]
   ]
-]
+];

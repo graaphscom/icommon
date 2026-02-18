@@ -43,4 +43,4 @@ export var oilBarrelRound24px = [
       ]
     ]
   ]
-]
+];

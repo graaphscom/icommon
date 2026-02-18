@@ -31,4 +31,4 @@ export var noTransferTwotone24px = [
       }
     ]
   ]
-]
+];

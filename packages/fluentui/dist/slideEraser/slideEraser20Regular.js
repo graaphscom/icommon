@@ -16,4 +16,4 @@ export var slideEraser20Regular = [
       }
     ]
   ]
-]
+];

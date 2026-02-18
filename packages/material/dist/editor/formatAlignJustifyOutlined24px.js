@@ -21,4 +21,4 @@ export var formatAlignJustifyOutlined24px = [
       }
     ]
   ]
-]
+];

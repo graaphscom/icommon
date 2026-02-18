@@ -29,4 +29,4 @@ export var soupKitchenRound20px = [
       ]
     ]
   ]
-]
+];

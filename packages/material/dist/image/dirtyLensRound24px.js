@@ -35,4 +35,4 @@ export var dirtyLensRound24px = [
       ]
     ]
   ]
-]
+];

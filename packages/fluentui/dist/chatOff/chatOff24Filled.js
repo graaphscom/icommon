@@ -23,4 +23,4 @@ export var chatOff24Filled = [
       }
     ]
   ]
-]
+];

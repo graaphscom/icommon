@@ -16,4 +16,4 @@ export var clipboardArrowRight20Regular = [
       }
     ]
   ]
-]
+];

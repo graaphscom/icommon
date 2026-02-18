@@ -21,4 +21,4 @@ export var filterHdr24px = [
       }
     ]
   ]
-]
+];

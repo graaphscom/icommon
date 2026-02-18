@@ -35,4 +35,4 @@ export var blinds24px = [
       ]
     ]
   ]
-]
+];

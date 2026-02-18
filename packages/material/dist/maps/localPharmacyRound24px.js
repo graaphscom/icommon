@@ -21,4 +21,4 @@ export var localPharmacyRound24px = [
       }
     ]
   ]
-]
+];

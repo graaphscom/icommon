@@ -35,4 +35,4 @@ export var localFireDepartmentOutlined24px = [
       ]
     ]
   ]
-]
+];

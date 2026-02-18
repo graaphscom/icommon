@@ -16,4 +16,4 @@ export var sineWaveDots16Regular = [
       }
     ]
   ]
-]
+];

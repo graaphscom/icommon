@@ -40,4 +40,4 @@ export var wifiTetheringErrorOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var pauseCircleOutlineSharp24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var invertColorsTwotone24px = [
       ]
     ]
   ]
-]
+];

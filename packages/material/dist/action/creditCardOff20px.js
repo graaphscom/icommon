@@ -23,4 +23,4 @@ export var creditCardOff20px = [
       }
     ]
   ]
-]
+];

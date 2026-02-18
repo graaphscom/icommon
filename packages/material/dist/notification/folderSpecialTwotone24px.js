@@ -28,4 +28,4 @@ export var folderSpecialTwotone24px = [
       }
     ]
   ]
-]
+];

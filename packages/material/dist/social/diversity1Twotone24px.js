@@ -104,4 +104,4 @@ export var diversity1Twotone24px = [
       ]
     ]
   ]
-]
+];

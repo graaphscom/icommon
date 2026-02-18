@@ -76,4 +76,4 @@ export var menuBookTwotone24px = [
       ]
     ]
   ]
-]
+];

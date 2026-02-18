@@ -16,4 +16,4 @@ export var voicemail48Filled = [
       }
     ]
   ]
-]
+];

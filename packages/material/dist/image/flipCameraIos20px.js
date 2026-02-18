@@ -41,4 +41,4 @@ export var flipCameraIos20px = [
       ]
     ]
   ]
-]
+];

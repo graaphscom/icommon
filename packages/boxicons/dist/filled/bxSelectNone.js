@@ -104,4 +104,4 @@ export var bxSelectNone = [
       }
     ]
   ]
-]
+];

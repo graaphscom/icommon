@@ -48,4 +48,4 @@ export var yardSharp24px = [
       ]
     ]
   ]
-]
+];

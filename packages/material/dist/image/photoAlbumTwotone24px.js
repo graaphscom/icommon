@@ -30,4 +30,4 @@ export var photoAlbumTwotone24px = [
       }
     ]
   ]
-]
+];

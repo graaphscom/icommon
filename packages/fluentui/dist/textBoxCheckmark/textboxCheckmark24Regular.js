@@ -16,4 +16,4 @@ export var textboxCheckmark24Regular = [
       }
     ]
   ]
-]
+];

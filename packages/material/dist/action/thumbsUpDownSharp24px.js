@@ -21,4 +21,4 @@ export var thumbsUpDownSharp24px = [
       }
     ]
   ]
-]
+];

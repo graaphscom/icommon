@@ -37,4 +37,4 @@ export var horizontalRuleRound24px = [
       ]
     ]
   ]
-]
+];

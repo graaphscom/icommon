@@ -16,4 +16,4 @@ export var squareAdd20Regular = [
       }
     ]
   ]
-]
+];

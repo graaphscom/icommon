@@ -16,4 +16,4 @@ export var lineThickness20Regular = [
       }
     ]
   ]
-]
+];

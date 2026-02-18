@@ -16,4 +16,4 @@ export var tableCellCenterArrowRepeatAll20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tagSearch20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var vehicleTruck20Filled = [
       }
     ]
   ]
-]
+];

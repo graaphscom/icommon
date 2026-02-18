@@ -35,4 +35,4 @@ export var panToolAlt24px = [
       ]
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var cssOutlined20px = [
       ]
     ]
   ]
-]
+];

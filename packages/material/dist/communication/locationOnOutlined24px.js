@@ -29,4 +29,4 @@ export var locationOnOutlined24px = [
       }
     ]
   ]
-]
+];

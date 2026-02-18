@@ -35,4 +35,4 @@ export var mergeSharp20px = [
       ]
     ]
   ]
-]
+];

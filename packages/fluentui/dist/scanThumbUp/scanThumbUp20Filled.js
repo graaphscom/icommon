@@ -16,4 +16,4 @@ export var scanThumbUp20Filled = [
       }
     ]
   ]
-]
+];

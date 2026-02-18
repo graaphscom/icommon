@@ -35,4 +35,4 @@ export var scoreboardOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -151,4 +151,4 @@ export var documentText16Color = [
       ]
     ]
   ]
-]
+];

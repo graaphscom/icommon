@@ -21,4 +21,4 @@ export var settingsEthernetOutlined24px = [
       }
     ]
   ]
-]
+];

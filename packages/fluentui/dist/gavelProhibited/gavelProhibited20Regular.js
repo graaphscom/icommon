@@ -16,4 +16,4 @@ export var gavelProhibited20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var quizNew24Filled = [
       }
     ]
   ]
-]
+];

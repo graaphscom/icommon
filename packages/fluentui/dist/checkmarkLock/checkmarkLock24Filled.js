@@ -16,4 +16,4 @@ export var checkmarkLock24Filled = [
       }
     ]
   ]
-]
+];

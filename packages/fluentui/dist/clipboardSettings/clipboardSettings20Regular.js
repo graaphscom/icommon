@@ -16,4 +16,4 @@ export var clipboardSettings20Regular = [
       }
     ]
   ]
-]
+];

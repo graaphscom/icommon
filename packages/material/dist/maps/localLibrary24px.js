@@ -21,4 +21,4 @@ export var localLibrary24px = [
       }
     ]
   ]
-]
+];

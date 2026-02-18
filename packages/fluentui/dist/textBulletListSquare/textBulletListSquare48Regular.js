@@ -16,4 +16,4 @@ export var textBulletListSquare48Regular = [
       }
     ]
   ]
-]
+];

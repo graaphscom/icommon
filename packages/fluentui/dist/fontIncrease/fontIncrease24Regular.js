@@ -16,4 +16,4 @@ export var fontIncrease24Regular = [
       }
     ]
   ]
-]
+];

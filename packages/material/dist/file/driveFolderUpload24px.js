@@ -21,4 +21,4 @@ export var driveFolderUpload24px = [
       }
     ]
   ]
-]
+];

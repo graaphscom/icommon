@@ -16,4 +16,4 @@ export var alignSpaceEvenlyVertical24Regular = [
       }
     ]
   ]
-]
+];

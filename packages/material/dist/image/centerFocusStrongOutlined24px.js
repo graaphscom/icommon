@@ -21,4 +21,4 @@ export var centerFocusStrongOutlined24px = [
       }
     ]
   ]
-]
+];

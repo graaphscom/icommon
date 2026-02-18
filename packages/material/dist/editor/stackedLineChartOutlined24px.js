@@ -23,4 +23,4 @@ export var stackedLineChartOutlined24px = [
       }
     ]
   ]
-]
+];

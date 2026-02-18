@@ -16,4 +16,4 @@ export var arrowEnter16Filled = [
       }
     ]
   ]
-]
+];

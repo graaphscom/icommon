@@ -28,4 +28,4 @@ export var watchTwotone24px = [
       }
     ]
   ]
-]
+];

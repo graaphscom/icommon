@@ -21,4 +21,4 @@ export var healingRound24px = [
       }
     ]
   ]
-]
+];

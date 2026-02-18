@@ -217,4 +217,4 @@ export var face5Twotone24px = [
       ]
     ]
   ]
-]
+];

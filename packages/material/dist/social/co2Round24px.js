@@ -23,4 +23,4 @@ export var co2Round24px = [
       }
     ]
   ]
-]
+];

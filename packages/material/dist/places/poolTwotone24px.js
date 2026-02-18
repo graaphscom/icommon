@@ -45,4 +45,4 @@ export var poolTwotone24px = [
       }
     ]
   ]
-]
+];

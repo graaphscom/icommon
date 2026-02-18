@@ -47,4 +47,4 @@ export var photoAlbum20px = [
       ]
     ]
   ]
-]
+];

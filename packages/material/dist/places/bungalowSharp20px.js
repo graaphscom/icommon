@@ -23,4 +23,4 @@ export var bungalowSharp20px = [
       }
     ]
   ]
-]
+];

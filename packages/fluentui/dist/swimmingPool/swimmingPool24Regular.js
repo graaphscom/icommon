@@ -16,4 +16,4 @@ export var swimmingPool24Regular = [
       }
     ]
   ]
-]
+];

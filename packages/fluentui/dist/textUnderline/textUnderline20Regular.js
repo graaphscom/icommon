@@ -16,4 +16,4 @@ export var textUnderline20Regular = [
       }
     ]
   ]
-]
+];

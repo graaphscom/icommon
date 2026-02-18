@@ -65,4 +65,4 @@ export var electricalServicesSharp24px = [
       ]
     ]
   ]
-]
+];

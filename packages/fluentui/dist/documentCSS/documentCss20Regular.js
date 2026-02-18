@@ -16,4 +16,4 @@ export var documentCss20Regular = [
       }
     ]
   ]
-]
+];

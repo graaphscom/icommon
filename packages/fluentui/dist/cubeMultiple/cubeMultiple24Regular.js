@@ -16,4 +16,4 @@ export var cubeMultiple24Regular = [
       }
     ]
   ]
-]
+];

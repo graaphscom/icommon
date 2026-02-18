@@ -23,4 +23,4 @@ export var codeOffTwotone24px = [
       }
     ]
   ]
-]
+];

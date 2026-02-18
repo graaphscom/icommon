@@ -21,4 +21,4 @@ export var settingsRemote24px = [
       }
     ]
   ]
-]
+];

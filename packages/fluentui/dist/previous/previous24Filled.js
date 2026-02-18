@@ -16,4 +16,4 @@ export var previous24Filled = [
       }
     ]
   ]
-]
+];

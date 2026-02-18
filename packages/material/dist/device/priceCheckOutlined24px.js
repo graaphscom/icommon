@@ -46,4 +46,4 @@ export var priceCheckOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var folderSwap24Regular = [
       }
     ]
   ]
-]
+];

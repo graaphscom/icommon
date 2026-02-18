@@ -13,4 +13,4 @@ export var menuFold2Line = [
       }
     ]
   ]
-]
+];

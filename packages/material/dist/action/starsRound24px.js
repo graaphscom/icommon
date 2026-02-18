@@ -21,4 +21,4 @@ export var starsRound24px = [
       }
     ]
   ]
-]
+];

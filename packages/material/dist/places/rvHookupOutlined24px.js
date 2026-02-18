@@ -21,4 +21,4 @@ export var rvHookupOutlined24px = [
       }
     ]
   ]
-]
+];

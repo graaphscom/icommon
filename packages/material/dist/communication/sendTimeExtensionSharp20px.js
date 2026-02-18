@@ -47,4 +47,4 @@ export var sendTimeExtensionSharp20px = [
       ]
     ]
   ]
-]
+];

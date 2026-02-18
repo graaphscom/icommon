@@ -35,4 +35,4 @@ export var playlistRemove24px = [
       ]
     ]
   ]
-]
+];

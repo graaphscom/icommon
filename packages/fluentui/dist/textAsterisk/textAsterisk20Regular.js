@@ -16,4 +16,4 @@ export var textAsterisk20Regular = [
       }
     ]
   ]
-]
+];

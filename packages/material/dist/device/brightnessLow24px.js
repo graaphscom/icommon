@@ -21,4 +21,4 @@ export var brightnessLow24px = [
       }
     ]
   ]
-]
+];

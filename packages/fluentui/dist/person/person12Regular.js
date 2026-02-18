@@ -16,4 +16,4 @@ export var person12Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var fontSpaceTrackingOut16Filled = [
       }
     ]
   ]
-]
+];

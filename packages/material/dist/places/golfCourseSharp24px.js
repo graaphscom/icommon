@@ -29,4 +29,4 @@ export var golfCourseSharp24px = [
       }
     ]
   ]
-]
+];

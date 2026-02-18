@@ -21,4 +21,4 @@ export var deleteOutlineRound24px = [
       }
     ]
   ]
-]
+];

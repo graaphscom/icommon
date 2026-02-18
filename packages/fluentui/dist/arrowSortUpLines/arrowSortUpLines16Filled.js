@@ -16,4 +16,4 @@ export var arrowSortUpLines16Filled = [
       }
     ]
   ]
-]
+];

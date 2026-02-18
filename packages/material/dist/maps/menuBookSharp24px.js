@@ -63,4 +63,4 @@ export var menuBookSharp24px = [
       ]
     ]
   ]
-]
+];

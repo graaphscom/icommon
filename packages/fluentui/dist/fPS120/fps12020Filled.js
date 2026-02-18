@@ -16,4 +16,4 @@ export var fps12020Filled = [
       }
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var hideSourceRound24px = [
       ]
     ]
   ]
-]
+];

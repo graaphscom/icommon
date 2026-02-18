@@ -16,4 +16,4 @@ export var buildingDesktop16Regular = [
       }
     ]
   ]
-]
+];

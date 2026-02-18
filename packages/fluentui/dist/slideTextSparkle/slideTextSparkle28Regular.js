@@ -16,4 +16,4 @@ export var slideTextSparkle28Regular = [
       }
     ]
   ]
-]
+];

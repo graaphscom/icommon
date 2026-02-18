@@ -14,4 +14,4 @@ export var devicesOtherRound24px = [
       }
     ]
   ]
-]
+];

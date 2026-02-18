@@ -23,4 +23,4 @@ export var motionPhotosPauseRound24px = [
       }
     ]
   ]
-]
+];

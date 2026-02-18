@@ -164,4 +164,4 @@ export var savings24Color = [
       ]
     ]
   ]
-]
+];

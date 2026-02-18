@@ -16,4 +16,4 @@ export var vehicleCableCar28Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var tireRepairOutlined24px = [
       ]
     ]
   ]
-]
+];

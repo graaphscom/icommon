@@ -57,4 +57,4 @@ export var face6Outlined24px = [
       ]
     ]
   ]
-]
+];

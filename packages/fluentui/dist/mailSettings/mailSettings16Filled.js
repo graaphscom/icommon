@@ -16,4 +16,4 @@ export var mailSettings16Filled = [
       }
     ]
   ]
-]
+];

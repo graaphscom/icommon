@@ -35,4 +35,4 @@ export var verticalShadesSharp24px = [
       ]
     ]
   ]
-]
+];

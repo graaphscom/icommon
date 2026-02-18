@@ -48,4 +48,4 @@ export var smartDisplayOutlined24px = [
       ]
     ]
   ]
-]
+];

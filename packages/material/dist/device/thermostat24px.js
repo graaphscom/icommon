@@ -34,4 +34,4 @@ export var thermostat24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var dvrOutlined24px = [
       }
     ]
   ]
-]
+];

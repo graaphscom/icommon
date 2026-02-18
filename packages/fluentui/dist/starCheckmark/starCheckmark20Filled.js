@@ -16,4 +16,4 @@ export var starCheckmark20Filled = [
       }
     ]
   ]
-]
+];

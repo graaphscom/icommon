@@ -61,4 +61,4 @@ export var person2Twotone20px = [
       ]
     ]
   ]
-]
+];

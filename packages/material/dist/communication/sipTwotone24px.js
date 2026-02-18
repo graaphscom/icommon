@@ -81,4 +81,4 @@ export var sipTwotone24px = [
       ]
     ]
   ]
-]
+];

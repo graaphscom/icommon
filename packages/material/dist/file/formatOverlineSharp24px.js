@@ -35,4 +35,4 @@ export var formatOverlineSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textT20Filled = [
       }
     ]
   ]
-]
+];

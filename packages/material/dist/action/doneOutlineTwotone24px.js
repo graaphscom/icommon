@@ -21,4 +21,4 @@ export var doneOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

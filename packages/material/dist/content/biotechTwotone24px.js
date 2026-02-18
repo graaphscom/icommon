@@ -61,4 +61,4 @@ export var biotechTwotone24px = [
       ]
     ]
   ]
-]
+];

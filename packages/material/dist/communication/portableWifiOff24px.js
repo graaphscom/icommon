@@ -21,4 +21,4 @@ export var portableWifiOff24px = [
       }
     ]
   ]
-]
+];

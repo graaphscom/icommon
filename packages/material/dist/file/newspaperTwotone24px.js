@@ -35,4 +35,4 @@ export var newspaperTwotone24px = [
       ]
     ]
   ]
-]
+];

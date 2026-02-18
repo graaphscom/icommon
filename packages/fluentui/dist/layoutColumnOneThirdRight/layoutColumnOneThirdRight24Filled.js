@@ -16,4 +16,4 @@ export var layoutColumnOneThirdRight24Filled = [
       }
     ]
   ]
-]
+];

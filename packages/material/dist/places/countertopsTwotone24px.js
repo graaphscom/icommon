@@ -30,4 +30,4 @@ export var countertopsTwotone24px = [
       }
     ]
   ]
-]
+];

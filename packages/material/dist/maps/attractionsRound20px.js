@@ -36,4 +36,4 @@ export var attractionsRound20px = [
       ]
     ]
   ]
-]
+];

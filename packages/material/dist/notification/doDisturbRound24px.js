@@ -21,4 +21,4 @@ export var doDisturbRound24px = [
       }
     ]
   ]
-]
+];

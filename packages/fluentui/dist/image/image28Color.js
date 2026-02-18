@@ -115,4 +115,4 @@ export var image28Color = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var dragHandleOutlined24px = [
       }
     ]
   ]
-]
+];

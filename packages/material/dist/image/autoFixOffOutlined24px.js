@@ -54,4 +54,4 @@ export var autoFixOffOutlined24px = [
       ]
     ]
   ]
-]
+];

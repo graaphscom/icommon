@@ -16,4 +16,4 @@ export var peopleTeamToolbox20Regular = [
       }
     ]
   ]
-]
+];

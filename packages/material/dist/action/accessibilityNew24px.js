@@ -21,4 +21,4 @@ export var accessibilityNew24px = [
       }
     ]
   ]
-]
+];

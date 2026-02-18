@@ -16,4 +16,4 @@ export var hexagonThree12Regular = [
       }
     ]
   ]
-]
+];

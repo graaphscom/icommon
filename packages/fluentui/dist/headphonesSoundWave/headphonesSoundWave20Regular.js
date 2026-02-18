@@ -16,4 +16,4 @@ export var headphonesSoundWave20Regular = [
       }
     ]
   ]
-]
+];

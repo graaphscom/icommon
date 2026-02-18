@@ -21,4 +21,4 @@ export var dialerSipOutlined24px = [
       }
     ]
   ]
-]
+];

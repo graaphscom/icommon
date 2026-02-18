@@ -46,4 +46,4 @@ export var mobiledataOff24px = [
       ]
     ]
   ]
-]
+];

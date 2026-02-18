@@ -21,4 +21,4 @@ export var shutterSpeedSharp24px = [
       }
     ]
   ]
-]
+];

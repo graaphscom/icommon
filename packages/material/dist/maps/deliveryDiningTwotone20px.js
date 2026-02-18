@@ -65,4 +65,4 @@ export var deliveryDiningTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var serverSurfaceMultiple16Filled = [
       }
     ]
   ]
-]
+];

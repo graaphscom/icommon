@@ -190,4 +190,4 @@ export var megaphoneLoud32Color = [
       ]
     ]
   ]
-]
+];

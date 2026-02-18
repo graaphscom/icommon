@@ -35,4 +35,4 @@ export var currencyLiraSharp20px = [
       ]
     ]
   ]
-]
+];

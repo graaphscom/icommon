@@ -23,4 +23,4 @@ export var alignStartHorizontal20Filled = [
       }
     ]
   ]
-]
+];

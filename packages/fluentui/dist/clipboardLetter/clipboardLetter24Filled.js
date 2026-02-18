@@ -16,4 +16,4 @@ export var clipboardLetter24Filled = [
       }
     ]
   ]
-]
+];

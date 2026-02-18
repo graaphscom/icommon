@@ -16,4 +16,4 @@ export var tableColumnTopBottomEdit28Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var branch20Regular = [
       }
     ]
   ]
-]
+];

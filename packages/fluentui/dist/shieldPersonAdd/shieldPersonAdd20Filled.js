@@ -16,4 +16,4 @@ export var shieldPersonAdd20Filled = [
       }
     ]
   ]
-]
+];

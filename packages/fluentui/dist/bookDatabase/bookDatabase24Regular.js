@@ -16,4 +16,4 @@ export var bookDatabase24Regular = [
       }
     ]
   ]
-]
+];

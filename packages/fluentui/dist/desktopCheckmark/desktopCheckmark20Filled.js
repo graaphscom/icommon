@@ -16,4 +16,4 @@ export var desktopCheckmark20Filled = [
       }
     ]
   ]
-]
+];

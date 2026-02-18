@@ -41,4 +41,4 @@ export var earbudsBatteryOutlined24px = [
       ]
     ]
   ]
-]
+];

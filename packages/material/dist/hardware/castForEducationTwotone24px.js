@@ -21,4 +21,4 @@ export var castForEducationTwotone24px = [
       }
     ]
   ]
-]
+];

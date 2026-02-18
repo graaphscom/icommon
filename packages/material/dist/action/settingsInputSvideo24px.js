@@ -21,4 +21,4 @@ export var settingsInputSvideo24px = [
       }
     ]
   ]
-]
+];

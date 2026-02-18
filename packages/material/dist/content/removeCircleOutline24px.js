@@ -21,4 +21,4 @@ export var removeCircleOutline24px = [
       }
     ]
   ]
-]
+];

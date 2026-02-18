@@ -16,4 +16,4 @@ export var branchRequestClosed16Filled = [
       }
     ]
   ]
-]
+];

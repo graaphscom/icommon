@@ -88,4 +88,4 @@ export var onDeviceTrainingTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var riceBowlOutlined24px = [
       }
     ]
   ]
-]
+];

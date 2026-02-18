@@ -43,4 +43,4 @@ export var pianoOffTwotone20px = [
       ]
     ]
   ]
-]
+];

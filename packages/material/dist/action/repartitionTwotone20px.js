@@ -77,4 +77,4 @@ export var repartitionTwotone20px = [
       ]
     ]
   ]
-]
+];

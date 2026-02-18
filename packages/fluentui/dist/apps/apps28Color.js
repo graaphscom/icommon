@@ -147,4 +147,4 @@ export var apps28Color = [
       ]
     ]
   ]
-]
+];

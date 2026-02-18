@@ -16,4 +16,4 @@ export var reOrderDotsHorizontal16Filled = [
       }
     ]
   ]
-]
+];

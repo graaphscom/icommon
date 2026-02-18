@@ -46,4 +46,4 @@ export var chairRound24px = [
       ]
     ]
   ]
-]
+];

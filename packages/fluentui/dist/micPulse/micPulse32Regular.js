@@ -16,4 +16,4 @@ export var micPulse32Regular = [
       }
     ]
   ]
-]
+];

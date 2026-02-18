@@ -24,4 +24,4 @@ export var __6FtApartTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var gasPump24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var keyboardShiftUppercase24Regular = [
       }
     ]
   ]
-]
+];

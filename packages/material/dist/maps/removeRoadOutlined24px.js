@@ -86,4 +86,4 @@ export var removeRoadOutlined24px = [
       ]
     ]
   ]
-]
+];

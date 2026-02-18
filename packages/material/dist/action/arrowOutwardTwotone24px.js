@@ -35,4 +35,4 @@ export var arrowOutwardTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -75,4 +75,4 @@ export var outdoorGrillTwotone24px = [
       ]
     ]
   ]
-]
+];

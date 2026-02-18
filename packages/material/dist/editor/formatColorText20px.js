@@ -50,4 +50,4 @@ export var formatColorText20px = [
       ]
     ]
   ]
-]
+];

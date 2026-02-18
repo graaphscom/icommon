@@ -47,4 +47,4 @@ export var emojiFlagsRound24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var redoSharp24px = [
       }
     ]
   ]
-]
+];

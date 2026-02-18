@@ -16,4 +16,4 @@ export var handshake16Regular = [
       }
     ]
   ]
-]
+];

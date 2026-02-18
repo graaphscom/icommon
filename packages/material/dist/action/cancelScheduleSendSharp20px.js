@@ -43,4 +43,4 @@ export var cancelScheduleSendSharp20px = [
       }
     ]
   ]
-]
+];

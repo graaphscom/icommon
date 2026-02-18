@@ -21,4 +21,4 @@ export var translateSharp24px = [
       }
     ]
   ]
-]
+];

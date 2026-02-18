@@ -23,4 +23,4 @@ export var sanitizerSharp24px = [
       }
     ]
   ]
-]
+];

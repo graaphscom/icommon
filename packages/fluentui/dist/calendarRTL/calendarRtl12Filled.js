@@ -16,4 +16,4 @@ export var calendarRtl12Filled = [
       }
     ]
   ]
-]
+];

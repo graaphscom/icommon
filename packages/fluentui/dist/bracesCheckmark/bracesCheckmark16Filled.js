@@ -16,4 +16,4 @@ export var bracesCheckmark16Filled = [
       }
     ]
   ]
-]
+];

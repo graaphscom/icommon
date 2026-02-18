@@ -16,4 +16,4 @@ export var chatSparkle48Filled = [
       }
     ]
   ]
-]
+];

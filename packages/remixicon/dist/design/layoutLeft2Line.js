@@ -13,4 +13,4 @@ export var layoutLeft2Line = [
       }
     ]
   ]
-]
+];

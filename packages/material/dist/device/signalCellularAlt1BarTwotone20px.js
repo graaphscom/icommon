@@ -35,4 +35,4 @@ export var signalCellularAlt1BarTwotone20px = [
       ]
     ]
   ]
-]
+];

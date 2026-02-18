@@ -161,4 +161,4 @@ export var viewCompactTwotone20px = [
       ]
     ]
   ]
-]
+];

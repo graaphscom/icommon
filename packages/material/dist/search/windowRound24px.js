@@ -49,4 +49,4 @@ export var windowRound24px = [
       ]
     ]
   ]
-]
+];

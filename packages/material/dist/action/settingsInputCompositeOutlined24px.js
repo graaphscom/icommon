@@ -21,4 +21,4 @@ export var settingsInputCompositeOutlined24px = [
       }
     ]
   ]
-]
+];

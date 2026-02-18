@@ -34,4 +34,4 @@ export var bloodtypeSharp24px = [
       ]
     ]
   ]
-]
+];

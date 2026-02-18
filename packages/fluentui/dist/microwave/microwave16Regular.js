@@ -16,4 +16,4 @@ export var microwave16Regular = [
       }
     ]
   ]
-]
+];

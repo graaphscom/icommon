@@ -21,4 +21,4 @@ export var wbSunnyRound24px = [
       }
     ]
   ]
-]
+];

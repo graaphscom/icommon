@@ -16,4 +16,4 @@ export var peopleLink24Filled = [
       }
     ]
   ]
-]
+];

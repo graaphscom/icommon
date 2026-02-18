@@ -47,4 +47,4 @@ export var browserNotSupportedSharp24px = [
       ]
     ]
   ]
-]
+];

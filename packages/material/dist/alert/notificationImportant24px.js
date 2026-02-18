@@ -21,4 +21,4 @@ export var notificationImportant24px = [
       }
     ]
   ]
-]
+];

@@ -291,4 +291,4 @@ export var options20Color = [
       ]
     ]
   ]
-]
+];

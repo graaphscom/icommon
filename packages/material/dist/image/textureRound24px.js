@@ -21,4 +21,4 @@ export var textureRound24px = [
       }
     ]
   ]
-]
+];

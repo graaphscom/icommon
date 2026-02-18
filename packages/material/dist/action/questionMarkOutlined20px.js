@@ -36,4 +36,4 @@ export var questionMarkOutlined20px = [
       ]
     ]
   ]
-]
+];

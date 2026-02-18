@@ -16,4 +16,4 @@ export var compassNorthwest24Regular = [
       }
     ]
   ]
-]
+];

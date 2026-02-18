@@ -20,4 +20,4 @@ export var shield24 = [
       }
     ]
   ]
-]
+];

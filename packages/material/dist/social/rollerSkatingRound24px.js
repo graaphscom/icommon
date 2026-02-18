@@ -49,4 +49,4 @@ export var rollerSkatingRound24px = [
       ]
     ]
   ]
-]
+];

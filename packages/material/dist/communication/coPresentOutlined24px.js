@@ -71,4 +71,4 @@ export var coPresentOutlined24px = [
       ]
     ]
   ]
-]
+];

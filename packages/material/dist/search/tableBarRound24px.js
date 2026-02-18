@@ -49,4 +49,4 @@ export var tableBarRound24px = [
       ]
     ]
   ]
-]
+];

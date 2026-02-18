@@ -41,4 +41,4 @@ export var nestCamWiredStandSharp20px = [
       ]
     ]
   ]
-]
+];

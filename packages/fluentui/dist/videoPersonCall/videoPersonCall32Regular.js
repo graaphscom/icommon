@@ -16,4 +16,4 @@ export var videoPersonCall32Regular = [
       }
     ]
   ]
-]
+];

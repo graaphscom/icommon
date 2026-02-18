@@ -16,4 +16,4 @@ export var status12Filled = [
       }
     ]
   ]
-]
+];

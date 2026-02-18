@@ -47,4 +47,4 @@ export var sportsTennisRound20px = [
       ]
     ]
   ]
-]
+];

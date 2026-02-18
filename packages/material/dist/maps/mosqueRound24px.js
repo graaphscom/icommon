@@ -55,4 +55,4 @@ export var mosqueRound24px = [
       ]
     ]
   ]
-]
+];

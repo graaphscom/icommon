@@ -23,4 +23,4 @@ export var unpublished24px = [
       }
     ]
   ]
-]
+];

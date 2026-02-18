@@ -32,4 +32,4 @@ export var outbondTwotone24px = [
       }
     ]
   ]
-]
+];

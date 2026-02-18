@@ -53,4 +53,4 @@ export var assignmentAdd20px = [
       ]
     ]
   ]
-]
+];

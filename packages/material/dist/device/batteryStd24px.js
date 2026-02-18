@@ -21,4 +21,4 @@ export var batteryStd24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var stethoscope24Regular = [
       }
     ]
   ]
-]
+];

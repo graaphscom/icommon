@@ -16,4 +16,4 @@ export var deleteDismiss20Regular = [
       }
     ]
   ]
-]
+];

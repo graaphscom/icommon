@@ -35,4 +35,4 @@ export var zoomInMapOutlined24px = [
       ]
     ]
   ]
-]
+];

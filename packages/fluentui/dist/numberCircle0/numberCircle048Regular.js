@@ -16,4 +16,4 @@ export var numberCircle048Regular = [
       }
     ]
   ]
-]
+];

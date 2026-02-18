@@ -16,4 +16,4 @@ export var layoutColumnFour20Filled = [
       }
     ]
   ]
-]
+];

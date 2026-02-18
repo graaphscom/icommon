@@ -71,4 +71,4 @@ export var densitySmallTwotone24px = [
       ]
     ]
   ]
-]
+];

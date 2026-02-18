@@ -30,4 +30,4 @@ export var arrowWrapOff20Filled = [
       }
     ]
   ]
-]
+];

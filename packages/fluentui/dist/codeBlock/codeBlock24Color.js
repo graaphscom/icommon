@@ -89,4 +89,4 @@ export var codeBlock24Color = [
       ]
     ]
   ]
-]
+];

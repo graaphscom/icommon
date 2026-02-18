@@ -16,4 +16,4 @@ export var penDismiss16Regular = [
       }
     ]
   ]
-]
+];

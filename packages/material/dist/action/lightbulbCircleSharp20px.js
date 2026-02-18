@@ -41,4 +41,4 @@ export var lightbulbCircleSharp20px = [
       ]
     ]
   ]
-]
+];

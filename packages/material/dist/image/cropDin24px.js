@@ -21,4 +21,4 @@ export var cropDin24px = [
       }
     ]
   ]
-]
+];

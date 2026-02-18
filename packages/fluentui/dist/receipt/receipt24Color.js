@@ -286,4 +286,4 @@ export var receipt24Color = [
       ]
     ]
   ]
-]
+];

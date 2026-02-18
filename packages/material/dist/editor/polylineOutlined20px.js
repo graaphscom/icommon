@@ -36,4 +36,4 @@ export var polylineOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var removeShoppingCartRound24px = [
       }
     ]
   ]
-]
+];

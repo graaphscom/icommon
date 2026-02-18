@@ -16,4 +16,4 @@ export var tableCellCenterArrowRepeatAll24Filled = [
       }
     ]
   ]
-]
+];

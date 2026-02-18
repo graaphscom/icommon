@@ -13,4 +13,4 @@ export var dashboard3Line = [
       }
     ]
   ]
-]
+];

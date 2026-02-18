@@ -16,4 +16,4 @@ export var documentSearch20Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var co224px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var autorenewOutlined24px = [
       }
     ]
   ]
-]
+];

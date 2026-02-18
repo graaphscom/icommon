@@ -21,4 +21,4 @@ export var keyboardArrowLeftSharp24px = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var editLocationRound24px = [
       ]
     ]
   ]
-]
+];

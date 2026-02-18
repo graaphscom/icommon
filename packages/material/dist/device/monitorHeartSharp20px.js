@@ -47,4 +47,4 @@ export var monitorHeartSharp20px = [
       ]
     ]
   ]
-]
+];

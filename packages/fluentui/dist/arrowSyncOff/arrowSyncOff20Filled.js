@@ -16,4 +16,4 @@ export var arrowSyncOff20Filled = [
       }
     ]
   ]
-]
+];

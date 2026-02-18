@@ -16,4 +16,4 @@ export var documentBriefcase16Filled = [
       }
     ]
   ]
-]
+];

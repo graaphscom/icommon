@@ -16,4 +16,4 @@ export var tableFreezeColumnAndRow20Regular = [
       }
     ]
   ]
-]
+];

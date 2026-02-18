@@ -309,4 +309,4 @@ export var mailClock32Color = [
       ]
     ]
   ]
-]
+];

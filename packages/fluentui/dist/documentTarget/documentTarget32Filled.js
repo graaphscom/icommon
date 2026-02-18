@@ -16,4 +16,4 @@ export var documentTarget32Filled = [
       }
     ]
   ]
-]
+];

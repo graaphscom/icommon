@@ -16,4 +16,4 @@ export var pictureInPictureExit24Regular = [
       }
     ]
   ]
-]
+];

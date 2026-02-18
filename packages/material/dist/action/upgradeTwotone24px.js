@@ -29,4 +29,4 @@ export var upgradeTwotone24px = [
       ]
     ]
   ]
-]
+];

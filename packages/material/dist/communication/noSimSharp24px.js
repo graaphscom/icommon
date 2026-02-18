@@ -21,4 +21,4 @@ export var noSimSharp24px = [
       }
     ]
   ]
-]
+];

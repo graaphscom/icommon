@@ -16,4 +16,4 @@ export var developerBoardSearch24Regular = [
       }
     ]
   ]
-]
+];

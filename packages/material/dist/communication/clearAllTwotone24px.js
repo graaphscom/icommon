@@ -21,4 +21,4 @@ export var clearAllTwotone24px = [
       }
     ]
   ]
-]
+];

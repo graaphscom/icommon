@@ -423,4 +423,4 @@ export var slideTextSparkle24Color = [
       ]
     ]
   ]
-]
+];

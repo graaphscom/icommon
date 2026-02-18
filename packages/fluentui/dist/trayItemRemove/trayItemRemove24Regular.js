@@ -16,4 +16,4 @@ export var trayItemRemove24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dualScreenDismiss20Regular = [
       }
     ]
   ]
-]
+];

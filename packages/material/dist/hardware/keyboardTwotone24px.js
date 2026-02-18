@@ -28,4 +28,4 @@ export var keyboardTwotone24px = [
       }
     ]
   ]
-]
+];

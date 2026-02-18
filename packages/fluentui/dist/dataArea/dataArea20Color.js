@@ -195,4 +195,4 @@ export var dataArea20Color = [
       ]
     ]
   ]
-]
+];

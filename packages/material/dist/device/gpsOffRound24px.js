@@ -21,4 +21,4 @@ export var gpsOffRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var mail24px = [
       }
     ]
   ]
-]
+];

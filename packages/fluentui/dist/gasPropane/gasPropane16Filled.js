@@ -16,4 +16,4 @@ export var gasPropane16Filled = [
       }
     ]
   ]
-]
+];

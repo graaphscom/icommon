@@ -21,4 +21,4 @@ export var driveFileMoveOutline24px = [
       }
     ]
   ]
-]
+];

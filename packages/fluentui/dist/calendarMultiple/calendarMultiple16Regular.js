@@ -16,4 +16,4 @@ export var calendarMultiple16Regular = [
       }
     ]
   ]
-]
+];

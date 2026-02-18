@@ -95,4 +95,4 @@ export var edgesensorHighTwotone24px = [
       ]
     ]
   ]
-]
+];

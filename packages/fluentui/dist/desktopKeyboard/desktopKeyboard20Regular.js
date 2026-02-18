@@ -16,4 +16,4 @@ export var desktopKeyboard20Regular = [
       }
     ]
   ]
-]
+];

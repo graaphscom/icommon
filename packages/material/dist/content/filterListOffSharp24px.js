@@ -35,4 +35,4 @@ export var filterListOffSharp24px = [
       ]
     ]
   ]
-]
+];

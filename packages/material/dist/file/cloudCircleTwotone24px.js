@@ -28,4 +28,4 @@ export var cloudCircleTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -131,4 +131,4 @@ export var person32Color = [
       ]
     ]
   ]
-]
+];

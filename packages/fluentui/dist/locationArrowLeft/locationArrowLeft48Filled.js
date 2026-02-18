@@ -16,4 +16,4 @@ export var locationArrowLeft48Filled = [
       }
     ]
   ]
-]
+];

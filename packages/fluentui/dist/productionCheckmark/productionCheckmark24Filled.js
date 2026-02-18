@@ -16,4 +16,4 @@ export var productionCheckmark24Filled = [
       }
     ]
   ]
-]
+];

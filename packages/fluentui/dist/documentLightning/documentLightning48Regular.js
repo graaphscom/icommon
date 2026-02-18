@@ -16,4 +16,4 @@ export var documentLightning48Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var straight20px = [
       ]
     ]
   ]
-]
+];

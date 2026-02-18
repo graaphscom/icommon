@@ -48,4 +48,4 @@ export var searchOffOutlined20px = [
       ]
     ]
   ]
-]
+];

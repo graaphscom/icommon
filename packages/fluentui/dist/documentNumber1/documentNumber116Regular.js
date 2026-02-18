@@ -16,4 +16,4 @@ export var documentNumber116Regular = [
       }
     ]
   ]
-]
+];

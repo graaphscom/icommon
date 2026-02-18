@@ -16,4 +16,4 @@ export var documentOnePageBeaker16Filled = [
       }
     ]
   ]
-]
+];

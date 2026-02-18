@@ -41,4 +41,4 @@ export var backpackRound24px = [
       ]
     ]
   ]
-]
+];

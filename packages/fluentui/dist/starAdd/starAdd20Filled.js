@@ -16,4 +16,4 @@ export var starAdd20Filled = [
       }
     ]
   ]
-]
+];

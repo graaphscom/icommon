@@ -55,4 +55,4 @@ export var personRemoveRound20px = [
       ]
     ]
   ]
-]
+];

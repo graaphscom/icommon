@@ -48,4 +48,4 @@ export var scienceTwotone20px = [
       ]
     ]
   ]
-]
+];

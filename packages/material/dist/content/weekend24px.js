@@ -29,4 +29,4 @@ export var weekend24px = [
       ]
     ]
   ]
-]
+];

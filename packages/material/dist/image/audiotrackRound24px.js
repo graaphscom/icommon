@@ -21,4 +21,4 @@ export var audiotrackRound24px = [
       }
     ]
   ]
-]
+];

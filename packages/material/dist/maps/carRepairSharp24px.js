@@ -36,4 +36,4 @@ export var carRepairSharp24px = [
       ]
     ]
   ]
-]
+];

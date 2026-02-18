@@ -35,4 +35,4 @@ export var numbersTwotone24px = [
       ]
     ]
   ]
-]
+];

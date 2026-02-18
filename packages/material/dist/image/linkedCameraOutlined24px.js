@@ -21,4 +21,4 @@ export var linkedCameraOutlined24px = [
       }
     ]
   ]
-]
+];

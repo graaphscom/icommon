@@ -16,4 +16,4 @@ export var textExpand32Regular = [
       }
     ]
   ]
-]
+];

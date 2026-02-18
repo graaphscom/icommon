@@ -30,4 +30,4 @@ export var pianoTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var graphicEqRound24px = [
       }
     ]
   ]
-]
+];

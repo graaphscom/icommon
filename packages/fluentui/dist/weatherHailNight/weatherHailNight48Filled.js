@@ -16,4 +16,4 @@ export var weatherHailNight48Filled = [
       }
     ]
   ]
-]
+];

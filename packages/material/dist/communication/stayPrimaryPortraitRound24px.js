@@ -21,4 +21,4 @@ export var stayPrimaryPortraitRound24px = [
       }
     ]
   ]
-]
+];

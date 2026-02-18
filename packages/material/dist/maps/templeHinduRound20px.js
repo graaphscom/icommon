@@ -47,4 +47,4 @@ export var templeHinduRound20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var extensionRound24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var tuneRound24px = [
       }
     ]
   ]
-]
+];

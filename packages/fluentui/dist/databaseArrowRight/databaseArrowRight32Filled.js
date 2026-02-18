@@ -16,4 +16,4 @@ export var databaseArrowRight32Filled = [
       }
     ]
   ]
-]
+];

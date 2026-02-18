@@ -28,4 +28,4 @@ export var looks4Twotone24px = [
       }
     ]
   ]
-]
+];

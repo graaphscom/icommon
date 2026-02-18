@@ -16,4 +16,4 @@ export var clockLock16Regular = [
       }
     ]
   ]
-]
+];

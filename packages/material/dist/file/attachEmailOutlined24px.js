@@ -47,4 +47,4 @@ export var attachEmailOutlined24px = [
       ]
     ]
   ]
-]
+];

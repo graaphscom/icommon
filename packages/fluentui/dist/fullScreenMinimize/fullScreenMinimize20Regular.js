@@ -16,4 +16,4 @@ export var fullScreenMinimize20Regular = [
       }
     ]
   ]
-]
+];

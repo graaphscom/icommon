@@ -21,4 +21,4 @@ export var shuffleSharp24px = [
       }
     ]
   ]
-]
+];

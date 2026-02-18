@@ -16,4 +16,4 @@ export var panelLeft24Filled = [
       }
     ]
   ]
-]
+];

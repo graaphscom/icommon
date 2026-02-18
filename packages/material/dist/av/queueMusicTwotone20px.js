@@ -68,4 +68,4 @@ export var queueMusicTwotone20px = [
       ]
     ]
   ]
-]
+];

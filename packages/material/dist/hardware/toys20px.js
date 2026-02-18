@@ -45,4 +45,4 @@ export var toys20px = [
       ]
     ]
   ]
-]
+];

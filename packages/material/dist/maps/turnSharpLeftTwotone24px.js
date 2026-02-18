@@ -35,4 +35,4 @@ export var turnSharpLeftTwotone24px = [
       ]
     ]
   ]
-]
+];

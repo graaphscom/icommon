@@ -35,4 +35,4 @@ export var parkRound20px = [
       ]
     ]
   ]
-]
+];

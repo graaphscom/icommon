@@ -16,4 +16,4 @@ export var layerDiagonal16Regular = [
       }
     ]
   ]
-]
+];

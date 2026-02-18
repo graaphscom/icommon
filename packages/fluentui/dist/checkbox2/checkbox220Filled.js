@@ -16,4 +16,4 @@ export var checkbox220Filled = [
       }
     ]
   ]
-]
+];

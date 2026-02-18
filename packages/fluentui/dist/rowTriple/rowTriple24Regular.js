@@ -16,4 +16,4 @@ export var rowTriple24Regular = [
       }
     ]
   ]
-]
+];

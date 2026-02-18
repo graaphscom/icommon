@@ -21,4 +21,4 @@ export var navigateBefore24px = [
       }
     ]
   ]
-]
+];

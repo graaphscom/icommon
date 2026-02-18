@@ -72,4 +72,4 @@ export var shapeLineTwotone24px = [
       ]
     ]
   ]
-]
+];

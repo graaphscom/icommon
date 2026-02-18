@@ -47,4 +47,4 @@ export var mailLockOutlined24px = [
       ]
     ]
   ]
-]
+];

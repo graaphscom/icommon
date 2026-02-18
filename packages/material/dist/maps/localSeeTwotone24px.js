@@ -28,4 +28,4 @@ export var localSeeTwotone24px = [
       }
     ]
   ]
-]
+];

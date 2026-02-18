@@ -16,4 +16,4 @@ export var arrowStepInRight16Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var openInFullOutlined24px = [
       }
     ]
   ]
-]
+];

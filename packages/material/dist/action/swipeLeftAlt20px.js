@@ -35,4 +35,4 @@ export var swipeLeftAlt20px = [
       ]
     ]
   ]
-]
+];

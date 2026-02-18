@@ -48,4 +48,4 @@ export var browserNotSupportedOutlined20px = [
       ]
     ]
   ]
-]
+];

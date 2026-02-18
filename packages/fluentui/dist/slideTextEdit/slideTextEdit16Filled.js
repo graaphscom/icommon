@@ -16,4 +16,4 @@ export var slideTextEdit16Filled = [
       }
     ]
   ]
-]
+];

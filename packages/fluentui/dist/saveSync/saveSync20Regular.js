@@ -16,4 +16,4 @@ export var saveSync20Regular = [
       }
     ]
   ]
-]
+];

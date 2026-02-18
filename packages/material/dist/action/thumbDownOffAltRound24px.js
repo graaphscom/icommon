@@ -47,4 +47,4 @@ export var thumbDownOffAltRound24px = [
       ]
     ]
   ]
-]
+];

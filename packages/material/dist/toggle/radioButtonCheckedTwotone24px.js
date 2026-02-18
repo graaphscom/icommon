@@ -29,4 +29,4 @@ export var radioButtonCheckedTwotone24px = [
       }
     ]
   ]
-]
+];

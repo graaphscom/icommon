@@ -44,4 +44,4 @@ export var sentimentSatisfiedTwotone24px = [
       }
     ]
   ]
-]
+];

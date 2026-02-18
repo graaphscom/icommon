@@ -36,4 +36,4 @@ export var rollerShadesOutlined20px = [
       ]
     ]
   ]
-]
+];

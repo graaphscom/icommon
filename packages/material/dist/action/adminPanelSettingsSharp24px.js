@@ -47,4 +47,4 @@ export var adminPanelSettingsSharp24px = [
       ]
     ]
   ]
-]
+];

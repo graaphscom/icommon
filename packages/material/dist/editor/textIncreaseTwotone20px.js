@@ -23,4 +23,4 @@ export var textIncreaseTwotone20px = [
       }
     ]
   ]
-]
+];

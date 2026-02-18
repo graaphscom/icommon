@@ -16,4 +16,4 @@ export var penOff24Regular = [
       }
     ]
   ]
-]
+];

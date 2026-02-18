@@ -21,4 +21,4 @@ export var isoRound24px = [
       }
     ]
   ]
-]
+];

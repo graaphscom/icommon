@@ -16,4 +16,4 @@ export var soundWaveCircleAdd20Filled = [
       }
     ]
   ]
-]
+];

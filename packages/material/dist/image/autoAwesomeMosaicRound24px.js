@@ -42,4 +42,4 @@ export var autoAwesomeMosaicRound24px = [
       ]
     ]
   ]
-]
+];

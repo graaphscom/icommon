@@ -21,4 +21,4 @@ export var tramRound24px = [
       }
     ]
   ]
-]
+];

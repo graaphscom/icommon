@@ -16,4 +16,4 @@ export var documentTableTruck20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var swapCallsOutlined24px = [
       }
     ]
   ]
-]
+];

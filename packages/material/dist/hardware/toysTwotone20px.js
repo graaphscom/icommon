@@ -52,4 +52,4 @@ export var toysTwotone20px = [
       ]
     ]
   ]
-]
+];

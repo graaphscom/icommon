@@ -23,4 +23,4 @@ export var sensorsOffSharp24px = [
       }
     ]
   ]
-]
+];

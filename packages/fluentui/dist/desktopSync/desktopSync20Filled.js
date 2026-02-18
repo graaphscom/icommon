@@ -16,4 +16,4 @@ export var desktopSync20Filled = [
       }
     ]
   ]
-]
+];

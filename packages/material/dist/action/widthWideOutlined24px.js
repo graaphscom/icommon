@@ -35,4 +35,4 @@ export var widthWideOutlined24px = [
       ]
     ]
   ]
-]
+];

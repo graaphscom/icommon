@@ -35,4 +35,4 @@ export var category24px = [
       }
     ]
   ]
-]
+];

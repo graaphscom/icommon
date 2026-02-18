@@ -51,4 +51,4 @@ export var tableBarTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -71,4 +71,4 @@ export var volunteerActivismTwotone24px = [
       ]
     ]
   ]
-]
+];

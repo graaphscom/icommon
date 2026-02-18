@@ -16,4 +16,4 @@ export var layoutColumnTwoSplitRightFocusTopRight16Filled = [
       }
     ]
   ]
-]
+];

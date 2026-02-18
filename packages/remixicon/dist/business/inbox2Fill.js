@@ -13,4 +13,4 @@ export var inbox2Fill = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentCss16Filled = [
       }
     ]
   ]
-]
+];

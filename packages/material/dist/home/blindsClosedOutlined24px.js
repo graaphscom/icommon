@@ -35,4 +35,4 @@ export var blindsClosedOutlined24px = [
       ]
     ]
   ]
-]
+];

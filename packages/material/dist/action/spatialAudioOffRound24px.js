@@ -69,4 +69,4 @@ export var spatialAudioOffRound24px = [
       ]
     ]
   ]
-]
+];

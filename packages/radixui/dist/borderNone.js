@@ -372,4 +372,4 @@ export var borderNone = [
       }
     ]
   ]
-]
+];

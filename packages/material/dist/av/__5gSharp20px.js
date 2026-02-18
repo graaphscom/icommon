@@ -53,4 +53,4 @@ export var __5gSharp20px = [
       ]
     ]
   ]
-]
+];

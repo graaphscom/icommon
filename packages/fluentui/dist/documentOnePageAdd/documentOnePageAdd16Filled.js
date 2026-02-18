@@ -16,4 +16,4 @@ export var documentOnePageAdd16Filled = [
       }
     ]
   ]
-]
+];

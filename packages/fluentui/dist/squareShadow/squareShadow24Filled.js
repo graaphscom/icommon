@@ -16,4 +16,4 @@ export var squareShadow24Filled = [
       }
     ]
   ]
-]
+];

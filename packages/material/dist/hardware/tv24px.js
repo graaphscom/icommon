@@ -21,4 +21,4 @@ export var tv24px = [
       }
     ]
   ]
-]
+];

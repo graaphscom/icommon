@@ -21,4 +21,4 @@ export var settingsVoiceSharp24px = [
       }
     ]
   ]
-]
+];

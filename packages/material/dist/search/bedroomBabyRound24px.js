@@ -46,4 +46,4 @@ export var bedroomBabyRound24px = [
       ]
     ]
   ]
-]
+];

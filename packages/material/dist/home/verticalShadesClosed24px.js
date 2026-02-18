@@ -35,4 +35,4 @@ export var verticalShadesClosed24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var peopleAudience24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textAlignJustifyRotate9020Regular = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var radarRound24px = [
       ]
     ]
   ]
-]
+];

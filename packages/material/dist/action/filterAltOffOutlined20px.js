@@ -48,4 +48,4 @@ export var filterAltOffOutlined20px = [
       ]
     ]
   ]
-]
+];

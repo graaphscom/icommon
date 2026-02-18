@@ -21,4 +21,4 @@ export var snoozeOutlined24px = [
       }
     ]
   ]
-]
+];

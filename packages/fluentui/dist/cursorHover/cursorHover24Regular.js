@@ -16,4 +16,4 @@ export var cursorHover24Regular = [
       }
     ]
   ]
-]
+];

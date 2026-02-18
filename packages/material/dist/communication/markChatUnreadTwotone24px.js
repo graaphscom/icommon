@@ -37,4 +37,4 @@ export var markChatUnreadTwotone24px = [
       ]
     ]
   ]
-]
+];

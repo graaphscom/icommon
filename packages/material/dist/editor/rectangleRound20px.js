@@ -35,4 +35,4 @@ export var rectangleRound20px = [
       ]
     ]
   ]
-]
+];

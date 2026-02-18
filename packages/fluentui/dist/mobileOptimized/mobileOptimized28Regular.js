@@ -16,4 +16,4 @@ export var mobileOptimized28Regular = [
       }
     ]
   ]
-]
+];

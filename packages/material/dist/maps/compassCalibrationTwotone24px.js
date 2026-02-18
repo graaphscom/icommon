@@ -37,4 +37,4 @@ export var compassCalibrationTwotone24px = [
       }
     ]
   ]
-]
+];

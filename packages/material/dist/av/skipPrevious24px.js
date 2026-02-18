@@ -21,4 +21,4 @@ export var skipPrevious24px = [
       }
     ]
   ]
-]
+];

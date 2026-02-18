@@ -16,4 +16,4 @@ export var noteEdit20Filled = [
       }
     ]
   ]
-]
+];

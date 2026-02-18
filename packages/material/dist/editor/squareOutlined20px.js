@@ -36,4 +36,4 @@ export var squareOutlined20px = [
       ]
     ]
   ]
-]
+];

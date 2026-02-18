@@ -35,4 +35,4 @@ export var dinnerDining24px = [
       ]
     ]
   ]
-]
+];

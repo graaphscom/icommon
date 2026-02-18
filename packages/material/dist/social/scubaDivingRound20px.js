@@ -35,4 +35,4 @@ export var scubaDivingRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tabProhibited24Regular = [
       }
     ]
   ]
-]
+];

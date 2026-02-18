@@ -16,4 +16,4 @@ export var documentLandscapeData24Filled = [
       }
     ]
   ]
-]
+];

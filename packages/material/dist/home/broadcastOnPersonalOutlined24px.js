@@ -59,4 +59,4 @@ export var broadcastOnPersonalOutlined24px = [
       ]
     ]
   ]
-]
+];

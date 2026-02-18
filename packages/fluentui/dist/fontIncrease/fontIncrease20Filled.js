@@ -16,4 +16,4 @@ export var fontIncrease20Filled = [
       }
     ]
   ]
-]
+];

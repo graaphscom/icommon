@@ -16,4 +16,4 @@ export var cloudDatabase20Regular = [
       }
     ]
   ]
-]
+];

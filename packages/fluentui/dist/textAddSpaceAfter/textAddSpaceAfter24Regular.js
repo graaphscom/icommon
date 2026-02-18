@@ -16,4 +16,4 @@ export var textAddSpaceAfter24Regular = [
       }
     ]
   ]
-]
+];

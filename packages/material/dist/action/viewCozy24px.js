@@ -41,4 +41,4 @@ export var viewCozy24px = [
       ]
     ]
   ]
-]
+];

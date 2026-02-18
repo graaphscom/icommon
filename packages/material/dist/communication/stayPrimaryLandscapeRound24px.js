@@ -21,4 +21,4 @@ export var stayPrimaryLandscapeRound24px = [
       }
     ]
   ]
-]
+];

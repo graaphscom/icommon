@@ -21,4 +21,4 @@ export var dnsRound24px = [
       }
     ]
   ]
-]
+];

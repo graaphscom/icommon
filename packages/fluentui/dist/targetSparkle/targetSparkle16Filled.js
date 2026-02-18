@@ -16,4 +16,4 @@ export var targetSparkle16Filled = [
       }
     ]
   ]
-]
+];

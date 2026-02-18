@@ -35,4 +35,4 @@ export var inventory2Round24px = [
       ]
     ]
   ]
-]
+];

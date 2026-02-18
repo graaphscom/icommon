@@ -16,4 +16,4 @@ export var personVoice24Filled = [
       }
     ]
   ]
-]
+];

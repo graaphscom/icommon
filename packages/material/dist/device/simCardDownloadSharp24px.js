@@ -34,4 +34,4 @@ export var simCardDownloadSharp24px = [
       ]
     ]
   ]
-]
+];

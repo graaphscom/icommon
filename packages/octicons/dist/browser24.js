@@ -14,4 +14,4 @@ export var browser24 = [
       }
     ]
   ]
-]
+];

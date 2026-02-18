@@ -35,4 +35,4 @@ export var phishingTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var homeSplit24Filled = [
       }
     ]
   ]
-]
+];

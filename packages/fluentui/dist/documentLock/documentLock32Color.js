@@ -157,4 +157,4 @@ export var documentLock32Color = [
       ]
     ]
   ]
-]
+];

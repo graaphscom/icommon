@@ -21,4 +21,4 @@ export var supervisedUserCircleSharp24px = [
       }
     ]
   ]
-]
+];

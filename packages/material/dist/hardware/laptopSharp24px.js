@@ -42,4 +42,4 @@ export var laptopSharp24px = [
       ]
     ]
   ]
-]
+];

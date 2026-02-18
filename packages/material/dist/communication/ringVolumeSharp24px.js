@@ -21,4 +21,4 @@ export var ringVolumeSharp24px = [
       }
     ]
   ]
-]
+];

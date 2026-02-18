@@ -133,4 +133,4 @@ export var noiseAwareSharp20px = [
       ]
     ]
   ]
-]
+];

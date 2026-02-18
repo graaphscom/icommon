@@ -215,4 +215,4 @@ export var viewCompact20px = [
       ]
     ]
   ]
-]
+];

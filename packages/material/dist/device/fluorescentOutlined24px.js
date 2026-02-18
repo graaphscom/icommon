@@ -94,4 +94,4 @@ export var fluorescentOutlined24px = [
       ]
     ]
   ]
-]
+];

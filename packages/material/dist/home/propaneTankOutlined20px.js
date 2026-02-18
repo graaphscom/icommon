@@ -36,4 +36,4 @@ export var propaneTankOutlined20px = [
       ]
     ]
   ]
-]
+];

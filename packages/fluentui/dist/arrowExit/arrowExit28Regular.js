@@ -16,4 +16,4 @@ export var arrowExit28Regular = [
       }
     ]
   ]
-]
+];

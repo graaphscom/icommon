@@ -16,4 +16,4 @@ export var panelTopGallery16Filled = [
       }
     ]
   ]
-]
+];

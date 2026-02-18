@@ -21,4 +21,4 @@ export var landscapeOutlined24px = [
       }
     ]
   ]
-]
+];

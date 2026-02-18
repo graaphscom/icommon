@@ -21,4 +21,4 @@ export var timer324px = [
       }
     ]
   ]
-]
+];

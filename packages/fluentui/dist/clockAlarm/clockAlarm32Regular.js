@@ -16,4 +16,4 @@ export var clockAlarm32Regular = [
       }
     ]
   ]
-]
+];

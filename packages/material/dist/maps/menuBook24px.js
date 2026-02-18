@@ -69,4 +69,4 @@ export var menuBook24px = [
       ]
     ]
   ]
-]
+];

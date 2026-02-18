@@ -16,4 +16,4 @@ export var creditCardToolbox20Filled = [
       }
     ]
   ]
-]
+];

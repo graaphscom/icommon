@@ -94,4 +94,4 @@ export var homeWorkTwotone20px = [
       ]
     ]
   ]
-]
+];

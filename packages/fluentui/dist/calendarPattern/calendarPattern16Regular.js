@@ -16,4 +16,4 @@ export var calendarPattern16Regular = [
       }
     ]
   ]
-]
+];

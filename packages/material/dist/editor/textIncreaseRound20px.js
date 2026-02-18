@@ -23,4 +23,4 @@ export var textIncreaseRound20px = [
       }
     ]
   ]
-]
+];

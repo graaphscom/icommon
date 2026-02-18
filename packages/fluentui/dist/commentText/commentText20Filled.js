@@ -16,4 +16,4 @@ export var commentText20Filled = [
       }
     ]
   ]
-]
+];

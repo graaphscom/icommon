@@ -21,4 +21,4 @@ export var smokeFreeTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var branchFork32Regular = [
       }
     ]
   ]
-]
+];

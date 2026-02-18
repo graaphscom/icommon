@@ -36,4 +36,4 @@ export var attractionsSharp20px = [
       ]
     ]
   ]
-]
+];

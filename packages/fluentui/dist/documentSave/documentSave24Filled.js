@@ -16,4 +16,4 @@ export var documentSave24Filled = [
       }
     ]
   ]
-]
+];

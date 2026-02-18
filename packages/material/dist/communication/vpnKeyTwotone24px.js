@@ -28,4 +28,4 @@ export var vpnKeyTwotone24px = [
       }
     ]
   ]
-]
+];

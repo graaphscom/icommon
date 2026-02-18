@@ -91,4 +91,4 @@ export var dashboardCustomizeTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var caretRight12Filled = [
       }
     ]
   ]
-]
+];

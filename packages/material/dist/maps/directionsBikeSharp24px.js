@@ -21,4 +21,4 @@ export var directionsBikeSharp24px = [
       }
     ]
   ]
-]
+];

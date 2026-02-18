@@ -21,4 +21,4 @@ export var localLibraryRound24px = [
       }
     ]
   ]
-]
+];

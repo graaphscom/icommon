@@ -35,4 +35,4 @@ export var currencyBitcoinSharp20px = [
       ]
     ]
   ]
-]
+];

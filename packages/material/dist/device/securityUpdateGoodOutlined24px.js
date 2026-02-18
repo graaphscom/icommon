@@ -34,4 +34,4 @@ export var securityUpdateGoodOutlined24px = [
       ]
     ]
   ]
-]
+];

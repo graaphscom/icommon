@@ -16,4 +16,4 @@ export var panelLeftTextAdd20Filled = [
       }
     ]
   ]
-]
+];

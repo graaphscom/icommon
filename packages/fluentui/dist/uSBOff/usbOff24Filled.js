@@ -16,4 +16,4 @@ export var usbOff24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var clipboardTaskList20FilledLtr = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var videoCameraFrontRound24px = [
       ]
     ]
   ]
-]
+];

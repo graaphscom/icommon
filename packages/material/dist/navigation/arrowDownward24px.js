@@ -21,4 +21,4 @@ export var arrowDownward24px = [
       }
     ]
   ]
-]
+];

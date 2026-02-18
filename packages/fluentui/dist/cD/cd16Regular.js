@@ -16,4 +16,4 @@ export var cd16Regular = [
       }
     ]
   ]
-]
+];

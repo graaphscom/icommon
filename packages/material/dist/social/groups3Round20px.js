@@ -75,4 +75,4 @@ export var groups3Round20px = [
       ]
     ]
   ]
-]
+];

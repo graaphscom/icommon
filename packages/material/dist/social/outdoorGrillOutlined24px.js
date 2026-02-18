@@ -59,4 +59,4 @@ export var outdoorGrillOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var smokeFreeSharp24px = [
       }
     ]
   ]
-]
+];

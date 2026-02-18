@@ -16,4 +16,4 @@ export var tag32Light = [
       }
     ]
   ]
-]
+];

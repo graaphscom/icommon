@@ -21,4 +21,4 @@ export var kitchenSharp24px = [
       }
     ]
   ]
-]
+];

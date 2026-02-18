@@ -16,4 +16,4 @@ export var dataUsageEdit20Filled = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var medicalServices24px = [
       ]
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var apiOutlined24px = [
       ]
     ]
   ]
-]
+];

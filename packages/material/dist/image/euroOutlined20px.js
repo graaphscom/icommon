@@ -40,4 +40,4 @@ export var euroOutlined20px = [
       ]
     ]
   ]
-]
+];

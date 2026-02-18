@@ -16,4 +16,4 @@ export var immersiveReader20Filled = [
       }
     ]
   ]
-]
+];

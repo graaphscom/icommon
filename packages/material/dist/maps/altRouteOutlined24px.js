@@ -29,4 +29,4 @@ export var altRouteOutlined24px = [
       ]
     ]
   ]
-]
+];

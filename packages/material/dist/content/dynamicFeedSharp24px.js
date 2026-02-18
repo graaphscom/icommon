@@ -97,4 +97,4 @@ export var dynamicFeedSharp24px = [
       ]
     ]
   ]
-]
+];

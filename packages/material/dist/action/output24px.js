@@ -47,4 +47,4 @@ export var output24px = [
       ]
     ]
   ]
-]
+];

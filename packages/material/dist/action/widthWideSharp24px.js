@@ -35,4 +35,4 @@ export var widthWideSharp24px = [
       ]
     ]
   ]
-]
+];

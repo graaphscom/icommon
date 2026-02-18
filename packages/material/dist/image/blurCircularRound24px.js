@@ -21,4 +21,4 @@ export var blurCircularRound24px = [
       }
     ]
   ]
-]
+];

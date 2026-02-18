@@ -23,4 +23,4 @@ export var hotelClassSharp20px = [
       }
     ]
   ]
-]
+];

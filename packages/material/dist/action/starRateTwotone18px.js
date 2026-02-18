@@ -21,4 +21,4 @@ export var starRateTwotone18px = [
       }
     ]
   ]
-]
+];

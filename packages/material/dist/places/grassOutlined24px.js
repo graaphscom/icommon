@@ -23,4 +23,4 @@ export var grassOutlined24px = [
       }
     ]
   ]
-]
+];

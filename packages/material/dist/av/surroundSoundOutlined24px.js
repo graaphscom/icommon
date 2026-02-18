@@ -79,4 +79,4 @@ export var surroundSoundOutlined24px = [
       ]
     ]
   ]
-]
+];

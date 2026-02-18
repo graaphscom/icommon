@@ -91,4 +91,4 @@ export var groups3Twotone20px = [
       ]
     ]
   ]
-]
+];

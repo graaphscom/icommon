@@ -35,4 +35,4 @@ export var scoreboardSharp20px = [
       ]
     ]
   ]
-]
+];

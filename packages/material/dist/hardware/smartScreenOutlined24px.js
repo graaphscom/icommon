@@ -78,4 +78,4 @@ export var smartScreenOutlined24px = [
       ]
     ]
   ]
-]
+];

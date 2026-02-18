@@ -21,4 +21,4 @@ export var airportShuttleRound24px = [
       }
     ]
   ]
-]
+];

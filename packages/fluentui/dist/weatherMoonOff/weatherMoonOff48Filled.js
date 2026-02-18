@@ -16,4 +16,4 @@ export var weatherMoonOff48Filled = [
       }
     ]
   ]
-]
+];

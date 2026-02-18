@@ -35,4 +35,4 @@ export var warehouseOutlined24px = [
       ]
     ]
   ]
-]
+];

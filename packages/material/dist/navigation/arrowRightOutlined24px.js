@@ -21,4 +21,4 @@ export var arrowRightOutlined24px = [
       }
     ]
   ]
-]
+];

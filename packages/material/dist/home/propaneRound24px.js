@@ -43,4 +43,4 @@ export var propaneRound24px = [
       ]
     ]
   ]
-]
+];

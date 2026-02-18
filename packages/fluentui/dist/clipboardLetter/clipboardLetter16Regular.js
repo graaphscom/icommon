@@ -16,4 +16,4 @@ export var clipboardLetter16Regular = [
       }
     ]
   ]
-]
+];

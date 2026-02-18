@@ -16,4 +16,4 @@ export var tableColumnTopBottom24Filled = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var foodBankRound24px = [
       }
     ]
   ]
-]
+];

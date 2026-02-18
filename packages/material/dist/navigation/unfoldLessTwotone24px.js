@@ -22,4 +22,4 @@ export var unfoldLessTwotone24px = [
       }
     ]
   ]
-]
+];

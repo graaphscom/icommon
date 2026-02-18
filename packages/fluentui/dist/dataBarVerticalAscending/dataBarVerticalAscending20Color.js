@@ -114,4 +114,4 @@ export var dataBarVerticalAscending20Color = [
       ]
     ]
   ]
-]
+];

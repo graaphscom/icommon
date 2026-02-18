@@ -18,4 +18,4 @@ export var starHalf = [
       }
     ]
   ]
-]
+];

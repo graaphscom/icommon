@@ -21,4 +21,4 @@ export var partyMode24px = [
       }
     ]
   ]
-]
+];

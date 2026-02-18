@@ -36,4 +36,4 @@ export var emergencyRecordingOutlined20px = [
       ]
     ]
   ]
-]
+];

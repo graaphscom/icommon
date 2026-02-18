@@ -80,4 +80,4 @@ export var __18UpRatingTwotone20px = [
       ]
     ]
   ]
-]
+];

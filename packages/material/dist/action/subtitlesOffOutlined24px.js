@@ -53,4 +53,4 @@ export var subtitlesOffOutlined24px = [
       ]
     ]
   ]
-]
+];

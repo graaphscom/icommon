@@ -81,4 +81,4 @@ export var emojiEmotionsTwotone20px = [
       ]
     ]
   ]
-]
+];

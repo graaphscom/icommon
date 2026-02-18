@@ -21,4 +21,4 @@ export var wifiRound24px = [
       }
     ]
   ]
-]
+];

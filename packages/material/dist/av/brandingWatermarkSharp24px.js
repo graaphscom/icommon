@@ -21,4 +21,4 @@ export var brandingWatermarkSharp24px = [
       }
     ]
   ]
-]
+];

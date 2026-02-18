@@ -59,4 +59,4 @@ export var person424px = [
       ]
     ]
   ]
-]
+];

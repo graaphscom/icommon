@@ -40,4 +40,4 @@ export var wifiTetheringOffRound24px = [
       ]
     ]
   ]
-]
+];

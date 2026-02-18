@@ -28,4 +28,4 @@ export var businessCenterTwotone24px = [
       }
     ]
   ]
-]
+];

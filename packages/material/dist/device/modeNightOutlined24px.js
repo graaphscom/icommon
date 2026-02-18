@@ -40,4 +40,4 @@ export var modeNightOutlined24px = [
       ]
     ]
   ]
-]
+];

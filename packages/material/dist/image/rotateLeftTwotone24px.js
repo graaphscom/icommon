@@ -21,4 +21,4 @@ export var rotateLeftTwotone24px = [
       }
     ]
   ]
-]
+];

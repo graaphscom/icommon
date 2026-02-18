@@ -13,4 +13,4 @@ export var loader2Fill = [
       }
     ]
   ]
-]
+];

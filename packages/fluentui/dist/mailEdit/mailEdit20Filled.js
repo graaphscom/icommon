@@ -16,4 +16,4 @@ export var mailEdit20Filled = [
       }
     ]
   ]
-]
+];

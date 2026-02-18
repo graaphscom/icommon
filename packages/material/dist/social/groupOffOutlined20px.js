@@ -23,4 +23,4 @@ export var groupOffOutlined20px = [
       }
     ]
   ]
-]
+];

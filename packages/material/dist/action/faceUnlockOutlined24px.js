@@ -21,4 +21,4 @@ export var faceUnlockOutlined24px = [
       }
     ]
   ]
-]
+];

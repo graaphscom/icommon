@@ -16,4 +16,4 @@ export var eyeOff24Regular = [
       }
     ]
   ]
-]
+];

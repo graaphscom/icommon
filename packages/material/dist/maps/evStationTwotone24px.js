@@ -28,4 +28,4 @@ export var evStationTwotone24px = [
       }
     ]
   ]
-]
+];

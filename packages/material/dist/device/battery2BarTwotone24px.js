@@ -45,4 +45,4 @@ export var battery2BarTwotone24px = [
       ]
     ]
   ]
-]
+];

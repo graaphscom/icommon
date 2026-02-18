@@ -58,4 +58,4 @@ export var cellular5g24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var windowColumnOneFourthLeft20Filled = [
       }
     ]
   ]
-]
+];

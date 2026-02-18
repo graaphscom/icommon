@@ -21,4 +21,4 @@ export var importExportTwotone24px = [
       }
     ]
   ]
-]
+];

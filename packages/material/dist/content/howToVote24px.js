@@ -21,4 +21,4 @@ export var howToVote24px = [
       }
     ]
   ]
-]
+];

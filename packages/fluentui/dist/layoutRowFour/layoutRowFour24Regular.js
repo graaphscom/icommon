@@ -16,4 +16,4 @@ export var layoutRowFour24Regular = [
       }
     ]
   ]
-]
+];

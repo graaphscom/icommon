@@ -40,4 +40,4 @@ export var __3gMobiledataTwotone24px = [
       ]
     ]
   ]
-]
+];

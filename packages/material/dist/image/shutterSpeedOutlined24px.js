@@ -21,4 +21,4 @@ export var shutterSpeedOutlined24px = [
       }
     ]
   ]
-]
+];

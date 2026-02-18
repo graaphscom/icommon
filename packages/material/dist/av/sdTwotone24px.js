@@ -70,4 +70,4 @@ export var sdTwotone24px = [
       ]
     ]
   ]
-]
+];

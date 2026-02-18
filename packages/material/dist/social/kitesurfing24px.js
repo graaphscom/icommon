@@ -29,4 +29,4 @@ export var kitesurfing24px = [
       ]
     ]
   ]
-]
+];

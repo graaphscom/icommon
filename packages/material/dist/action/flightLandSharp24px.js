@@ -21,4 +21,4 @@ export var flightLandSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var protocolHandler20Filled = [
       }
     ]
   ]
-]
+];

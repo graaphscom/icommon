@@ -29,4 +29,4 @@ export var notificationAdd20px = [
       ]
     ]
   ]
-]
+];

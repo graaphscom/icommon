@@ -16,4 +16,4 @@ export var keyboardLayoutFloat20Filled = [
       }
     ]
   ]
-]
+];

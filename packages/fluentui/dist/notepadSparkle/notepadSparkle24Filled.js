@@ -16,4 +16,4 @@ export var notepadSparkle24Filled = [
       }
     ]
   ]
-]
+];

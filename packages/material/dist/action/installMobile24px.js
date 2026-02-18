@@ -47,4 +47,4 @@ export var installMobile24px = [
       ]
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var sensorDoorSharp20px = [
       ]
     ]
   ]
-]
+];

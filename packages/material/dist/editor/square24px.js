@@ -44,4 +44,4 @@ export var square24px = [
       ]
     ]
   ]
-]
+];

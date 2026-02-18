@@ -43,4 +43,4 @@ export var removeModeratorRound24px = [
       ]
     ]
   ]
-]
+];

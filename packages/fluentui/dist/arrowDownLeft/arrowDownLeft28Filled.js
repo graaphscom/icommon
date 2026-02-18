@@ -16,4 +16,4 @@ export var arrowDownLeft28Filled = [
       }
     ]
   ]
-]
+];

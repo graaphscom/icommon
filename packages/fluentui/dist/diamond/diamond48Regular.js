@@ -16,4 +16,4 @@ export var diamond48Regular = [
       }
     ]
   ]
-]
+];

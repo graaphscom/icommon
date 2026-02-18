@@ -29,4 +29,4 @@ export var chargingStationOutlined24px = [
       ]
     ]
   ]
-]
+];

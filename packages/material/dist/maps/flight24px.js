@@ -21,4 +21,4 @@ export var flight24px = [
       }
     ]
   ]
-]
+];

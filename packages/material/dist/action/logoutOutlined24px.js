@@ -34,4 +34,4 @@ export var logoutOutlined24px = [
       ]
     ]
   ]
-]
+];

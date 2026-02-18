@@ -28,4 +28,4 @@ export var volumeOffTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var callAdd24Regular = [
       }
     ]
   ]
-]
+];

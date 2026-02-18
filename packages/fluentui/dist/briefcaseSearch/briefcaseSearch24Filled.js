@@ -16,4 +16,4 @@ export var briefcaseSearch24Filled = [
       }
     ]
   ]
-]
+];

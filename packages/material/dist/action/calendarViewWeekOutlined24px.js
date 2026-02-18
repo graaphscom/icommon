@@ -34,4 +34,4 @@ export var calendarViewWeekOutlined24px = [
       ]
     ]
   ]
-]
+];

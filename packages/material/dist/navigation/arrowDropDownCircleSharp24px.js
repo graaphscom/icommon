@@ -21,4 +21,4 @@ export var arrowDropDownCircleSharp24px = [
       }
     ]
   ]
-]
+];

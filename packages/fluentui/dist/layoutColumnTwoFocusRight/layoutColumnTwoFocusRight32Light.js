@@ -16,4 +16,4 @@ export var layoutColumnTwoFocusRight32Light = [
       }
     ]
   ]
-]
+];

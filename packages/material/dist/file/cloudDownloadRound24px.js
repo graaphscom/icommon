@@ -21,4 +21,4 @@ export var cloudDownloadRound24px = [
       }
     ]
   ]
-]
+];

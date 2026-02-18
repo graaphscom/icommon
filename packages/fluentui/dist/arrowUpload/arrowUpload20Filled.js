@@ -16,4 +16,4 @@ export var arrowUpload20Filled = [
       }
     ]
   ]
-]
+];

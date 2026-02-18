@@ -21,4 +21,4 @@ export var castForEducationSharp24px = [
       }
     ]
   ]
-]
+];

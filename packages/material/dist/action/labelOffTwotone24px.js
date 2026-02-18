@@ -28,4 +28,4 @@ export var labelOffTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var flightTakeoffTwotone24px = [
       }
     ]
   ]
-]
+];

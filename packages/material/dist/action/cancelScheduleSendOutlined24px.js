@@ -47,4 +47,4 @@ export var cancelScheduleSendOutlined24px = [
       ]
     ]
   ]
-]
+];

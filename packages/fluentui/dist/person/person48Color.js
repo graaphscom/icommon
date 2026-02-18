@@ -117,4 +117,4 @@ export var person48Color = [
       ]
     ]
   ]
-]
+];

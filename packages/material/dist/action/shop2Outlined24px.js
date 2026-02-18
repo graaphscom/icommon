@@ -53,4 +53,4 @@ export var shop2Outlined24px = [
       ]
     ]
   ]
-]
+];

@@ -50,4 +50,4 @@ export var pestControlOutlined24px = [
       ]
     ]
   ]
-]
+];

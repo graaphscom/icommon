@@ -46,4 +46,4 @@ export var restartAltSharp24px = [
       ]
     ]
   ]
-]
+];

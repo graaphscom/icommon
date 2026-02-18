@@ -16,4 +16,4 @@ export var slideTextTitle16Filled = [
       }
     ]
   ]
-]
+];

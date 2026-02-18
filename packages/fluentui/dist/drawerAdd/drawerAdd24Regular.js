@@ -16,4 +16,4 @@ export var drawerAdd24Regular = [
       }
     ]
   ]
-]
+];

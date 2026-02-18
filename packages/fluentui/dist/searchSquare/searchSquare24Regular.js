@@ -16,4 +16,4 @@ export var searchSquare24Regular = [
       }
     ]
   ]
-]
+];

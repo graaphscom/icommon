@@ -21,4 +21,4 @@ export var permPhoneMsg24px = [
       }
     ]
   ]
-]
+];

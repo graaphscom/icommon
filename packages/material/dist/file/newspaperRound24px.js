@@ -43,4 +43,4 @@ export var newspaperRound24px = [
       ]
     ]
   ]
-]
+];

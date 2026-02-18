@@ -16,4 +16,4 @@ export var clipboardNote20Filled = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var mediationRound24px = [
       ]
     ]
   ]
-]
+];

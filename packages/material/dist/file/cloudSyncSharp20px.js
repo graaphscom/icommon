@@ -41,4 +41,4 @@ export var cloudSyncSharp20px = [
       ]
     ]
   ]
-]
+];

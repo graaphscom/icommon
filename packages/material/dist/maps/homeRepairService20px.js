@@ -53,4 +53,4 @@ export var homeRepairService20px = [
       ]
     ]
   ]
-]
+];

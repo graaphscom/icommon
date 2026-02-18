@@ -114,4 +114,4 @@ export var poll24Color = [
       ]
     ]
   ]
-]
+];

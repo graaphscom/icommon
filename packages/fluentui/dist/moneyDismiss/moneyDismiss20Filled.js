@@ -16,4 +16,4 @@ export var moneyDismiss20Filled = [
       }
     ]
   ]
-]
+];

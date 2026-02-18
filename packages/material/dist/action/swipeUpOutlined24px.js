@@ -35,4 +35,4 @@ export var swipeUpOutlined24px = [
       ]
     ]
   ]
-]
+];

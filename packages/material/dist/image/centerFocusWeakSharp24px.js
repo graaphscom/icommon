@@ -21,4 +21,4 @@ export var centerFocusWeakSharp24px = [
       }
     ]
   ]
-]
+];

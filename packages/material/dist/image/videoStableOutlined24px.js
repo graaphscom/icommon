@@ -35,4 +35,4 @@ export var videoStableOutlined24px = [
       ]
     ]
   ]
-]
+];

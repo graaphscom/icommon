@@ -48,4 +48,4 @@ export var rememberMeRound24px = [
       ]
     ]
   ]
-]
+];

@@ -213,4 +213,4 @@ export var library20Color = [
       ]
     ]
   ]
-]
+];

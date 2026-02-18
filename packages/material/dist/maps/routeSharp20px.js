@@ -41,4 +41,4 @@ export var routeSharp20px = [
       ]
     ]
   ]
-]
+];

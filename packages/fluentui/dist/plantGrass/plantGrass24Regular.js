@@ -16,4 +16,4 @@ export var plantGrass24Regular = [
       }
     ]
   ]
-]
+];

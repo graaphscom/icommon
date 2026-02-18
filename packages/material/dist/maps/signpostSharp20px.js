@@ -35,4 +35,4 @@ export var signpostSharp20px = [
       ]
     ]
   ]
-]
+];

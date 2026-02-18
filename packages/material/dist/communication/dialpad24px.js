@@ -21,4 +21,4 @@ export var dialpad24px = [
       }
     ]
   ]
-]
+];

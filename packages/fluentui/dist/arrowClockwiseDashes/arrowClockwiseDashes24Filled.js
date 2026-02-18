@@ -16,4 +16,4 @@ export var arrowClockwiseDashes24Filled = [
       }
     ]
   ]
-]
+];

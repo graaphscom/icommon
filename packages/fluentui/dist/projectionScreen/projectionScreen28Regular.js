@@ -16,4 +16,4 @@ export var projectionScreen28Regular = [
       }
     ]
   ]
-]
+];

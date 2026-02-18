@@ -21,4 +21,4 @@ export var laptopWindowsOutlined24px = [
       }
     ]
   ]
-]
+];

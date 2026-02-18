@@ -16,4 +16,4 @@ export var documentDatabase24Regular = [
       }
     ]
   ]
-]
+];

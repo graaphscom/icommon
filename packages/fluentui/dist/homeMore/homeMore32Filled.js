@@ -16,4 +16,4 @@ export var homeMore32Filled = [
       }
     ]
   ]
-]
+];

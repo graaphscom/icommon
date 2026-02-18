@@ -16,4 +16,4 @@ export var documentHeaderArrowDown20Filled = [
       }
     ]
   ]
-]
+];

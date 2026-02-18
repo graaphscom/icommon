@@ -14,4 +14,4 @@ export var insertLinkSharp24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var segmentOutlined24px = [
       ]
     ]
   ]
-]
+];

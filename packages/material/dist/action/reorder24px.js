@@ -21,4 +21,4 @@ export var reorder24px = [
       }
     ]
   ]
-]
+];

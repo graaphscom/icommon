@@ -82,4 +82,4 @@ export var arrowClockwiseDashes32Color = [
       ]
     ]
   ]
-]
+];

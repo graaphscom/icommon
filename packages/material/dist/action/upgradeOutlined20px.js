@@ -29,4 +29,4 @@ export var upgradeOutlined20px = [
       ]
     ]
   ]
-]
+];

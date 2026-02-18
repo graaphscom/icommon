@@ -16,4 +16,4 @@ export var lockMultiple24Regular = [
       }
     ]
   ]
-]
+];

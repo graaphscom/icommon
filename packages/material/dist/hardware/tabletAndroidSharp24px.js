@@ -21,4 +21,4 @@ export var tabletAndroidSharp24px = [
       }
     ]
   ]
-]
+];

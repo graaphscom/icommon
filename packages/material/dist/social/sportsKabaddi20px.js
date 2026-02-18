@@ -61,4 +61,4 @@ export var sportsKabaddi20px = [
       ]
     ]
   ]
-]
+];

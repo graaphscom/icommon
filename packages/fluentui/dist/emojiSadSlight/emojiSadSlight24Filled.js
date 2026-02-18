@@ -16,4 +16,4 @@ export var emojiSadSlight24Filled = [
       }
     ]
   ]
-]
+];

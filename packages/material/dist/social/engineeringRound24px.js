@@ -73,4 +73,4 @@ export var engineeringRound24px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var workspacePremiumOutlined20px = [
       }
     ]
   ]
-]
+];

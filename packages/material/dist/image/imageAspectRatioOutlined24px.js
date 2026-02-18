@@ -21,4 +21,4 @@ export var imageAspectRatioOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -59,4 +59,4 @@ export var discountSharp24px = [
       ]
     ]
   ]
-]
+];

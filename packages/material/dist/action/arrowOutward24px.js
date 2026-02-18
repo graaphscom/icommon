@@ -35,4 +35,4 @@ export var arrowOutward24px = [
       ]
     ]
   ]
-]
+];

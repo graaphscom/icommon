@@ -16,4 +16,4 @@ export var textEffects20Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var manageHistoryRound20px = [
       ]
     ]
   ]
-]
+];

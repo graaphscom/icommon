@@ -16,4 +16,4 @@ export var calendarToolbox24Regular = [
       }
     ]
   ]
-]
+];

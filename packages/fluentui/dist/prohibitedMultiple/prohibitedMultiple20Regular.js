@@ -16,4 +16,4 @@ export var prohibitedMultiple20Regular = [
       }
     ]
   ]
-]
+];

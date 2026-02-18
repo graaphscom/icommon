@@ -29,4 +29,4 @@ export var batchPredictionRound20px = [
       ]
     ]
   ]
-]
+];

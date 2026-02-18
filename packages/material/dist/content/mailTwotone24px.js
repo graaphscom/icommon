@@ -28,4 +28,4 @@ export var mailTwotone24px = [
       }
     ]
   ]
-]
+];

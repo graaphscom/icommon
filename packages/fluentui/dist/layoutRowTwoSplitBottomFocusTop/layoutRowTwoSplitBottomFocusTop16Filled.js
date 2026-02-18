@@ -16,4 +16,4 @@ export var layoutRowTwoSplitBottomFocusTop16Filled = [
       }
     ]
   ]
-]
+];

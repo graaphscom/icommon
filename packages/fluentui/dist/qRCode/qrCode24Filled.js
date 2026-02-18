@@ -16,4 +16,4 @@ export var qrCode24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shareIos28Filled = [
       }
     ]
   ]
-]
+];

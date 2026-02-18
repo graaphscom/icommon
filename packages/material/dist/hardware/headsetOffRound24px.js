@@ -48,4 +48,4 @@ export var headsetOffRound24px = [
       ]
     ]
   ]
-]
+];

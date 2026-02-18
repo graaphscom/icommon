@@ -21,4 +21,4 @@ export var navigateNext24px = [
       }
     ]
   ]
-]
+];

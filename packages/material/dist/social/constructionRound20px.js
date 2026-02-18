@@ -47,4 +47,4 @@ export var constructionRound20px = [
       ]
     ]
   ]
-]
+];

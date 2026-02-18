@@ -28,4 +28,4 @@ export var callToActionTwotone24px = [
       }
     ]
   ]
-]
+];

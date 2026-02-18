@@ -35,4 +35,4 @@ export var battery5BarRound20px = [
       ]
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var ram2Fill = [
       }
     ]
   ]
-]
+];

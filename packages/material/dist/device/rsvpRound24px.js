@@ -40,4 +40,4 @@ export var rsvpRound24px = [
       ]
     ]
   ]
-]
+];

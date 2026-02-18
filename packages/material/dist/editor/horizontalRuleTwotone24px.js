@@ -40,4 +40,4 @@ export var horizontalRuleTwotone24px = [
       ]
     ]
   ]
-]
+];

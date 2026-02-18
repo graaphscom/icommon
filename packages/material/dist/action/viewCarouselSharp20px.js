@@ -23,4 +23,4 @@ export var viewCarouselSharp20px = [
       }
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var assistWalker24px = [
       ]
     ]
   ]
-]
+];

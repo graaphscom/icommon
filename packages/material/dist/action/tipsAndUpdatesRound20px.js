@@ -23,4 +23,4 @@ export var tipsAndUpdatesRound20px = [
       }
     ]
   ]
-]
+];

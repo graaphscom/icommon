@@ -23,4 +23,4 @@ export var viewQuilt20px = [
       }
     ]
   ]
-]
+];

@@ -54,4 +54,4 @@ export var lockClockTwotone24px = [
       ]
     ]
   ]
-]
+];

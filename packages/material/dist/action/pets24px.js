@@ -53,4 +53,4 @@ export var pets24px = [
       }
     ]
   ]
-]
+];

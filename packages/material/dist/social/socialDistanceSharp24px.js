@@ -23,4 +23,4 @@ export var socialDistanceSharp24px = [
       }
     ]
   ]
-]
+];

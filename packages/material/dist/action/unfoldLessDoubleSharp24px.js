@@ -59,4 +59,4 @@ export var unfoldLessDoubleSharp24px = [
       ]
     ]
   ]
-]
+];

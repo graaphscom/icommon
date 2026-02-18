@@ -16,4 +16,4 @@ export var animalPawPrint16Filled = [
       }
     ]
   ]
-]
+];

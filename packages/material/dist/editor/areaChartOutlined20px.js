@@ -23,4 +23,4 @@ export var areaChartOutlined20px = [
       }
     ]
   ]
-]
+];

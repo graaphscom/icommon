@@ -16,4 +16,4 @@ export var textArrowDownRightColumn28Filled = [
       }
     ]
   ]
-]
+];

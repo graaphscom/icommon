@@ -28,4 +28,4 @@ export var contactSupportTwotone24px = [
       }
     ]
   ]
-]
+];

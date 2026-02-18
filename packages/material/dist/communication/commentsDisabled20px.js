@@ -23,4 +23,4 @@ export var commentsDisabled20px = [
       }
     ]
   ]
-]
+];

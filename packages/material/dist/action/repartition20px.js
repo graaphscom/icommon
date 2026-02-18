@@ -47,4 +47,4 @@ export var repartition20px = [
       ]
     ]
   ]
-]
+];

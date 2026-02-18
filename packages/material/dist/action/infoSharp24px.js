@@ -21,4 +21,4 @@ export var infoSharp24px = [
       }
     ]
   ]
-]
+];

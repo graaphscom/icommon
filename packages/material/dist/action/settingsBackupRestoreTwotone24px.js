@@ -21,4 +21,4 @@ export var settingsBackupRestoreTwotone24px = [
       }
     ]
   ]
-]
+];

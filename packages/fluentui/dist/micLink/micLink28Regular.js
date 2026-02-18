@@ -16,4 +16,4 @@ export var micLink28Regular = [
       }
     ]
   ]
-]
+];

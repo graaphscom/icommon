@@ -21,4 +21,4 @@ export var featuredPlayListOutlined24px = [
       }
     ]
   ]
-]
+];

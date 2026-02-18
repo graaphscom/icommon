@@ -28,4 +28,4 @@ export var cloudDownloadTwotone24px = [
       }
     ]
   ]
-]
+];

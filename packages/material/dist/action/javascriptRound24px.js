@@ -43,4 +43,4 @@ export var javascriptRound24px = [
       ]
     ]
   ]
-]
+];

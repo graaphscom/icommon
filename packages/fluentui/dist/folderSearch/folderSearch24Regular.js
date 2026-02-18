@@ -16,4 +16,4 @@ export var folderSearch24Regular = [
       }
     ]
   ]
-]
+];

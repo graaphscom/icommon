@@ -91,4 +91,4 @@ export var theaterComedyOutlined20px = [
       ]
     ]
   ]
-]
+];

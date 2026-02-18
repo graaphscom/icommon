@@ -37,4 +37,4 @@ export var devicesOtherTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var addCircle32Regular = [
       }
     ]
   ]
-]
+];

@@ -88,4 +88,4 @@ export var busAlertOutlined24px = [
       ]
     ]
   ]
-]
+];

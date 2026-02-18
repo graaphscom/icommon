@@ -59,4 +59,4 @@ export var electricMopedRound20px = [
       ]
     ]
   ]
-]
+];

@@ -97,4 +97,4 @@ export var sportsBasketballTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var serverLink24Filled = [
       }
     ]
   ]
-]
+];

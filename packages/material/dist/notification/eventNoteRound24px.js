@@ -21,4 +21,4 @@ export var eventNoteRound24px = [
       }
     ]
   ]
-]
+];

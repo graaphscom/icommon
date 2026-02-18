@@ -29,4 +29,4 @@ export var hotTubTwotone24px = [
       }
     ]
   ]
-]
+];

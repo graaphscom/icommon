@@ -21,4 +21,4 @@ export var tabletAndroidOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var payment24Filled = [
       }
     ]
   ]
-]
+];

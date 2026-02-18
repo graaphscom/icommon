@@ -36,4 +36,4 @@ export var elevatorTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var currencyYenSharp20px = [
       ]
     ]
   ]
-]
+];

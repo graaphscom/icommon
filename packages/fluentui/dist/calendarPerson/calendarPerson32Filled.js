@@ -16,4 +16,4 @@ export var calendarPerson32Filled = [
       }
     ]
   ]
-]
+];

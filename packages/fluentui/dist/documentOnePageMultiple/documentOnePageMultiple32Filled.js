@@ -16,4 +16,4 @@ export var documentOnePageMultiple32Filled = [
       }
     ]
   ]
-]
+];

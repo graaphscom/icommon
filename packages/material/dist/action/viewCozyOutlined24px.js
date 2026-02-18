@@ -77,4 +77,4 @@ export var viewCozyOutlined24px = [
       ]
     ]
   ]
-]
+];

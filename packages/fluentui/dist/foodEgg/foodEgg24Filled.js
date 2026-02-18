@@ -16,4 +16,4 @@ export var foodEgg24Filled = [
       }
     ]
   ]
-]
+];

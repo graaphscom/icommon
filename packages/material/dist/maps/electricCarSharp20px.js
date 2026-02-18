@@ -41,4 +41,4 @@ export var electricCarSharp20px = [
       ]
     ]
   ]
-]
+];

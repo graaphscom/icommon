@@ -35,4 +35,4 @@ export var personAddAltOutlined24px = [
       ]
     ]
   ]
-]
+];

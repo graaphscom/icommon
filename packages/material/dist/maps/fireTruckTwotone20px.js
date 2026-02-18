@@ -61,4 +61,4 @@ export var fireTruckTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var apartmentSharp20px = [
       ]
     ]
   ]
-]
+];

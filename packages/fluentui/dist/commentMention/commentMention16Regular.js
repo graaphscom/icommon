@@ -16,4 +16,4 @@ export var commentMention16Regular = [
       }
     ]
   ]
-]
+];

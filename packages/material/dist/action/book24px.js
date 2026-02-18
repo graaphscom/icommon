@@ -21,4 +21,4 @@ export var book24px = [
       }
     ]
   ]
-]
+];

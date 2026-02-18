@@ -50,4 +50,4 @@ export var screenLockPortraitRound24px = [
       {}
     ]
   ]
-]
+];

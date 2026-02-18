@@ -16,4 +16,4 @@ export var callAdd16Regular = [
       }
     ]
   ]
-]
+];

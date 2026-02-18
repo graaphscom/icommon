@@ -21,4 +21,4 @@ export var saveAlt24px = [
       }
     ]
   ]
-]
+];

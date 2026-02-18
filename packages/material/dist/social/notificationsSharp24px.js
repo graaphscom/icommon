@@ -21,4 +21,4 @@ export var notificationsSharp24px = [
       }
     ]
   ]
-]
+];

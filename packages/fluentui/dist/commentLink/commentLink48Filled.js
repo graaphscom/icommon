@@ -16,4 +16,4 @@ export var commentLink48Filled = [
       }
     ]
   ]
-]
+];

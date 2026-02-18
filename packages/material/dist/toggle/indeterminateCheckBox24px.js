@@ -47,4 +47,4 @@ export var indeterminateCheckBox24px = [
       ]
     ]
   ]
-]
+];

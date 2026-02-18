@@ -41,4 +41,4 @@ export var girlSharp24px = [
       ]
     ]
   ]
-]
+];

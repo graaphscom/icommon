@@ -28,4 +28,4 @@ export var nfc24px = [
       }
     ]
   ]
-]
+];

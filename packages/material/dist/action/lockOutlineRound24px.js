@@ -21,4 +21,4 @@ export var lockOutlineRound24px = [
       }
     ]
   ]
-]
+];

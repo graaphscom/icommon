@@ -16,4 +16,4 @@ export var personCircle12Filled = [
       }
     ]
   ]
-]
+];

@@ -71,4 +71,4 @@ export var analyticsOutlined24px = [
       ]
     ]
   ]
-]
+];

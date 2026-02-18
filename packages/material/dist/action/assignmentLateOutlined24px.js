@@ -21,4 +21,4 @@ export var assignmentLateOutlined24px = [
       }
     ]
   ]
-]
+];

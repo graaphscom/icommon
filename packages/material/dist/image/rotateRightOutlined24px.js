@@ -21,4 +21,4 @@ export var rotateRightOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var cropSparkle24Filled = [
       }
     ]
   ]
-]
+];

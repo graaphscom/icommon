@@ -35,4 +35,4 @@ export var heatPump24px = [
       ]
     ]
   ]
-]
+];

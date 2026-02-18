@@ -35,4 +35,4 @@ export var fireplace20px = [
       ]
     ]
   ]
-]
+];

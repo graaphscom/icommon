@@ -23,4 +23,4 @@ export var startOutlined24px = [
       }
     ]
   ]
-]
+];

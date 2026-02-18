@@ -21,4 +21,4 @@ export var restore24px = [
       }
     ]
   ]
-]
+];

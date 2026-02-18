@@ -29,4 +29,4 @@ export var controlCameraTwotone24px = [
       }
     ]
   ]
-]
+];

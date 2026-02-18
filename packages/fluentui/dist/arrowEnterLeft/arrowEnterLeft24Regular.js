@@ -16,4 +16,4 @@ export var arrowEnterLeft24Regular = [
       }
     ]
   ]
-]
+];

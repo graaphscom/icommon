@@ -29,4 +29,4 @@ export var noFoodSharp24px = [
       ]
     ]
   ]
-]
+];

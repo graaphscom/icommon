@@ -147,4 +147,4 @@ export var board24Color = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var selectAllSharp24px = [
       }
     ]
   ]
-]
+];

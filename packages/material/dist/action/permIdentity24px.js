@@ -21,4 +21,4 @@ export var permIdentity24px = [
       }
     ]
   ]
-]
+];

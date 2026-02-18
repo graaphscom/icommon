@@ -16,4 +16,4 @@ export var usbPlug20Filled = [
       }
     ]
   ]
-]
+];

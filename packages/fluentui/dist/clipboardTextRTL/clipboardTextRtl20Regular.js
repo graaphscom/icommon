@@ -37,4 +37,4 @@ export var clipboardTextRtl20Regular = [
       }
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var podcastsOutlined24px = [
       ]
     ]
   ]
-]
+];

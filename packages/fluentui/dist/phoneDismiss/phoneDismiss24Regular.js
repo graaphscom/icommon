@@ -16,4 +16,4 @@ export var phoneDismiss24Regular = [
       }
     ]
   ]
-]
+];

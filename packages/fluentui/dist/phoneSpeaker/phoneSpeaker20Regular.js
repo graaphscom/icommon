@@ -16,4 +16,4 @@ export var phoneSpeaker20Regular = [
       }
     ]
   ]
-]
+];

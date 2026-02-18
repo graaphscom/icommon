@@ -16,4 +16,4 @@ export var showerhead24Filled = [
       }
     ]
   ]
-]
+];

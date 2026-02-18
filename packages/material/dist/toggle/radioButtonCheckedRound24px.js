@@ -29,4 +29,4 @@ export var radioButtonCheckedRound24px = [
       }
     ]
   ]
-]
+];

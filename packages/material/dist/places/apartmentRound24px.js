@@ -43,4 +43,4 @@ export var apartmentRound24px = [
       ]
     ]
   ]
-]
+];

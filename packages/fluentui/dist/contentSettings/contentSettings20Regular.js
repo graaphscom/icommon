@@ -16,4 +16,4 @@ export var contentSettings20Regular = [
       }
     ]
   ]
-]
+];

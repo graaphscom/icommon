@@ -14,4 +14,4 @@ export var heartFill24 = [
       }
     ]
   ]
-]
+];

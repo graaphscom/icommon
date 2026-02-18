@@ -77,4 +77,4 @@ export var assuredWorkloadSharp20px = [
       ]
     ]
   ]
-]
+];

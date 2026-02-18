@@ -16,4 +16,4 @@ export var calendarCancel20Filled = [
       }
     ]
   ]
-]
+];

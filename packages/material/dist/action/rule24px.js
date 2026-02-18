@@ -29,4 +29,4 @@ export var rule24px = [
       ]
     ]
   ]
-]
+];

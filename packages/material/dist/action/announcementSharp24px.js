@@ -21,4 +21,4 @@ export var announcementSharp24px = [
       }
     ]
   ]
-]
+];

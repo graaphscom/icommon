@@ -69,4 +69,4 @@ export var discountTwotone20px = [
       ]
     ]
   ]
-]
+];

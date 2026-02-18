@@ -16,4 +16,4 @@ export var micRecord16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var buildingShop20Filled = [
       }
     ]
   ]
-]
+];

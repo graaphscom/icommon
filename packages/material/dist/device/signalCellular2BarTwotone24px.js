@@ -28,4 +28,4 @@ export var signalCellular2BarTwotone24px = [
       }
     ]
   ]
-]
+];

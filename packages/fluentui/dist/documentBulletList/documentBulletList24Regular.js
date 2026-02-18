@@ -16,4 +16,4 @@ export var documentBulletList24Regular = [
       }
     ]
   ]
-]
+];

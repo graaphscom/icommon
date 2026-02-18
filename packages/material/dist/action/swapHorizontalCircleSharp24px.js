@@ -21,4 +21,4 @@ export var swapHorizontalCircleSharp24px = [
       }
     ]
   ]
-]
+];

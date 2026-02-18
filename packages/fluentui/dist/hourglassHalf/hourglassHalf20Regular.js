@@ -16,4 +16,4 @@ export var hourglassHalf20Regular = [
       }
     ]
   ]
-]
+];

@@ -63,4 +63,4 @@ export var deliveryDiningSharp24px = [
       ]
     ]
   ]
-]
+];

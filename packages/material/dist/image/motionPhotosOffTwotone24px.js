@@ -47,4 +47,4 @@ export var motionPhotosOffTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -42,4 +42,4 @@ export var sportsVolleyballOutlined20px = [
       ]
     ]
   ]
-]
+];

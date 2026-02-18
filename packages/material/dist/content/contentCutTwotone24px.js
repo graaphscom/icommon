@@ -21,4 +21,4 @@ export var contentCutTwotone24px = [
       }
     ]
   ]
-]
+];

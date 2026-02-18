@@ -230,4 +230,4 @@ export var blobbeeHugMouse = [
       }
     ]
   ]
-]
+];

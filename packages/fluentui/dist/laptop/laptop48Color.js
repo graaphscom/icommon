@@ -114,4 +114,4 @@ export var laptop48Color = [
       ]
     ]
   ]
-]
+];

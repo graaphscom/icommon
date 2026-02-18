@@ -29,4 +29,4 @@ export var multipleStopSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var notificationsPaused24px = [
       }
     ]
   ]
-]
+];

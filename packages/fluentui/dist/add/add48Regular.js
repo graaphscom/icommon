@@ -16,4 +16,4 @@ export var add48Regular = [
       }
     ]
   ]
-]
+];

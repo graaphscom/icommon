@@ -35,4 +35,4 @@ export var headphonesOutlined24px = [
       ]
     ]
   ]
-]
+];

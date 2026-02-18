@@ -23,4 +23,4 @@ export var openInNewOffTwotone20px = [
       }
     ]
   ]
-]
+];

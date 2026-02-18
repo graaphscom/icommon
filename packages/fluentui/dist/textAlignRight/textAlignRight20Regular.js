@@ -16,4 +16,4 @@ export var textAlignRight20Regular = [
       }
     ]
   ]
-]
+];

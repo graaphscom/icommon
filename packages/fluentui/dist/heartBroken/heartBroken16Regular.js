@@ -16,4 +16,4 @@ export var heartBroken16Regular = [
       }
     ]
   ]
-]
+];

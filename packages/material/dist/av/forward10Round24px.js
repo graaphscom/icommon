@@ -14,4 +14,4 @@ export var forward10Round24px = [
       }
     ]
   ]
-]
+];

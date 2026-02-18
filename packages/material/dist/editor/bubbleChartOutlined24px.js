@@ -21,4 +21,4 @@ export var bubbleChartOutlined24px = [
       }
     ]
   ]
-]
+];

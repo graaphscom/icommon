@@ -16,4 +16,4 @@ export var iotAlert20Filled = [
       }
     ]
   ]
-]
+];

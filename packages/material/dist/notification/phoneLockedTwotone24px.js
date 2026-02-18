@@ -69,4 +69,4 @@ export var phoneLockedTwotone24px = [
       ]
     ]
   ]
-]
+];

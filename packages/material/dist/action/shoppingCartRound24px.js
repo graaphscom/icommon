@@ -21,4 +21,4 @@ export var shoppingCartRound24px = [
       }
     ]
   ]
-]
+];

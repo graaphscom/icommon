@@ -41,4 +41,4 @@ export var sportsEsportsRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var folderList20Regular = [
       }
     ]
   ]
-]
+];

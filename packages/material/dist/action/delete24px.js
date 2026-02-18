@@ -21,4 +21,4 @@ export var delete24px = [
       }
     ]
   ]
-]
+];

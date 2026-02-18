@@ -54,4 +54,4 @@ export var densityLargeOutlined20px = [
       ]
     ]
   ]
-]
+];

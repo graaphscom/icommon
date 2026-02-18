@@ -21,4 +21,4 @@ export var unsubscribeOutlined24px = [
       }
     ]
   ]
-]
+];

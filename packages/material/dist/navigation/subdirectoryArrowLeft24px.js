@@ -21,4 +21,4 @@ export var subdirectoryArrowLeft24px = [
       }
     ]
   ]
-]
+];

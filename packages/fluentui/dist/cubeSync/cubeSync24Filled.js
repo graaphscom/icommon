@@ -16,4 +16,4 @@ export var cubeSync24Filled = [
       }
     ]
   ]
-]
+];

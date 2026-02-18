@@ -43,4 +43,4 @@ export var networkPingRound24px = [
       ]
     ]
   ]
-]
+];

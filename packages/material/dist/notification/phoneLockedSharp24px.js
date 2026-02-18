@@ -47,4 +47,4 @@ export var phoneLockedSharp24px = [
       ]
     ]
   ]
-]
+];

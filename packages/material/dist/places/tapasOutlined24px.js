@@ -23,4 +23,4 @@ export var tapasOutlined24px = [
       }
     ]
   ]
-]
+];

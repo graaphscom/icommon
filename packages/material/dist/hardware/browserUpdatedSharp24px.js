@@ -24,4 +24,4 @@ export var browserUpdatedSharp24px = [
       }
     ]
   ]
-]
+];

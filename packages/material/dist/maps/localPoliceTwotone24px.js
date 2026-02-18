@@ -30,4 +30,4 @@ export var localPoliceTwotone24px = [
       }
     ]
   ]
-]
+];

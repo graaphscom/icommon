@@ -47,4 +47,4 @@ export var crop32Outlined24px = [
       ]
     ]
   ]
-]
+];

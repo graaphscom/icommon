@@ -23,4 +23,4 @@ export var stopCircleRound20px = [
       }
     ]
   ]
-]
+];

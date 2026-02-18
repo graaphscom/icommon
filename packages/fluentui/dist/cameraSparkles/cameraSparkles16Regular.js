@@ -16,4 +16,4 @@ export var cameraSparkles16Regular = [
       }
     ]
   ]
-]
+];

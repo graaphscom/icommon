@@ -85,4 +85,4 @@ export var groups2Twotone20px = [
       ]
     ]
   ]
-]
+];

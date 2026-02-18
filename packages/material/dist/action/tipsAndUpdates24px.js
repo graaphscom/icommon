@@ -24,4 +24,4 @@ export var tipsAndUpdates24px = [
       }
     ]
   ]
-]
+];

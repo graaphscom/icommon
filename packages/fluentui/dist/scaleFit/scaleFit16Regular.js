@@ -16,4 +16,4 @@ export var scaleFit16Regular = [
       }
     ]
   ]
-]
+];

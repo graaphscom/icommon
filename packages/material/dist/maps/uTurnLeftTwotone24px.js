@@ -35,4 +35,4 @@ export var uTurnLeftTwotone24px = [
       ]
     ]
   ]
-]
+];

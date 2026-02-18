@@ -21,4 +21,4 @@ export var assessmentRound24px = [
       }
     ]
   ]
-]
+];

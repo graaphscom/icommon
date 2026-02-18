@@ -16,4 +16,4 @@ export var fastAcceleration24Filled = [
       }
     ]
   ]
-]
+];

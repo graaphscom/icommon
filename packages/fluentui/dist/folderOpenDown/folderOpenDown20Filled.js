@@ -16,4 +16,4 @@ export var folderOpenDown20Filled = [
       }
     ]
   ]
-]
+];

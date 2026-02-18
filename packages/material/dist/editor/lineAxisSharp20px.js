@@ -35,4 +35,4 @@ export var lineAxisSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personLink32Regular = [
       }
     ]
   ]
-]
+];

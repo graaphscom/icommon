@@ -55,4 +55,4 @@ export var personRemoveAlt1Round20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var dialpadTwotone24px = [
       }
     ]
   ]
-]
+];

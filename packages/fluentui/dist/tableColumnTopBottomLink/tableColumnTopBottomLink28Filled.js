@@ -16,4 +16,4 @@ export var tableColumnTopBottomLink28Filled = [
       }
     ]
   ]
-]
+];

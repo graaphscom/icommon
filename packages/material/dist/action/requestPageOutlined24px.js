@@ -23,4 +23,4 @@ export var requestPageOutlined24px = [
       }
     ]
   ]
-]
+];

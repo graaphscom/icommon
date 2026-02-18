@@ -27,4 +27,4 @@ export var cameraEnhance24px = [
       }
     ]
   ]
-]
+];

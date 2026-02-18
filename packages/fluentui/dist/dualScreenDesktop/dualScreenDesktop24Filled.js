@@ -16,4 +16,4 @@ export var dualScreenDesktop24Filled = [
       }
     ]
   ]
-]
+];

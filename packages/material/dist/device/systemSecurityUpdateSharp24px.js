@@ -34,4 +34,4 @@ export var systemSecurityUpdateSharp24px = [
       ]
     ]
   ]
-]
+];

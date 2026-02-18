@@ -59,4 +59,4 @@ export var hevcSharp24px = [
       ]
     ]
   ]
-]
+];

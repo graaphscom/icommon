@@ -146,4 +146,4 @@ export var appRegistrationTwotone20px = [
       ]
     ]
   ]
-]
+];

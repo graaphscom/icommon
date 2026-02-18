@@ -16,4 +16,4 @@ export var weatherFog20Filled = [
       }
     ]
   ]
-]
+];

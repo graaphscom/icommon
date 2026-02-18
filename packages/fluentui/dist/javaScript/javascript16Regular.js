@@ -16,4 +16,4 @@ export var javascript16Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var notificationsPausedOutlined24px = [
       }
     ]
   ]
-]
+];

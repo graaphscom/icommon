@@ -16,4 +16,4 @@ export var triangle48Regular = [
       }
     ]
   ]
-]
+];

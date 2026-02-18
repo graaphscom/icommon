@@ -97,4 +97,4 @@ export var qrCode = [
       }
     ]
   ]
-]
+];

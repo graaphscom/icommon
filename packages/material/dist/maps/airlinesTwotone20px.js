@@ -30,4 +30,4 @@ export var airlinesTwotone20px = [
       }
     ]
   ]
-]
+];

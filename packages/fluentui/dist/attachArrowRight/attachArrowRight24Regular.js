@@ -16,4 +16,4 @@ export var attachArrowRight24Regular = [
       }
     ]
   ]
-]
+];

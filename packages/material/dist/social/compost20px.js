@@ -29,4 +29,4 @@ export var compost20px = [
       ]
     ]
   ]
-]
+];

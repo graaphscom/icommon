@@ -21,4 +21,4 @@ export var gavelRound24px = [
       }
     ]
   ]
-]
+];

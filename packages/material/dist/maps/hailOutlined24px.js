@@ -36,4 +36,4 @@ export var hailOutlined24px = [
       ]
     ]
   ]
-]
+];

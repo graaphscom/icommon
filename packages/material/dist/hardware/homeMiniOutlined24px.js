@@ -36,4 +36,4 @@ export var homeMiniOutlined24px = [
       ]
     ]
   ]
-]
+];

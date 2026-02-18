@@ -48,4 +48,4 @@ export var logoDevOutlined20px = [
       ]
     ]
   ]
-]
+];

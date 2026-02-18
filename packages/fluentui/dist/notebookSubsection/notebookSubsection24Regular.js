@@ -23,4 +23,4 @@ export var notebookSubsection24Regular = [
       }
     ]
   ]
-]
+];

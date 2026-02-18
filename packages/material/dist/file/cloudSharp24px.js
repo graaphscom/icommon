@@ -21,4 +21,4 @@ export var cloudSharp24px = [
       }
     ]
   ]
-]
+];

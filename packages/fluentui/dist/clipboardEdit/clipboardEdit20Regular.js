@@ -16,4 +16,4 @@ export var clipboardEdit20Regular = [
       }
     ]
   ]
-]
+];

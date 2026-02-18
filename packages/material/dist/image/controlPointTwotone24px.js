@@ -28,4 +28,4 @@ export var controlPointTwotone24px = [
       }
     ]
   ]
-]
+];

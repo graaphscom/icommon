@@ -16,4 +16,4 @@ export var arrowReplyAll16Regular = [
       }
     ]
   ]
-]
+];

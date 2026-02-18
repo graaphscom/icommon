@@ -21,4 +21,4 @@ export var movieOutlined24px = [
       }
     ]
   ]
-]
+];

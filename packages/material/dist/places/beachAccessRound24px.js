@@ -21,4 +21,4 @@ export var beachAccessRound24px = [
       }
     ]
   ]
-]
+];

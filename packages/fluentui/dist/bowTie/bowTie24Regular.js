@@ -16,4 +16,4 @@ export var bowTie24Regular = [
       }
     ]
   ]
-]
+];

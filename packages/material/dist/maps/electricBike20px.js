@@ -47,4 +47,4 @@ export var electricBike20px = [
       ]
     ]
   ]
-]
+];

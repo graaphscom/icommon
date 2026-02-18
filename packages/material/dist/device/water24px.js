@@ -40,4 +40,4 @@ export var water24px = [
       ]
     ]
   ]
-]
+];

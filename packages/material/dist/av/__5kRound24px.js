@@ -35,4 +35,4 @@ export var __5kRound24px = [
       ]
     ]
   ]
-]
+];

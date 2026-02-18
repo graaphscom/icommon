@@ -21,4 +21,4 @@ export var addIcCallRound24px = [
       }
     ]
   ]
-]
+];

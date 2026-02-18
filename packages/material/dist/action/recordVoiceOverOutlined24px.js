@@ -21,4 +21,4 @@ export var recordVoiceOverOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shareAndroid20Regular = [
       }
     ]
   ]
-]
+];

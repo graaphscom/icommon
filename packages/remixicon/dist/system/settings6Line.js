@@ -13,4 +13,4 @@ export var settings6Line = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var simCardAlert24px = [
       }
     ]
   ]
-]
+];

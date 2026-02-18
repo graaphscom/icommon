@@ -34,4 +34,4 @@ export var feedRound24px = [
       ]
     ]
   ]
-]
+];

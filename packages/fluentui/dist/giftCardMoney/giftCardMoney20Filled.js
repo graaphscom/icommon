@@ -16,4 +16,4 @@ export var giftCardMoney20Filled = [
       }
     ]
   ]
-]
+];

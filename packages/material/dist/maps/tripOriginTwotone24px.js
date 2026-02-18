@@ -21,4 +21,4 @@ export var tripOriginTwotone24px = [
       }
     ]
   ]
-]
+];

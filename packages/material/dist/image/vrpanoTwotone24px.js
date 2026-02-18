@@ -55,4 +55,4 @@ export var vrpanoTwotone24px = [
       ]
     ]
   ]
-]
+];

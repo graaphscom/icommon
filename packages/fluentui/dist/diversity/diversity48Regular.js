@@ -16,4 +16,4 @@ export var diversity48Regular = [
       }
     ]
   ]
-]
+];

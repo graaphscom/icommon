@@ -13,4 +13,4 @@ export var filter2Line = [
       }
     ]
   ]
-]
+];

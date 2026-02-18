@@ -30,4 +30,4 @@ export var healthAndSafetyTwotone24px = [
       }
     ]
   ]
-]
+];

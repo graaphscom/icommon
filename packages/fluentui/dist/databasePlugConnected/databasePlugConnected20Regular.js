@@ -16,4 +16,4 @@ export var databasePlugConnected20Regular = [
       }
     ]
   ]
-]
+];

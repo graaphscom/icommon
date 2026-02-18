@@ -54,4 +54,4 @@ export var uploadFileTwotone24px = [
       ]
     ]
   ]
-]
+];

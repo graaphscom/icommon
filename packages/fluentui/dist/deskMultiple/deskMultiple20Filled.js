@@ -16,4 +16,4 @@ export var deskMultiple20Filled = [
       }
     ]
   ]
-]
+];

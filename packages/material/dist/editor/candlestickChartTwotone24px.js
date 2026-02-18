@@ -67,4 +67,4 @@ export var candlestickChartTwotone24px = [
       ]
     ]
   ]
-]
+];

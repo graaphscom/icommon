@@ -21,4 +21,4 @@ export var syncDisabledSharp24px = [
       }
     ]
   ]
-]
+];

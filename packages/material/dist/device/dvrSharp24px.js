@@ -21,4 +21,4 @@ export var dvrSharp24px = [
       }
     ]
   ]
-]
+];

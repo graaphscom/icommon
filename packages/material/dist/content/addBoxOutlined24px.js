@@ -21,4 +21,4 @@ export var addBoxOutlined24px = [
       }
     ]
   ]
-]
+];

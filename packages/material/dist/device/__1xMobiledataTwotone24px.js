@@ -40,4 +40,4 @@ export var __1xMobiledataTwotone24px = [
       ]
     ]
   ]
-]
+];

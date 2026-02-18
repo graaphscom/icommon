@@ -450,4 +450,4 @@ export var arrowClockwiseDashesSettings20Color = [
       ]
     ]
   ]
-]
+];

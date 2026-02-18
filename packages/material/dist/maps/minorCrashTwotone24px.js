@@ -42,4 +42,4 @@ export var minorCrashTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var deleteSweepSharp24px = [
       }
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var dataThresholding20px = [
       ]
     ]
   ]
-]
+];

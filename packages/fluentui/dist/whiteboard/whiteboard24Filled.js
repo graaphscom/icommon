@@ -16,4 +16,4 @@ export var whiteboard24Filled = [
       }
     ]
   ]
-]
+];

@@ -50,4 +50,4 @@ export var localLaundryServiceTwotone24px = [
       }
     ]
   ]
-]
+];

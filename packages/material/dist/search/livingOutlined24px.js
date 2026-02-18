@@ -34,4 +34,4 @@ export var livingOutlined24px = [
       ]
     ]
   ]
-]
+];

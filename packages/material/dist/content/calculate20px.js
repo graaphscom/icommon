@@ -41,4 +41,4 @@ export var calculate20px = [
       ]
     ]
   ]
-]
+];

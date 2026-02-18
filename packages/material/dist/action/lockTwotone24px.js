@@ -42,4 +42,4 @@ export var lockTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var groupOffSharp24px = [
       }
     ]
   ]
-]
+];

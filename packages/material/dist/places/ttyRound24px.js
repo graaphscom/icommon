@@ -30,4 +30,4 @@ export var ttyRound24px = [
       ]
     ]
   ]
-]
+];

@@ -65,4 +65,4 @@ export var laserTool20Filled = [
       }
     ]
   ]
-]
+];

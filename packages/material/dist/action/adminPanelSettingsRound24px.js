@@ -55,4 +55,4 @@ export var adminPanelSettingsRound24px = [
       ]
     ]
   ]
-]
+];

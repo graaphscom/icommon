@@ -21,4 +21,4 @@ export var calendarViewDayOutlined24px = [
       }
     ]
   ]
-]
+];

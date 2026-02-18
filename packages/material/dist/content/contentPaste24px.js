@@ -21,4 +21,4 @@ export var contentPaste24px = [
       }
     ]
   ]
-]
+];

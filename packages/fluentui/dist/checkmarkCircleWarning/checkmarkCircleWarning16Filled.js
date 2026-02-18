@@ -16,4 +16,4 @@ export var checkmarkCircleWarning16Filled = [
       }
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var moreTimeTwotone20px = [
       ]
     ]
   ]
-]
+];

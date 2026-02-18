@@ -23,4 +23,4 @@ export var switchAccessShortcutAddTwotone20px = [
       }
     ]
   ]
-]
+];

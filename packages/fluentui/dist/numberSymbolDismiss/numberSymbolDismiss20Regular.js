@@ -16,4 +16,4 @@ export var numberSymbolDismiss20Regular = [
       }
     ]
   ]
-]
+];

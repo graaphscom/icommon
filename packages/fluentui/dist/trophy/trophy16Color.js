@@ -235,4 +235,4 @@ export var trophy16Color = [
       ]
     ]
   ]
-]
+];

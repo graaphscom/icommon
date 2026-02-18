@@ -23,4 +23,4 @@ export var houseSidingRound24px = [
       }
     ]
   ]
-]
+];

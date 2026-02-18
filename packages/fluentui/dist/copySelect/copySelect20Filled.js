@@ -16,4 +16,4 @@ export var copySelect20Filled = [
       }
     ]
   ]
-]
+];

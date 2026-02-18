@@ -16,4 +16,4 @@ export var filmstripImage20Regular = [
       }
     ]
   ]
-]
+];

@@ -42,4 +42,4 @@ export var hardwareOutlined24px = [
       ]
     ]
   ]
-]
+];

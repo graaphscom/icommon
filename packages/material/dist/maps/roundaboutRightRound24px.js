@@ -43,4 +43,4 @@ export var roundaboutRightRound24px = [
       ]
     ]
   ]
-]
+];

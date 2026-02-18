@@ -16,4 +16,4 @@ export var chartMultiple32Regular = [
       }
     ]
   ]
-]
+];

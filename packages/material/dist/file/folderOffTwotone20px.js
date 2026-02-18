@@ -63,4 +63,4 @@ export var folderOffTwotone20px = [
       ]
     ]
   ]
-]
+];

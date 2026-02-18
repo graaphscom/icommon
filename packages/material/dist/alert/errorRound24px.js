@@ -14,4 +14,4 @@ export var errorRound24px = [
       }
     ]
   ]
-]
+];

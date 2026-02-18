@@ -34,4 +34,4 @@ export var securityUpdateGood24px = [
       ]
     ]
   ]
-]
+];

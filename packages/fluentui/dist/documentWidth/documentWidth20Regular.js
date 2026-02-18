@@ -16,4 +16,4 @@ export var documentWidth20Regular = [
       }
     ]
   ]
-]
+];

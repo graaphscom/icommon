@@ -16,4 +16,4 @@ export var videoSync20Regular = [
       }
     ]
   ]
-]
+];

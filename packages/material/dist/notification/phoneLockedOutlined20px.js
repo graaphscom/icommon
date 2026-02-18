@@ -23,4 +23,4 @@ export var phoneLockedOutlined20px = [
       }
     ]
   ]
-]
+];

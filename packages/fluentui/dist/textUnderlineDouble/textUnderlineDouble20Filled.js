@@ -16,4 +16,4 @@ export var textUnderlineDouble20Filled = [
       }
     ]
   ]
-]
+];

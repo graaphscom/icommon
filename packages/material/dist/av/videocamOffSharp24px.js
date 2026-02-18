@@ -21,4 +21,4 @@ export var videocamOffSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var inkingToolAccent20Filled = [
       }
     ]
   ]
-]
+];

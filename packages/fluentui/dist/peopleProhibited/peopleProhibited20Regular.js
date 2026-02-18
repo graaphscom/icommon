@@ -16,4 +16,4 @@ export var peopleProhibited20Regular = [
       }
     ]
   ]
-]
+];

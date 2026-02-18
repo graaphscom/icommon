@@ -16,4 +16,4 @@ export var emojiMeh16Filled = [
       }
     ]
   ]
-]
+];

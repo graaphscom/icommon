@@ -21,4 +21,4 @@ export var mergeTypeTwotone24px = [
       }
     ]
   ]
-]
+];

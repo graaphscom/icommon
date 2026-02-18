@@ -86,4 +86,4 @@ export var animalPawPrint20Color = [
       ]
     ]
   ]
-]
+];

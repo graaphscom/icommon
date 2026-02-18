@@ -76,4 +76,4 @@ export var __7mpTwotone24px = [
       ]
     ]
   ]
-]
+];

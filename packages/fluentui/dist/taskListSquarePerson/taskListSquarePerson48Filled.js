@@ -16,4 +16,4 @@ export var taskListSquarePerson48Filled = [
       }
     ]
   ]
-]
+];

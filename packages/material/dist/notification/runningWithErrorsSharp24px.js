@@ -23,4 +23,4 @@ export var runningWithErrorsSharp24px = [
       }
     ]
   ]
-]
+];

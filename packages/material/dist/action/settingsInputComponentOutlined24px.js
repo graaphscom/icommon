@@ -21,4 +21,4 @@ export var settingsInputComponentOutlined24px = [
       }
     ]
   ]
-]
+];

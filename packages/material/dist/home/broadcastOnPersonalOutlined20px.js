@@ -60,4 +60,4 @@ export var broadcastOnPersonalOutlined20px = [
       ]
     ]
   ]
-]
+];

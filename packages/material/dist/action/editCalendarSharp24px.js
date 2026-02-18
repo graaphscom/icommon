@@ -29,4 +29,4 @@ export var editCalendarSharp24px = [
       ]
     ]
   ]
-]
+];

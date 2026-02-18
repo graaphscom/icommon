@@ -31,4 +31,4 @@ export var markChatUnreadOutlined24px = [
       ]
     ]
   ]
-]
+];

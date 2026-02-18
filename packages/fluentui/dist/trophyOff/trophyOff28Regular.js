@@ -16,4 +16,4 @@ export var trophyOff28Regular = [
       }
     ]
   ]
-]
+];

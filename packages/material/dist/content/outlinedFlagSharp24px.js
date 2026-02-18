@@ -21,4 +21,4 @@ export var outlinedFlagSharp24px = [
       }
     ]
   ]
-]
+];

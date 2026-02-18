@@ -16,4 +16,4 @@ export var flowDot16Filled = [
       }
     ]
   ]
-]
+];

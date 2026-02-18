@@ -16,4 +16,4 @@ export var buildingGovernmentSearch16Filled = [
       }
     ]
   ]
-]
+];

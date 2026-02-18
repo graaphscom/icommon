@@ -46,4 +46,4 @@ export var quiz24px = [
       ]
     ]
   ]
-]
+];

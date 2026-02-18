@@ -16,4 +16,4 @@ export var branchForkLink24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var handshake32Filled = [
       }
     ]
   ]
-]
+];

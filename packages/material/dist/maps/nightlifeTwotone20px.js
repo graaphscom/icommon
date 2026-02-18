@@ -47,4 +47,4 @@ export var nightlifeTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var diningOutlined24px = [
       ]
     ]
   ]
-]
+];

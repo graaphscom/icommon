@@ -133,4 +133,4 @@ export var noiseAwareTwotone24px = [
       ]
     ]
   ]
-]
+];

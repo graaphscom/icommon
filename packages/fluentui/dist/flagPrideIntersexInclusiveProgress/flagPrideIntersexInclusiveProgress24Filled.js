@@ -107,4 +107,4 @@ export var flagPrideIntersexInclusiveProgress24Filled = [
       }
     ]
   ]
-]
+];

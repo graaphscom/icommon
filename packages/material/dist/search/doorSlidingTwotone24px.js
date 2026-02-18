@@ -72,4 +72,4 @@ export var doorSlidingTwotone24px = [
       ]
     ]
   ]
-]
+];

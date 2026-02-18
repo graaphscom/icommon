@@ -16,4 +16,4 @@ export var guestAdd24Filled = [
       }
     ]
   ]
-]
+];

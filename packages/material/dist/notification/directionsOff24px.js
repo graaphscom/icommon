@@ -41,4 +41,4 @@ export var directionsOff24px = [
       ]
     ]
   ]
-]
+];

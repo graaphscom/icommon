@@ -23,4 +23,4 @@ export var gifBoxRound20px = [
       }
     ]
   ]
-]
+];

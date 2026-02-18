@@ -23,4 +23,4 @@ export var mathFormula16Regular = [
       }
     ]
   ]
-]
+];

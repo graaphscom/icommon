@@ -22,4 +22,4 @@ export var menuOpenOutlined24px = [
       }
     ]
   ]
-]
+];

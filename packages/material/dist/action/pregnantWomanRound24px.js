@@ -21,4 +21,4 @@ export var pregnantWomanRound24px = [
       }
     ]
   ]
-]
+];

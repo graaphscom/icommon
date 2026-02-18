@@ -16,4 +16,4 @@ export var alertSnooze16Regular = [
       }
     ]
   ]
-]
+];

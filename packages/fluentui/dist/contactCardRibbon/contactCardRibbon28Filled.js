@@ -16,4 +16,4 @@ export var contactCardRibbon28Filled = [
       }
     ]
   ]
-]
+];

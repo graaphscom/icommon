@@ -63,4 +63,4 @@ export var densityMediumOutlined20px = [
       ]
     ]
   ]
-]
+];

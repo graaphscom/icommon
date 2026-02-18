@@ -23,4 +23,4 @@ export var setMealOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var refresh24px = [
       }
     ]
   ]
-]
+];

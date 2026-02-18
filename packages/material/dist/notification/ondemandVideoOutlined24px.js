@@ -21,4 +21,4 @@ export var ondemandVideoOutlined24px = [
       }
     ]
   ]
-]
+];

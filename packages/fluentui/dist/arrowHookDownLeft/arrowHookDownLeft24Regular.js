@@ -16,4 +16,4 @@ export var arrowHookDownLeft24Regular = [
       }
     ]
   ]
-]
+];

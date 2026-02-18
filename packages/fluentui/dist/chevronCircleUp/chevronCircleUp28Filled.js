@@ -16,4 +16,4 @@ export var chevronCircleUp28Filled = [
       }
     ]
   ]
-]
+];

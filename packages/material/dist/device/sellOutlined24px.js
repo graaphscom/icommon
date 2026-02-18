@@ -48,4 +48,4 @@ export var sellOutlined24px = [
       ]
     ]
   ]
-]
+];

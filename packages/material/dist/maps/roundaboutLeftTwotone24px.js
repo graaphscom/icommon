@@ -35,4 +35,4 @@ export var roundaboutLeftTwotone24px = [
       ]
     ]
   ]
-]
+];

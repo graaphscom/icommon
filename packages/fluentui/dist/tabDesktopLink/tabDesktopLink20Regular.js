@@ -16,4 +16,4 @@ export var tabDesktopLink20Regular = [
       }
     ]
   ]
-]
+];

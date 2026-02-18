@@ -16,4 +16,4 @@ export var molecule24Filled = [
       }
     ]
   ]
-]
+];

@@ -56,4 +56,4 @@ export var moveDownOutlined24px = [
       ]
     ]
   ]
-]
+];

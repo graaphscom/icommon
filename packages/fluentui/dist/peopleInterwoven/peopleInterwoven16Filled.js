@@ -16,4 +16,4 @@ export var peopleInterwoven16Filled = [
       }
     ]
   ]
-]
+];

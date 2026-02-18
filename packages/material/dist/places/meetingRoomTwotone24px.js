@@ -28,4 +28,4 @@ export var meetingRoomTwotone24px = [
       }
     ]
   ]
-]
+];

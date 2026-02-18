@@ -28,4 +28,4 @@ export var computerTwotone24px = [
       }
     ]
   ]
-]
+];

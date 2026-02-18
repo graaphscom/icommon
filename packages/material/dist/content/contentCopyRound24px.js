@@ -35,4 +35,4 @@ export var contentCopyRound24px = [
       ]
     ]
   ]
-]
+];

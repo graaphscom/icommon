@@ -21,4 +21,4 @@ export var backupOutlined24px = [
       }
     ]
   ]
-]
+];

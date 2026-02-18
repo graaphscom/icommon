@@ -16,4 +16,4 @@ export var chatArrowBackDown16Regular = [
       }
     ]
   ]
-]
+];

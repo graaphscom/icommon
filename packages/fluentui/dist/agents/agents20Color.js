@@ -181,4 +181,4 @@ export var agents20Color = [
       ]
     ]
   ]
-]
+];

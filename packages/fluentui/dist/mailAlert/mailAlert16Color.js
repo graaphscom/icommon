@@ -413,4 +413,4 @@ export var mailAlert16Color = [
       ]
     ]
   ]
-]
+];

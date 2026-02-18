@@ -35,4 +35,4 @@ export var phpOutlined24px = [
       ]
     ]
   ]
-]
+];

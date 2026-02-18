@@ -35,4 +35,4 @@ export var hourglassTop20px = [
       ]
     ]
   ]
-]
+];

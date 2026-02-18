@@ -21,4 +21,4 @@ export var codeRound24px = [
       }
     ]
   ]
-]
+];

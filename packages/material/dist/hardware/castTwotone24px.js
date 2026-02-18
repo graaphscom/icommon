@@ -21,4 +21,4 @@ export var castTwotone24px = [
       }
     ]
   ]
-]
+];

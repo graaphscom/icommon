@@ -21,4 +21,4 @@ export var videoLibrarySharp24px = [
       }
     ]
   ]
-]
+];

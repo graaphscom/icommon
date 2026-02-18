@@ -16,4 +16,4 @@ export var micOff20Regular = [
       }
     ]
   ]
-]
+];

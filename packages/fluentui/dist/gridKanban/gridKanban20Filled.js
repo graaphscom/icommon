@@ -16,4 +16,4 @@ export var gridKanban20Filled = [
       }
     ]
   ]
-]
+];

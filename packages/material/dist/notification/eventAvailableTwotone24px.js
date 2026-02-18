@@ -28,4 +28,4 @@ export var eventAvailableTwotone24px = [
       }
     ]
   ]
-]
+];

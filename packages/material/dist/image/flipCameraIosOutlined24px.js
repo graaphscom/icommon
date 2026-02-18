@@ -71,4 +71,4 @@ export var flipCameraIosOutlined24px = [
       ]
     ]
   ]
-]
+];

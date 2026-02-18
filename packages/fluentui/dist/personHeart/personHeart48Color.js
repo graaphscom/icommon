@@ -194,4 +194,4 @@ export var personHeart48Color = [
       ]
     ]
   ]
-]
+];

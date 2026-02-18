@@ -61,4 +61,4 @@ export var bathtub24px = [
       ]
     ]
   ]
-]
+];

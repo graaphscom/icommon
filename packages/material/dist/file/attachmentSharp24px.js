@@ -21,4 +21,4 @@ export var attachmentSharp24px = [
       }
     ]
   ]
-]
+];

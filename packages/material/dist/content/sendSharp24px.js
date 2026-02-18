@@ -21,4 +21,4 @@ export var sendSharp24px = [
       }
     ]
   ]
-]
+];

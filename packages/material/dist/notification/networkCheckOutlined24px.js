@@ -21,4 +21,4 @@ export var networkCheckOutlined24px = [
       }
     ]
   ]
-]
+];

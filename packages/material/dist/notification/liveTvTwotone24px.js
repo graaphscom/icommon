@@ -28,4 +28,4 @@ export var liveTvTwotone24px = [
       }
     ]
   ]
-]
+];

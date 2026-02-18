@@ -16,4 +16,4 @@ export var arrowReplyAll48Filled = [
       }
     ]
   ]
-]
+];

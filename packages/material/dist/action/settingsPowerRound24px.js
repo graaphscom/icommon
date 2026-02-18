@@ -35,4 +35,4 @@ export var settingsPowerRound24px = [
       ]
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var tableBar24px = [
       ]
     ]
   ]
-]
+];

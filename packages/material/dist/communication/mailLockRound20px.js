@@ -47,4 +47,4 @@ export var mailLockRound20px = [
       ]
     ]
   ]
-]
+];

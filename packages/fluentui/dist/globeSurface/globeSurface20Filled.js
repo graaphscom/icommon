@@ -16,4 +16,4 @@ export var globeSurface20Filled = [
       }
     ]
   ]
-]
+];

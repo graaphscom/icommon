@@ -47,4 +47,4 @@ export var savedSearchRound24px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var dragHandle24px = [
       ]
     ]
   ]
-]
+];

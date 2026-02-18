@@ -21,4 +21,4 @@ export var people24px = [
       }
     ]
   ]
-]
+];

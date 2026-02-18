@@ -16,4 +16,4 @@ export var wand16Regular = [
       }
     ]
   ]
-]
+];

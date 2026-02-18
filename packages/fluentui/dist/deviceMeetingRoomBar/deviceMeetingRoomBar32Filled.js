@@ -16,4 +16,4 @@ export var deviceMeetingRoomBar32Filled = [
       }
     ]
   ]
-]
+];

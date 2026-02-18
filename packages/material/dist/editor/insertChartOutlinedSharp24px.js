@@ -14,4 +14,4 @@ export var insertChartOutlinedSharp24px = [
       }
     ]
   ]
-]
+];

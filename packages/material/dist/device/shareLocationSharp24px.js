@@ -70,4 +70,4 @@ export var shareLocationSharp24px = [
       ]
     ]
   ]
-]
+];

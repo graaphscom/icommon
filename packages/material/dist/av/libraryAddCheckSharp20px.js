@@ -37,4 +37,4 @@ export var libraryAddCheckSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var heartBroken24px = [
       ]
     ]
   ]
-]
+];

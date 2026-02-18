@@ -14,4 +14,4 @@ export var unsubscribe24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var textFormatTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var creditCardSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var menuTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var natureTwotone24px = [
       }
     ]
   ]
-]
+];

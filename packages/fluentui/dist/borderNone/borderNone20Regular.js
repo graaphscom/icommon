@@ -16,4 +16,4 @@ export var borderNone20Regular = [
       }
     ]
   ]
-]
+];

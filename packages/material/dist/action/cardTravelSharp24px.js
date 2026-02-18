@@ -21,4 +21,4 @@ export var cardTravelSharp24px = [
       }
     ]
   ]
-]
+];

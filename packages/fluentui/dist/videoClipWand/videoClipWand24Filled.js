@@ -16,4 +16,4 @@ export var videoClipWand24Filled = [
       }
     ]
   ]
-]
+];

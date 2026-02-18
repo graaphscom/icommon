@@ -34,4 +34,4 @@ export var compressOutlined24px = [
       ]
     ]
   ]
-]
+];

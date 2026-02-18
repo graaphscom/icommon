@@ -16,4 +16,4 @@ export var checkmarkUnderlineCircle16Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var dialpadSharp24px = [
       }
     ]
   ]
-]
+];

@@ -42,4 +42,4 @@ export var timelineTwotone24px = [
       ]
     ]
   ]
-]
+];

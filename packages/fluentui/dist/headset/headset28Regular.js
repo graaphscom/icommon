@@ -16,4 +16,4 @@ export var headset28Regular = [
       }
     ]
   ]
-]
+];

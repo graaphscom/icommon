@@ -41,4 +41,4 @@ export var __60fpsSelectOutlined24px = [
       ]
     ]
   ]
-]
+];

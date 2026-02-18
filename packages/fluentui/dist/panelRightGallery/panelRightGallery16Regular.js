@@ -16,4 +16,4 @@ export var panelRightGallery16Regular = [
       }
     ]
   ]
-]
+];

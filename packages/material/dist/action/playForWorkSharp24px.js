@@ -21,4 +21,4 @@ export var playForWorkSharp24px = [
       }
     ]
   ]
-]
+];

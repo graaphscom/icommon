@@ -36,4 +36,4 @@ export var publicOffTwotone24px = [
       ]
     ]
   ]
-]
+];

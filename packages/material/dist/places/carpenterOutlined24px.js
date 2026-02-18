@@ -23,4 +23,4 @@ export var carpenterOutlined24px = [
       }
     ]
   ]
-]
+];

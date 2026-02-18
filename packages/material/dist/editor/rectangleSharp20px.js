@@ -38,4 +38,4 @@ export var rectangleSharp20px = [
       ]
     ]
   ]
-]
+];

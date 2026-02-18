@@ -130,4 +130,4 @@ export var emojiObjectsTwotone20px = [
       ]
     ]
   ]
-]
+];

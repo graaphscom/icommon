@@ -16,4 +16,4 @@ export var textGrammarError20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var add28Filled = [
       }
     ]
   ]
-]
+];

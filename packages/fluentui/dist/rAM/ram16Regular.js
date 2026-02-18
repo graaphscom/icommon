@@ -16,4 +16,4 @@ export var ram16Regular = [
       }
     ]
   ]
-]
+];

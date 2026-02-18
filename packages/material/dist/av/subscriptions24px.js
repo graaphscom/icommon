@@ -21,4 +21,4 @@ export var subscriptions24px = [
       }
     ]
   ]
-]
+];

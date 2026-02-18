@@ -21,4 +21,4 @@ export var margin24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var callPause24Filled = [
       }
     ]
   ]
-]
+];

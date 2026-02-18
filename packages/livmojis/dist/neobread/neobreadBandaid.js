@@ -472,4 +472,4 @@ export var neobreadBandaid = [
       ]
     ]
   ]
-]
+];

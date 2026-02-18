@@ -35,4 +35,4 @@ export var pentagonSharp20px = [
       ]
     ]
   ]
-]
+];

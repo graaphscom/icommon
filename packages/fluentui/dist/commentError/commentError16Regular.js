@@ -16,4 +16,4 @@ export var commentError16Regular = [
       }
     ]
   ]
-]
+];

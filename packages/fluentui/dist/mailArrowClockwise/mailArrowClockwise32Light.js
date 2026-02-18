@@ -16,4 +16,4 @@ export var mailArrowClockwise32Light = [
       }
     ]
   ]
-]
+];

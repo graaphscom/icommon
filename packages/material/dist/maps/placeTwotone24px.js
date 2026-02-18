@@ -29,4 +29,4 @@ export var placeTwotone24px = [
       }
     ]
   ]
-]
+];

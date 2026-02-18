@@ -16,4 +16,4 @@ export var storage48Filled = [
       }
     ]
   ]
-]
+];

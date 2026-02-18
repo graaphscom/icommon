@@ -47,4 +47,4 @@ export var sendTimeExtensionRound20px = [
       ]
     ]
   ]
-]
+];

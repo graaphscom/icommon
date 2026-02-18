@@ -16,4 +16,4 @@ export var planet20Filled = [
       }
     ]
   ]
-]
+];

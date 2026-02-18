@@ -23,4 +23,4 @@ export var femaleRound20px = [
       }
     ]
   ]
-]
+];

@@ -49,4 +49,4 @@ export var pieChartOutline24px = [
       ]
     ]
   ]
-]
+];

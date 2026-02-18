@@ -55,4 +55,4 @@ export var rocketTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var layoutAddAbove32Regular = [
       }
     ]
   ]
-]
+];

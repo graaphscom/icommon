@@ -21,4 +21,4 @@ export var doDisturbOnSharp24px = [
       }
     ]
   ]
-]
+];

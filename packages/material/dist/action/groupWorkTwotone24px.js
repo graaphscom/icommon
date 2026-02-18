@@ -52,4 +52,4 @@ export var groupWorkTwotone24px = [
       }
     ]
   ]
-]
+];

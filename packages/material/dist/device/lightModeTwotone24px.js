@@ -32,4 +32,4 @@ export var lightModeTwotone24px = [
       }
     ]
   ]
-]
+];

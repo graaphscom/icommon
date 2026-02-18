@@ -16,4 +16,4 @@ export var timer1020Filled = [
       }
     ]
   ]
-]
+];

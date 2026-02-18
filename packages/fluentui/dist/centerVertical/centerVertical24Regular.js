@@ -16,4 +16,4 @@ export var centerVertical24Regular = [
       }
     ]
   ]
-]
+];

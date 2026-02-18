@@ -14,4 +14,4 @@ export var errorOutlineSharp24px = [
       }
     ]
   ]
-]
+];

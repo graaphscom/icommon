@@ -36,4 +36,4 @@ export var sosOutlined20px = [
       ]
     ]
   ]
-]
+];

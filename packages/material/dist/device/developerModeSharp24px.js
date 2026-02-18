@@ -21,4 +21,4 @@ export var developerModeSharp24px = [
       }
     ]
   ]
-]
+];

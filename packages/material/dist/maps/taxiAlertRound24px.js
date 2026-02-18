@@ -59,4 +59,4 @@ export var taxiAlertRound24px = [
       ]
     ]
   ]
-]
+];

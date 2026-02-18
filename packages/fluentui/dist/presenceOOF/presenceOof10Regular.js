@@ -16,4 +16,4 @@ export var presenceOof10Regular = [
       }
     ]
   ]
-]
+];

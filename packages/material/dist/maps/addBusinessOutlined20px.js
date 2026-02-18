@@ -57,4 +57,4 @@ export var addBusinessOutlined20px = [
       ]
     ]
   ]
-]
+];

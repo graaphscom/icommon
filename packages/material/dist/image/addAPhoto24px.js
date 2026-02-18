@@ -23,4 +23,4 @@ export var addAPhoto24px = [
       }
     ]
   ]
-]
+];

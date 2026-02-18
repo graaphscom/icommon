@@ -36,4 +36,4 @@ export var dryCleaningSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var settingsCogMultiple20Filled = [
       }
     ]
   ]
-]
+];

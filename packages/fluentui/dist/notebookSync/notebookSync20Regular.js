@@ -16,4 +16,4 @@ export var notebookSync20Regular = [
       }
     ]
   ]
-]
+];

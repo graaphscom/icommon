@@ -35,4 +35,4 @@ export var viewTimeline24px = [
       ]
     ]
   ]
-]
+];

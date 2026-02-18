@@ -53,4 +53,4 @@ export var psychologyAltOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var personSupport28Filled = [
       }
     ]
   ]
-]
+];

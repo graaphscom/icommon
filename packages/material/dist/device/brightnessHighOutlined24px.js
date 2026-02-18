@@ -29,4 +29,4 @@ export var brightnessHighOutlined24px = [
       }
     ]
   ]
-]
+];

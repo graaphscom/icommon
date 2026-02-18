@@ -23,4 +23,4 @@ export var contentPasteOffRound20px = [
       }
     ]
   ]
-]
+];

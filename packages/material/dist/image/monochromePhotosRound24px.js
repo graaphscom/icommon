@@ -21,4 +21,4 @@ export var monochromePhotosRound24px = [
       }
     ]
   ]
-]
+];

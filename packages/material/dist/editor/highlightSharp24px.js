@@ -14,4 +14,4 @@ export var highlightSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var borderOuter24px = [
       }
     ]
   ]
-]
+];

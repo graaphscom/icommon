@@ -21,4 +21,4 @@ export var noMeetingRoomRound24px = [
       }
     ]
   ]
-]
+];

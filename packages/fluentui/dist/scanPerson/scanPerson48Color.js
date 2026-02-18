@@ -151,4 +151,4 @@ export var scanPerson48Color = [
       ]
     ]
   ]
-]
+];

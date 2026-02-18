@@ -28,4 +28,4 @@ export var fiberSmartRecordTwotone24px = [
       }
     ]
   ]
-]
+];

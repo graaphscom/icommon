@@ -21,4 +21,4 @@ export var cases24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var contactsRound24px = [
       }
     ]
   ]
-]
+];

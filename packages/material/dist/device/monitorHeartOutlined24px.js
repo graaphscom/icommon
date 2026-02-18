@@ -53,4 +53,4 @@ export var monitorHeartOutlined24px = [
       ]
     ]
   ]
-]
+];

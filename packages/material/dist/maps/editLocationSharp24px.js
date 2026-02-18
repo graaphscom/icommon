@@ -21,4 +21,4 @@ export var editLocationSharp24px = [
       }
     ]
   ]
-]
+];

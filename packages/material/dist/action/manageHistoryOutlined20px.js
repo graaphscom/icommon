@@ -36,4 +36,4 @@ export var manageHistoryOutlined20px = [
       ]
     ]
   ]
-]
+];

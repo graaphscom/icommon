@@ -16,4 +16,4 @@ export var locationTargetSquare20Regular = [
       }
     ]
   ]
-]
+];

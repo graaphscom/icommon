@@ -29,4 +29,4 @@ export var chargingStationRound24px = [
       ]
     ]
   ]
-]
+];

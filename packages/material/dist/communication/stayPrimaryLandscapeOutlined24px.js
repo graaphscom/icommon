@@ -21,4 +21,4 @@ export var stayPrimaryLandscapeOutlined24px = [
       }
     ]
   ]
-]
+];

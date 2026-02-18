@@ -21,4 +21,4 @@ export var workOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

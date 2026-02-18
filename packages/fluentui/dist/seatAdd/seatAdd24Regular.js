@@ -16,4 +16,4 @@ export var seatAdd24Regular = [
       }
     ]
   ]
-]
+];

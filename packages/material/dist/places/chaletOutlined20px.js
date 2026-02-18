@@ -23,4 +23,4 @@ export var chaletOutlined20px = [
       }
     ]
   ]
-]
+];

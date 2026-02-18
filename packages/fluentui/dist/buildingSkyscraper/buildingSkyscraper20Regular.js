@@ -16,4 +16,4 @@ export var buildingSkyscraper20Regular = [
       }
     ]
   ]
-]
+];

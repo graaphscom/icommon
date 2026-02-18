@@ -59,4 +59,4 @@ export var outdoorGrillSharp20px = [
       ]
     ]
   ]
-]
+];

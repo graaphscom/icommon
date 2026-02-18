@@ -16,4 +16,4 @@ export var folder20Filled = [
       }
     ]
   ]
-]
+];

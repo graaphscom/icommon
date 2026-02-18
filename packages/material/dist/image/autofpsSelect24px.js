@@ -83,4 +83,4 @@ export var autofpsSelect24px = [
       ]
     ]
   ]
-]
+];

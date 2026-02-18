@@ -16,4 +16,4 @@ export var alignStraighten20Regular = [
       }
     ]
   ]
-]
+];

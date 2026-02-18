@@ -16,4 +16,4 @@ export var videoPeople32Regular = [
       }
     ]
   ]
-]
+];

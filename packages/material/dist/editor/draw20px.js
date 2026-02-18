@@ -23,4 +23,4 @@ export var draw20px = [
       }
     ]
   ]
-]
+];

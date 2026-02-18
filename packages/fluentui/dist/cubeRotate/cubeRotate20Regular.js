@@ -16,4 +16,4 @@ export var cubeRotate20Regular = [
       }
     ]
   ]
-]
+];

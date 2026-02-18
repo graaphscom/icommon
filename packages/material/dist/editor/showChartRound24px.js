@@ -21,4 +21,4 @@ export var showChartRound24px = [
       }
     ]
   ]
-]
+];

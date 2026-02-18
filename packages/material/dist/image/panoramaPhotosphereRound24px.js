@@ -41,4 +41,4 @@ export var panoramaPhotosphereRound24px = [
       ]
     ]
   ]
-]
+];

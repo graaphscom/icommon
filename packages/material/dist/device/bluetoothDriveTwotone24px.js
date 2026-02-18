@@ -75,4 +75,4 @@ export var bluetoothDriveTwotone24px = [
       ]
     ]
   ]
-]
+];

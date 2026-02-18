@@ -34,4 +34,4 @@ export var doorbellSharp24px = [
       ]
     ]
   ]
-]
+];

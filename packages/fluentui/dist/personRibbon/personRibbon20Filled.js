@@ -16,4 +16,4 @@ export var personRibbon20Filled = [
       }
     ]
   ]
-]
+];

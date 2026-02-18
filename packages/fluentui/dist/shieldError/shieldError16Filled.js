@@ -16,4 +16,4 @@ export var shieldError16Filled = [
       }
     ]
   ]
-]
+];

@@ -322,4 +322,4 @@ export var personEdit32Color = [
       ]
     ]
   ]
-]
+];

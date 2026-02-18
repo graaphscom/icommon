@@ -16,4 +16,4 @@ export var merge20Filled = [
       }
     ]
   ]
-]
+];

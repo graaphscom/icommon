@@ -16,4 +16,4 @@ export var arrowTurnDownUp48Regular = [
       }
     ]
   ]
-]
+];

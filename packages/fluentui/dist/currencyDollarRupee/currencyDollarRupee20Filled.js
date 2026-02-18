@@ -16,4 +16,4 @@ export var currencyDollarRupee20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var video16Regular = [
       }
     ]
   ]
-]
+];

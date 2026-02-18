@@ -73,4 +73,4 @@ export var groupAddOutlined24px = [
       ]
     ]
   ]
-]
+];

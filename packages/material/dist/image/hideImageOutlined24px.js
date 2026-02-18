@@ -47,4 +47,4 @@ export var hideImageOutlined24px = [
       ]
     ]
   ]
-]
+];

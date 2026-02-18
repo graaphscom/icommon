@@ -28,4 +28,4 @@ export var noEncryptionTwotone24px = [
       }
     ]
   ]
-]
+];

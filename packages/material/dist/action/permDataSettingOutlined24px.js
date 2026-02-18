@@ -21,4 +21,4 @@ export var permDataSettingOutlined24px = [
       }
     ]
   ]
-]
+];

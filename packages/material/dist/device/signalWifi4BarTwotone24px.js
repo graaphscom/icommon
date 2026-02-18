@@ -21,4 +21,4 @@ export var signalWifi4BarTwotone24px = [
       }
     ]
   ]
-]
+];

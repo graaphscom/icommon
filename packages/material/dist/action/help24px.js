@@ -21,4 +21,4 @@ export var help24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var notListedLocationSharp24px = [
       }
     ]
   ]
-]
+];

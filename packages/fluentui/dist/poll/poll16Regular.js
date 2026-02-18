@@ -16,4 +16,4 @@ export var poll16Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var contrast20px = [
       ]
     ]
   ]
-]
+];

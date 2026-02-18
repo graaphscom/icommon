@@ -35,4 +35,4 @@ export var viewComfyOutlined20px = [
       ]
     ]
   ]
-]
+];

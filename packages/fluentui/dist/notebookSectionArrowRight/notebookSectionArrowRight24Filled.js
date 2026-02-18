@@ -23,4 +23,4 @@ export var notebookSectionArrowRight24Filled = [
       }
     ]
   ]
-]
+];

@@ -151,4 +151,4 @@ export var alertBadge24Color = [
       ]
     ]
   ]
-]
+];

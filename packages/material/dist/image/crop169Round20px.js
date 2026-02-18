@@ -35,4 +35,4 @@ export var crop169Round20px = [
       ]
     ]
   ]
-]
+];

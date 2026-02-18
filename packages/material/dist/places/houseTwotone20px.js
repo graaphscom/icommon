@@ -54,4 +54,4 @@ export var houseTwotone20px = [
       ]
     ]
   ]
-]
+];

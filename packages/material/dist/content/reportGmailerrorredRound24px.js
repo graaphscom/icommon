@@ -35,4 +35,4 @@ export var reportGmailerrorredRound24px = [
       }
     ]
   ]
-]
+];

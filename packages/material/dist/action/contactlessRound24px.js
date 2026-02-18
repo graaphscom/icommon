@@ -43,4 +43,4 @@ export var contactlessRound24px = [
       ]
     ]
   ]
-]
+];

@@ -114,4 +114,4 @@ export var code20Color = [
       ]
     ]
   ]
-]
+];

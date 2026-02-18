@@ -21,4 +21,4 @@ export var insertEmoticonOutlined24px = [
       }
     ]
   ]
-]
+];

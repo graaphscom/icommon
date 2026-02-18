@@ -16,4 +16,4 @@ export var homePerson20Filled = [
       }
     ]
   ]
-]
+];

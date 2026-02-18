@@ -21,4 +21,4 @@ export var cloudDownloadOutlined24px = [
       }
     ]
   ]
-]
+];

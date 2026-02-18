@@ -21,4 +21,4 @@ export var permMediaSharp24px = [
       }
     ]
   ]
-]
+];

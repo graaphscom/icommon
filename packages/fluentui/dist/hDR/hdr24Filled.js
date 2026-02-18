@@ -16,4 +16,4 @@ export var hdr24Filled = [
       }
     ]
   ]
-]
+];

@@ -187,4 +187,4 @@ export var documentText28Color = [
       ]
     ]
   ]
-]
+];

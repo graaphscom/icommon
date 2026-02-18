@@ -41,4 +41,4 @@ export var signalCellularAlt2BarSharp20px = [
       ]
     ]
   ]
-]
+];

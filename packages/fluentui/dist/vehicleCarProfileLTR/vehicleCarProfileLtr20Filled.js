@@ -16,4 +16,4 @@ export var vehicleCarProfileLtr20Filled = [
       }
     ]
   ]
-]
+];

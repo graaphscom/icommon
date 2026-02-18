@@ -30,4 +30,4 @@ export var contactPageTwotone24px = [
       }
     ]
   ]
-]
+];

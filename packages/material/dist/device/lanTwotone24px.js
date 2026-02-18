@@ -42,4 +42,4 @@ export var lanTwotone24px = [
       ]
     ]
   ]
-]
+];

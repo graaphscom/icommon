@@ -16,4 +16,4 @@ export var documentCsv20Regular = [
       }
     ]
   ]
-]
+];

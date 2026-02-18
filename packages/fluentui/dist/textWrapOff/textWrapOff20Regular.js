@@ -16,4 +16,4 @@ export var textWrapOff20Regular = [
       }
     ]
   ]
-]
+];

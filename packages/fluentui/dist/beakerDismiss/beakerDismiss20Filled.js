@@ -16,4 +16,4 @@ export var beakerDismiss20Filled = [
       }
     ]
   ]
-]
+];

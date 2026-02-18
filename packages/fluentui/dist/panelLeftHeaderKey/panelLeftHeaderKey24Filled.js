@@ -16,4 +16,4 @@ export var panelLeftHeaderKey24Filled = [
       }
     ]
   ]
-]
+];

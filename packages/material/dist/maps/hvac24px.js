@@ -95,4 +95,4 @@ export var hvac24px = [
       ]
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var breakfastDiningSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var wrapTextOutlined24px = [
       }
     ]
   ]
-]
+];

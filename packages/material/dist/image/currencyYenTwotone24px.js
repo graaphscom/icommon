@@ -35,4 +35,4 @@ export var currencyYenTwotone24px = [
       ]
     ]
   ]
-]
+];

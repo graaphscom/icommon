@@ -16,4 +16,4 @@ export var buildingBank24Filled = [
       }
     ]
   ]
-]
+];

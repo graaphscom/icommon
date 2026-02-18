@@ -23,4 +23,4 @@ export var connectWithoutContactOutlined24px = [
       }
     ]
   ]
-]
+];

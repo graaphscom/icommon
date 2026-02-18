@@ -41,4 +41,4 @@ export var wbShadeTwotone24px = [
       ]
     ]
   ]
-]
+];

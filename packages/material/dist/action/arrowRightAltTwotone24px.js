@@ -21,4 +21,4 @@ export var arrowRightAltTwotone24px = [
       }
     ]
   ]
-]
+];

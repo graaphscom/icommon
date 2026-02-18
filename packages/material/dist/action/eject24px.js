@@ -21,4 +21,4 @@ export var eject24px = [
       }
     ]
   ]
-]
+];

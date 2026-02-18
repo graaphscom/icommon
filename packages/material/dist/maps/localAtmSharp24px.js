@@ -21,4 +21,4 @@ export var localAtmSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var helpRound24px = [
       }
     ]
   ]
-]
+];

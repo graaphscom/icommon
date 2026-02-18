@@ -47,4 +47,4 @@ export var outputOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var noDrinks24px = [
       ]
     ]
   ]
-]
+];

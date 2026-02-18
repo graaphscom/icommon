@@ -21,4 +21,4 @@ export var hearingOutlined24px = [
       }
     ]
   ]
-]
+];

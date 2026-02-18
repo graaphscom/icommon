@@ -47,4 +47,4 @@ export var gppBadTwotone24px = [
       ]
     ]
   ]
-]
+];

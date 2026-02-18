@@ -16,4 +16,4 @@ export var tagLock16Filled = [
       }
     ]
   ]
-]
+];

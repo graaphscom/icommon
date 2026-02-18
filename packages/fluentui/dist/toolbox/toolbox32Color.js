@@ -181,4 +181,4 @@ export var toolbox32Color = [
       ]
     ]
   ]
-]
+];

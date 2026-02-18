@@ -16,4 +16,4 @@ export var flashlight16Filled = [
       }
     ]
   ]
-]
+];

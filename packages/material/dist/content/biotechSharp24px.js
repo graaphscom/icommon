@@ -55,4 +55,4 @@ export var biotechSharp24px = [
       ]
     ]
   ]
-]
+];

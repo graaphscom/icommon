@@ -35,4 +35,4 @@ export var networkPingSharp20px = [
       ]
     ]
   ]
-]
+];

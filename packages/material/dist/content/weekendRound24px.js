@@ -21,4 +21,4 @@ export var weekendRound24px = [
       }
     ]
   ]
-]
+];

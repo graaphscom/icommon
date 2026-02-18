@@ -21,4 +21,4 @@ export var mobileScreenShare24px = [
       }
     ]
   ]
-]
+];

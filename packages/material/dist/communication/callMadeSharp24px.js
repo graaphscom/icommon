@@ -21,4 +21,4 @@ export var callMadeSharp24px = [
       }
     ]
   ]
-]
+];

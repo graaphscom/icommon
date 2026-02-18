@@ -62,4 +62,4 @@ export var medicationLiquidSharp20px = [
       ]
     ]
   ]
-]
+];

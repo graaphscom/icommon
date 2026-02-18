@@ -40,4 +40,4 @@ export var assistantDirectionRound24px = [
       ]
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var sportsTennisOutlined20px = [
       ]
     ]
   ]
-]
+];

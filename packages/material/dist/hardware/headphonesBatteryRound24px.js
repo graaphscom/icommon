@@ -47,4 +47,4 @@ export var headphonesBatteryRound24px = [
       ]
     ]
   ]
-]
+];

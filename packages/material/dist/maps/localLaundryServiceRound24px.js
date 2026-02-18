@@ -36,4 +36,4 @@ export var localLaundryServiceRound24px = [
       ]
     ]
   ]
-]
+];

@@ -24,4 +24,4 @@ export var chatArrowDoubleBack20Regular = [
       ]
     ]
   ]
-]
+];

@@ -69,4 +69,4 @@ export var sportsKabaddiRound24px = [
       ]
     ]
   ]
-]
+];

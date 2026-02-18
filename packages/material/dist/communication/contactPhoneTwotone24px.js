@@ -28,4 +28,4 @@ export var contactPhoneTwotone24px = [
       }
     ]
   ]
-]
+];

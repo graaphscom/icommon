@@ -21,4 +21,4 @@ export var vignette24px = [
       }
     ]
   ]
-]
+];

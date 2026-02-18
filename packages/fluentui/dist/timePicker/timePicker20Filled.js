@@ -16,4 +16,4 @@ export var timePicker20Filled = [
       }
     ]
   ]
-]
+];

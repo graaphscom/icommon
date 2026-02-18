@@ -16,4 +16,4 @@ export var channelSubtract16Regular = [
       }
     ]
   ]
-]
+];

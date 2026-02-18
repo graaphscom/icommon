@@ -58,4 +58,4 @@ export var rectangleTwotone24px = [
       ]
     ]
   ]
-]
+];

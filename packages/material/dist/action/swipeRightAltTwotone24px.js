@@ -44,4 +44,4 @@ export var swipeRightAltTwotone24px = [
       ]
     ]
   ]
-]
+];

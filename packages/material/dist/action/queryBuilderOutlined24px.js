@@ -21,4 +21,4 @@ export var queryBuilderOutlined24px = [
       }
     ]
   ]
-]
+];

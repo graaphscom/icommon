@@ -16,4 +16,4 @@ export var plugConnected24Regular = [
       }
     ]
   ]
-]
+];

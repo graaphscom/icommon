@@ -23,4 +23,4 @@ export var waterDropRound20px = [
       }
     ]
   ]
-]
+];

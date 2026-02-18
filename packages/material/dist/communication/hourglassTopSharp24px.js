@@ -35,4 +35,4 @@ export var hourglassTopSharp24px = [
       ]
     ]
   ]
-]
+];

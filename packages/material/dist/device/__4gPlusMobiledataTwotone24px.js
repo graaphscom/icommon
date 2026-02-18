@@ -40,4 +40,4 @@ export var __4gPlusMobiledataTwotone24px = [
       ]
     ]
   ]
-]
+];

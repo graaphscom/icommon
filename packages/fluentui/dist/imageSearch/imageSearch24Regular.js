@@ -16,4 +16,4 @@ export var imageSearch24Regular = [
       }
     ]
   ]
-]
+];

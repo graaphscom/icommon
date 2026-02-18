@@ -16,4 +16,4 @@ export var check20Regular = [
       }
     ]
   ]
-]
+];

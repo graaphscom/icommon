@@ -21,4 +21,4 @@ export var cropOriginal24px = [
       }
     ]
   ]
-]
+];

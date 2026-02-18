@@ -35,4 +35,4 @@ export var curtains24px = [
       ]
     ]
   ]
-]
+];

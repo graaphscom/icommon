@@ -23,4 +23,4 @@ export var noMealsTwotone24px = [
       }
     ]
   ]
-]
+];

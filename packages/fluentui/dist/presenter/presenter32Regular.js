@@ -16,4 +16,4 @@ export var presenter32Regular = [
       }
     ]
   ]
-]
+];

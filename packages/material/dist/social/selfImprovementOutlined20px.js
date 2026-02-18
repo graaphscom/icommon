@@ -50,4 +50,4 @@ export var selfImprovementOutlined20px = [
       ]
     ]
   ]
-]
+];

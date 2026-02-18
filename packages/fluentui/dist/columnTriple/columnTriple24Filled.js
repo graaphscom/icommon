@@ -16,4 +16,4 @@ export var columnTriple24Filled = [
       }
     ]
   ]
-]
+];

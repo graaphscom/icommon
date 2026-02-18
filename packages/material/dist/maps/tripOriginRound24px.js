@@ -21,4 +21,4 @@ export var tripOriginRound24px = [
       }
     ]
   ]
-]
+];

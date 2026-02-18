@@ -21,4 +21,4 @@ export var simCardSharp24px = [
       }
     ]
   ]
-]
+];

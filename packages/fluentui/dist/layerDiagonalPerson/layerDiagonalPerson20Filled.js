@@ -16,4 +16,4 @@ export var layerDiagonalPerson20Filled = [
       }
     ]
   ]
-]
+];

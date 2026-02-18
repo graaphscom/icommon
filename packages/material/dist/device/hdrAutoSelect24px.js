@@ -70,4 +70,4 @@ export var hdrAutoSelect24px = [
       ]
     ]
   ]
-]
+];

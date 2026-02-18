@@ -23,4 +23,4 @@ export var riceBowlRound24px = [
       }
     ]
   ]
-]
+];

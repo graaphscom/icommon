@@ -16,4 +16,4 @@ export var shareIos48Regular = [
       }
     ]
   ]
-]
+];

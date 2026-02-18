@@ -21,4 +21,4 @@ export var visibilityOff24px = [
       }
     ]
   ]
-]
+];

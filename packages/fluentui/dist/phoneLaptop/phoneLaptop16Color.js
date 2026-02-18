@@ -263,4 +263,4 @@ export var phoneLaptop16Color = [
       ]
     ]
   ]
-]
+];

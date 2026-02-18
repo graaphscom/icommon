@@ -21,4 +21,4 @@ export var brightnessMediumRound24px = [
       }
     ]
   ]
-]
+];

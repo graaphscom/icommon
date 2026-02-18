@@ -16,4 +16,4 @@ export var attach32Filled = [
       }
     ]
   ]
-]
+];

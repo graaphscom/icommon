@@ -16,4 +16,4 @@ export var imageTable32Filled = [
       }
     ]
   ]
-]
+];

@@ -58,4 +58,4 @@ export var dashboardCustomizeOutlined24px = [
       ]
     ]
   ]
-]
+];

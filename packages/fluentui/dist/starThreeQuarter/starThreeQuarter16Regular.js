@@ -16,4 +16,4 @@ export var starThreeQuarter16Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var arrowRightAltSharp24px = [
       }
     ]
   ]
-]
+];

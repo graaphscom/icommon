@@ -16,4 +16,4 @@ export var ratingMature20Filled = [
       }
     ]
   ]
-]
+];

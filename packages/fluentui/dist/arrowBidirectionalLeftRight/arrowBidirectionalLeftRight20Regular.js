@@ -16,4 +16,4 @@ export var arrowBidirectionalLeftRight20Regular = [
       }
     ]
   ]
-]
+];

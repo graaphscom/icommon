@@ -23,4 +23,4 @@ export var cabinRound24px = [
       }
     ]
   ]
-]
+];

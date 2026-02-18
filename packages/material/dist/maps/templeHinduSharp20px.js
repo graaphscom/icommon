@@ -53,4 +53,4 @@ export var templeHinduSharp20px = [
       ]
     ]
   ]
-]
+];

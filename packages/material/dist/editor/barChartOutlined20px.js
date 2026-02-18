@@ -63,4 +63,4 @@ export var barChartOutlined20px = [
       ]
     ]
   ]
-]
+];

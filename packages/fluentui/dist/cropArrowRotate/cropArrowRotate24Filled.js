@@ -16,4 +16,4 @@ export var cropArrowRotate24Filled = [
       }
     ]
   ]
-]
+];

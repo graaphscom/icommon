@@ -16,4 +16,4 @@ export var mailInboxArrowUp24Regular = [
       }
     ]
   ]
-]
+];

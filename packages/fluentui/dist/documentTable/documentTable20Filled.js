@@ -16,4 +16,4 @@ export var documentTable20Filled = [
       }
     ]
   ]
-]
+];

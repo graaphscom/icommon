@@ -21,4 +21,4 @@ export var photoLibrarySharp24px = [
       }
     ]
   ]
-]
+];

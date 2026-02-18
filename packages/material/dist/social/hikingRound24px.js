@@ -23,4 +23,4 @@ export var hikingRound24px = [
       }
     ]
   ]
-]
+];

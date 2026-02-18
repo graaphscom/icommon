@@ -16,4 +16,4 @@ export var slideLink20Regular = [
       }
     ]
   ]
-]
+];

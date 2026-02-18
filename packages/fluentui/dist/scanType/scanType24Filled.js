@@ -16,4 +16,4 @@ export var scanType24Filled = [
       }
     ]
   ]
-]
+];

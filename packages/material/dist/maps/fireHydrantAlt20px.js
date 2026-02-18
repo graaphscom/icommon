@@ -49,4 +49,4 @@ export var fireHydrantAlt20px = [
       ]
     ]
   ]
-]
+];

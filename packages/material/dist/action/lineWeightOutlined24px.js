@@ -21,4 +21,4 @@ export var lineWeightOutlined24px = [
       }
     ]
   ]
-]
+];

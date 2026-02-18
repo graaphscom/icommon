@@ -28,4 +28,4 @@ export var helpTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var workHistorySharp24px = [
       ]
     ]
   ]
-]
+];

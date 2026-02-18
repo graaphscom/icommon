@@ -32,4 +32,4 @@ export var horizontalRuleOutlined20px = [
       ]
     ]
   ]
-]
+];

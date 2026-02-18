@@ -35,4 +35,4 @@ export var wallet24px = [
       ]
     ]
   ]
-]
+];

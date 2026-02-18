@@ -21,4 +21,4 @@ export var localShippingRound24px = [
       }
     ]
   ]
-]
+];

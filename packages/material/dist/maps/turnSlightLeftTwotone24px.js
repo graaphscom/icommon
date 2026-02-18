@@ -35,4 +35,4 @@ export var turnSlightLeftTwotone24px = [
       ]
     ]
   ]
-]
+];

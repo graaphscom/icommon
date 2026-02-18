@@ -59,4 +59,4 @@ export var addHomeSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var errorCircle24Filled = [
       }
     ]
   ]
-]
+];

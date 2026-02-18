@@ -28,4 +28,4 @@ export var directionsTwotone24px = [
       }
     ]
   ]
-]
+];

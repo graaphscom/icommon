@@ -47,4 +47,4 @@ export var contentPasteSearchOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var disabledVisibleTwotone20px = [
       }
     ]
   ]
-]
+];

@@ -128,4 +128,4 @@ export var windPower20px = [
       ]
     ]
   ]
-]
+];

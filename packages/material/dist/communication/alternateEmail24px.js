@@ -21,4 +21,4 @@ export var alternateEmail24px = [
       }
     ]
   ]
-]
+];

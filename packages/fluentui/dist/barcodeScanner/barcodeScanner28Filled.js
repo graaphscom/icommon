@@ -16,4 +16,4 @@ export var barcodeScanner28Filled = [
       }
     ]
   ]
-]
+];

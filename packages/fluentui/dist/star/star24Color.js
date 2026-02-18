@@ -48,4 +48,4 @@ export var star24Color = [
       ]
     ]
   ]
-]
+];

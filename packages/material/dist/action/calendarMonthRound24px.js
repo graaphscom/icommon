@@ -43,4 +43,4 @@ export var calendarMonthRound24px = [
       ]
     ]
   ]
-]
+];

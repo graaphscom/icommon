@@ -16,4 +16,4 @@ export var phoneCheckmark16Filled = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var isoTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var usbStick24Filled = [
       }
     ]
   ]
-]
+];

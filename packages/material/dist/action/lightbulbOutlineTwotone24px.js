@@ -21,4 +21,4 @@ export var lightbulbOutlineTwotone24px = [
       }
     ]
   ]
-]
+];

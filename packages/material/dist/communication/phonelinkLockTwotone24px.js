@@ -21,4 +21,4 @@ export var phonelinkLockTwotone24px = [
       }
     ]
   ]
-]
+];

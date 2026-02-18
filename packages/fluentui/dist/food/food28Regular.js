@@ -16,4 +16,4 @@ export var food28Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var batteryCheckmark24Regular = [
       }
     ]
   ]
-]
+];

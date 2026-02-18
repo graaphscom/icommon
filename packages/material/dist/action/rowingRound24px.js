@@ -21,4 +21,4 @@ export var rowingRound24px = [
       }
     ]
   ]
-]
+];

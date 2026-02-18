@@ -21,4 +21,4 @@ export var transferWithinAStation24px = [
       }
     ]
   ]
-]
+];

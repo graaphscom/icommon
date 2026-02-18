@@ -21,4 +21,4 @@ export var collectionsSharp24px = [
       }
     ]
   ]
-]
+];

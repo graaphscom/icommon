@@ -16,4 +16,4 @@ export var arrowStepOut24Filled = [
       }
     ]
   ]
-]
+];

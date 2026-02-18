@@ -16,4 +16,4 @@ export var fax16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var emojiMeme24Filled = [
       }
     ]
   ]
-]
+];

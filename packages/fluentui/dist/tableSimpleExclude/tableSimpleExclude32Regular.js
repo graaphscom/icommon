@@ -16,4 +16,4 @@ export var tableSimpleExclude32Regular = [
       }
     ]
   ]
-]
+];

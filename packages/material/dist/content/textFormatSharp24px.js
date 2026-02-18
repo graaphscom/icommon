@@ -21,4 +21,4 @@ export var textFormatSharp24px = [
       }
     ]
   ]
-]
+];

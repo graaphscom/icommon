@@ -16,4 +16,4 @@ export var shapeOrganic32Regular = [
       }
     ]
   ]
-]
+];

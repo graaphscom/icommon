@@ -21,4 +21,4 @@ export var feedbackOutlined24px = [
       }
     ]
   ]
-]
+];

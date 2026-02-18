@@ -35,4 +35,4 @@ export var forkRightTwotone24px = [
       ]
     ]
   ]
-]
+];

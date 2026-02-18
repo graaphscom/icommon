@@ -49,4 +49,4 @@ export var squareFootRound24px = [
       ]
     ]
   ]
-]
+];

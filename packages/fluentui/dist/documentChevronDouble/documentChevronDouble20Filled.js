@@ -16,4 +16,4 @@ export var documentChevronDouble20Filled = [
       }
     ]
   ]
-]
+];

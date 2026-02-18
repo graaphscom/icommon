@@ -16,4 +16,4 @@ export var borderOutside24Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var airlinesOutlined20px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var layoutRowTwoSettings24Regular = [
       }
     ]
   ]
-]
+];

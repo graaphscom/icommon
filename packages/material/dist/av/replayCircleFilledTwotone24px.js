@@ -35,4 +35,4 @@ export var replayCircleFilledTwotone24px = [
       ]
     ]
   ]
-]
+];

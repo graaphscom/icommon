@@ -21,4 +21,4 @@ export var textRotationDownOutlined24px = [
       }
     ]
   ]
-]
+];

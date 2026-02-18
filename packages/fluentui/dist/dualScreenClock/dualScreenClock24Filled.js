@@ -16,4 +16,4 @@ export var dualScreenClock24Filled = [
       }
     ]
   ]
-]
+];

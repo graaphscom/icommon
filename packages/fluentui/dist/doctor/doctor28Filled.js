@@ -16,4 +16,4 @@ export var doctor28Filled = [
       }
     ]
   ]
-]
+];

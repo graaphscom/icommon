@@ -16,4 +16,4 @@ export var peopleSync32Regular = [
       }
     ]
   ]
-]
+];

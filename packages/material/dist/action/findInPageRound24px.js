@@ -21,4 +21,4 @@ export var findInPageRound24px = [
       }
     ]
   ]
-]
+];

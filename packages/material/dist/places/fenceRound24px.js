@@ -35,4 +35,4 @@ export var fenceRound24px = [
       ]
     ]
   ]
-]
+];

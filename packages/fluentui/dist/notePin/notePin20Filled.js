@@ -16,4 +16,4 @@ export var notePin20Filled = [
       }
     ]
   ]
-]
+];

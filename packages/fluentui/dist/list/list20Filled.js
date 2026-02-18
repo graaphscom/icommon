@@ -16,4 +16,4 @@ export var list20Filled = [
       }
     ]
   ]
-]
+];

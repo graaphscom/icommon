@@ -16,4 +16,4 @@ export var positionToBack20Filled = [
       }
     ]
   ]
-]
+];

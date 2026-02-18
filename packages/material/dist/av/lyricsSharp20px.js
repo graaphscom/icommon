@@ -47,4 +47,4 @@ export var lyricsSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var arrowDownRight32Filled = [
       }
     ]
   ]
-]
+];

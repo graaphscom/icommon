@@ -21,4 +21,4 @@ export var mailOutlineRound24px = [
       }
     ]
   ]
-]
+];

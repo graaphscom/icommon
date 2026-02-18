@@ -40,4 +40,4 @@ export var waterfallChartTwotone24px = [
       ]
     ]
   ]
-]
+];

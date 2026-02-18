@@ -60,4 +60,4 @@ export var quickreplyOutlined20px = [
       ]
     ]
   ]
-]
+];

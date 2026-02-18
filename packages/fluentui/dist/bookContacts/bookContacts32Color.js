@@ -185,4 +185,4 @@ export var bookContacts32Color = [
       ]
     ]
   ]
-]
+];

@@ -48,4 +48,4 @@ export var carRentalSharp20px = [
       ]
     ]
   ]
-]
+];

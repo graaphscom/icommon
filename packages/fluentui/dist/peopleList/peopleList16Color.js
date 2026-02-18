@@ -217,4 +217,4 @@ export var peopleList16Color = [
       ]
     ]
   ]
-]
+];

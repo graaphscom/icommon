@@ -23,4 +23,4 @@ export var setMealSharp24px = [
       }
     ]
   ]
-]
+];

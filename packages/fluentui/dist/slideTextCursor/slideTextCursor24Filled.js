@@ -16,4 +16,4 @@ export var slideTextCursor24Filled = [
       }
     ]
   ]
-]
+];

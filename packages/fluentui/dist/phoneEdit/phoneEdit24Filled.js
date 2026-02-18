@@ -16,4 +16,4 @@ export var phoneEdit24Filled = [
       }
     ]
   ]
-]
+];

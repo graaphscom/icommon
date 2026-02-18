@@ -16,4 +16,4 @@ export var textDirectionRotate270Right20Regular = [
       }
     ]
   ]
-]
+];

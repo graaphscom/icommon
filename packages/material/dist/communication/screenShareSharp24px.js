@@ -21,4 +21,4 @@ export var screenShareSharp24px = [
       }
     ]
   ]
-]
+];

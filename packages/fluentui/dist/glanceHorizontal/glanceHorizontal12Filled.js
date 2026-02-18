@@ -37,4 +37,4 @@ export var glanceHorizontal12Filled = [
       }
     ]
   ]
-]
+];

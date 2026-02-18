@@ -16,4 +16,4 @@ export var textNumberListLtrRotate27020Filled = [
       }
     ]
   ]
-]
+];

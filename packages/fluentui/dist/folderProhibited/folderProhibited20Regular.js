@@ -16,4 +16,4 @@ export var folderProhibited20Regular = [
       }
     ]
   ]
-]
+];

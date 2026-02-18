@@ -16,4 +16,4 @@ export var checkboxCheckedSync20Regular = [
       }
     ]
   ]
-]
+];

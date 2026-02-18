@@ -16,4 +16,4 @@ export var chatMultipleMinus28Regular = [
       }
     ]
   ]
-]
+];

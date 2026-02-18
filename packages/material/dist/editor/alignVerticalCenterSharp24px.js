@@ -23,4 +23,4 @@ export var alignVerticalCenterSharp24px = [
       }
     ]
   ]
-]
+];

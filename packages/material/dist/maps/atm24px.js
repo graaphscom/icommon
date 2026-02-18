@@ -21,4 +21,4 @@ export var atm24px = [
       }
     ]
   ]
-]
+];

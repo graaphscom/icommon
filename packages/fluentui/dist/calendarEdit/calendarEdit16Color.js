@@ -392,4 +392,4 @@ export var calendarEdit16Color = [
       ]
     ]
   ]
-]
+];

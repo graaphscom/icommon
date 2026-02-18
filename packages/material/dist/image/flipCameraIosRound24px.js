@@ -49,4 +49,4 @@ export var flipCameraIosRound24px = [
       ]
     ]
   ]
-]
+];

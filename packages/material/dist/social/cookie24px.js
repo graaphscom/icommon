@@ -41,4 +41,4 @@ export var cookie24px = [
       ]
     ]
   ]
-]
+];

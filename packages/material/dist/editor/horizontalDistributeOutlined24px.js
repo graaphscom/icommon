@@ -23,4 +23,4 @@ export var horizontalDistributeOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var settingsCellSharp24px = [
       }
     ]
   ]
-]
+];

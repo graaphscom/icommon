@@ -23,4 +23,4 @@ export var bookmarkRemoveOutlined24px = [
       }
     ]
   ]
-]
+];

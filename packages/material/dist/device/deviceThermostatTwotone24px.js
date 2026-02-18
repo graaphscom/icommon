@@ -40,4 +40,4 @@ export var deviceThermostatTwotone24px = [
       ]
     ]
   ]
-]
+];

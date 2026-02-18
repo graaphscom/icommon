@@ -72,4 +72,4 @@ export var designServicesTwotone20px = [
       ]
     ]
   ]
-]
+];

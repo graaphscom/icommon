@@ -16,4 +16,4 @@ export var imageCircle28Regular = [
       }
     ]
   ]
-]
+];

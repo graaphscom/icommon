@@ -21,4 +21,4 @@ export var camera24px = [
       }
     ]
   ]
-]
+];

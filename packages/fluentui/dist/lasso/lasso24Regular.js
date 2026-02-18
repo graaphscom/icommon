@@ -16,4 +16,4 @@ export var lasso24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentCss24Regular = [
       }
     ]
   ]
-]
+];

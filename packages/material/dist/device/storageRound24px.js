@@ -21,4 +21,4 @@ export var storageRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var codeOff16Regular = [
       }
     ]
   ]
-]
+];

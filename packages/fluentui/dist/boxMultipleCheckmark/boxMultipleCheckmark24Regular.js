@@ -16,4 +16,4 @@ export var boxMultipleCheckmark24Regular = [
       }
     ]
   ]
-]
+];

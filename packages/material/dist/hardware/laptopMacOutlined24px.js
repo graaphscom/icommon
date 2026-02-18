@@ -21,4 +21,4 @@ export var laptopMacOutlined24px = [
       }
     ]
   ]
-]
+];

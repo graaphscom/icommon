@@ -16,4 +16,4 @@ export var textbox24Regular = [
       }
     ]
   ]
-]
+];

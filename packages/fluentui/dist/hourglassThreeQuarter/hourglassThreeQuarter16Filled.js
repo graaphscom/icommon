@@ -16,4 +16,4 @@ export var hourglassThreeQuarter16Filled = [
       }
     ]
   ]
-]
+];

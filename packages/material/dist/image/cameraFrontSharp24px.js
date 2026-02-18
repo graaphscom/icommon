@@ -21,4 +21,4 @@ export var cameraFrontSharp24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var css24px = [
       ]
     ]
   ]
-]
+];

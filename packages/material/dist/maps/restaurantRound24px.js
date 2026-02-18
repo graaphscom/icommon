@@ -21,4 +21,4 @@ export var restaurantRound24px = [
       }
     ]
   ]
-]
+];

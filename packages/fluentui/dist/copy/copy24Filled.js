@@ -16,4 +16,4 @@ export var copy24Filled = [
       }
     ]
   ]
-]
+];

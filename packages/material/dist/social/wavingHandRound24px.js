@@ -23,4 +23,4 @@ export var wavingHandRound24px = [
       }
     ]
   ]
-]
+];

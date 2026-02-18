@@ -21,4 +21,4 @@ export var navigateBeforeTwotone24px = [
       }
     ]
   ]
-]
+];

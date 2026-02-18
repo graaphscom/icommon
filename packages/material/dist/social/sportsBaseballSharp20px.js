@@ -71,4 +71,4 @@ export var sportsBaseballSharp20px = [
       ]
     ]
   ]
-]
+];

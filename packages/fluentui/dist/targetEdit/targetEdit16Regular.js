@@ -16,4 +16,4 @@ export var targetEdit16Regular = [
       }
     ]
   ]
-]
+];

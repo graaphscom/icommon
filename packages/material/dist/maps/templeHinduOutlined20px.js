@@ -35,4 +35,4 @@ export var templeHinduOutlined20px = [
       ]
     ]
   ]
-]
+];

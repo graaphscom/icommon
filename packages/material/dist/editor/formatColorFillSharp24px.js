@@ -59,4 +59,4 @@ export var formatColorFillSharp24px = [
       ]
     ]
   ]
-]
+];

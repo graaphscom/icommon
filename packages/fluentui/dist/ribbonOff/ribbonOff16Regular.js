@@ -16,4 +16,4 @@ export var ribbonOff16Regular = [
       }
     ]
   ]
-]
+];

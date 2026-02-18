@@ -21,4 +21,4 @@ export var localBarRound24px = [
       }
     ]
   ]
-]
+];

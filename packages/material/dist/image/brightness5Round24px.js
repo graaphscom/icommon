@@ -21,4 +21,4 @@ export var brightness5Round24px = [
       }
     ]
   ]
-]
+];

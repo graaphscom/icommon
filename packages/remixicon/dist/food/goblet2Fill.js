@@ -13,4 +13,4 @@ export var goblet2Fill = [
       }
     ]
   ]
-]
+];

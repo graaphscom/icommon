@@ -16,4 +16,4 @@ export var speaker132Filled = [
       }
     ]
   ]
-]
+];

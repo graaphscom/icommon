@@ -16,4 +16,4 @@ export var textProofingTools20Filled = [
       }
     ]
   ]
-]
+];

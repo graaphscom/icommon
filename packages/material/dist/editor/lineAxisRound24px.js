@@ -43,4 +43,4 @@ export var lineAxisRound24px = [
       ]
     ]
   ]
-]
+];

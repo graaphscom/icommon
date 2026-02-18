@@ -41,4 +41,4 @@ export var filter9PlusTwotone24px = [
       }
     ]
   ]
-]
+];

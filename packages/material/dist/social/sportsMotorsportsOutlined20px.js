@@ -36,4 +36,4 @@ export var sportsMotorsportsOutlined20px = [
       ]
     ]
   ]
-]
+];

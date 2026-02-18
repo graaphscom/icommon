@@ -29,4 +29,4 @@ export var cast24px = [
       }
     ]
   ]
-]
+];

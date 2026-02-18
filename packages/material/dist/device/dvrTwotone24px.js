@@ -28,4 +28,4 @@ export var dvrTwotone24px = [
       }
     ]
   ]
-]
+];

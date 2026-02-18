@@ -36,4 +36,4 @@ export var brightness7Twotone24px = [
       }
     ]
   ]
-]
+];

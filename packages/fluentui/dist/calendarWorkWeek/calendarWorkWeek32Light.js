@@ -16,4 +16,4 @@ export var calendarWorkWeek32Light = [
       }
     ]
   ]
-]
+];

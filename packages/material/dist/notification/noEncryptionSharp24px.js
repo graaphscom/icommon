@@ -21,4 +21,4 @@ export var noEncryptionSharp24px = [
       }
     ]
   ]
-]
+];

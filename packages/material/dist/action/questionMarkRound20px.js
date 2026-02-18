@@ -35,4 +35,4 @@ export var questionMarkRound20px = [
       ]
     ]
   ]
-]
+];

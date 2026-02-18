@@ -185,4 +185,4 @@ export var contactCard48Color = [
       ]
     ]
   ]
-]
+];

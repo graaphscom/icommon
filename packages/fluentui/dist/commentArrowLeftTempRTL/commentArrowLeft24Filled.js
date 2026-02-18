@@ -16,4 +16,4 @@ export var commentArrowLeft24Filled = [
       }
     ]
   ]
-]
+];

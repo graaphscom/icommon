@@ -35,4 +35,4 @@ export var panoramaVerticalSelectOutlined24px = [
       ]
     ]
   ]
-]
+];

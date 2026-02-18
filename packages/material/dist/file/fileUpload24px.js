@@ -21,4 +21,4 @@ export var fileUpload24px = [
       }
     ]
   ]
-]
+];

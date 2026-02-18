@@ -21,4 +21,4 @@ export var workOutlineOutlined24px = [
       }
     ]
   ]
-]
+];

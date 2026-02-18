@@ -30,4 +30,4 @@ export var localAirport20px = [
       ]
     ]
   ]
-]
+];

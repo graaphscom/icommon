@@ -16,4 +16,4 @@ export var tv20Filled = [
       }
     ]
   ]
-]
+];

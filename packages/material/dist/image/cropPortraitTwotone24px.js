@@ -21,4 +21,4 @@ export var cropPortraitTwotone24px = [
       }
     ]
   ]
-]
+];

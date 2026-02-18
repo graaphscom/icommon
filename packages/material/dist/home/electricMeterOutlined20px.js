@@ -57,4 +57,4 @@ export var electricMeterOutlined20px = [
       ]
     ]
   ]
-]
+];

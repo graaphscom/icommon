@@ -119,4 +119,4 @@ export var pin16Color = [
       ]
     ]
   ]
-]
+];

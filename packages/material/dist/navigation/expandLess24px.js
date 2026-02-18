@@ -21,4 +21,4 @@ export var expandLess24px = [
       }
     ]
   ]
-]
+];

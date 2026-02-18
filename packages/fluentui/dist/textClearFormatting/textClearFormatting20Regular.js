@@ -16,4 +16,4 @@ export var textClearFormatting20Regular = [
       }
     ]
   ]
-]
+];

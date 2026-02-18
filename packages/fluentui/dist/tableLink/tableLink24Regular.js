@@ -16,4 +16,4 @@ export var tableLink24Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var addPhotoAlternateSharp24px = [
       }
     ]
   ]
-]
+];

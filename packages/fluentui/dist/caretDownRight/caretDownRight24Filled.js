@@ -16,4 +16,4 @@ export var caretDownRight24Filled = [
       }
     ]
   ]
-]
+];

@@ -28,4 +28,4 @@ export var stayPrimaryPortraitTwotone24px = [
       }
     ]
   ]
-]
+];

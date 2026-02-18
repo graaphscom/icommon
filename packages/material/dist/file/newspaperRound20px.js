@@ -35,4 +35,4 @@ export var newspaperRound20px = [
       ]
     ]
   ]
-]
+];

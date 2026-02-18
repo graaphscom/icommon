@@ -262,4 +262,4 @@ export var peopleAdd20Color = [
       ]
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var fiberNewTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var filter24Regular = [
       }
     ]
   ]
-]
+];

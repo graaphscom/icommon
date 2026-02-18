@@ -21,4 +21,4 @@ export var settingsBluetoothOutlined24px = [
       }
     ]
   ]
-]
+];

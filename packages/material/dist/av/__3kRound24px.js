@@ -35,4 +35,4 @@ export var __3kRound24px = [
       ]
     ]
   ]
-]
+];

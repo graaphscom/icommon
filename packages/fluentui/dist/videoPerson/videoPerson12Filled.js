@@ -16,4 +16,4 @@ export var videoPerson12Filled = [
       }
     ]
   ]
-]
+];

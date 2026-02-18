@@ -21,4 +21,4 @@ export var directionsCar24px = [
       }
     ]
   ]
-]
+];

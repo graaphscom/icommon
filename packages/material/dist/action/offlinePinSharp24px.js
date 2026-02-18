@@ -21,4 +21,4 @@ export var offlinePinSharp24px = [
       }
     ]
   ]
-]
+];

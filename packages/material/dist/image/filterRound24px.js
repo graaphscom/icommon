@@ -21,4 +21,4 @@ export var filterRound24px = [
       }
     ]
   ]
-]
+];

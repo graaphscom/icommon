@@ -21,4 +21,4 @@ export var showChartTwotone24px = [
       }
     ]
   ]
-]
+];

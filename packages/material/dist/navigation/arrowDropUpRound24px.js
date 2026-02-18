@@ -21,4 +21,4 @@ export var arrowDropUpRound24px = [
       }
     ]
   ]
-]
+];

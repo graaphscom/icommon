@@ -21,4 +21,4 @@ export var gradeSharp24px = [
       }
     ]
   ]
-]
+];

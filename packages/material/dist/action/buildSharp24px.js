@@ -21,4 +21,4 @@ export var buildSharp24px = [
       }
     ]
   ]
-]
+];

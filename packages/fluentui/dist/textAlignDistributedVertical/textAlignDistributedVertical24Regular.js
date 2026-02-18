@@ -16,4 +16,4 @@ export var textAlignDistributedVertical24Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var checklistRtlRound24px = [
       }
     ]
   ]
-]
+];

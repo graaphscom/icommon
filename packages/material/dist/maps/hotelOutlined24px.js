@@ -21,4 +21,4 @@ export var hotelOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var ondemandVideoSharp24px = [
       }
     ]
   ]
-]
+];

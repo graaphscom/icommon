@@ -54,4 +54,4 @@ export var contactEmergencyOutlined20px = [
       ]
     ]
   ]
-]
+];

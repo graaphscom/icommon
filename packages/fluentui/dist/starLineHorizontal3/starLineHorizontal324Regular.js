@@ -16,4 +16,4 @@ export var starLineHorizontal324Regular = [
       }
     ]
   ]
-]
+];

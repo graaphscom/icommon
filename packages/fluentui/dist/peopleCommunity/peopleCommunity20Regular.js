@@ -16,4 +16,4 @@ export var peopleCommunity20Regular = [
       }
     ]
   ]
-]
+];

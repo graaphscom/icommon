@@ -16,4 +16,4 @@ export var cloudOff32Regular = [
       }
     ]
   ]
-]
+];

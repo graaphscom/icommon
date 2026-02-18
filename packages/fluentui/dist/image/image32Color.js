@@ -115,4 +115,4 @@ export var image32Color = [
       ]
     ]
   ]
-]
+];

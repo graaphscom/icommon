@@ -16,4 +16,4 @@ export var locationAddRight20Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var barcodeScannerDismiss28Filled = [
       }
     ]
   ]
-]
+];

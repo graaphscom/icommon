@@ -16,4 +16,4 @@ export var paintBrushArrowDown24Regular = [
       }
     ]
   ]
-]
+];

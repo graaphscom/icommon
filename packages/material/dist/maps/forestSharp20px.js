@@ -56,4 +56,4 @@ export var forestSharp20px = [
       ]
     ]
   ]
-]
+];

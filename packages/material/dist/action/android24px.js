@@ -46,4 +46,4 @@ export var android24px = [
       ]
     ]
   ]
-]
+];

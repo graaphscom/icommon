@@ -21,4 +21,4 @@ export var hourglassFullRound24px = [
       }
     ]
   ]
-]
+];

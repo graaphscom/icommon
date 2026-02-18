@@ -16,4 +16,4 @@ export var highlightAccent24Filled = [
       }
     ]
   ]
-]
+];

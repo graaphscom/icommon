@@ -23,4 +23,4 @@ export var connectingAirportsOutlined24px = [
       }
     ]
   ]
-]
+];

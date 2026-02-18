@@ -29,4 +29,4 @@ export var accessibleForwardOutlined24px = [
       }
     ]
   ]
-]
+];

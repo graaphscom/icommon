@@ -16,4 +16,4 @@ export var mobileOptimized32Filled = [
       }
     ]
   ]
-]
+];

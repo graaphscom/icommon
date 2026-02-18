@@ -21,4 +21,4 @@ export var cloud24px = [
       }
     ]
   ]
-]
+];

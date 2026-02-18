@@ -13,4 +13,4 @@ export var screenshot2Line = [
       }
     ]
   ]
-]
+];

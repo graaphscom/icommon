@@ -16,4 +16,4 @@ export var mailInboxDismiss24Regular = [
       }
     ]
   ]
-]
+];

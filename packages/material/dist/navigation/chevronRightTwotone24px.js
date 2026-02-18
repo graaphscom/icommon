@@ -21,4 +21,4 @@ export var chevronRightTwotone24px = [
       }
     ]
   ]
-]
+];

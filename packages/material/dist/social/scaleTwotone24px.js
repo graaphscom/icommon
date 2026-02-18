@@ -42,4 +42,4 @@ export var scaleTwotone24px = [
       ]
     ]
   ]
-]
+];

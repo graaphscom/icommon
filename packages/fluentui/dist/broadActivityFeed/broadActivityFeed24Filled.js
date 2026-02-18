@@ -16,4 +16,4 @@ export var broadActivityFeed24Filled = [
       }
     ]
   ]
-]
+];

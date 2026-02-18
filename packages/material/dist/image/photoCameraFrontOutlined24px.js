@@ -55,4 +55,4 @@ export var photoCameraFrontOutlined24px = [
       ]
     ]
   ]
-]
+];

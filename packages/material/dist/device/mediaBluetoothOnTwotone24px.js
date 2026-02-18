@@ -40,4 +40,4 @@ export var mediaBluetoothOnTwotone24px = [
       ]
     ]
   ]
-]
+];

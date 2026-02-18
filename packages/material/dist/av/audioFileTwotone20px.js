@@ -54,4 +54,4 @@ export var audioFileTwotone20px = [
       ]
     ]
   ]
-]
+];

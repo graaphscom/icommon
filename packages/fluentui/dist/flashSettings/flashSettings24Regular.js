@@ -16,4 +16,4 @@ export var flashSettings24Regular = [
       }
     ]
   ]
-]
+];

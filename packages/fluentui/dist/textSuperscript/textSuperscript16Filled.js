@@ -16,4 +16,4 @@ export var textSuperscript16Filled = [
       }
     ]
   ]
-]
+];

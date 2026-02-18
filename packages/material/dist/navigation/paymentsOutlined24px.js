@@ -29,4 +29,4 @@ export var paymentsOutlined24px = [
       ]
     ]
   ]
-]
+];

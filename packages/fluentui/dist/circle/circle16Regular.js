@@ -16,4 +16,4 @@ export var circle16Regular = [
       }
     ]
   ]
-]
+];

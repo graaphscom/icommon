@@ -23,4 +23,4 @@ export var transgenderSharp24px = [
       }
     ]
   ]
-]
+];

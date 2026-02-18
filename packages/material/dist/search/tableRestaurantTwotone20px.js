@@ -48,4 +48,4 @@ export var tableRestaurantTwotone20px = [
       ]
     ]
   ]
-]
+];

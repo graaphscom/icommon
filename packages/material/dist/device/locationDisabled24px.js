@@ -21,4 +21,4 @@ export var locationDisabled24px = [
       }
     ]
   ]
-]
+];

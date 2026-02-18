@@ -47,4 +47,4 @@ export var searchOffTwotone20px = [
       ]
     ]
   ]
-]
+];

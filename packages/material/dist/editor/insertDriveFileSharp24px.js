@@ -14,4 +14,4 @@ export var insertDriveFileSharp24px = [
       }
     ]
   ]
-]
+];

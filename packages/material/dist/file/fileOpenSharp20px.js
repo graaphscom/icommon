@@ -35,4 +35,4 @@ export var fileOpenSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var flashPlay32Regular = [
       }
     ]
   ]
-]
+];

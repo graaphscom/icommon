@@ -16,4 +16,4 @@ export var tabDesktopArrowClockwise16Regular = [
       }
     ]
   ]
-]
+];

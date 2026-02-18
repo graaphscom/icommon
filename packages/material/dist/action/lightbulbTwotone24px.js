@@ -63,4 +63,4 @@ export var lightbulbTwotone24px = [
       ]
     ]
   ]
-]
+];

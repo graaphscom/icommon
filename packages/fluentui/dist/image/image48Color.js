@@ -115,4 +115,4 @@ export var image48Color = [
       ]
     ]
   ]
-]
+];

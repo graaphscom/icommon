@@ -23,4 +23,4 @@ export var savings20px = [
       }
     ]
   ]
-]
+];

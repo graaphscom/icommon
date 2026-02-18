@@ -95,4 +95,4 @@ export var volcanoOutlined20px = [
       ]
     ]
   ]
-]
+];

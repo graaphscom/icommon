@@ -16,4 +16,4 @@ export var selectObjectSkewEdit24Filled = [
       }
     ]
   ]
-]
+];

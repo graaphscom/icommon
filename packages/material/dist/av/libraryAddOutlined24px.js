@@ -21,4 +21,4 @@ export var libraryAddOutlined24px = [
       }
     ]
   ]
-]
+];

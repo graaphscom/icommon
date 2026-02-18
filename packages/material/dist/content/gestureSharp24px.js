@@ -21,4 +21,4 @@ export var gestureSharp24px = [
       }
     ]
   ]
-]
+];

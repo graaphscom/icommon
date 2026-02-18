@@ -16,4 +16,4 @@ export var vehicleCarProfileLtr16Filled = [
       }
     ]
   ]
-]
+];

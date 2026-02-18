@@ -16,4 +16,4 @@ export var arrowTurnRight24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentOnePageMultipleSparkle24Filled = [
       }
     ]
   ]
-]
+];

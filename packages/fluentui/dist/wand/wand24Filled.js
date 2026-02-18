@@ -16,4 +16,4 @@ export var wand24Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var sdCard24px = [
       }
     ]
   ]
-]
+];

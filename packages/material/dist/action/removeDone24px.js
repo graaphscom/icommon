@@ -21,4 +21,4 @@ export var removeDone24px = [
       }
     ]
   ]
-]
+];

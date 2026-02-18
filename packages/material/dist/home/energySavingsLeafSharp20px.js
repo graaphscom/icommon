@@ -41,4 +41,4 @@ export var energySavingsLeafSharp20px = [
       ]
     ]
   ]
-]
+];

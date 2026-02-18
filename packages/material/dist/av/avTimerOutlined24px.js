@@ -21,4 +21,4 @@ export var avTimerOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var copyAllSharp24px = [
       }
     ]
   ]
-]
+];

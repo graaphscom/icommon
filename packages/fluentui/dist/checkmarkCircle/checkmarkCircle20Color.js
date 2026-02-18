@@ -83,4 +83,4 @@ export var checkmarkCircle20Color = [
       ]
     ]
   ]
-]
+];

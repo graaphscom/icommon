@@ -81,4 +81,4 @@ export var dataPie24Color = [
       ]
     ]
   ]
-]
+];

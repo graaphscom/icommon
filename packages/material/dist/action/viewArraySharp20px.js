@@ -23,4 +23,4 @@ export var viewArraySharp20px = [
       }
     ]
   ]
-]
+];

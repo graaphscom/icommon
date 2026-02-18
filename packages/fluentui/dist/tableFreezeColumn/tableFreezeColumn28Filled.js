@@ -16,4 +16,4 @@ export var tableFreezeColumn28Filled = [
       }
     ]
   ]
-]
+];

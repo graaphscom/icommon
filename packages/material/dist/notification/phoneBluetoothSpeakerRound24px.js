@@ -21,4 +21,4 @@ export var phoneBluetoothSpeakerRound24px = [
       }
     ]
   ]
-]
+];

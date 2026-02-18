@@ -35,4 +35,4 @@ export var currencyLiraRound20px = [
       ]
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var lightbulbCircleRound20px = [
       ]
     ]
   ]
-]
+];

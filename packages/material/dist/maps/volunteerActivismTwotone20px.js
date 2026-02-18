@@ -68,4 +68,4 @@ export var volunteerActivismTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var clearSharp24px = [
       }
     ]
   ]
-]
+];

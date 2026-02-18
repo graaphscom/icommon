@@ -21,4 +21,4 @@ export var zoomInOutlined24px = [
       }
     ]
   ]
-]
+];

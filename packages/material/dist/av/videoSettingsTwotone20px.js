@@ -53,4 +53,4 @@ export var videoSettingsTwotone20px = [
       ]
     ]
   ]
-]
+];

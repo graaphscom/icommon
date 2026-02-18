@@ -137,4 +137,4 @@ export var deblur20px = [
       ]
     ]
   ]
-]
+];

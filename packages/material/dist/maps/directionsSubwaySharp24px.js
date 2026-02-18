@@ -21,4 +21,4 @@ export var directionsSubwaySharp24px = [
       }
     ]
   ]
-]
+];

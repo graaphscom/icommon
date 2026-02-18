@@ -16,4 +16,4 @@ export var textExpand24Regular = [
       }
     ]
   ]
-]
+];

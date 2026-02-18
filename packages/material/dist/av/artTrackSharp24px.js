@@ -21,4 +21,4 @@ export var artTrackSharp24px = [
       }
     ]
   ]
-]
+];

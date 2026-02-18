@@ -21,4 +21,4 @@ export var controlPointDuplicate24px = [
       }
     ]
   ]
-]
+];

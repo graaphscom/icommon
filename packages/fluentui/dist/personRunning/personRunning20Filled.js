@@ -16,4 +16,4 @@ export var personRunning20Filled = [
       }
     ]
   ]
-]
+];

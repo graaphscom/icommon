@@ -21,4 +21,4 @@ export var settingsInputAntennaSharp24px = [
       }
     ]
   ]
-]
+];

@@ -40,4 +40,4 @@ export var signalCellularNodataSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var creditCardToolbox24Regular = [
       }
     ]
   ]
-]
+];

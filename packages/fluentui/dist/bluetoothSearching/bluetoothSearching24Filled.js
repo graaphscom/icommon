@@ -16,4 +16,4 @@ export var bluetoothSearching24Filled = [
       }
     ]
   ]
-]
+];

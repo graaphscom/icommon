@@ -16,4 +16,4 @@ export var heart20Regular = [
       }
     ]
   ]
-]
+];

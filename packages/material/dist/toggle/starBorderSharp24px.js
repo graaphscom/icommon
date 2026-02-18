@@ -21,4 +21,4 @@ export var starBorderSharp24px = [
       }
     ]
   ]
-]
+];

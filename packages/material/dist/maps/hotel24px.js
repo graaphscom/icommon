@@ -21,4 +21,4 @@ export var hotel24px = [
       }
     ]
   ]
-]
+];

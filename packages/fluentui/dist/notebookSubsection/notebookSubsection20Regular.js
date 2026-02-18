@@ -16,4 +16,4 @@ export var notebookSubsection20Regular = [
       }
     ]
   ]
-]
+];

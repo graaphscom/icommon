@@ -21,4 +21,4 @@ export var collectionsOutlined24px = [
       }
     ]
   ]
-]
+];

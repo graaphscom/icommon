@@ -21,4 +21,4 @@ export var thermostatOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var cameraOff16Filled = [
       }
     ]
   ]
-]
+];

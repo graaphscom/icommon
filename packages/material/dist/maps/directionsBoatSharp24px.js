@@ -21,4 +21,4 @@ export var directionsBoatSharp24px = [
       }
     ]
   ]
-]
+];

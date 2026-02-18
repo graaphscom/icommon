@@ -35,4 +35,4 @@ export var fiberSmartRecord24px = [
       ]
     ]
   ]
-]
+];

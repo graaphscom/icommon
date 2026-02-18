@@ -16,4 +16,4 @@ export var documentOnePageMultiple48Filled = [
       }
     ]
   ]
-]
+];

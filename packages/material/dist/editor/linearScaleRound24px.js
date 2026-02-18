@@ -23,4 +23,4 @@ export var linearScaleRound24px = [
       }
     ]
   ]
-]
+];

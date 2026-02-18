@@ -47,4 +47,4 @@ export var wifiCallingSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var toggleOnRound24px = [
       }
     ]
   ]
-]
+];

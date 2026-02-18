@@ -16,4 +16,4 @@ export var settings20Filled = [
       }
     ]
   ]
-]
+];

@@ -13,4 +13,4 @@ export var chatAi3Line = [
       }
     ]
   ]
-]
+];

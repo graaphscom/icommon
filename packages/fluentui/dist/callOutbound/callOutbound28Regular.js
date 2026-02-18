@@ -16,4 +16,4 @@ export var callOutbound28Regular = [
       }
     ]
   ]
-]
+];

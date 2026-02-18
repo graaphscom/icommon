@@ -16,4 +16,4 @@ export var cut16Regular = [
       }
     ]
   ]
-]
+];

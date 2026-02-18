@@ -16,4 +16,4 @@ export var accessibility28Regular = [
       }
     ]
   ]
-]
+];

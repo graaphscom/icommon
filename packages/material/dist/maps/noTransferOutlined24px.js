@@ -23,4 +23,4 @@ export var noTransferOutlined24px = [
       }
     ]
   ]
-]
+];

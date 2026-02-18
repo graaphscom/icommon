@@ -16,4 +16,4 @@ export var tableSimple24Regular = [
       }
     ]
   ]
-]
+];

@@ -81,4 +81,4 @@ export var textBulletListSquare16Color = [
       ]
     ]
   ]
-]
+];

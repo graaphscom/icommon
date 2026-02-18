@@ -34,4 +34,4 @@ export var shortcutOutlined24px = [
       ]
     ]
   ]
-]
+];

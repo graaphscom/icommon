@@ -16,4 +16,4 @@ export var moreVertical16Filled = [
       }
     ]
   ]
-]
+];

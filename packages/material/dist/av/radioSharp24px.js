@@ -21,4 +21,4 @@ export var radioSharp24px = [
       }
     ]
   ]
-]
+];

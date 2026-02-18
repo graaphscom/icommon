@@ -53,4 +53,4 @@ export var architectureSharp24px = [
       ]
     ]
   ]
-]
+];

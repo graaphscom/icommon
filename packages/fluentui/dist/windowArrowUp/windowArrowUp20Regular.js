@@ -16,4 +16,4 @@ export var windowArrowUp20Regular = [
       }
     ]
   ]
-]
+];

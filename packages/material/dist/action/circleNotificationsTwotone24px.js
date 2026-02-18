@@ -42,4 +42,4 @@ export var circleNotificationsTwotone24px = [
       ]
     ]
   ]
-]
+];

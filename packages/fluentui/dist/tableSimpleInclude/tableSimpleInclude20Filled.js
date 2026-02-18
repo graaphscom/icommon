@@ -16,4 +16,4 @@ export var tableSimpleInclude20Filled = [
       }
     ]
   ]
-]
+];

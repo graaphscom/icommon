@@ -23,4 +23,4 @@ export var lightModeOutlined20px = [
       }
     ]
   ]
-]
+];

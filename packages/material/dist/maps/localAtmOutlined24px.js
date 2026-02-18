@@ -21,4 +21,4 @@ export var localAtmOutlined24px = [
       }
     ]
   ]
-]
+];

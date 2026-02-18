@@ -47,4 +47,4 @@ export var signalWifiConnectedNoInternet2Twotone24px = [
       ]
     ]
   ]
-]
+];

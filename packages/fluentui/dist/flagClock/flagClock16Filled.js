@@ -16,4 +16,4 @@ export var flagClock16Filled = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var menuOpenRound24px = [
       }
     ]
   ]
-]
+];

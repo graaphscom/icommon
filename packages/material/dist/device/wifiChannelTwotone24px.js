@@ -42,4 +42,4 @@ export var wifiChannelTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textDensity24Filled = [
       }
     ]
   ]
-]
+];

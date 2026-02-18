@@ -47,4 +47,4 @@ export var rawOffOutlined24px = [
       ]
     ]
   ]
-]
+];

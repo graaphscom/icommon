@@ -16,4 +16,4 @@ export var notebookEye20Regular = [
       }
     ]
   ]
-]
+];

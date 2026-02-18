@@ -16,4 +16,4 @@ export var chatMultiplePerson48Filled = [
       }
     ]
   ]
-]
+];

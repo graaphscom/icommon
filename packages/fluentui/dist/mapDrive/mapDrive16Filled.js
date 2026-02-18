@@ -16,4 +16,4 @@ export var mapDrive16Filled = [
       }
     ]
   ]
-]
+];

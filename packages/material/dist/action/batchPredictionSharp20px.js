@@ -29,4 +29,4 @@ export var batchPredictionSharp20px = [
       ]
     ]
   ]
-]
+];

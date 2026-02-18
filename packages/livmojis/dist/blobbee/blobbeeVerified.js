@@ -315,4 +315,4 @@ export var blobbeeVerified = [
       ]
     ]
   ]
-]
+];

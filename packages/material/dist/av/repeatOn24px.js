@@ -22,4 +22,4 @@ export var repeatOn24px = [
       }
     ]
   ]
-]
+];

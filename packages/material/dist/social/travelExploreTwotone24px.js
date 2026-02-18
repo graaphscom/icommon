@@ -23,4 +23,4 @@ export var travelExploreTwotone24px = [
       }
     ]
   ]
-]
+];

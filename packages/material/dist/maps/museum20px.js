@@ -41,4 +41,4 @@ export var museum20px = [
       ]
     ]
   ]
-]
+];

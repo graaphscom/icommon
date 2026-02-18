@@ -21,4 +21,4 @@ export var settingsOverscan24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var calligraphyPen20Filled = [
       }
     ]
   ]
-]
+];

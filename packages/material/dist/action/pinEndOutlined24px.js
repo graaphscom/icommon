@@ -23,4 +23,4 @@ export var pinEndOutlined24px = [
       }
     ]
   ]
-]
+];

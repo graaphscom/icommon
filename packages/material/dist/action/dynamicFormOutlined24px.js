@@ -29,4 +29,4 @@ export var dynamicFormOutlined24px = [
       ]
     ]
   ]
-]
+];

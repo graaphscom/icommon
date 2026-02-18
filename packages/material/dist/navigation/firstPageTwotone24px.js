@@ -22,4 +22,4 @@ export var firstPageTwotone24px = [
       }
     ]
   ]
-]
+];

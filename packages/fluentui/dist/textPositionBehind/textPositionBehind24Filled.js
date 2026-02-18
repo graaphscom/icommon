@@ -16,4 +16,4 @@ export var textPositionBehind24Filled = [
       }
     ]
   ]
-]
+];

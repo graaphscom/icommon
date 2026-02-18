@@ -35,4 +35,4 @@ export var currencyYuanTwotone24px = [
       ]
     ]
   ]
-]
+];

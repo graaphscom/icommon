@@ -29,4 +29,4 @@ export var doNotTouchOutlined24px = [
       ]
     ]
   ]
-]
+];

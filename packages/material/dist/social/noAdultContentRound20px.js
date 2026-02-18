@@ -59,4 +59,4 @@ export var noAdultContentRound20px = [
       ]
     ]
   ]
-]
+];

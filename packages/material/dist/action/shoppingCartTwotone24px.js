@@ -28,4 +28,4 @@ export var shoppingCartTwotone24px = [
       }
     ]
   ]
-]
+];

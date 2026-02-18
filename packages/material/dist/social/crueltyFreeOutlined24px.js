@@ -23,4 +23,4 @@ export var crueltyFreeOutlined24px = [
       }
     ]
   ]
-]
+];

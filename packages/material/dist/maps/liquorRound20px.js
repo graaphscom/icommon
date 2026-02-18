@@ -60,4 +60,4 @@ export var liquorRound20px = [
       ]
     ]
   ]
-]
+];

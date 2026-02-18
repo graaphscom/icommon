@@ -23,4 +23,4 @@ export var viewWeekSharp24px = [
       }
     ]
   ]
-]
+];

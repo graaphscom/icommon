@@ -21,4 +21,4 @@ export var localPostOfficeRound24px = [
       }
     ]
   ]
-]
+];

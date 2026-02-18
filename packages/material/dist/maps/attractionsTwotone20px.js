@@ -51,4 +51,4 @@ export var attractionsTwotone20px = [
       ]
     ]
   ]
-]
+];

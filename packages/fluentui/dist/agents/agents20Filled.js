@@ -16,4 +16,4 @@ export var agents20Filled = [
       }
     ]
   ]
-]
+];

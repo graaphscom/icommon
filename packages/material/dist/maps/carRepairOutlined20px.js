@@ -64,4 +64,4 @@ export var carRepairOutlined20px = [
       ]
     ]
   ]
-]
+];

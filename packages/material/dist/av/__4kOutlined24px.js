@@ -21,4 +21,4 @@ export var __4kOutlined24px = [
       }
     ]
   ]
-]
+];

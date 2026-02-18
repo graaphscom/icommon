@@ -21,4 +21,4 @@ export var pollOutlined24px = [
       }
     ]
   ]
-]
+];

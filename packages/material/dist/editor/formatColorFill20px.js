@@ -56,4 +56,4 @@ export var formatColorFill20px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var inputOutlined24px = [
       }
     ]
   ]
-]
+];

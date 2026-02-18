@@ -39,4 +39,4 @@ export var emojiEmotions20px = [
       ]
     ]
   ]
-]
+];

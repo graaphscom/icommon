@@ -65,4 +65,4 @@ export var priceChangeTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var deviceUnknown24px = [
       }
     ]
   ]
-]
+];

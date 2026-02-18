@@ -21,4 +21,4 @@ export var spaSharp24px = [
       }
     ]
   ]
-]
+];

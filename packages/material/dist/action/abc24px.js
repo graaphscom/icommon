@@ -35,4 +35,4 @@ export var abc24px = [
       ]
     ]
   ]
-]
+];

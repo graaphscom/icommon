@@ -35,4 +35,4 @@ export var turnSlightRight24px = [
       ]
     ]
   ]
-]
+];

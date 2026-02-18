@@ -35,4 +35,4 @@ export var switchAccountOutlined24px = [
       ]
     ]
   ]
-]
+];

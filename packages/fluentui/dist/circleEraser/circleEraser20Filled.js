@@ -16,4 +16,4 @@ export var circleEraser20Filled = [
       }
     ]
   ]
-]
+];

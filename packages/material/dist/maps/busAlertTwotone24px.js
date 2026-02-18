@@ -78,4 +78,4 @@ export var busAlertTwotone24px = [
       ]
     ]
   ]
-]
+];

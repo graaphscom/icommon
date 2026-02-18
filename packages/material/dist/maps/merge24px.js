@@ -35,4 +35,4 @@ export var merge24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dataBarVerticalAscending16Filled = [
       }
     ]
   ]
-]
+];

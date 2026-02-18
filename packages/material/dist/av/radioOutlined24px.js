@@ -29,4 +29,4 @@ export var radioOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var pushPinOutlined24px = [
       ]
     ]
   ]
-]
+];

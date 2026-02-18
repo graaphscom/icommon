@@ -14,4 +14,4 @@ export var formatColorResetSharp24px = [
       }
     ]
   ]
-]
+];

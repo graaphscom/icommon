@@ -43,4 +43,4 @@ export var htmlRound24px = [
       ]
     ]
   ]
-]
+];

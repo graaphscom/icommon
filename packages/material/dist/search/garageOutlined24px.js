@@ -62,4 +62,4 @@ export var garageOutlined24px = [
       ]
     ]
   ]
-]
+];

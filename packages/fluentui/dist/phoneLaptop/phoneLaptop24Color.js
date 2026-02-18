@@ -223,4 +223,4 @@ export var phoneLaptop24Color = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var cameraSharp24px = [
       }
     ]
   ]
-]
+];

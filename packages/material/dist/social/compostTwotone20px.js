@@ -29,4 +29,4 @@ export var compostTwotone20px = [
       ]
     ]
   ]
-]
+];

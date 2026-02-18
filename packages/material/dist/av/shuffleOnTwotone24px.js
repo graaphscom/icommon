@@ -35,4 +35,4 @@ export var shuffleOnTwotone24px = [
       ]
     ]
   ]
-]
+];

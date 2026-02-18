@@ -21,4 +21,4 @@ export var faceOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -73,4 +73,4 @@ export var sportsHockeyRound24px = [
       ]
     ]
   ]
-]
+];

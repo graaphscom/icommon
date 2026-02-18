@@ -23,4 +23,4 @@ export var surfingRound20px = [
       }
     ]
   ]
-]
+];

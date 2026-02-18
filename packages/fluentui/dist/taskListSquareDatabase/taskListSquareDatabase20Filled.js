@@ -16,4 +16,4 @@ export var taskListSquareDatabase20Filled = [
       }
     ]
   ]
-]
+];

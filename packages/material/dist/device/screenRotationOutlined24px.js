@@ -21,4 +21,4 @@ export var screenRotationOutlined24px = [
       }
     ]
   ]
-]
+];

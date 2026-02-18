@@ -16,4 +16,4 @@ export var serialPortOff24Regular = [
       }
     ]
   ]
-]
+];

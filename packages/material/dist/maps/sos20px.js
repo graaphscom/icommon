@@ -35,4 +35,4 @@ export var sos20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var commentSharp24px = [
       }
     ]
   ]
-]
+];

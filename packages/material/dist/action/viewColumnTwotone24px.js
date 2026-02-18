@@ -30,4 +30,4 @@ export var viewColumnTwotone24px = [
       }
     ]
   ]
-]
+];

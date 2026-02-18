@@ -58,4 +58,4 @@ export var face4Outlined20px = [
       ]
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var nextPlanOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var helpOutlineRound24px = [
       }
     ]
   ]
-]
+];

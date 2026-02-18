@@ -42,4 +42,4 @@ export var backpack24px = [
       ]
     ]
   ]
-]
+];

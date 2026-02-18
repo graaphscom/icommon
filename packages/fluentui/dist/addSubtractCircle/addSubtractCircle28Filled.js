@@ -16,4 +16,4 @@ export var addSubtractCircle28Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var clipboardPulse24Filled = [
       }
     ]
   ]
-]
+];

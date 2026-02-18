@@ -21,4 +21,4 @@ export var wavesSharp24px = [
       }
     ]
   ]
-]
+];

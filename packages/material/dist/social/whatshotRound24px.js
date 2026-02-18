@@ -21,4 +21,4 @@ export var whatshotRound24px = [
       }
     ]
   ]
-]
+];

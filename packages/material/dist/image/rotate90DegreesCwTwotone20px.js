@@ -65,4 +65,4 @@ export var rotate90DegreesCwTwotone20px = [
       ]
     ]
   ]
-]
+];

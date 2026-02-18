@@ -112,4 +112,4 @@ export var mic16Color = [
       ]
     ]
   ]
-]
+];

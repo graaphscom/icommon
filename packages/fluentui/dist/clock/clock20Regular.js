@@ -16,4 +16,4 @@ export var clock20Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var textRotateVerticalTwotone24px = [
       }
     ]
   ]
-]
+];

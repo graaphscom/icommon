@@ -44,4 +44,4 @@ export var directionsTransitTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var verticalDistributeOutlined24px = [
       }
     ]
   ]
-]
+];

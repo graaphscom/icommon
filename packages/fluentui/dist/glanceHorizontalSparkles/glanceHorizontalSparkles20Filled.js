@@ -16,4 +16,4 @@ export var glanceHorizontalSparkles20Filled = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var person3Sharp20px = [
       ]
     ]
   ]
-]
+];

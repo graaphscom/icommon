@@ -16,4 +16,4 @@ export var arrowMinimizeTopLeftBottomRight16Regular = [
       }
     ]
   ]
-]
+];

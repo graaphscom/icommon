@@ -35,4 +35,4 @@ export var battery1BarSharp24px = [
       ]
     ]
   ]
-]
+];

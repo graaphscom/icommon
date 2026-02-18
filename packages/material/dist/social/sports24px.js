@@ -61,4 +61,4 @@ export var sports24px = [
       ]
     ]
   ]
-]
+];

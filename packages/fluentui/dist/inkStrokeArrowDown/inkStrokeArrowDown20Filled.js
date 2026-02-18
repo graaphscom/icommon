@@ -16,4 +16,4 @@ export var inkStrokeArrowDown20Filled = [
       }
     ]
   ]
-]
+];

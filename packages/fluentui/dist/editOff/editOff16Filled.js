@@ -16,4 +16,4 @@ export var editOff16Filled = [
       }
     ]
   ]
-]
+];

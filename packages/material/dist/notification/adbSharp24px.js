@@ -21,4 +21,4 @@ export var adbSharp24px = [
       }
     ]
   ]
-]
+];

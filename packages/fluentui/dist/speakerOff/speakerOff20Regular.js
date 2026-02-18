@@ -16,4 +16,4 @@ export var speakerOff20Regular = [
       }
     ]
   ]
-]
+];

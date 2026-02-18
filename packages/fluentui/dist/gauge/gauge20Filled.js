@@ -16,4 +16,4 @@ export var gauge20Filled = [
       }
     ]
   ]
-]
+];

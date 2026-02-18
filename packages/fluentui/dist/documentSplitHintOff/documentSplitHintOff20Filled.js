@@ -16,4 +16,4 @@ export var documentSplitHintOff20Filled = [
       }
     ]
   ]
-]
+];

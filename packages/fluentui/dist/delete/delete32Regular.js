@@ -16,4 +16,4 @@ export var delete32Regular = [
       }
     ]
   ]
-]
+];

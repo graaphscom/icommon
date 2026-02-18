@@ -28,4 +28,4 @@ export var localPharmacyTwotone24px = [
       }
     ]
   ]
-]
+];

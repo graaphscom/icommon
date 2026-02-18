@@ -16,4 +16,4 @@ export var steps20Filled = [
       }
     ]
   ]
-]
+];

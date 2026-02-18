@@ -16,4 +16,4 @@ export var tableMoveBelow20Regular = [
       }
     ]
   ]
-]
+];

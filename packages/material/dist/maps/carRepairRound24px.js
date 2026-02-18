@@ -48,4 +48,4 @@ export var carRepairRound24px = [
       ]
     ]
   ]
-]
+];

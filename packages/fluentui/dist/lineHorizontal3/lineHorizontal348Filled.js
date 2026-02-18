@@ -16,4 +16,4 @@ export var lineHorizontal348Filled = [
       }
     ]
   ]
-]
+];

@@ -58,4 +58,4 @@ export var laserTool20Regular = [
       }
     ]
   ]
-]
+];

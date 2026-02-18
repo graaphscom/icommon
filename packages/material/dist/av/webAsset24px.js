@@ -21,4 +21,4 @@ export var webAsset24px = [
       }
     ]
   ]
-]
+];

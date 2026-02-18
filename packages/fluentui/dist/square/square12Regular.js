@@ -16,4 +16,4 @@ export var square12Regular = [
       }
     ]
   ]
-]
+];

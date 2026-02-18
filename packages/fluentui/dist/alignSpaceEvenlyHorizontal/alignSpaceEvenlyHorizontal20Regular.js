@@ -16,4 +16,4 @@ export var alignSpaceEvenlyHorizontal20Regular = [
       }
     ]
   ]
-]
+];

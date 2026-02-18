@@ -48,4 +48,4 @@ export var link24Color = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var thermostatTwotone24px = [
       }
     ]
   ]
-]
+];

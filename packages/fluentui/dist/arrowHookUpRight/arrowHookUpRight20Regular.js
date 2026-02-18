@@ -16,4 +16,4 @@ export var arrowHookUpRight20Regular = [
       }
     ]
   ]
-]
+];

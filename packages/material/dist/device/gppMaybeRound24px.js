@@ -34,4 +34,4 @@ export var gppMaybeRound24px = [
       ]
     ]
   ]
-]
+];

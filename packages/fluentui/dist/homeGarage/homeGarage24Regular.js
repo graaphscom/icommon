@@ -16,4 +16,4 @@ export var homeGarage24Regular = [
       }
     ]
   ]
-]
+];

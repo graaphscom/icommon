@@ -61,4 +61,4 @@ export var carCrashTwotone24px = [
       ]
     ]
   ]
-]
+];

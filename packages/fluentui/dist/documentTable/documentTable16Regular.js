@@ -16,4 +16,4 @@ export var documentTable16Regular = [
       }
     ]
   ]
-]
+];

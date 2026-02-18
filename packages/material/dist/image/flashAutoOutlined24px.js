@@ -21,4 +21,4 @@ export var flashAutoOutlined24px = [
       }
     ]
   ]
-]
+];

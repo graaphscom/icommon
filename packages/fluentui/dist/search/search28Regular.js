@@ -16,4 +16,4 @@ export var search28Regular = [
       }
     ]
   ]
-]
+];

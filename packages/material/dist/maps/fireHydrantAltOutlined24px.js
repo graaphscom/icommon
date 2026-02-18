@@ -47,4 +47,4 @@ export var fireHydrantAltOutlined24px = [
       ]
     ]
   ]
-]
+];

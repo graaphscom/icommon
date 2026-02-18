@@ -16,4 +16,4 @@ export var folderOpenVertical20Filled = [
       }
     ]
   ]
-]
+];

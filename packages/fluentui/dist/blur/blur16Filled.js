@@ -16,4 +16,4 @@ export var blur16Filled = [
       }
     ]
   ]
-]
+];

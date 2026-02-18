@@ -36,4 +36,4 @@ export var differenceOutlined20px = [
       ]
     ]
   ]
-]
+];

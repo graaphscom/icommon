@@ -70,4 +70,4 @@ export var offlineShareRound24px = [
       ]
     ]
   ]
-]
+];

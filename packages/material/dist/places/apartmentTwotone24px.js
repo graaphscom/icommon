@@ -35,4 +35,4 @@ export var apartmentTwotone24px = [
       ]
     ]
   ]
-]
+];

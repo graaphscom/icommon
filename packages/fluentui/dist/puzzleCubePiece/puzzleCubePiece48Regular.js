@@ -16,4 +16,4 @@ export var puzzleCubePiece48Regular = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var commentBankSharp24px = [
       ]
     ]
   ]
-]
+];

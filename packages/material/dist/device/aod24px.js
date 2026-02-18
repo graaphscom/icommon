@@ -40,4 +40,4 @@ export var aod24px = [
       ]
     ]
   ]
-]
+];

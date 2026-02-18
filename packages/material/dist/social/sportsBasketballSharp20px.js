@@ -131,4 +131,4 @@ export var sportsBasketballSharp20px = [
       ]
     ]
   ]
-]
+];

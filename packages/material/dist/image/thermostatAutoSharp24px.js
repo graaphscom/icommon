@@ -35,4 +35,4 @@ export var thermostatAutoSharp24px = [
       ]
     ]
   ]
-]
+];

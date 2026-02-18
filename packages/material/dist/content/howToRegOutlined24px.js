@@ -21,4 +21,4 @@ export var howToRegOutlined24px = [
       }
     ]
   ]
-]
+];

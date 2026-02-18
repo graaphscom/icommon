@@ -16,4 +16,4 @@ export var circleLine12Filled = [
       }
     ]
   ]
-]
+];

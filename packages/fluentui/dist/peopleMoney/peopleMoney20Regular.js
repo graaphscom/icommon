@@ -16,4 +16,4 @@ export var peopleMoney20Regular = [
       }
     ]
   ]
-]
+];

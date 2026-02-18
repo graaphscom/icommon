@@ -30,4 +30,4 @@ export var alignSpaceEvenlyVertical20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var tvUsb28Filled = [
       }
     ]
   ]
-]
+];

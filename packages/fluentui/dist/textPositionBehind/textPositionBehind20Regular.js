@@ -16,4 +16,4 @@ export var textPositionBehind20Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var bedroomChildTwotone24px = [
       ]
     ]
   ]
-]
+];

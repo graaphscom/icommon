@@ -23,4 +23,4 @@ export var fiberManualRecord24px = [
       }
     ]
   ]
-]
+];

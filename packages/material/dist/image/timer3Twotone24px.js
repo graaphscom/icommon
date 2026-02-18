@@ -21,4 +21,4 @@ export var timer3Twotone24px = [
       }
     ]
   ]
-]
+];

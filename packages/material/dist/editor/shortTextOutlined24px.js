@@ -21,4 +21,4 @@ export var shortTextOutlined24px = [
       }
     ]
   ]
-]
+];

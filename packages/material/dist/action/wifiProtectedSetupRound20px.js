@@ -59,4 +59,4 @@ export var wifiProtectedSetupRound20px = [
       ]
     ]
   ]
-]
+];

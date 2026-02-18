@@ -16,4 +16,4 @@ export var chevronUpDown24Filled = [
       }
     ]
   ]
-]
+];

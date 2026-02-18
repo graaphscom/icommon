@@ -23,4 +23,4 @@ export var schema24px = [
       }
     ]
   ]
-]
+];

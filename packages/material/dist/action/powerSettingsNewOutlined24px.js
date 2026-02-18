@@ -21,4 +21,4 @@ export var powerSettingsNewOutlined24px = [
       }
     ]
   ]
-]
+];

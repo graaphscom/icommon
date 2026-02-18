@@ -16,4 +16,4 @@ export var spacebar20Regular = [
       }
     ]
   ]
-]
+];

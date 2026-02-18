@@ -21,4 +21,4 @@ export var smsRound24px = [
       }
     ]
   ]
-]
+];

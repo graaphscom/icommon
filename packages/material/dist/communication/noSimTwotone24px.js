@@ -41,4 +41,4 @@ export var noSimTwotone24px = [
       }
     ]
   ]
-]
+];

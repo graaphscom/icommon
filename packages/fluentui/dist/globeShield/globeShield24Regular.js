@@ -16,4 +16,4 @@ export var globeShield24Regular = [
       }
     ]
   ]
-]
+];

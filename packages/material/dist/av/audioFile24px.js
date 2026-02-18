@@ -35,4 +35,4 @@ export var audioFile24px = [
       ]
     ]
   ]
-]
+];

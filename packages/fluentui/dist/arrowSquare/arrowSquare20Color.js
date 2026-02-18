@@ -81,4 +81,4 @@ export var arrowSquare20Color = [
       ]
     ]
   ]
-]
+];

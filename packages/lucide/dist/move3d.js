@@ -37,4 +37,4 @@ export var move3d = [
       }
     ]
   ]
-]
+];

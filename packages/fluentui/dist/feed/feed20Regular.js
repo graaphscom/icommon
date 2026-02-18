@@ -16,4 +16,4 @@ export var feed20Regular = [
       }
     ]
   ]
-]
+];

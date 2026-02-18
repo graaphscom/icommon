@@ -21,4 +21,4 @@ export var translate24px = [
       }
     ]
   ]
-]
+];

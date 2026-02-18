@@ -16,4 +16,4 @@ export var arrowNext24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var playCircle48Regular = [
       }
     ]
   ]
-]
+];

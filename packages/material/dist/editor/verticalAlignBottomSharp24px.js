@@ -14,4 +14,4 @@ export var verticalAlignBottomSharp24px = [
       }
     ]
   ]
-]
+];

@@ -77,4 +77,4 @@ export var sportsCricketTwotone24px = [
       ]
     ]
   ]
-]
+];

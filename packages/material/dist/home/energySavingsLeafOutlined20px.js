@@ -48,4 +48,4 @@ export var energySavingsLeafOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -216,4 +216,4 @@ export var listBar20Color = [
       ]
     ]
   ]
-]
+];

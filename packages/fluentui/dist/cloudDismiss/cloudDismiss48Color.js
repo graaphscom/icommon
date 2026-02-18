@@ -291,4 +291,4 @@ export var cloudDismiss48Color = [
       ]
     ]
   ]
-]
+];

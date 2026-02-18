@@ -21,4 +21,4 @@ export var cancelPresentationSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var radio24px = [
       }
     ]
   ]
-]
+];

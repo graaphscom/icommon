@@ -37,4 +37,4 @@ export var directionsTransitOutlined24px = [
       }
     ]
   ]
-]
+];

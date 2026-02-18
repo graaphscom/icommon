@@ -16,4 +16,4 @@ export var arrowUpRightDashes24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var serverLink20Regular = [
       }
     ]
   ]
-]
+];

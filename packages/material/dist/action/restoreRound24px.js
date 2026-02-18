@@ -21,4 +21,4 @@ export var restoreRound24px = [
       }
     ]
   ]
-]
+];

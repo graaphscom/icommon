@@ -23,4 +23,4 @@ export var coronavirusRound24px = [
       }
     ]
   ]
-]
+];

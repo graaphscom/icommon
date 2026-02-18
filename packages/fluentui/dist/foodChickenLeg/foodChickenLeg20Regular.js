@@ -16,4 +16,4 @@ export var foodChickenLeg20Regular = [
       }
     ]
   ]
-]
+];

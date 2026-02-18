@@ -90,4 +90,4 @@ export var neobreadWink = [
       ]
     ]
   ]
-]
+];

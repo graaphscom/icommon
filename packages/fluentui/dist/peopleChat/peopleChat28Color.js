@@ -308,4 +308,4 @@ export var peopleChat28Color = [
       ]
     ]
   ]
-]
+];

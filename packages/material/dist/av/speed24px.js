@@ -21,4 +21,4 @@ export var speed24px = [
       }
     ]
   ]
-]
+];

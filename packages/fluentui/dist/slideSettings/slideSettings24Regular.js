@@ -16,4 +16,4 @@ export var slideSettings24Regular = [
       }
     ]
   ]
-]
+];

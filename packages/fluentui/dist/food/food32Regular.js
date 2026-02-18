@@ -16,4 +16,4 @@ export var food32Regular = [
       }
     ]
   ]
-]
+];

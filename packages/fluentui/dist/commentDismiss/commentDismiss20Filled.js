@@ -16,4 +16,4 @@ export var commentDismiss20Filled = [
       }
     ]
   ]
-]
+];

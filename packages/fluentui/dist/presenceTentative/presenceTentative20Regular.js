@@ -16,4 +16,4 @@ export var presenceTentative20Regular = [
       }
     ]
   ]
-]
+];

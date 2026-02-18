@@ -318,4 +318,4 @@ export var clockAlarm24Color = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var circleOff16Filled = [
       }
     ]
   ]
-]
+];

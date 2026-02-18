@@ -16,4 +16,4 @@ export var commentMultipleCheckmark20Filled = [
       }
     ]
   ]
-]
+];

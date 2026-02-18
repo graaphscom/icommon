@@ -46,4 +46,4 @@ export var squareTextArrowRepeatAll16Regular = [
       ]
     ]
   ]
-]
+];

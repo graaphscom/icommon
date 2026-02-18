@@ -75,4 +75,4 @@ export var wifiTetheringErrorRound20px = [
       ]
     ]
   ]
-]
+];

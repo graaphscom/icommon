@@ -21,4 +21,4 @@ export var starBorderPurple500Sharp24px = [
       }
     ]
   ]
-]
+];

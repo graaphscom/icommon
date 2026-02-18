@@ -16,4 +16,4 @@ export var layerDiagonalSparkle16Regular = [
       }
     ]
   ]
-]
+];

@@ -22,4 +22,4 @@ export var fontDownload24px = [
       }
     ]
   ]
-]
+];

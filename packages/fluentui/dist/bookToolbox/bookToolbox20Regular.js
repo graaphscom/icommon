@@ -16,4 +16,4 @@ export var bookToolbox20Regular = [
       }
     ]
   ]
-]
+];

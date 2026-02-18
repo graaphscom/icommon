@@ -34,4 +34,4 @@ export var fmdBad24px = [
       ]
     ]
   ]
-]
+];

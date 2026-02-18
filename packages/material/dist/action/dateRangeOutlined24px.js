@@ -21,4 +21,4 @@ export var dateRangeOutlined24px = [
       }
     ]
   ]
-]
+];

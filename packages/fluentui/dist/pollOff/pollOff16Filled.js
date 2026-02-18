@@ -16,4 +16,4 @@ export var pollOff16Filled = [
       }
     ]
   ]
-]
+];

@@ -34,4 +34,4 @@ export var gppGoodRound24px = [
       ]
     ]
   ]
-]
+];

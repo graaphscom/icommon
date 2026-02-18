@@ -30,4 +30,4 @@ export var chatOff20Regular = [
       }
     ]
   ]
-]
+];

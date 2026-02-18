@@ -35,4 +35,4 @@ export var contactEmergency20px = [
       ]
     ]
   ]
-]
+];

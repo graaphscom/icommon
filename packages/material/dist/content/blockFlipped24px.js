@@ -35,4 +35,4 @@ export var blockFlipped24px = [
       ]
     ]
   ]
-]
+];

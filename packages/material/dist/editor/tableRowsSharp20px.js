@@ -25,4 +25,4 @@ export var tableRowsSharp20px = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var reduceCapacityRound24px = [
       }
     ]
   ]
-]
+];

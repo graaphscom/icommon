@@ -13,4 +13,4 @@ export var collapseDiagonal2Line = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var smartButtonSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var borderAll20Regular = [
       }
     ]
   ]
-]
+];

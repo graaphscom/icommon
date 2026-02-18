@@ -16,4 +16,4 @@ export var databaseStack16Filled = [
       }
     ]
   ]
-]
+];

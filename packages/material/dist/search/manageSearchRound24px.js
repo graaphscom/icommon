@@ -34,4 +34,4 @@ export var manageSearchRound24px = [
       ]
     ]
   ]
-]
+];

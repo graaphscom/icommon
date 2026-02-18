@@ -170,4 +170,4 @@ export var qrCodeSharp20px = [
       ]
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var gifBoxTwotone20px = [
       }
     ]
   ]
-]
+];

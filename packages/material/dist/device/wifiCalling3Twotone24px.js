@@ -80,4 +80,4 @@ export var wifiCalling3Twotone24px = [
       ]
     ]
   ]
-]
+];

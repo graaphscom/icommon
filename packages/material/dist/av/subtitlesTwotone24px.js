@@ -28,4 +28,4 @@ export var subtitlesTwotone24px = [
       }
     ]
   ]
-]
+];

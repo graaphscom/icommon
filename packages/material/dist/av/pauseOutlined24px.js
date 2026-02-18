@@ -21,4 +21,4 @@ export var pauseOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var videogameAsset24px = [
       }
     ]
   ]
-]
+];

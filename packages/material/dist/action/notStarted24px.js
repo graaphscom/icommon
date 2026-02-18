@@ -29,4 +29,4 @@ export var notStarted24px = [
       ]
     ]
   ]
-]
+];

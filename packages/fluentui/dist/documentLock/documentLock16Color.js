@@ -281,4 +281,4 @@ export var documentLock16Color = [
       ]
     ]
   ]
-]
+];

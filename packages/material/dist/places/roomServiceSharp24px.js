@@ -21,4 +21,4 @@ export var roomServiceSharp24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var syncRound24px = [
       }
     ]
   ]
-]
+];

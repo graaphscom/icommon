@@ -16,4 +16,4 @@ export var contractDownLeft16Filled = [
       }
     ]
   ]
-]
+];

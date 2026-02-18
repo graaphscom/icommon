@@ -43,4 +43,4 @@ export var sentimentNeutral24px = [
       }
     ]
   ]
-]
+];

@@ -103,4 +103,4 @@ export var hvacRound24px = [
       ]
     ]
   ]
-]
+];

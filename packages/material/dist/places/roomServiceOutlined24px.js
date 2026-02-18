@@ -21,4 +21,4 @@ export var roomServiceOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var xboxController28Filled = [
       }
     ]
   ]
-]
+];

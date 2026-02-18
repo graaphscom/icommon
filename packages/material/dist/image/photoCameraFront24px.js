@@ -21,4 +21,4 @@ export var photoCameraFront24px = [
       }
     ]
   ]
-]
+];

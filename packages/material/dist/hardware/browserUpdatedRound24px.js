@@ -24,4 +24,4 @@ export var browserUpdatedRound24px = [
       }
     ]
   ]
-]
+];

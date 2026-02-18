@@ -16,4 +16,4 @@ export var oval24Regular = [
       }
     ]
   ]
-]
+];

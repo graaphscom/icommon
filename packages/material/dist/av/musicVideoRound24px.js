@@ -41,4 +41,4 @@ export var musicVideoRound24px = [
       ]
     ]
   ]
-]
+];

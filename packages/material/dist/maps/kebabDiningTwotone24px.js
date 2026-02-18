@@ -30,4 +30,4 @@ export var kebabDiningTwotone24px = [
       }
     ]
   ]
-]
+];

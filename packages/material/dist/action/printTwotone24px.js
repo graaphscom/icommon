@@ -43,4 +43,4 @@ export var printTwotone24px = [
       }
     ]
   ]
-]
+];

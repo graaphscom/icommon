@@ -59,4 +59,4 @@ export var quickreplyRound20px = [
       ]
     ]
   ]
-]
+];

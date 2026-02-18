@@ -21,4 +21,4 @@ export var vpnLock24px = [
       }
     ]
   ]
-]
+];

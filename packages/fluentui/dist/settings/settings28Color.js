@@ -48,4 +48,4 @@ export var settings28Color = [
       ]
     ]
   ]
-]
+];

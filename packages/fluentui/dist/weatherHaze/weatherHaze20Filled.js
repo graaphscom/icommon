@@ -16,4 +16,4 @@ export var weatherHaze20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var wifiLock24Filled = [
       }
     ]
   ]
-]
+];

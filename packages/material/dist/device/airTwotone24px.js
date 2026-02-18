@@ -40,4 +40,4 @@ export var airTwotone24px = [
       ]
     ]
   ]
-]
+];

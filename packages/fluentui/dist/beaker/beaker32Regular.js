@@ -16,4 +16,4 @@ export var beaker32Regular = [
       }
     ]
   ]
-]
+];

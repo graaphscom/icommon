@@ -23,4 +23,4 @@ export var femaleTwotone20px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var sunnySnowing24px = [
       ]
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var addLocationOutlined24px = [
       ]
     ]
   ]
-]
+];

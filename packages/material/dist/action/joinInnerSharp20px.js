@@ -53,4 +53,4 @@ export var joinInnerSharp20px = [
       ]
     ]
   ]
-]
+];

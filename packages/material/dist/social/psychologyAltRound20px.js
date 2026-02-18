@@ -35,4 +35,4 @@ export var psychologyAltRound20px = [
       ]
     ]
   ]
-]
+];

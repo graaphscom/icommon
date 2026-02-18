@@ -16,4 +16,4 @@ export var calendarShield24Regular = [
       }
     ]
   ]
-]
+];

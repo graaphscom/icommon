@@ -23,4 +23,4 @@ export var eastRound24px = [
       }
     ]
   ]
-]
+];

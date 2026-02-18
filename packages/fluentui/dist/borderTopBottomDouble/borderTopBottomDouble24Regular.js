@@ -16,4 +16,4 @@ export var borderTopBottomDouble24Regular = [
       }
     ]
   ]
-]
+];

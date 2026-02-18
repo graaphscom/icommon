@@ -16,4 +16,4 @@ export var documentMultipleProhibited24Regular = [
       }
     ]
   ]
-]
+];

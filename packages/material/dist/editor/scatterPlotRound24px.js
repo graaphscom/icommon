@@ -39,4 +39,4 @@ export var scatterPlotRound24px = [
       }
     ]
   ]
-]
+];

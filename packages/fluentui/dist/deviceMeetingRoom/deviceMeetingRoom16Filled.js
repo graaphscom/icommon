@@ -16,4 +16,4 @@ export var deviceMeetingRoom16Filled = [
       }
     ]
   ]
-]
+];

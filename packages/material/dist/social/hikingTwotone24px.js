@@ -23,4 +23,4 @@ export var hikingTwotone24px = [
       }
     ]
   ]
-]
+];

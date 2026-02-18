@@ -35,4 +35,4 @@ export var headphonesSharp24px = [
       ]
     ]
   ]
-]
+];

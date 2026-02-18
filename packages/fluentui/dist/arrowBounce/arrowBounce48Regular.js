@@ -16,4 +16,4 @@ export var arrowBounce48Regular = [
       }
     ]
   ]
-]
+];

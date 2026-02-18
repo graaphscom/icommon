@@ -21,4 +21,4 @@ export var formatIndentDecrease24px = [
       }
     ]
   ]
-]
+];

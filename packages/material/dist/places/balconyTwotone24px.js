@@ -30,4 +30,4 @@ export var balconyTwotone24px = [
       }
     ]
   ]
-]
+];

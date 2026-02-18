@@ -74,4 +74,4 @@ export var celebrationTwotone20px = [
       ]
     ]
   ]
-]
+];

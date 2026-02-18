@@ -21,4 +21,4 @@ export var looks524px = [
       }
     ]
   ]
-]
+];

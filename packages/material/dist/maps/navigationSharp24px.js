@@ -21,4 +21,4 @@ export var navigationSharp24px = [
       }
     ]
   ]
-]
+];

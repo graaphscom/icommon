@@ -55,4 +55,4 @@ export var keyOffTwotone24px = [
       ]
     ]
   ]
-]
+];

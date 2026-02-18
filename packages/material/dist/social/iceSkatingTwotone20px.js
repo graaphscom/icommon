@@ -30,4 +30,4 @@ export var iceSkatingTwotone20px = [
       }
     ]
   ]
-]
+];

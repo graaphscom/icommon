@@ -16,4 +16,4 @@ export var serverMultiple20Filled = [
       }
     ]
   ]
-]
+];

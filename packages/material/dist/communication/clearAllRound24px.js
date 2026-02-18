@@ -21,4 +21,4 @@ export var clearAllRound24px = [
       }
     ]
   ]
-]
+];

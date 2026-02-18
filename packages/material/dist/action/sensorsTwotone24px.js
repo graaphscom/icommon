@@ -23,4 +23,4 @@ export var sensorsTwotone24px = [
       }
     ]
   ]
-]
+];

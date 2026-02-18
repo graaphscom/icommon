@@ -16,4 +16,4 @@ export var tagMultiple20Regular = [
       }
     ]
   ]
-]
+];

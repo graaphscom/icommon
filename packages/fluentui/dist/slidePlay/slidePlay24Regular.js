@@ -16,4 +16,4 @@ export var slidePlay24Regular = [
       }
     ]
   ]
-]
+];

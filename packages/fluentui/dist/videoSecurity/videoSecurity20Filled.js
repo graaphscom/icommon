@@ -16,4 +16,4 @@ export var videoSecurity20Filled = [
       }
     ]
   ]
-]
+];

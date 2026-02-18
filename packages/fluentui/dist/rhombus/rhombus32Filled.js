@@ -16,4 +16,4 @@ export var rhombus32Filled = [
       }
     ]
   ]
-]
+];

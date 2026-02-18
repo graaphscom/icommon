@@ -21,4 +21,4 @@ export var ballotSharp24px = [
       }
     ]
   ]
-]
+];

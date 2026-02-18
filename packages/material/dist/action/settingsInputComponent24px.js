@@ -21,4 +21,4 @@ export var settingsInputComponent24px = [
       }
     ]
   ]
-]
+];

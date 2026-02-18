@@ -16,4 +16,4 @@ export var tableColumnTopBottomArrowRepeatAll28Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var checkmark48Filled = [
       }
     ]
   ]
-]
+];

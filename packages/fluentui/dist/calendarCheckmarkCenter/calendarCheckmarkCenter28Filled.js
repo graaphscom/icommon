@@ -16,4 +16,4 @@ export var calendarCheckmarkCenter28Filled = [
       }
     ]
   ]
-]
+];

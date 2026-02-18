@@ -53,4 +53,4 @@ export var personAddAlt20px = [
       ]
     ]
   ]
-]
+];

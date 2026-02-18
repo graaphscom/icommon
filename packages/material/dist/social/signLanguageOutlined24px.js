@@ -35,4 +35,4 @@ export var signLanguageOutlined24px = [
       ]
     ]
   ]
-]
+];

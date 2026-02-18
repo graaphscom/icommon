@@ -48,4 +48,4 @@ export var dataArrayOutlined20px = [
       ]
     ]
   ]
-]
+];

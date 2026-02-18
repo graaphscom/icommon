@@ -16,4 +16,4 @@ export var callForward48Filled = [
       }
     ]
   ]
-]
+];

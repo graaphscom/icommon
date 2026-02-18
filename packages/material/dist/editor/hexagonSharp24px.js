@@ -35,4 +35,4 @@ export var hexagonSharp24px = [
       ]
     ]
   ]
-]
+];

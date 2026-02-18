@@ -16,4 +16,4 @@ export var slideLayout20Filled = [
       }
     ]
   ]
-]
+];

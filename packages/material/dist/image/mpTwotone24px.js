@@ -70,4 +70,4 @@ export var mpTwotone24px = [
       ]
     ]
   ]
-]
+];

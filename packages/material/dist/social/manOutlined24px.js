@@ -49,4 +49,4 @@ export var manOutlined24px = [
       ]
     ]
   ]
-]
+];

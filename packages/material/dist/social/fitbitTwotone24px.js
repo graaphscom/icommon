@@ -23,4 +23,4 @@ export var fitbitTwotone24px = [
       }
     ]
   ]
-]
+];

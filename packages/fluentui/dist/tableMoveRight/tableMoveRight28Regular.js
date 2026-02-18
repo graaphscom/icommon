@@ -16,4 +16,4 @@ export var tableMoveRight28Regular = [
       }
     ]
   ]
-]
+];

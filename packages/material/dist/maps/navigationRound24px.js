@@ -21,4 +21,4 @@ export var navigationRound24px = [
       }
     ]
   ]
-]
+];

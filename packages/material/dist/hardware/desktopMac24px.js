@@ -35,4 +35,4 @@ export var desktopMac24px = [
       ]
     ]
   ]
-]
+];

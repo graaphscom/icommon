@@ -16,4 +16,4 @@ export var pulseSquare24Filled = [
       }
     ]
   ]
-]
+];

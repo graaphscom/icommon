@@ -16,4 +16,4 @@ export var history32Light = [
       }
     ]
   ]
-]
+];

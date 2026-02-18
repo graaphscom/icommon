@@ -55,4 +55,4 @@ export var paidTwotone24px = [
       ]
     ]
   ]
-]
+];

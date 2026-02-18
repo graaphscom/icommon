@@ -16,4 +16,4 @@ export var buildingBankToolbox24Regular = [
       }
     ]
   ]
-]
+];

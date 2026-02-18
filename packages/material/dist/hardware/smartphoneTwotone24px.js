@@ -28,4 +28,4 @@ export var smartphoneTwotone24px = [
       }
     ]
   ]
-]
+];

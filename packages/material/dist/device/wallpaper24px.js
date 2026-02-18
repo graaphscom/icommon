@@ -21,4 +21,4 @@ export var wallpaper24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentSquare48Filled = [
       }
     ]
   ]
-]
+];

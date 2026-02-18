@@ -29,4 +29,4 @@ export var notAccessible24px = [
       ]
     ]
   ]
-]
+];

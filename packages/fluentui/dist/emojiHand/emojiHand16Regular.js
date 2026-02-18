@@ -16,4 +16,4 @@ export var emojiHand16Regular = [
       }
     ]
   ]
-]
+];

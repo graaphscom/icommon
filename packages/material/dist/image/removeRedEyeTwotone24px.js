@@ -28,4 +28,4 @@ export var removeRedEyeTwotone24px = [
       }
     ]
   ]
-]
+];

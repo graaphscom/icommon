@@ -52,4 +52,4 @@ export var offlineShareOutlined24px = [
       ]
     ]
   ]
-]
+];

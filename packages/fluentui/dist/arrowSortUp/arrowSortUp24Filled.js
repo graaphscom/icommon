@@ -16,4 +16,4 @@ export var arrowSortUp24Filled = [
       }
     ]
   ]
-]
+];

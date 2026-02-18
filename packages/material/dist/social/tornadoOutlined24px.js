@@ -35,4 +35,4 @@ export var tornadoOutlined24px = [
       ]
     ]
   ]
-]
+];

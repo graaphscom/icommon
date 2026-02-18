@@ -16,4 +16,4 @@ export var eraserTool24Filled = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var babyChangingStation24px = [
       ]
     ]
   ]
-]
+];

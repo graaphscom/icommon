@@ -35,4 +35,4 @@ export var sportsGymnasticsOutlined24px = [
       ]
     ]
   ]
-]
+];

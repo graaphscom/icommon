@@ -16,4 +16,4 @@ export var open12Regular = [
       }
     ]
   ]
-]
+];

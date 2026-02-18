@@ -16,4 +16,4 @@ export var mailCopy20Regular = [
       }
     ]
   ]
-]
+];

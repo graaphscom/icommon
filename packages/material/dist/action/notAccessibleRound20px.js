@@ -29,4 +29,4 @@ export var notAccessibleRound20px = [
       ]
     ]
   ]
-]
+];

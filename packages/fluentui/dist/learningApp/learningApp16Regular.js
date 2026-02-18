@@ -16,4 +16,4 @@ export var learningApp16Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var portUsbA24Filled = [
       }
     ]
   ]
-]
+];

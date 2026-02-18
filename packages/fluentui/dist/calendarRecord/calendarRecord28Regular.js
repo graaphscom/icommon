@@ -16,4 +16,4 @@ export var calendarRecord28Regular = [
       }
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var insertEmoticonRound24px = [
       }
     ]
   ]
-]
+];

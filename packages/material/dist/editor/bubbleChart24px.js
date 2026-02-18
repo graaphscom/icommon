@@ -39,4 +39,4 @@ export var bubbleChart24px = [
       }
     ]
   ]
-]
+];

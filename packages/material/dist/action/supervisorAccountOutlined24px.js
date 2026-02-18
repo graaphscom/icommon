@@ -21,4 +21,4 @@ export var supervisorAccountOutlined24px = [
       }
     ]
   ]
-]
+];

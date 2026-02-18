@@ -16,4 +16,4 @@ export var mailCheckmark16Regular = [
       }
     ]
   ]
-]
+];

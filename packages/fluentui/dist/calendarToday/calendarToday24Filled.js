@@ -16,4 +16,4 @@ export var calendarToday24Filled = [
       }
     ]
   ]
-]
+];

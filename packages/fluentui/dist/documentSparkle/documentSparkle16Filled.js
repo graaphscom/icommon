@@ -16,4 +16,4 @@ export var documentSparkle16Filled = [
       }
     ]
   ]
-]
+];

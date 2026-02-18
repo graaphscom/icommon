@@ -21,4 +21,4 @@ export var colorLensSharp24px = [
       }
     ]
   ]
-]
+];

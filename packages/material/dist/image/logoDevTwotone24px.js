@@ -47,4 +47,4 @@ export var logoDevTwotone24px = [
       ]
     ]
   ]
-]
+];

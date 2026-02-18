@@ -16,4 +16,4 @@ export var searchSparkle28Regular = [
       }
     ]
   ]
-]
+];

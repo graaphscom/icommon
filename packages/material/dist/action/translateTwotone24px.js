@@ -21,4 +21,4 @@ export var translateTwotone24px = [
       }
     ]
   ]
-]
+];

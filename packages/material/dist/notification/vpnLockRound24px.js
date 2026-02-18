@@ -35,4 +35,4 @@ export var vpnLockRound24px = [
       ]
     ]
   ]
-]
+];

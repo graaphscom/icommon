@@ -16,4 +16,4 @@ export var arrowTrendingCheckmark20Filled = [
       }
     ]
   ]
-]
+];

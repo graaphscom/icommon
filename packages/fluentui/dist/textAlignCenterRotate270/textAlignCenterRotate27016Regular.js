@@ -16,4 +16,4 @@ export var textAlignCenterRotate27016Regular = [
       }
     ]
   ]
-]
+];

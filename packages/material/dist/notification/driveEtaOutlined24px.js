@@ -37,4 +37,4 @@ export var driveEtaOutlined24px = [
       }
     ]
   ]
-]
+];

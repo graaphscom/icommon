@@ -189,4 +189,4 @@ export var globeShield24Color = [
       ]
     ]
   ]
-]
+];

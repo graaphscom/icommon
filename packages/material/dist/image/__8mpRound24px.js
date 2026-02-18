@@ -68,4 +68,4 @@ export var __8mpRound24px = [
       ]
     ]
   ]
-]
+];

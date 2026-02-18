@@ -35,4 +35,4 @@ export var phpTwotone24px = [
       ]
     ]
   ]
-]
+];

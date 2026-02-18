@@ -29,4 +29,4 @@ export var flutterDashRound24px = [
       ]
     ]
   ]
-]
+];

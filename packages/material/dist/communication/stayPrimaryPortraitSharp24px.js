@@ -21,4 +21,4 @@ export var stayPrimaryPortraitSharp24px = [
       }
     ]
   ]
-]
+];

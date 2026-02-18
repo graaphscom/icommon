@@ -96,4 +96,4 @@ export var bakeryDiningSharp24px = [
       ]
     ]
   ]
-]
+];

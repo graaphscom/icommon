@@ -16,4 +16,4 @@ export var arrowTurnUpLeft20Filled = [
       }
     ]
   ]
-]
+];

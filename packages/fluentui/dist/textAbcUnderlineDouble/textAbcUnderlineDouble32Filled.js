@@ -16,4 +16,4 @@ export var textAbcUnderlineDouble32Filled = [
       }
     ]
   ]
-]
+];

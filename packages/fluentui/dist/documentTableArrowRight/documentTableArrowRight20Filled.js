@@ -16,4 +16,4 @@ export var documentTableArrowRight20Filled = [
       }
     ]
   ]
-]
+];

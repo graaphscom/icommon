@@ -16,4 +16,4 @@ export var textIndentIncreaseRtl9024Regular = [
       }
     ]
   ]
-]
+];

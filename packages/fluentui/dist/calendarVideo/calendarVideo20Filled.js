@@ -16,4 +16,4 @@ export var calendarVideo20Filled = [
       }
     ]
   ]
-]
+];

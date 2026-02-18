@@ -21,4 +21,4 @@ export var bookRound24px = [
       }
     ]
   ]
-]
+];

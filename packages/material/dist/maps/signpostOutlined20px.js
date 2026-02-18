@@ -36,4 +36,4 @@ export var signpostOutlined20px = [
       ]
     ]
   ]
-]
+];

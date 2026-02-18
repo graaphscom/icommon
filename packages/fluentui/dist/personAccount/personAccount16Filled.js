@@ -16,4 +16,4 @@ export var personAccount16Filled = [
       }
     ]
   ]
-]
+];

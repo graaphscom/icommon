@@ -13,4 +13,4 @@ export var mapPin2Fill = [
       }
     ]
   ]
-]
+];

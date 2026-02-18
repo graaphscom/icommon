@@ -48,4 +48,4 @@ export var confirmationNumber24px = [
       ]
     ]
   ]
-]
+];

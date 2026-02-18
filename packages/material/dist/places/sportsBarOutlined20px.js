@@ -23,4 +23,4 @@ export var sportsBarOutlined20px = [
       }
     ]
   ]
-]
+];

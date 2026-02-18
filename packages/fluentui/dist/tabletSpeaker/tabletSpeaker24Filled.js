@@ -37,4 +37,4 @@ export var tabletSpeaker24Filled = [
       }
     ]
   ]
-]
+];

@@ -30,4 +30,4 @@ export var villaTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var straightenRound24px = [
       }
     ]
   ]
-]
+];

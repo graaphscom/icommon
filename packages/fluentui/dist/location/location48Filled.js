@@ -16,4 +16,4 @@ export var location48Filled = [
       }
     ]
   ]
-]
+];

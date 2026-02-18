@@ -40,4 +40,4 @@ export var signalCellularNodataOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var settingsBluetooth24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var compare24px = [
       }
     ]
   ]
-]
+];

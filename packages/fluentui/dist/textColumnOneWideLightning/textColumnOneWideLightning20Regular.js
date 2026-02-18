@@ -16,4 +16,4 @@ export var textColumnOneWideLightning20Regular = [
       }
     ]
   ]
-]
+];

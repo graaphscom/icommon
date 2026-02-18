@@ -21,4 +21,4 @@ export var store24px = [
       }
     ]
   ]
-]
+];

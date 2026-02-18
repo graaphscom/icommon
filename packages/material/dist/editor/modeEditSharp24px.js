@@ -41,4 +41,4 @@ export var modeEditSharp24px = [
       ]
     ]
   ]
-]
+];

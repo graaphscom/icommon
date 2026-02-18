@@ -16,4 +16,4 @@ export var searchInfo24Regular = [
       }
     ]
   ]
-]
+];

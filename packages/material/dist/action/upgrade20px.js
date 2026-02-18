@@ -29,4 +29,4 @@ export var upgrade20px = [
       ]
     ]
   ]
-]
+];

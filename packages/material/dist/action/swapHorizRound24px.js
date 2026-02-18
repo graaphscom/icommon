@@ -21,4 +21,4 @@ export var swapHorizRound24px = [
       }
     ]
   ]
-]
+];

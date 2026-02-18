@@ -21,4 +21,4 @@ export var viewDay24px = [
       }
     ]
   ]
-]
+];

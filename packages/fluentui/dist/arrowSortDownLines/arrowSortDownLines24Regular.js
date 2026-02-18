@@ -16,4 +16,4 @@ export var arrowSortDownLines24Regular = [
       }
     ]
   ]
-]
+];

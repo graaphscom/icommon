@@ -16,4 +16,4 @@ export var question48Filled = [
       }
     ]
   ]
-]
+];

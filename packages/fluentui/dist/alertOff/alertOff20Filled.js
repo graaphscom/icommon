@@ -16,4 +16,4 @@ export var alertOff20Filled = [
       }
     ]
   ]
-]
+];

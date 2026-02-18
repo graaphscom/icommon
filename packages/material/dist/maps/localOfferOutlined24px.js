@@ -29,4 +29,4 @@ export var localOfferOutlined24px = [
       }
     ]
   ]
-]
+];

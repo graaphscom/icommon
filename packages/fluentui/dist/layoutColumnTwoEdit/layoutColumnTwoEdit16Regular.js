@@ -16,4 +16,4 @@ export var layoutColumnTwoEdit16Regular = [
       }
     ]
   ]
-]
+];

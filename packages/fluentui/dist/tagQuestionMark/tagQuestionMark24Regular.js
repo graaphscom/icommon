@@ -16,4 +16,4 @@ export var tagQuestionMark24Regular = [
       }
     ]
   ]
-]
+];

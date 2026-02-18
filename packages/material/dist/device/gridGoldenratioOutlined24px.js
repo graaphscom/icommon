@@ -40,4 +40,4 @@ export var gridGoldenratioOutlined24px = [
       ]
     ]
   ]
-]
+];

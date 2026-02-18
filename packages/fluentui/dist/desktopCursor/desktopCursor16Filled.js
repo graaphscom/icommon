@@ -16,4 +16,4 @@ export var desktopCursor16Filled = [
       }
     ]
   ]
-]
+];

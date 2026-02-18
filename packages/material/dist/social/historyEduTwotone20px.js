@@ -75,4 +75,4 @@ export var historyEduTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -53,4 +53,4 @@ export var petsSharp24px = [
       }
     ]
   ]
-]
+];

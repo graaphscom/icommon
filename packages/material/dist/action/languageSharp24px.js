@@ -21,4 +21,4 @@ export var languageSharp24px = [
       }
     ]
   ]
-]
+];

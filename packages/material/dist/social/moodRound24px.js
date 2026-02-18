@@ -21,4 +21,4 @@ export var moodRound24px = [
       }
     ]
   ]
-]
+];

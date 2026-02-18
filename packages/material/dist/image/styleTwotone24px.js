@@ -42,4 +42,4 @@ export var styleTwotone24px = [
       }
     ]
   ]
-]
+];

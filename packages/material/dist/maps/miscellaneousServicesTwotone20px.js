@@ -47,4 +47,4 @@ export var miscellaneousServicesTwotone20px = [
       ]
     ]
   ]
-]
+];

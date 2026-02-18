@@ -217,4 +217,4 @@ export var face524px = [
       ]
     ]
   ]
-]
+];

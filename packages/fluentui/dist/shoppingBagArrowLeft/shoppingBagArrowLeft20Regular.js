@@ -16,4 +16,4 @@ export var shoppingBagArrowLeft20Regular = [
       }
     ]
   ]
-]
+];

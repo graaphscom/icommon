@@ -16,4 +16,4 @@ export var calendarNote16Regular = [
       }
     ]
   ]
-]
+];

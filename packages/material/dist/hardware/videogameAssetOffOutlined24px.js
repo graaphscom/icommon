@@ -24,4 +24,4 @@ export var videogameAssetOffOutlined24px = [
       }
     ]
   ]
-]
+];

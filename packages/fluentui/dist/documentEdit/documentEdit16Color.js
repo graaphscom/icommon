@@ -286,4 +286,4 @@ export var documentEdit16Color = [
       ]
     ]
   ]
-]
+];

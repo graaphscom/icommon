@@ -34,4 +34,4 @@ export var gppBad24px = [
       ]
     ]
   ]
-]
+];

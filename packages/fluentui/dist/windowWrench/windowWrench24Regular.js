@@ -16,4 +16,4 @@ export var windowWrench24Regular = [
       }
     ]
   ]
-]
+];

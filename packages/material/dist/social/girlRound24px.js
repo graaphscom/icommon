@@ -41,4 +41,4 @@ export var girlRound24px = [
       ]
     ]
   ]
-]
+];

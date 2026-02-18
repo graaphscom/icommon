@@ -29,4 +29,4 @@ export var rssFeedTwotone24px = [
       }
     ]
   ]
-]
+];

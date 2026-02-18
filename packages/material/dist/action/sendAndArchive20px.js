@@ -21,4 +21,4 @@ export var sendAndArchive20px = [
       }
     ]
   ]
-]
+];

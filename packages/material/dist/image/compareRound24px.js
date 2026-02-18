@@ -21,4 +21,4 @@ export var compareRound24px = [
       }
     ]
   ]
-]
+];

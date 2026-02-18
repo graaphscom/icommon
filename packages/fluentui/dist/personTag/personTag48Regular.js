@@ -16,4 +16,4 @@ export var personTag48Regular = [
       }
     ]
   ]
-]
+];

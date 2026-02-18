@@ -42,4 +42,4 @@ export var brunchDiningSharp24px = [
       ]
     ]
   ]
-]
+];

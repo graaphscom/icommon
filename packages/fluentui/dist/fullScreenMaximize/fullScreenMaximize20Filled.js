@@ -16,4 +16,4 @@ export var fullScreenMaximize20Filled = [
       }
     ]
   ]
-]
+];

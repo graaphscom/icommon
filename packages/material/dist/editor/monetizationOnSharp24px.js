@@ -14,4 +14,4 @@ export var monetizationOnSharp24px = [
       }
     ]
   ]
-]
+];

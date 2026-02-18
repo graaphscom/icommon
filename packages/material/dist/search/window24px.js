@@ -41,4 +41,4 @@ export var window24px = [
       ]
     ]
   ]
-]
+];

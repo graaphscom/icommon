@@ -40,4 +40,4 @@ export var air24px = [
       ]
     ]
   ]
-]
+];

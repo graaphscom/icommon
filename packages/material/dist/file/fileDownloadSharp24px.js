@@ -35,4 +35,4 @@ export var fileDownloadSharp24px = [
       ]
     ]
   ]
-]
+];

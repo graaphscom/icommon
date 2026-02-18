@@ -29,4 +29,4 @@ export var checklistRound20px = [
       ]
     ]
   ]
-]
+];

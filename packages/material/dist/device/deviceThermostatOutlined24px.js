@@ -40,4 +40,4 @@ export var deviceThermostatOutlined24px = [
       ]
     ]
   ]
-]
+];

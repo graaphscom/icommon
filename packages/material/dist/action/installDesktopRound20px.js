@@ -47,4 +47,4 @@ export var installDesktopRound20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var windowShield24Filled = [
       }
     ]
   ]
-]
+];

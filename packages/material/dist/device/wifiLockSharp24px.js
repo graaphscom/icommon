@@ -46,4 +46,4 @@ export var wifiLockSharp24px = [
       ]
     ]
   ]
-]
+];

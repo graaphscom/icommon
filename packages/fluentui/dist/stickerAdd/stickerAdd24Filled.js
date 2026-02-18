@@ -16,4 +16,4 @@ export var stickerAdd24Filled = [
       }
     ]
   ]
-]
+];

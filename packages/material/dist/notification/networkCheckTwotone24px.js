@@ -21,4 +21,4 @@ export var networkCheckTwotone24px = [
       }
     ]
   ]
-]
+];

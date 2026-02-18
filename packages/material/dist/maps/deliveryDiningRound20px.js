@@ -54,4 +54,4 @@ export var deliveryDiningRound20px = [
       ]
     ]
   ]
-]
+];

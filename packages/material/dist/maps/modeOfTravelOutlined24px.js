@@ -23,4 +23,4 @@ export var modeOfTravelOutlined24px = [
       }
     ]
   ]
-]
+];

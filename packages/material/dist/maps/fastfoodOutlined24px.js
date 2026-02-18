@@ -21,4 +21,4 @@ export var fastfoodOutlined24px = [
       }
     ]
   ]
-]
+];

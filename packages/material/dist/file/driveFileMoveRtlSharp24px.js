@@ -23,4 +23,4 @@ export var driveFileMoveRtlSharp24px = [
       }
     ]
   ]
-]
+];

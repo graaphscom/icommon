@@ -21,4 +21,4 @@ export var tabUnselectedTwotone24px = [
       }
     ]
   ]
-]
+];

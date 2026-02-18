@@ -16,4 +16,4 @@ export var multiplier1x20Filled = [
       }
     ]
   ]
-]
+];

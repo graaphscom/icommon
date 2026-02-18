@@ -16,4 +16,4 @@ export var calendarTemplate32Filled = [
       }
     ]
   ]
-]
+];

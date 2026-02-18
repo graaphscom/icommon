@@ -16,4 +16,4 @@ export var textboxAlignBottomCenter24Filled = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var ssidChart24px = [
       ]
     ]
   ]
-]
+];

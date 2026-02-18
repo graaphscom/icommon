@@ -59,4 +59,4 @@ export var volunteerActivismOutlined24px = [
       ]
     ]
   ]
-]
+];

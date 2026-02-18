@@ -21,4 +21,4 @@ export var youtubeSearchedForTwotone24px = [
       }
     ]
   ]
-]
+];

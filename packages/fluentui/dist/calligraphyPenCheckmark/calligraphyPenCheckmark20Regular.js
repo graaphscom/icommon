@@ -23,4 +23,4 @@ export var calligraphyPenCheckmark20Regular = [
       }
     ]
   ]
-]
+];

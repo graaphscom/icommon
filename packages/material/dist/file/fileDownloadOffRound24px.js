@@ -23,4 +23,4 @@ export var fileDownloadOffRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var eyeTracking20Filled = [
       }
     ]
   ]
-]
+];

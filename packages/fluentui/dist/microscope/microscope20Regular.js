@@ -16,4 +16,4 @@ export var microscope20Regular = [
       }
     ]
   ]
-]
+];

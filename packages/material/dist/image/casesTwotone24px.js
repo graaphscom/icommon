@@ -57,4 +57,4 @@ export var casesTwotone24px = [
       ]
     ]
   ]
-]
+];

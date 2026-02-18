@@ -47,4 +47,4 @@ export var earbudsBatterySharp24px = [
       ]
     ]
   ]
-]
+];

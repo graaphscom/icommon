@@ -41,4 +41,4 @@ export var flagCircleSharp24px = [
       ]
     ]
   ]
-]
+];

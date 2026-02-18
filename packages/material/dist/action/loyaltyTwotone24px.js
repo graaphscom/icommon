@@ -42,4 +42,4 @@ export var loyaltyTwotone24px = [
       }
     ]
   ]
-]
+];

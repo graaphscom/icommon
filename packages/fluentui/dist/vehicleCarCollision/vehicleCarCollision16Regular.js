@@ -16,4 +16,4 @@ export var vehicleCarCollision16Regular = [
       }
     ]
   ]
-]
+];

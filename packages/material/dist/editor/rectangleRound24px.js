@@ -41,4 +41,4 @@ export var rectangleRound24px = [
       ]
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var keyboardControlKeyTwotone24px = [
       ]
     ]
   ]
-]
+];

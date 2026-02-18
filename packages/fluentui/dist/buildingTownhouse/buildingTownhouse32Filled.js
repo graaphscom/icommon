@@ -16,4 +16,4 @@ export var buildingTownhouse32Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var unarchiveSharp24px = [
       }
     ]
   ]
-]
+];

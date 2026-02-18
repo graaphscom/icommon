@@ -16,4 +16,4 @@ export var crownSubtract20Regular = [
       }
     ]
   ]
-]
+];

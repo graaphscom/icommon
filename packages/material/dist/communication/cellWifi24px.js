@@ -23,4 +23,4 @@ export var cellWifi24px = [
       }
     ]
   ]
-]
+];

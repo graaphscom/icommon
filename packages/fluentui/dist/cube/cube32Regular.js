@@ -16,4 +16,4 @@ export var cube32Regular = [
       }
     ]
   ]
-]
+];

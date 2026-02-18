@@ -16,4 +16,4 @@ export var toilet20Regular = [
       }
     ]
   ]
-]
+];

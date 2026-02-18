@@ -16,4 +16,4 @@ export var locationAddUp20Regular = [
       }
     ]
   ]
-]
+];

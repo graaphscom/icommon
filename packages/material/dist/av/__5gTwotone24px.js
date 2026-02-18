@@ -47,4 +47,4 @@ export var __5gTwotone24px = [
       ]
     ]
   ]
-]
+];

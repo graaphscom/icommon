@@ -48,4 +48,4 @@ export var carRentalRound20px = [
       ]
     ]
   ]
-]
+];

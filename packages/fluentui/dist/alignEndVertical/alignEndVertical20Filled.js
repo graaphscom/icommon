@@ -23,4 +23,4 @@ export var alignEndVertical20Filled = [
       }
     ]
   ]
-]
+];

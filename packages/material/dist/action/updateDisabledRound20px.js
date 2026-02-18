@@ -23,4 +23,4 @@ export var updateDisabledRound20px = [
       }
     ]
   ]
-]
+];

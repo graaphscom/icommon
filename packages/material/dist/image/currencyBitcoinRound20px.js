@@ -35,4 +35,4 @@ export var currencyBitcoinRound20px = [
       ]
     ]
   ]
-]
+];

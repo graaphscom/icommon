@@ -55,4 +55,4 @@ export var lockPersonRound24px = [
       ]
     ]
   ]
-]
+];

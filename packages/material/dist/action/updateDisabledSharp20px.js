@@ -23,4 +23,4 @@ export var updateDisabledSharp20px = [
       }
     ]
   ]
-]
+];

@@ -45,4 +45,4 @@ export var calendarMonthTwotone20px = [
       ]
     ]
   ]
-]
+];

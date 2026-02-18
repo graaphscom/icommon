@@ -71,4 +71,4 @@ export var carRentalTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -79,4 +79,4 @@ export var simCardAlertTwotone24px = [
       ]
     ]
   ]
-]
+];

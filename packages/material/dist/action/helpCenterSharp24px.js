@@ -29,4 +29,4 @@ export var helpCenterSharp24px = [
       ]
     ]
   ]
-]
+];

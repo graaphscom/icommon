@@ -28,4 +28,4 @@ export var descriptionTwotone24px = [
       }
     ]
   ]
-]
+];

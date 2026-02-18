@@ -43,4 +43,4 @@ export var uTurnRightRound24px = [
       ]
     ]
   ]
-]
+];

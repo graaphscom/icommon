@@ -34,4 +34,4 @@ export var accessTimeFilledOutlined24px = [
       ]
     ]
   ]
-]
+];

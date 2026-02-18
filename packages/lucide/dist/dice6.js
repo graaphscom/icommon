@@ -60,4 +60,4 @@ export var dice6 = [
       }
     ]
   ]
-]
+];

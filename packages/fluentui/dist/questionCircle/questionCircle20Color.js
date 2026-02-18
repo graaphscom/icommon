@@ -81,4 +81,4 @@ export var questionCircle20Color = [
       ]
     ]
   ]
-]
+];

@@ -54,4 +54,4 @@ export var pixSharp20px = [
       ]
     ]
   ]
-]
+];

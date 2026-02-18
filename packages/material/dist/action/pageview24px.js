@@ -21,4 +21,4 @@ export var pageview24px = [
       }
     ]
   ]
-]
+];

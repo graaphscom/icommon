@@ -16,4 +16,4 @@ export var personMoney24Filled = [
       }
     ]
   ]
-]
+];

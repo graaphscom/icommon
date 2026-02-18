@@ -37,4 +37,4 @@ export var subway24px = [
       }
     ]
   ]
-]
+];

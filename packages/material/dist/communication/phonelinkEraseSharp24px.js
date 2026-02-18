@@ -21,4 +21,4 @@ export var phonelinkEraseSharp24px = [
       }
     ]
   ]
-]
+];

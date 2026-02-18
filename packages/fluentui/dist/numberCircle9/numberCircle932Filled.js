@@ -16,4 +16,4 @@ export var numberCircle932Filled = [
       }
     ]
   ]
-]
+];

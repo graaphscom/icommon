@@ -16,4 +16,4 @@ export var clipboardOff20Filled = [
       }
     ]
   ]
-]
+];

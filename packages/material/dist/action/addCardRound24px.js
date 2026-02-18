@@ -43,4 +43,4 @@ export var addCardRound24px = [
       ]
     ]
   ]
-]
+];

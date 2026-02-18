@@ -16,4 +16,4 @@ export var projectionScreenTextSparkle20Filled = [
       }
     ]
   ]
-]
+];

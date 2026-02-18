@@ -21,4 +21,4 @@ export var fitnessCenterRound24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var presenceAvailable12Filled = [
       }
     ]
   ]
-]
+];

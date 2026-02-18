@@ -53,4 +53,4 @@ export var lockClockOutlined20px = [
       ]
     ]
   ]
-]
+];

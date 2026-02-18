@@ -36,4 +36,4 @@ export var arrowCircleRightOutlined20px = [
       ]
     ]
   ]
-]
+];

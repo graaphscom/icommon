@@ -93,4 +93,4 @@ export var peopleAlt24px = [
       ]
     ]
   ]
-]
+];

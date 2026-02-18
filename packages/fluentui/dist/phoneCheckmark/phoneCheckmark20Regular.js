@@ -16,4 +16,4 @@ export var phoneCheckmark20Regular = [
       }
     ]
   ]
-]
+];

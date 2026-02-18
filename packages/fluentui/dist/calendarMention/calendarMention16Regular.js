@@ -16,4 +16,4 @@ export var calendarMention16Regular = [
       }
     ]
   ]
-]
+];

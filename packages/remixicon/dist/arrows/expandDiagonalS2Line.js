@@ -13,4 +13,4 @@ export var expandDiagonalS2Line = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var textEffectsSparkle20Filled = [
       }
     ]
   ]
-]
+];

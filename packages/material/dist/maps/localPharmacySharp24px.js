@@ -21,4 +21,4 @@ export var localPharmacySharp24px = [
       }
     ]
   ]
-]
+];

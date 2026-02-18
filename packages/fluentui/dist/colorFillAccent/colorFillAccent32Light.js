@@ -16,4 +16,4 @@ export var colorFillAccent32Light = [
       }
     ]
   ]
-]
+];

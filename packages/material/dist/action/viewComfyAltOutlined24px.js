@@ -77,4 +77,4 @@ export var viewComfyAltOutlined24px = [
       ]
     ]
   ]
-]
+];

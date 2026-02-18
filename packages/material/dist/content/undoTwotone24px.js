@@ -21,4 +21,4 @@ export var undoTwotone24px = [
       }
     ]
   ]
-]
+];

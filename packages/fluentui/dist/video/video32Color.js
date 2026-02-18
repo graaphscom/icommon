@@ -174,4 +174,4 @@ export var video32Color = [
       ]
     ]
   ]
-]
+];

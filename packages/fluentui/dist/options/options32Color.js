@@ -287,4 +287,4 @@ export var options32Color = [
       ]
     ]
   ]
-]
+];

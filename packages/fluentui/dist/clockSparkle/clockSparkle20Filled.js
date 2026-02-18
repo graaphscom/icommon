@@ -16,4 +16,4 @@ export var clockSparkle20Filled = [
       }
     ]
   ]
-]
+];

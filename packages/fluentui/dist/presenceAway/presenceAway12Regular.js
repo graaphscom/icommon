@@ -16,4 +16,4 @@ export var presenceAway12Regular = [
       }
     ]
   ]
-]
+];

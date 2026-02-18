@@ -21,4 +21,4 @@ export var speakerSharp24px = [
       }
     ]
   ]
-]
+];

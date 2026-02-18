@@ -16,4 +16,4 @@ export var shareCloseTray24Regular = [
       }
     ]
   ]
-]
+];

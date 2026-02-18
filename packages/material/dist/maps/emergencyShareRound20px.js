@@ -35,4 +35,4 @@ export var emergencyShareRound20px = [
       ]
     ]
   ]
-]
+];

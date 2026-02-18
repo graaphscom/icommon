@@ -16,4 +16,4 @@ export var temperatureDegreeCelsius48Regular = [
       }
     ]
   ]
-]
+];

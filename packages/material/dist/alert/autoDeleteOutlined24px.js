@@ -53,4 +53,4 @@ export var autoDeleteOutlined24px = [
       ]
     ]
   ]
-]
+];

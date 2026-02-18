@@ -21,4 +21,4 @@ export var euroSymbolSharp24px = [
       }
     ]
   ]
-]
+];

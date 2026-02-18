@@ -16,4 +16,4 @@ export var arrowDownExclamation24Filled = [
       }
     ]
   ]
-]
+];

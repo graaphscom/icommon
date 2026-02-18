@@ -21,4 +21,4 @@ export var aspectRatioSharp24px = [
       }
     ]
   ]
-]
+];

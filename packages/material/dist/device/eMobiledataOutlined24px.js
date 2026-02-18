@@ -40,4 +40,4 @@ export var eMobiledataOutlined24px = [
       ]
     ]
   ]
-]
+];

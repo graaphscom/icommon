@@ -16,4 +16,4 @@ export var weatherSnowShowerNight20Regular = [
       }
     ]
   ]
-]
+];

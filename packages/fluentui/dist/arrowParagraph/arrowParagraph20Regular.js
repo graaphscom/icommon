@@ -16,4 +16,4 @@ export var arrowParagraph20Regular = [
       }
     ]
   ]
-]
+];

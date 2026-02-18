@@ -53,4 +53,4 @@ export var architectureRound20px = [
       ]
     ]
   ]
-]
+];

@@ -23,4 +23,4 @@ export var textBaseline20Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var listAltOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var httpsOutlined24px = [
       }
     ]
   ]
-]
+];

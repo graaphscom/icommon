@@ -28,4 +28,4 @@ export var visibilityOffTwotone24px = [
       }
     ]
   ]
-]
+];

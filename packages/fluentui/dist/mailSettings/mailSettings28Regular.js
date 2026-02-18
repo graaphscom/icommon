@@ -16,4 +16,4 @@ export var mailSettings28Regular = [
       }
     ]
   ]
-]
+];

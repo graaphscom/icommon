@@ -58,4 +58,4 @@ export var icecreamTwotone24px = [
       ]
     ]
   ]
-]
+];

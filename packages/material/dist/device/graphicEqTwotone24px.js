@@ -21,4 +21,4 @@ export var graphicEqTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var layoutRowFourFocusCenterTop16Filled = [
       }
     ]
   ]
-]
+];

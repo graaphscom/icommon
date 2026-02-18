@@ -16,4 +16,4 @@ export var presenceOffline16Regular = [
       }
     ]
   ]
-]
+];

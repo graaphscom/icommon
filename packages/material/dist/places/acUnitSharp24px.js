@@ -21,4 +21,4 @@ export var acUnitSharp24px = [
       }
     ]
   ]
-]
+];

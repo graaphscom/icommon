@@ -23,4 +23,4 @@ export var hotelClass20px = [
       }
     ]
   ]
-]
+];

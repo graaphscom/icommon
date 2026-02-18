@@ -16,4 +16,4 @@ export var lineHorizontal2DashesSolid24Regular = [
       }
     ]
   ]
-]
+];

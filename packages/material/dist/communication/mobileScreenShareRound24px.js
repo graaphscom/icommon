@@ -21,4 +21,4 @@ export var mobileScreenShareRound24px = [
       }
     ]
   ]
-]
+];

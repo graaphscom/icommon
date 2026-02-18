@@ -29,4 +29,4 @@ export var snowboardingOutlined20px = [
       ]
     ]
   ]
-]
+];

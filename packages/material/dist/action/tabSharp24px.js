@@ -21,4 +21,4 @@ export var tabSharp24px = [
       }
     ]
   ]
-]
+];

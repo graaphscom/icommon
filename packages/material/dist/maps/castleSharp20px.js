@@ -41,4 +41,4 @@ export var castleSharp20px = [
       ]
     ]
   ]
-]
+];

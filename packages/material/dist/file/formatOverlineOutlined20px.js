@@ -36,4 +36,4 @@ export var formatOverlineOutlined20px = [
       ]
     ]
   ]
-]
+];

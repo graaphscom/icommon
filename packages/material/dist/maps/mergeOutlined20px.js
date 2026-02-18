@@ -36,4 +36,4 @@ export var mergeOutlined20px = [
       ]
     ]
   ]
-]
+];

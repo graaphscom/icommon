@@ -78,4 +78,4 @@ export var hdrEnhancedSelectTwotone24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var laptop24Regular = [
       }
     ]
   ]
-]
+];

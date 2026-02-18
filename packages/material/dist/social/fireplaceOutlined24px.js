@@ -47,4 +47,4 @@ export var fireplaceOutlined24px = [
       ]
     ]
   ]
-]
+];

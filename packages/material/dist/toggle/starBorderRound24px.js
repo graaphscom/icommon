@@ -21,4 +21,4 @@ export var starBorderRound24px = [
       }
     ]
   ]
-]
+];

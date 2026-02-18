@@ -75,4 +75,4 @@ export var transcribeTwotone24px = [
       ]
     ]
   ]
-]
+];

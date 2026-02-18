@@ -16,4 +16,4 @@ export var arrowFitIn20Filled = [
       }
     ]
   ]
-]
+];

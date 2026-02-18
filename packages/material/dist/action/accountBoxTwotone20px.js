@@ -55,4 +55,4 @@ export var accountBoxTwotone20px = [
       ]
     ]
   ]
-]
+];

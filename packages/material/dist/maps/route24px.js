@@ -41,4 +41,4 @@ export var route24px = [
       ]
     ]
   ]
-]
+];

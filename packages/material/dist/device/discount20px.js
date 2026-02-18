@@ -59,4 +59,4 @@ export var discount20px = [
       ]
     ]
   ]
-]
+];

@@ -65,4 +65,4 @@ export var flashlightOnTwotone24px = [
       ]
     ]
   ]
-]
+];

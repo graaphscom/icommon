@@ -16,4 +16,4 @@ export var textBold20Filled = [
       }
     ]
   ]
-]
+];

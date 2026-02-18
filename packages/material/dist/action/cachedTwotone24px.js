@@ -21,4 +21,4 @@ export var cachedTwotone24px = [
       }
     ]
   ]
-]
+];

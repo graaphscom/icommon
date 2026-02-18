@@ -16,4 +16,4 @@ export var projectionScreenDismiss24Regular = [
       }
     ]
   ]
-]
+];

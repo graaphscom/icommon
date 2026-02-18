@@ -23,4 +23,4 @@ export var tableCellEdit24Regular = [
       }
     ]
   ]
-]
+];

@@ -50,4 +50,4 @@ export var laptopTwotone24px = [
       ]
     ]
   ]
-]
+];

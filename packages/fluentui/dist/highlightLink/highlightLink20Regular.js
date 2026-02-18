@@ -16,4 +16,4 @@ export var highlightLink20Regular = [
       }
     ]
   ]
-]
+];

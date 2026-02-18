@@ -16,4 +16,4 @@ export var textDirectionHorizontalLtr24Regular = [
       }
     ]
   ]
-]
+];

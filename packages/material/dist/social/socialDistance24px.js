@@ -23,4 +23,4 @@ export var socialDistance24px = [
       }
     ]
   ]
-]
+];

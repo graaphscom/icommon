@@ -114,4 +114,4 @@ export var lockClosed32Color = [
       ]
     ]
   ]
-]
+];

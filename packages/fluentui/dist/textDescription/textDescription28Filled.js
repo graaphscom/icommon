@@ -16,4 +16,4 @@ export var textDescription28Filled = [
       }
     ]
   ]
-]
+];

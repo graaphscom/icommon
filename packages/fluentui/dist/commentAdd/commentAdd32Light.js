@@ -16,4 +16,4 @@ export var commentAdd32Light = [
       }
     ]
   ]
-]
+];

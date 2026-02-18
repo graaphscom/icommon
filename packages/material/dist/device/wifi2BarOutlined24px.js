@@ -38,4 +38,4 @@ export var wifi2BarOutlined24px = [
       ]
     ]
   ]
-]
+];

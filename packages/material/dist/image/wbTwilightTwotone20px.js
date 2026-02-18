@@ -79,4 +79,4 @@ export var wbTwilightTwotone20px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var settingsVoice24px = [
       }
     ]
   ]
-]
+];

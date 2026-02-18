@@ -49,4 +49,4 @@ export var signalCellularAlt2BarRound24px = [
       ]
     ]
   ]
-]
+];

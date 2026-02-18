@@ -21,4 +21,4 @@ export var faceSharp24px = [
       }
     ]
   ]
-]
+];

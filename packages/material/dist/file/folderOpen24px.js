@@ -21,4 +21,4 @@ export var folderOpen24px = [
       }
     ]
   ]
-]
+];

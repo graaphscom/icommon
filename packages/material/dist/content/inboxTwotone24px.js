@@ -28,4 +28,4 @@ export var inboxTwotone24px = [
       }
     ]
   ]
-]
+];

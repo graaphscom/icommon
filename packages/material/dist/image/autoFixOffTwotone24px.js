@@ -65,4 +65,4 @@ export var autoFixOffTwotone24px = [
       ]
     ]
   ]
-]
+];

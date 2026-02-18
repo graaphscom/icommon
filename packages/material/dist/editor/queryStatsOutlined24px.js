@@ -29,4 +29,4 @@ export var queryStatsOutlined24px = [
       ]
     ]
   ]
-]
+];

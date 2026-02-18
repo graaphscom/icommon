@@ -53,4 +53,4 @@ export var diversity2Sharp24px = [
       ]
     ]
   ]
-]
+];

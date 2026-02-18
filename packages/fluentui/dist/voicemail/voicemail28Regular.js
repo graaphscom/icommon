@@ -16,4 +16,4 @@ export var voicemail28Regular = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var mobileOff24px = [
       }
     ]
   ]
-]
+];

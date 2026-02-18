@@ -29,4 +29,4 @@ export var wysiwygRound24px = [
       ]
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var howToReg24px = [
       ]
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var localBarSharp24px = [
       }
     ]
   ]
-]
+];

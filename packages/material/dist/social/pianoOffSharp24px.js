@@ -23,4 +23,4 @@ export var pianoOffSharp24px = [
       }
     ]
   ]
-]
+];

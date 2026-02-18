@@ -21,4 +21,4 @@ export var settingsInputCompositeSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var dialpadOff20Regular = [
       }
     ]
   ]
-]
+];

@@ -46,4 +46,4 @@ export var markAsUnreadOutlined24px = [
       ]
     ]
   ]
-]
+];

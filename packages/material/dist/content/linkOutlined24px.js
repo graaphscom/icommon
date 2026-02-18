@@ -21,4 +21,4 @@ export var linkOutlined24px = [
       }
     ]
   ]
-]
+];

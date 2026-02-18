@@ -42,4 +42,4 @@ export var watchLaterOutlined24px = [
       ]
     ]
   ]
-]
+];

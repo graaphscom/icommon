@@ -21,4 +21,4 @@ export var opacityOutlined24px = [
       }
     ]
   ]
-]
+];

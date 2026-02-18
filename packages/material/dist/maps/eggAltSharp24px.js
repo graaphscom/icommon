@@ -41,4 +41,4 @@ export var eggAltSharp24px = [
       ]
     ]
   ]
-]
+];

@@ -91,4 +91,4 @@ export var vault = [
       }
     ]
   ]
-]
+];

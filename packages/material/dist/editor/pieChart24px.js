@@ -21,4 +21,4 @@ export var pieChart24px = [
       }
     ]
   ]
-]
+];

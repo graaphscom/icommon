@@ -16,4 +16,4 @@ export var bookDefault28Regular = [
       }
     ]
   ]
-]
+];

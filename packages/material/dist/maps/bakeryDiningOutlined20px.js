@@ -42,4 +42,4 @@ export var bakeryDiningOutlined20px = [
       ]
     ]
   ]
-]
+];

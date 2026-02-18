@@ -16,4 +16,4 @@ export var paddingLeft24Regular = [
       }
     ]
   ]
-]
+];

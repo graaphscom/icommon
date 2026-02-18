@@ -30,4 +30,4 @@ export var nightShelterTwotone24px = [
       }
     ]
   ]
-]
+];

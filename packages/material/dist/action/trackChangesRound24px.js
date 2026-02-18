@@ -21,4 +21,4 @@ export var trackChangesRound24px = [
       }
     ]
   ]
-]
+];

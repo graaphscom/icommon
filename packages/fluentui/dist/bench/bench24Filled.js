@@ -16,4 +16,4 @@ export var bench24Filled = [
       }
     ]
   ]
-]
+];

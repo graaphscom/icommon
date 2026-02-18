@@ -16,4 +16,4 @@ export var sparkleAction16Regular = [
       }
     ]
   ]
-]
+];

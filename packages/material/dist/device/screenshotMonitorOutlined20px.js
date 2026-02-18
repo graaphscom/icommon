@@ -54,4 +54,4 @@ export var screenshotMonitorOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -43,4 +43,4 @@ export var abcRound24px = [
       ]
     ]
   ]
-]
+];

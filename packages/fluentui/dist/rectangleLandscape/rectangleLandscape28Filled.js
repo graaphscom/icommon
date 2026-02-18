@@ -16,4 +16,4 @@ export var rectangleLandscape28Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var subtitlesOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var lockShield16Regular = [
       }
     ]
   ]
-]
+];

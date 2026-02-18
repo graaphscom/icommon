@@ -40,4 +40,4 @@ export var mediaBluetoothOnOutlined24px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var video360Off20Filled = [
       }
     ]
   ]
-]
+];

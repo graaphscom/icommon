@@ -16,4 +16,4 @@ export var compose12Regular = [
       }
     ]
   ]
-]
+];

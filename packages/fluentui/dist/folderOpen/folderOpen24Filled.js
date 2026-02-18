@@ -16,4 +16,4 @@ export var folderOpen24Filled = [
       }
     ]
   ]
-]
+];

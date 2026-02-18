@@ -16,4 +16,4 @@ export var callExclamation20Filled = [
       }
     ]
   ]
-]
+];

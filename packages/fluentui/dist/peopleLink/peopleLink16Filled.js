@@ -16,4 +16,4 @@ export var peopleLink16Filled = [
       }
     ]
   ]
-]
+];

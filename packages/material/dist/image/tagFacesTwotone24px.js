@@ -50,4 +50,4 @@ export var tagFacesTwotone24px = [
       }
     ]
   ]
-]
+];

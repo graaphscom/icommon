@@ -105,4 +105,4 @@ export var devicesFoldOutlined20px = [
       ]
     ]
   ]
-]
+];

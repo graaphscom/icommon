@@ -16,4 +16,4 @@ export var sanitize20Regular = [
       }
     ]
   ]
-]
+];

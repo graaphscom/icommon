@@ -16,4 +16,4 @@ export var documentMention28Regular = [
       }
     ]
   ]
-]
+];

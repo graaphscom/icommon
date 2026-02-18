@@ -48,4 +48,4 @@ export var installMobileOutlined20px = [
       ]
     ]
   ]
-]
+];

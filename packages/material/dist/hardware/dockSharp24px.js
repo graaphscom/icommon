@@ -21,4 +21,4 @@ export var dockSharp24px = [
       }
     ]
   ]
-]
+];

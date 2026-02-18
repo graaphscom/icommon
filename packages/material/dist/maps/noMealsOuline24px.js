@@ -23,4 +23,4 @@ export var noMealsOuline24px = [
       }
     ]
   ]
-]
+];

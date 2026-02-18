@@ -47,4 +47,4 @@ export var swipe20px = [
       ]
     ]
   ]
-]
+];

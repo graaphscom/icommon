@@ -21,4 +21,4 @@ export var redeemOutlined24px = [
       }
     ]
   ]
-]
+];

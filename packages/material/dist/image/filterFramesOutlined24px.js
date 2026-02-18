@@ -21,4 +21,4 @@ export var filterFramesOutlined24px = [
       }
     ]
   ]
-]
+];

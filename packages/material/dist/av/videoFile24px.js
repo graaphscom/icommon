@@ -35,4 +35,4 @@ export var videoFile24px = [
       ]
     ]
   ]
-]
+];

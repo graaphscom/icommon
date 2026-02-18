@@ -16,4 +16,4 @@ export var streamOutput20Filled = [
       }
     ]
   ]
-]
+];

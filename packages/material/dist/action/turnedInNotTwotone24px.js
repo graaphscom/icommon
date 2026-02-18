@@ -21,4 +21,4 @@ export var turnedInNotTwotone24px = [
       }
     ]
   ]
-]
+];

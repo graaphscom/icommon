@@ -59,4 +59,4 @@ export var electricalServices20px = [
       ]
     ]
   ]
-]
+];

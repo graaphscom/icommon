@@ -47,4 +47,4 @@ export var output20px = [
       ]
     ]
   ]
-]
+];

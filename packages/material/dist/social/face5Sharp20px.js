@@ -169,4 +169,4 @@ export var face5Sharp20px = [
       ]
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var insert20Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var documentLandscapeSplitHint20Regular = [
       }
     ]
   ]
-]
+];

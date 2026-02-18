@@ -32,4 +32,4 @@ export var horizontalRuleSharp20px = [
       ]
     ]
   ]
-]
+];

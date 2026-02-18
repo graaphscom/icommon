@@ -21,4 +21,4 @@ export var toggleOnOutlined24px = [
       }
     ]
   ]
-]
+];

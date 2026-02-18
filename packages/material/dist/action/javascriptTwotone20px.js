@@ -35,4 +35,4 @@ export var javascriptTwotone20px = [
       ]
     ]
   ]
-]
+];

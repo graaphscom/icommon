@@ -16,4 +16,4 @@ export var glanceDefault12Filled = [
       }
     ]
   ]
-]
+];

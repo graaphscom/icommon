@@ -21,4 +21,4 @@ export var computerOutlined24px = [
       }
     ]
   ]
-]
+];

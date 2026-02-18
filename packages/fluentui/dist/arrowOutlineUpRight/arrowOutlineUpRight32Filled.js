@@ -16,4 +16,4 @@ export var arrowOutlineUpRight32Filled = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var dialerSipSharp24px = [
       }
     ]
   ]
-]
+];

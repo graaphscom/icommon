@@ -21,4 +21,4 @@ export var dragIndicatorOutlined24px = [
       }
     ]
   ]
-]
+];

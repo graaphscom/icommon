@@ -16,4 +16,4 @@ export var checkboxArrowRight20Filled = [
       }
     ]
   ]
-]
+];

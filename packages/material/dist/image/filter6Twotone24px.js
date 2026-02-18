@@ -28,4 +28,4 @@ export var filter6Twotone24px = [
       }
     ]
   ]
-]
+];

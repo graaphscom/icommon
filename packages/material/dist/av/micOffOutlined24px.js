@@ -21,4 +21,4 @@ export var micOffOutlined24px = [
       }
     ]
   ]
-]
+];

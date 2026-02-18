@@ -23,4 +23,4 @@ export var alignHorizontalLeftOutlined24px = [
       }
     ]
   ]
-]
+];

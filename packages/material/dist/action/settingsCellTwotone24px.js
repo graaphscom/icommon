@@ -28,4 +28,4 @@ export var settingsCellTwotone24px = [
       }
     ]
   ]
-]
+];

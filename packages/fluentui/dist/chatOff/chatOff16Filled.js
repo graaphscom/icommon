@@ -16,4 +16,4 @@ export var chatOff16Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shoppingBagCheckmark28Regular = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var festivalRound20px = [
       ]
     ]
   ]
-]
+];

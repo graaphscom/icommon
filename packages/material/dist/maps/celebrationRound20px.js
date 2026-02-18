@@ -66,4 +66,4 @@ export var celebrationRound20px = [
       ]
     ]
   ]
-]
+];

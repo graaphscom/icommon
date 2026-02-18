@@ -42,4 +42,4 @@ export var monitorRound24px = [
       ]
     ]
   ]
-]
+];

@@ -87,4 +87,4 @@ export var viewInArTwotone24px = [
       ]
     ]
   ]
-]
+];

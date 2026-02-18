@@ -16,4 +16,4 @@ export var mathFormatLinear20Regular = [
       }
     ]
   ]
-]
+];

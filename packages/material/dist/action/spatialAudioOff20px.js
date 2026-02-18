@@ -61,4 +61,4 @@ export var spatialAudioOff20px = [
       ]
     ]
   ]
-]
+];

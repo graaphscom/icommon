@@ -21,4 +21,4 @@ export var phoneDisabled24px = [
       }
     ]
   ]
-]
+];

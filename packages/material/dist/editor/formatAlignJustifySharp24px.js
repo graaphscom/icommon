@@ -14,4 +14,4 @@ export var formatAlignJustifySharp24px = [
       }
     ]
   ]
-]
+];

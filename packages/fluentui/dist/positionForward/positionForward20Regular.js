@@ -16,4 +16,4 @@ export var positionForward20Regular = [
       }
     ]
   ]
-]
+];

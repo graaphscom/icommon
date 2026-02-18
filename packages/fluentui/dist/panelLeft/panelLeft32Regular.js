@@ -16,4 +16,4 @@ export var panelLeft32Regular = [
       }
     ]
   ]
-]
+];

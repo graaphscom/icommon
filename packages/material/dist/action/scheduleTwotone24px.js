@@ -28,4 +28,4 @@ export var scheduleTwotone24px = [
       }
     ]
   ]
-]
+];

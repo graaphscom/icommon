@@ -421,4 +421,4 @@ export var clipboardTextEdit32Color = [
       ]
     ]
   ]
-]
+];

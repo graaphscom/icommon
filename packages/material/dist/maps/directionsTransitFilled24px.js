@@ -36,4 +36,4 @@ export var directionsTransitFilled24px = [
       ]
     ]
   ]
-]
+];

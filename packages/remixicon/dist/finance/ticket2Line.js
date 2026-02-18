@@ -13,4 +13,4 @@ export var ticket2Line = [
       }
     ]
   ]
-]
+];

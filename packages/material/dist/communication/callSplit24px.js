@@ -21,4 +21,4 @@ export var callSplit24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var shieldBadge20Regular = [
       }
     ]
   ]
-]
+];

@@ -59,4 +59,4 @@ export var warningAmber24px = [
       ]
     ]
   ]
-]
+];

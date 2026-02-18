@@ -14,4 +14,4 @@ export var videoLibraryRound24px = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var datasetSharp20px = [
       ]
     ]
   ]
-]
+];

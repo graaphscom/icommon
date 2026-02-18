@@ -16,4 +16,4 @@ export var playCircleHint24Regular = [
       }
     ]
   ]
-]
+];

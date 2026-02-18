@@ -22,4 +22,4 @@ export var gifTwotone24px = [
       }
     ]
   ]
-]
+];

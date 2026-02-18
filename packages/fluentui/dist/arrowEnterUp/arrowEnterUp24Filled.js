@@ -16,4 +16,4 @@ export var arrowEnterUp24Filled = [
       }
     ]
   ]
-]
+];

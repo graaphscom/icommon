@@ -60,4 +60,4 @@ export var __1kPlusTwotone24px = [
       ]
     ]
   ]
-]
+];

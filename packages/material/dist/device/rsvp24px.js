@@ -40,4 +40,4 @@ export var rsvp24px = [
       ]
     ]
   ]
-]
+];

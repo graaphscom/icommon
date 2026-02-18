@@ -60,4 +60,4 @@ export var spatialTrackingOutlined20px = [
       ]
     ]
   ]
-]
+];

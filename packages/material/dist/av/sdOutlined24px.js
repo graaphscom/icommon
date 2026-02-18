@@ -53,4 +53,4 @@ export var sdOutlined24px = [
       ]
     ]
   ]
-]
+];

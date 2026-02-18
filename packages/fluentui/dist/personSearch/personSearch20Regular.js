@@ -16,4 +16,4 @@ export var personSearch20Regular = [
       }
     ]
   ]
-]
+];

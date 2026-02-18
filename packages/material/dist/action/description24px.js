@@ -21,4 +21,4 @@ export var description24px = [
       }
     ]
   ]
-]
+];

@@ -37,4 +37,4 @@ export var noPhotographyTwotone24px = [
       ]
     ]
   ]
-]
+];

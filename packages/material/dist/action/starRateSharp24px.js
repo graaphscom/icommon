@@ -29,4 +29,4 @@ export var starRateSharp24px = [
       ]
     ]
   ]
-]
+];

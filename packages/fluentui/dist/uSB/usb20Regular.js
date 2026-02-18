@@ -16,4 +16,4 @@ export var usb20Regular = [
       }
     ]
   ]
-]
+];

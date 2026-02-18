@@ -29,4 +29,4 @@ export var multipleStopOutlined24px = [
       ]
     ]
   ]
-]
+];

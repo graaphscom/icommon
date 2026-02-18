@@ -72,4 +72,4 @@ export var tableSearch20Filled = [
       }
     ]
   ]
-]
+];

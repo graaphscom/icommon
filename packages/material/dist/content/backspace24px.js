@@ -21,4 +21,4 @@ export var backspace24px = [
       }
     ]
   ]
-]
+];

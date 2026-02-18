@@ -16,4 +16,4 @@ export var triangleDown24Regular = [
       }
     ]
   ]
-]
+];

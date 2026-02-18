@@ -16,4 +16,4 @@ export var dataTrending16Regular = [
       }
     ]
   ]
-]
+];

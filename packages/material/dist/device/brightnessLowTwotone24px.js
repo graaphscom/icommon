@@ -28,4 +28,4 @@ export var brightnessLowTwotone24px = [
       }
     ]
   ]
-]
+];

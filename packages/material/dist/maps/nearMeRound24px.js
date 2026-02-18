@@ -21,4 +21,4 @@ export var nearMeRound24px = [
       }
     ]
   ]
-]
+];

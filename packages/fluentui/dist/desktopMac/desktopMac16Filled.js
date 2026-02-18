@@ -16,4 +16,4 @@ export var desktopMac16Filled = [
       }
     ]
   ]
-]
+];

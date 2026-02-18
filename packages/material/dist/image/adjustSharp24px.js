@@ -21,4 +21,4 @@ export var adjustSharp24px = [
       }
     ]
   ]
-]
+];

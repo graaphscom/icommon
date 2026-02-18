@@ -16,4 +16,4 @@ export var slideText48Filled = [
       }
     ]
   ]
-]
+];

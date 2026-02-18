@@ -42,4 +42,4 @@ export var timelineRound24px = [
       ]
     ]
   ]
-]
+];

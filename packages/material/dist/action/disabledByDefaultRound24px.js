@@ -23,4 +23,4 @@ export var disabledByDefaultRound24px = [
       }
     ]
   ]
-]
+];

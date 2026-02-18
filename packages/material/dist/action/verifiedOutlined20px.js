@@ -48,4 +48,4 @@ export var verifiedOutlined20px = [
       ]
     ]
   ]
-]
+];

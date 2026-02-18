@@ -16,4 +16,4 @@ export var creditCardClock20Regular = [
       }
     ]
   ]
-]
+];

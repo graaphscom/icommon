@@ -49,4 +49,4 @@ export var routeRound24px = [
       ]
     ]
   ]
-]
+];

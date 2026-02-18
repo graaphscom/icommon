@@ -40,4 +40,4 @@ export var starBorderPurple500Round24px = [
       ]
     ]
   ]
-]
+];

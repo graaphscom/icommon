@@ -16,4 +16,4 @@ export var calendarDataBar32Light = [
       }
     ]
   ]
-]
+];

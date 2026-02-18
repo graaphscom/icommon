@@ -23,4 +23,4 @@ export var viewList24px = [
       }
     ]
   ]
-]
+];

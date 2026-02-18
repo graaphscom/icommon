@@ -16,4 +16,4 @@ export var personHeart28Filled = [
       }
     ]
   ]
-]
+];

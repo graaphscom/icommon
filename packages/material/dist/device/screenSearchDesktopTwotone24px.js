@@ -62,4 +62,4 @@ export var screenSearchDesktopTwotone24px = [
       ]
     ]
   ]
-]
+];

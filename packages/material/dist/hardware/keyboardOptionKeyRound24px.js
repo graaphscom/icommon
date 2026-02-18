@@ -55,4 +55,4 @@ export var keyboardOptionKeyRound24px = [
       ]
     ]
   ]
-]
+];

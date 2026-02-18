@@ -16,4 +16,4 @@ export var codeVb16Regular = [
       }
     ]
   ]
-]
+];

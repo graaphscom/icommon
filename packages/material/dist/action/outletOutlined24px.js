@@ -23,4 +23,4 @@ export var outletOutlined24px = [
       }
     ]
   ]
-]
+];

@@ -36,4 +36,4 @@ export var shoppingCartCheckoutOutlined20px = [
       ]
     ]
   ]
-]
+];

@@ -59,4 +59,4 @@ export var adminPanelSettingsOutlined20px = [
       ]
     ]
   ]
-]
+];

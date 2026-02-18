@@ -16,4 +16,4 @@ export var emojiAngry20Regular = [
       }
     ]
   ]
-]
+];

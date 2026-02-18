@@ -21,4 +21,4 @@ export var phoneMissed24px = [
       }
     ]
   ]
-]
+];

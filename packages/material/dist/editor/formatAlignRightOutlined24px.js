@@ -21,4 +21,4 @@ export var formatAlignRightOutlined24px = [
       }
     ]
   ]
-]
+];

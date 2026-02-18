@@ -29,4 +29,4 @@ export var pointOfSaleRound24px = [
       ]
     ]
   ]
-]
+];

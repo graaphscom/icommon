@@ -43,4 +43,4 @@ export var walletRound24px = [
       ]
     ]
   ]
-]
+];

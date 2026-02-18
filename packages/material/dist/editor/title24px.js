@@ -21,4 +21,4 @@ export var title24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var archive24px = [
       }
     ]
   ]
-]
+];

@@ -21,4 +21,4 @@ export var speakerPhoneSharp24px = [
       }
     ]
   ]
-]
+];

@@ -35,4 +35,4 @@ export var domainAddRound20px = [
       ]
     ]
   ]
-]
+];

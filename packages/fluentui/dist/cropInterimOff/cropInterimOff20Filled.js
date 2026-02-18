@@ -16,4 +16,4 @@ export var cropInterimOff20Filled = [
       }
     ]
   ]
-]
+];

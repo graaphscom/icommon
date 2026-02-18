@@ -36,4 +36,4 @@ export var homeMiniSharp24px = [
       ]
     ]
   ]
-]
+];

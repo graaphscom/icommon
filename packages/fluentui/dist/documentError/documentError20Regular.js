@@ -16,4 +16,4 @@ export var documentError20Regular = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var syncAltRound20px = [
       ]
     ]
   ]
-]
+];

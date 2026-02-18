@@ -47,4 +47,4 @@ export var nightlifeOutlined24px = [
       ]
     ]
   ]
-]
+];

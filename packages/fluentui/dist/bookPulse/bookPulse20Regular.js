@@ -16,4 +16,4 @@ export var bookPulse20Regular = [
       }
     ]
   ]
-]
+];

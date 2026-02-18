@@ -21,4 +21,4 @@ export var undoOutlined24px = [
       }
     ]
   ]
-]
+];

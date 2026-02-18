@@ -21,4 +21,4 @@ export var castConnectedSharp24px = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var laptopDismiss20Filled = [
       }
     ]
   ]
-]
+];

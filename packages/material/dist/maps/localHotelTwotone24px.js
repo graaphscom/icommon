@@ -37,4 +37,4 @@ export var localHotelTwotone24px = [
       }
     ]
   ]
-]
+];

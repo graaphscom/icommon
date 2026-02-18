@@ -16,4 +16,4 @@ export var lightbulbCircle20Regular = [
       }
     ]
   ]
-]
+];

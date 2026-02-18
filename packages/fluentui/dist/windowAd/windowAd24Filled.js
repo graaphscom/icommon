@@ -16,4 +16,4 @@ export var windowAd24Filled = [
       }
     ]
   ]
-]
+];

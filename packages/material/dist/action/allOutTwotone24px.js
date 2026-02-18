@@ -30,4 +30,4 @@ export var allOutTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -29,4 +29,4 @@ export var groupOffTwotone20px = [
       }
     ]
   ]
-]
+];

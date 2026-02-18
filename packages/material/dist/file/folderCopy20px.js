@@ -47,4 +47,4 @@ export var folderCopy20px = [
       ]
     ]
   ]
-]
+];

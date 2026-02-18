@@ -21,4 +21,4 @@ export var localLibraryOutlined24px = [
       }
     ]
   ]
-]
+];

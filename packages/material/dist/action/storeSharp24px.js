@@ -21,4 +21,4 @@ export var storeSharp24px = [
       }
     ]
   ]
-]
+];

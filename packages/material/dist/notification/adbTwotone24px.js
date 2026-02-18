@@ -21,4 +21,4 @@ export var adbTwotone24px = [
       }
     ]
   ]
-]
+];

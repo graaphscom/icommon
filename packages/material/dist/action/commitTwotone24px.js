@@ -35,4 +35,4 @@ export var commitTwotone24px = [
       ]
     ]
   ]
-]
+];

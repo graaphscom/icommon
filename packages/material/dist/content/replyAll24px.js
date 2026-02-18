@@ -21,4 +21,4 @@ export var replyAll24px = [
       }
     ]
   ]
-]
+];

@@ -41,4 +41,4 @@ export var sportsSoccerSharp24px = [
       ]
     ]
   ]
-]
+];

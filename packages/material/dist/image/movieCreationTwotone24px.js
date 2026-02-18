@@ -28,4 +28,4 @@ export var movieCreationTwotone24px = [
       }
     ]
   ]
-]
+];

@@ -22,4 +22,4 @@ export var thumbUpAltSharp24px = [
       }
     ]
   ]
-]
+];

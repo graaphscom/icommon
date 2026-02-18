@@ -21,4 +21,4 @@ export var insertCommentOutlined24px = [
       }
     ]
   ]
-]
+];

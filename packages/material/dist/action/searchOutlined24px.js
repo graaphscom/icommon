@@ -21,4 +21,4 @@ export var searchOutlined24px = [
       }
     ]
   ]
-]
+];

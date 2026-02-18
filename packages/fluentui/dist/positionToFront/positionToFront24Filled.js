@@ -16,4 +16,4 @@ export var positionToFront24Filled = [
       }
     ]
   ]
-]
+];

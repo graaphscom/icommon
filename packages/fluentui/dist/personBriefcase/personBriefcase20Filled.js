@@ -16,4 +16,4 @@ export var personBriefcase20Filled = [
       }
     ]
   ]
-]
+];

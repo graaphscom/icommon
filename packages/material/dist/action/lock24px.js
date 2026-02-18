@@ -21,4 +21,4 @@ export var lock24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var nightlife20px = [
       ]
     ]
   ]
-]
+];

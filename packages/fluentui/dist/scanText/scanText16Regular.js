@@ -16,4 +16,4 @@ export var scanText16Regular = [
       }
     ]
   ]
-]
+];

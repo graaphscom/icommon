@@ -16,4 +16,4 @@ export var mailArrowDoubleBack20Filled = [
       }
     ]
   ]
-]
+];

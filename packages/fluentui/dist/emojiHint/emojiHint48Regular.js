@@ -16,4 +16,4 @@ export var emojiHint48Regular = [
       }
     ]
   ]
-]
+];

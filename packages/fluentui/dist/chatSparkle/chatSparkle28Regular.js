@@ -16,4 +16,4 @@ export var chatSparkle28Regular = [
       }
     ]
   ]
-]
+];

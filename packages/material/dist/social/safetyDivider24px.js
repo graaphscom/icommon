@@ -23,4 +23,4 @@ export var safetyDivider24px = [
       }
     ]
   ]
-]
+];

@@ -47,4 +47,4 @@ export var sportsMotorsportsSharp20px = [
       ]
     ]
   ]
-]
+];

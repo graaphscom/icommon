@@ -16,4 +16,4 @@ export var gift24Filled = [
       }
     ]
   ]
-]
+];

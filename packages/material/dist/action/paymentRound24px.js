@@ -21,4 +21,4 @@ export var paymentRound24px = [
       }
     ]
   ]
-]
+];

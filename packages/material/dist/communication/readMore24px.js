@@ -68,4 +68,4 @@ export var readMore24px = [
       ]
     ]
   ]
-]
+];

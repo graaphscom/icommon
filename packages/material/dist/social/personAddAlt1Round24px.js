@@ -63,4 +63,4 @@ export var personAddAlt1Round24px = [
       ]
     ]
   ]
-]
+];

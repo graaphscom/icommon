@@ -21,4 +21,4 @@ export var driveEtaRound24px = [
       }
     ]
   ]
-]
+];

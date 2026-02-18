@@ -16,4 +16,4 @@ export var shieldSettings24Filled = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var conferenceRoom24Regular = [
       }
     ]
   ]
-]
+];

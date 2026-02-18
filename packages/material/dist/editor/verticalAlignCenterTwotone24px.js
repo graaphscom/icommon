@@ -21,4 +21,4 @@ export var verticalAlignCenterTwotone24px = [
       }
     ]
   ]
-]
+];

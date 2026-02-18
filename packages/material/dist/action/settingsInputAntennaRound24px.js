@@ -35,4 +35,4 @@ export var settingsInputAntennaRound24px = [
       ]
     ]
   ]
-]
+];

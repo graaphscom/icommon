@@ -23,4 +23,4 @@ export var incompleteCircleSharp24px = [
       }
     ]
   ]
-]
+];

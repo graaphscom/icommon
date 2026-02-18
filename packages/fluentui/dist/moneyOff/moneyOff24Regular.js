@@ -16,4 +16,4 @@ export var moneyOff24Regular = [
       }
     ]
   ]
-]
+];

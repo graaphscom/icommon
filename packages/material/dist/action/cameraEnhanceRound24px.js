@@ -21,4 +21,4 @@ export var cameraEnhanceRound24px = [
       }
     ]
   ]
-]
+];

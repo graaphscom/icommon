@@ -21,4 +21,4 @@ export var departureBoardRound24px = [
       }
     ]
   ]
-]
+];

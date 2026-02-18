@@ -28,4 +28,4 @@ export var permMediaTwotone24px = [
       }
     ]
   ]
-]
+];

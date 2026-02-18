@@ -16,4 +16,4 @@ export var bookmarkAdd24Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var backpackAdd48Regular = [
       }
     ]
   ]
-]
+];

@@ -16,4 +16,4 @@ export var saveSearch20Filled = [
       }
     ]
   ]
-]
+];

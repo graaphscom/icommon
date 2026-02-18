@@ -23,4 +23,4 @@ export var accountTreeOutlined24px = [
       }
     ]
   ]
-]
+];

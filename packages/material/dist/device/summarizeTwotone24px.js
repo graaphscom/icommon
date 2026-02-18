@@ -71,4 +71,4 @@ export var summarizeTwotone24px = [
       ]
     ]
   ]
-]
+];

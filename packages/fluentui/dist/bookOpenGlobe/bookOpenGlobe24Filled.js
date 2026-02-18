@@ -58,4 +58,4 @@ export var bookOpenGlobe24Filled = [
       }
     ]
   ]
-]
+];

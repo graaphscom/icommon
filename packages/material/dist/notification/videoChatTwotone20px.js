@@ -55,4 +55,4 @@ export var videoChatTwotone20px = [
       ]
     ]
   ]
-]
+];

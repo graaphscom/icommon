@@ -43,4 +43,4 @@ export var personRemoveAlt1Round24px = [
       ]
     ]
   ]
-]
+];

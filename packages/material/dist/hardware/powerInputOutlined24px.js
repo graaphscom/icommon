@@ -21,4 +21,4 @@ export var powerInputOutlined24px = [
       }
     ]
   ]
-]
+];

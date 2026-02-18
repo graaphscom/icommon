@@ -21,4 +21,4 @@ export var receiptRound24px = [
       }
     ]
   ]
-]
+];

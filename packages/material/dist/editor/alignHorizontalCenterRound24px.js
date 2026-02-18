@@ -23,4 +23,4 @@ export var alignHorizontalCenterRound24px = [
       }
     ]
   ]
-]
+];

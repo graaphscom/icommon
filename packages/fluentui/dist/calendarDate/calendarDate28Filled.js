@@ -16,4 +16,4 @@ export var calendarDate28Filled = [
       }
     ]
   ]
-]
+];

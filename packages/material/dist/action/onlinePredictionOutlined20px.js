@@ -31,4 +31,4 @@ export var onlinePredictionOutlined20px = [
       ]
     ]
   ]
-]
+];

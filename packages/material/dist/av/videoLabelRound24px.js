@@ -14,4 +14,4 @@ export var videoLabelRound24px = [
       }
     ]
   ]
-]
+];

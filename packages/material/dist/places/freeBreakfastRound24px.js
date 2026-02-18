@@ -21,4 +21,4 @@ export var freeBreakfastRound24px = [
       }
     ]
   ]
-]
+];

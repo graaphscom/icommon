@@ -62,4 +62,4 @@ export var garageRound24px = [
       ]
     ]
   ]
-]
+];

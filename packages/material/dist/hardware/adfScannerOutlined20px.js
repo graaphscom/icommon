@@ -62,4 +62,4 @@ export var adfScannerOutlined20px = [
       ]
     ]
   ]
-]
+];

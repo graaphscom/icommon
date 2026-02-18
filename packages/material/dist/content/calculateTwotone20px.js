@@ -123,4 +123,4 @@ export var calculateTwotone20px = [
       ]
     ]
   ]
-]
+];

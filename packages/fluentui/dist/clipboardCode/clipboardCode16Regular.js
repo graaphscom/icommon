@@ -16,4 +16,4 @@ export var clipboardCode16Regular = [
       }
     ]
   ]
-]
+];

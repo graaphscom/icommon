@@ -16,4 +16,4 @@ export var controlButton20Filled = [
       }
     ]
   ]
-]
+];

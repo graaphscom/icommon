@@ -59,4 +59,4 @@ export var unfoldMoreDoubleRound20px = [
       ]
     ]
   ]
-]
+];

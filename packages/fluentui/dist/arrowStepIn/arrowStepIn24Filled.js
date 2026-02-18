@@ -16,4 +16,4 @@ export var arrowStepIn24Filled = [
       }
     ]
   ]
-]
+];

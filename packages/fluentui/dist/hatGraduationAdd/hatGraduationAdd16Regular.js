@@ -16,4 +16,4 @@ export var hatGraduationAdd16Regular = [
       }
     ]
   ]
-]
+];

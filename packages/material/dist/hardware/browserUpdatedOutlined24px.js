@@ -24,4 +24,4 @@ export var browserUpdatedOutlined24px = [
       }
     ]
   ]
-]
+];

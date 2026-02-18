@@ -75,4 +75,4 @@ export var liquorTwotone20px = [
       ]
     ]
   ]
-]
+];

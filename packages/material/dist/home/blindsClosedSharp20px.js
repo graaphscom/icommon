@@ -35,4 +35,4 @@ export var blindsClosedSharp20px = [
       ]
     ]
   ]
-]
+];
