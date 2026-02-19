@@ -13,56 +13,64 @@ export var molecule48Color = [
       {
         "d": "M14.668 24.7519L26.668 16.7519L28.3321 19.2481L16.3321 27.2481L14.668 24.7519Z",
         "fill": "#212121"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14.668 24.7519L26.668 16.7519L28.3321 19.2481L16.3321 27.2481L14.668 24.7519Z",
         "fill": "url(#paint0_linear_72095_8911)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14.668 24.7519L26.668 16.7519L28.3321 19.2481L16.3321 27.2481L14.668 24.7519Z",
         "fill": "url(#paint1_radial_72095_8911)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14.668 24.7519L26.668 16.7519L28.3321 19.2481L16.3321 27.2481L14.668 24.7519Z",
         "fill": "url(#paint2_radial_72095_8911)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M28.3291 37.8416L16.3291 31.8416L17.6707 29.1584L29.6707 35.1584L28.3291 37.8416Z",
         "fill": "#242424"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M28.3291 37.8416L16.3291 31.8416L17.6707 29.1584L29.6707 35.1584L28.3291 37.8416Z",
         "fill": "url(#paint3_linear_72095_8911)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M28.3291 37.8416L16.3291 31.8416L17.6707 29.1584L29.6707 35.1584L28.3291 37.8416Z",
         "fill": "url(#paint4_radial_72095_8911)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M28.3291 37.8416L16.3291 31.8416L17.6707 29.1584L29.6707 35.1584L28.3291 37.8416Z",
         "fill": "url(#paint5_radial_72095_8911)"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -71,7 +79,8 @@ export var molecule48Color = [
         "cy": "14",
         "fill": "url(#paint6_linear_72095_8911)",
         "r": "10"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -80,7 +89,8 @@ export var molecule48Color = [
         "cy": "28",
         "fill": "url(#paint7_linear_72095_8911)",
         "r": "8"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -89,7 +99,8 @@ export var molecule48Color = [
         "cy": "38",
         "fill": "#D9D9D9",
         "r": "6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -98,7 +109,8 @@ export var molecule48Color = [
         "cy": "38",
         "fill": "url(#paint8_linear_72095_8911)",
         "r": "6"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -119,14 +131,16 @@ export var molecule48Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -146,7 +160,8 @@ export var molecule48Color = [
               {
                 "offset": "0.688",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -154,7 +169,8 @@ export var molecule48Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -174,7 +190,8 @@ export var molecule48Color = [
               {
                 "offset": "0.737009",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -182,7 +199,8 @@ export var molecule48Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -201,14 +219,16 @@ export var molecule48Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -228,7 +248,8 @@ export var molecule48Color = [
               {
                 "offset": "0.5625",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -236,7 +257,8 @@ export var molecule48Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -256,7 +278,8 @@ export var molecule48Color = [
               {
                 "offset": "0.797635",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -264,7 +287,8 @@ export var molecule48Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -283,14 +307,16 @@ export var molecule48Color = [
               "stop",
               {
                 "stopColor": "#2BDABE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#22918B"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -309,14 +335,16 @@ export var molecule48Color = [
               "stop",
               {
                 "stopColor": "#EC318F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B91D6B"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -335,14 +363,16 @@ export var molecule48Color = [
               "stop",
               {
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FE8401"
-              }
+              },
+              []
             ]
           ]
         ]

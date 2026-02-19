@@ -16,7 +16,8 @@ export var squareUserRound = [
       "path",
       {
         "d": "M18 21a6 6 0 0 0-12 0"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -24,7 +25,8 @@ export var squareUserRound = [
         "cx": "12",
         "cy": "11",
         "r": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -34,7 +36,8 @@ export var squareUserRound = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

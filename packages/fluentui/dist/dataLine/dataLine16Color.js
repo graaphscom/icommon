@@ -13,56 +13,64 @@ export var dataLine16Color = [
       {
         "d": "M10.3902 8.31201L12.3902 5.81223L11.6094 5.1875L9.60938 7.68728L10.3902 8.31201Z",
         "fill": "url(#paint0_linear_73839_12462)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10.3902 8.31201L12.3902 5.81223L11.6094 5.1875L9.60938 7.68728L10.3902 8.31201Z",
         "fill": "url(#paint1_radial_73839_12462)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10.3902 8.31201L12.3902 5.81223L11.6094 5.1875L9.60938 7.68728L10.3902 8.31201Z",
         "fill": "url(#paint2_radial_73839_12462)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10.3902 8.31201L12.3902 5.81223L11.6094 5.1875L9.60938 7.68728L10.3902 8.31201Z",
         "fill": "url(#paint3_radial_73839_12462)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4.69861 11.9592L8.19861 10.4592L7.80469 9.54004L4.30469 11.04L4.69861 11.9592Z",
         "fill": "url(#paint4_linear_73839_12462)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4.69861 11.9592L8.19861 10.4592L7.80469 9.54004L4.30469 11.04L4.69861 11.9592Z",
         "fill": "url(#paint5_radial_73839_12462)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4.69861 11.9592L8.19861 10.4592L7.80469 9.54004L4.30469 11.04L4.69861 11.9592Z",
         "fill": "url(#paint6_radial_73839_12462)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4.69861 11.9592L8.19861 10.4592L7.80469 9.54004L4.30469 11.04L4.69861 11.9592Z",
         "fill": "url(#paint7_radial_73839_12462)"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -71,7 +79,8 @@ export var dataLine16Color = [
         "cy": "12",
         "fill": "url(#paint8_linear_73839_12462)",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -80,7 +89,8 @@ export var dataLine16Color = [
         "cy": "9",
         "fill": "url(#paint9_linear_73839_12462)",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -89,7 +99,8 @@ export var dataLine16Color = [
         "cy": "4",
         "fill": "url(#paint10_linear_73839_12462)",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -110,14 +121,16 @@ export var dataLine16Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -137,7 +150,8 @@ export var dataLine16Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -145,7 +159,8 @@ export var dataLine16Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -165,7 +180,8 @@ export var dataLine16Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -173,7 +189,8 @@ export var dataLine16Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -193,7 +210,8 @@ export var dataLine16Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -201,7 +219,8 @@ export var dataLine16Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -220,14 +239,16 @@ export var dataLine16Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -247,7 +268,8 @@ export var dataLine16Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -255,7 +277,8 @@ export var dataLine16Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -275,7 +298,8 @@ export var dataLine16Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -283,7 +307,8 @@ export var dataLine16Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -303,7 +328,8 @@ export var dataLine16Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -311,7 +337,8 @@ export var dataLine16Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -330,14 +357,16 @@ export var dataLine16Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -356,14 +385,16 @@ export var dataLine16Color = [
               "stop",
               {
                 "stopColor": "#6D37CD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.640625",
                 "stopColor": "#EA71EF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -382,14 +413,16 @@ export var dataLine16Color = [
               "stop",
               {
                 "stopColor": "#E23CB4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#EA71EF"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -18,7 +18,8 @@ export var wifi1BarRound20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -32,7 +33,8 @@ export var wifi1BarRound20px = [
             "cx": "10",
             "cy": "14.5",
             "r": "1.5"
-          }
+          },
+          []
         ]
       ]
     ]

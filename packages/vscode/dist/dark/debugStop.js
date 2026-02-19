@@ -13,7 +13,8 @@ export var debugStop = [
       {
         "d": "M2 2V14H14V2H2ZM12.75 12.75H3.25V3.25H12.75V12.75Z",
         "fill": "#F48771"
-      }
+      },
+      []
     ]
   ]
 ];

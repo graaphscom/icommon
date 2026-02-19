@@ -18,7 +18,8 @@ export var densityLargeTwotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var densityLargeTwotone24px = [
                 "width": "18",
                 "x": "3",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var densityLargeTwotone24px = [
                 "width": "18",
                 "x": "3",
                 "y": "19"
-              }
+              },
+              []
             ]
           ]
         ]

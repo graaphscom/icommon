@@ -19,7 +19,8 @@ export var pendingOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -35,7 +36,8 @@ export var pendingOutlined20px = [
               "path",
               {
                 "d": "M10,3c-3.87,0-7,3.13-7,7c0,3.87,3.13,7,7,7s7-3.13,7-7C17,6.13,13.87,3,10,3z M10,16c-3.31,0-6-2.69-6-6 c0-3.31,2.69-6,6-6s6,2.69,6,6C16,13.31,13.31,16,10,16z"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -43,7 +45,8 @@ export var pendingOutlined20px = [
                 "cx": "6.5",
                 "cy": "10",
                 "r": "1"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -51,7 +54,8 @@ export var pendingOutlined20px = [
                 "cx": "13.5",
                 "cy": "10",
                 "r": "1"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -59,7 +63,8 @@ export var pendingOutlined20px = [
                 "cx": "10",
                 "cy": "10",
                 "r": "1"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -16,19 +16,22 @@ export var contact = [
       "path",
       {
         "d": "M16 2v2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 22v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 2v2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -36,7 +39,8 @@ export var contact = [
         "cx": "12",
         "cy": "11",
         "r": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -46,7 +50,8 @@ export var contact = [
         "width": "18",
         "x": "3",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

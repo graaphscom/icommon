@@ -16,7 +16,8 @@ export var chartCandlestick = [
       "path",
       {
         "d": "M9 5v4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,19 +27,22 @@ export var chartCandlestick = [
         "width": "4",
         "x": "7",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 15v2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 3v2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -48,19 +52,22 @@ export var chartCandlestick = [
         "width": "4",
         "x": "15",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 13v3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 3v16a2 2 0 0 0 2 2h16"
-      }
+      },
+      []
     ]
   ]
 ];

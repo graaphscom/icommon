@@ -18,7 +18,8 @@ export var playlistAddCheck24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var playlistAddCheck24px = [
                 "width": "11",
                 "x": "3",
                 "y": "10"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var playlistAddCheck24px = [
                 "width": "11",
                 "x": "3",
                 "y": "6"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,13 +58,15 @@ export var playlistAddCheck24px = [
                 "width": "7",
                 "x": "3",
                 "y": "14"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "20.59,11.93 16.34,16.17 14.22,14.05 12.81,15.46 16.34,19 22,13.34"
-              }
+              },
+              []
             ]
           ]
         ]

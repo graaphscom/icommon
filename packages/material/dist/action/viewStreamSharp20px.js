@@ -14,13 +14,15 @@ export var viewStreamSharp20px = [
         "fill": "none",
         "height": "20",
         "width": "20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17,9.25H3V5h14V9.25z M17,10.75H3V15h14V10.75z"
-      }
+      },
+      []
     ]
   ]
 ];

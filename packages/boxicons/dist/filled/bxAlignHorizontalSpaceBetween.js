@@ -11,13 +11,15 @@ export var bxAlignHorizontalSpaceBetween = [
       "path",
       {
         "d": "M21 2H23V22H21z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M1 2H3V22H1z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -28,7 +30,8 @@ export var bxAlignHorizontalSpaceBetween = [
         "width": "6",
         "x": "13",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -39,7 +42,8 @@ export var bxAlignHorizontalSpaceBetween = [
         "width": "6",
         "x": "5",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

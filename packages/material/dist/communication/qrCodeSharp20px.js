@@ -18,7 +18,8 @@ export var qrCodeSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,19 +35,22 @@ export var qrCodeSharp20px = [
               "path",
               {
                 "d": "M4,9h5V4H4V9z M4.94,4.94h3.12v3.12H4.94V4.94z"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M4,16h5v-5H4V16z M4.94,11.94h3.12v3.12H4.94V11.94z"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M11,4v5h5V4H11z M15.06,8.06h-3.12V4.94h3.12V8.06z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +59,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "15",
                 "y": "15"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -64,7 +69,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "15",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -73,7 +79,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "15",
                 "y": "11"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -82,7 +89,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "12",
                 "y": "12"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -91,7 +99,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "11",
                 "y": "11"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -100,7 +109,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "13",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -109,7 +119,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "14",
                 "y": "14"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -118,7 +129,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "13",
                 "y": "11"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -127,7 +139,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "14",
                 "y": "12"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -136,7 +149,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "11",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -145,7 +159,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "12",
                 "y": "14"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -154,7 +169,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "11",
                 "y": "15"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -163,7 +179,8 @@ export var qrCodeSharp20px = [
                 "width": "1",
                 "x": "13",
                 "y": "15"
-              }
+              },
+              []
             ]
           ]
         ]

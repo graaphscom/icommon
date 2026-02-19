@@ -18,7 +18,8 @@ export var womanSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var womanSharp24px = [
               "polygon",
               {
                 "points": "13.41,7 10.59,7 7,16 10,16 10,22 14,22 14,16 17,16"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -42,7 +44,8 @@ export var womanSharp24px = [
                 "cx": "12",
                 "cy": "4",
                 "r": "2"
-              }
+              },
+              []
             ]
           ]
         ]

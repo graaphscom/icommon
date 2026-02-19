@@ -13,7 +13,8 @@ export var clipboardTask16Color = [
       {
         "d": "M3 3.5C3 2.67157 3.67157 2 4.5 2H11.5C12.3284 2 13 2.67157 13 3.5V13.5C13 14.3284 12.3284 15 11.5 15H4.5C3.67157 15 3 14.3284 3 13.5V3.5Z",
         "fill": "url(#paint0_linear_72095_10073)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var clipboardTask16Color = [
         "d": "M3 3.5C3 2.67157 3.67157 2 4.5 2H11.5C12.3284 2 13 2.67157 13 3.5V13.5C13 14.3284 12.3284 15 11.5 15H4.5C3.67157 15 3 14.3284 3 13.5V3.5Z",
         "fill": "url(#paint1_radial_72095_10073)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,14 +31,16 @@ export var clipboardTask16Color = [
         "d": "M3 3.5C3 2.67157 3.67157 2 4.5 2H11.5C12.3284 2 13 2.67157 13 3.5V13.5C13 14.3284 12.3284 15 11.5 15H4.5C3.67157 15 3 14.3284 3 13.5V3.5Z",
         "fill": "url(#paint2_radial_72095_10073)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 2.5C5 3.32843 5.67157 4 6.5 4H9.5C10.3284 4 11 3.32843 11 2.5C11 1.67157 10.3284 1 9.5 1H6.5C5.67157 1 5 1.67157 5 2.5Z",
         "fill": "url(#paint3_linear_72095_10073)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -44,7 +48,8 @@ export var clipboardTask16Color = [
         "d": "M10.8536 7.85355C11.0488 7.65829 11.0488 7.34171 10.8536 7.14645C10.6583 6.95118 10.3417 6.95118 10.1464 7.14645L7.5 9.79289L6.35355 8.64645C6.15829 8.45118 5.84171 8.45118 5.64645 8.64645C5.45118 8.84171 5.45118 9.15829 5.64645 9.35355L7.14645 10.8536C7.34171 11.0488 7.65829 11.0488 7.85355 10.8536L10.8536 7.85355Z",
         "fill": "url(#paint4_linear_72095_10073)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -65,14 +70,16 @@ export var clipboardTask16Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -91,7 +98,8 @@ export var clipboardTask16Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -99,7 +107,8 @@ export var clipboardTask16Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -118,7 +127,8 @@ export var clipboardTask16Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -126,7 +136,8 @@ export var clipboardTask16Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -145,14 +156,16 @@ export var clipboardTask16Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FAB500"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -171,14 +184,16 @@ export var clipboardTask16Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ]

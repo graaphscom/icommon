@@ -18,7 +18,8 @@ export var crop169Sharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var crop169Sharp20px = [
           "path",
           {
             "d": "M17,7H3v6h14V7z M15.5,11.5h-11v-3h11V11.5z"
-          }
+          },
+          []
         ]
       ]
     ]

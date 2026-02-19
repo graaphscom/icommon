@@ -15,7 +15,8 @@ export var debugBreakpointFunctionUnverified = [
         "d": "M4.00024 11H12.0002L8.00024 4L4.00024 11ZM6.15422 9.75H9.84627L8.00024 6.51946L6.15422 9.75Z",
         "fill": "#848484",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

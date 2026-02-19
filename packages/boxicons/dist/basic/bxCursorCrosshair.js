@@ -10,7 +10,8 @@ export var bxCursorCrosshair = [
       "path",
       {
         "d": "M11 3h2v7h-2zM11 14h2v7h-2zM14 11h7v2h-7zM3 11h7v2H3z"
-      }
+      },
+      []
     ]
   ]
 ];

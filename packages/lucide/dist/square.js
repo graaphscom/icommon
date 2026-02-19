@@ -20,7 +20,8 @@ export var square = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

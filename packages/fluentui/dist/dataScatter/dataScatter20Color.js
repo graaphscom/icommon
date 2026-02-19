@@ -15,7 +15,8 @@ export var dataScatter20Color = [
         "cy": "7.5",
         "fill": "url(#paint0_linear_72095_9619)",
         "r": "2.5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -24,7 +25,8 @@ export var dataScatter20Color = [
         "cy": "12.5",
         "fill": "url(#paint1_linear_72095_9619)",
         "r": "2.5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -33,14 +35,16 @@ export var dataScatter20Color = [
         "cy": "5.5",
         "fill": "url(#paint2_linear_72095_9619)",
         "r": "2.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2.75 2C3.16421 2 3.5 2.33579 3.5 2.75V15.25C3.5 15.9404 4.05964 16.5 4.75 16.5H17.25C17.6642 16.5 18 16.8358 18 17.25C18 17.6642 17.6642 18 17.25 18H4.75C3.23122 18 2 16.7688 2 15.25V2.75C2 2.33579 2.33579 2 2.75 2Z",
         "fill": "url(#paint3_linear_72095_9619)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -61,14 +65,16 @@ export var dataScatter20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -87,14 +93,16 @@ export var dataScatter20Color = [
               "stop",
               {
                 "stopColor": "#6D37CD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.640625",
                 "stopColor": "#EA71EF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -113,14 +121,16 @@ export var dataScatter20Color = [
               "stop",
               {
                 "stopColor": "#E23CB4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#EA71EF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -139,14 +149,16 @@ export var dataScatter20Color = [
               "stop",
               {
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ]
           ]
         ]

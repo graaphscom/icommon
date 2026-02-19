@@ -13,35 +13,40 @@ export var paintBrush28Color = [
       {
         "d": "M6 2.75C6 2.33579 6.33579 2 6.75 2H21.25C21.6642 2 22 2.33579 22 2.75V14H6V2.75Z",
         "fill": "url(#paint0_linear_72095_8534)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 14V16.2498C6 17.7685 7.23111 18.9997 8.74983 18.9998L11.5 19V23.4997C11.5 24.8804 12.6193 25.9997 14 25.9997C15.3807 25.9997 16.5 24.8804 16.5 23.4997V19L19.2502 18.9998C20.7689 18.9997 22 17.7685 22 16.2498V14H6Z",
         "fill": "url(#paint1_linear_72095_8534)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 14C6 13.4477 6.44772 13 7 13H21C21.5523 13 22 13.4477 22 14V14.5H6V14Z",
         "fill": "url(#paint2_linear_72095_8534)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16.25 7C16.6642 7 17 6.66421 17 6.25V2H15.5V6.25C15.5 6.66421 15.8358 7 16.25 7Z",
         "fill": "url(#paint3_linear_72095_8534)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20 8.25V2H18.5V8.25C18.5 8.66421 18.8358 9 19.25 9C19.6642 9 20 8.66421 20 8.25Z",
         "fill": "url(#paint4_linear_72095_8534)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -63,14 +68,16 @@ export var paintBrush28Color = [
               {
                 "offset": "0.0853737",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.990707",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -90,14 +97,16 @@ export var paintBrush28Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#AC80FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#5750E2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -117,14 +126,16 @@ export var paintBrush28Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#5750E2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -143,14 +154,16 @@ export var paintBrush28Color = [
               "stop",
               {
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#EB4824"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -169,14 +182,16 @@ export var paintBrush28Color = [
               "stop",
               {
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#EB4824"
-              }
+              },
+              []
             ]
           ]
         ]

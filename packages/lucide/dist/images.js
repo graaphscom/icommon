@@ -16,13 +16,15 @@ export var images = [
       "path",
       {
         "d": "m22 11-1.296-1.296a2.4 2.4 0 0 0-3.408 0L11 16"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 8a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -31,7 +33,8 @@ export var images = [
         "cy": "7",
         "fill": "currentColor",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -41,7 +44,8 @@ export var images = [
         "width": "14",
         "x": "8",
         "y": "2"
-      }
+      },
+      []
     ]
   ]
 ];

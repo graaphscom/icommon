@@ -16,7 +16,8 @@ export var tvMinimal = [
       "path",
       {
         "d": "M7 21h10"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var tvMinimal = [
         "width": "20",
         "x": "2",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

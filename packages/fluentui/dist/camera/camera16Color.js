@@ -13,7 +13,8 @@ export var camera16Color = [
       {
         "d": "M5.27639 2.82918C5.53048 2.321 6.04988 2 6.61803 2H9.38197C9.95012 2 10.4695 2.321 10.7236 2.82918L11.309 4H12C13.1046 4 14 4.89543 14 6V11C14 12.1046 13.1046 13 12 13H4C2.89543 13 2 12.1046 2 11V6C2 4.89543 2.89543 4 4 4H4.69098L5.27639 2.82918Z",
         "fill": "url(#paint0_radial_378174_9939)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var camera16Color = [
         "d": "M5.27639 2.82918C5.53048 2.321 6.04988 2 6.61803 2H9.38197C9.95012 2 10.4695 2.321 10.7236 2.82918L11.309 4H12C13.1046 4 14 4.89543 14 6V11C14 12.1046 13.1046 13 12 13H4C2.89543 13 2 12.1046 2 11V6C2 4.89543 2.89543 4 4 4H4.69098L5.27639 2.82918Z",
         "fill": "url(#paint1_radial_378174_9939)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -30,21 +32,24 @@ export var camera16Color = [
         "d": "M8 11C9.65685 11 11 9.65685 11 8C11 6.34315 9.65685 5 8 5C6.34315 5 5 6.34315 5 8C5 9.65685 6.34315 11 8 11Z",
         "fill": "url(#paint2_linear_378174_9939)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 8C10 9.10457 9.10457 10 8 10C6.89543 10 6 9.10457 6 8C6 6.89543 6.89543 6 8 6C9.10457 6 10 6.89543 10 8Z",
         "fill": "url(#paint3_radial_378174_9939)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 7C12.5523 7 13 6.55228 13 6C13 5.44772 12.5523 5 12 5C11.4477 5 11 5.44772 11 6C11 6.55228 11.4477 7 12 7Z",
         "fill": "url(#paint4_linear_378174_9939)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -65,21 +70,24 @@ export var camera16Color = [
               "stop",
               {
                 "stopColor": "#F08AF4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.535356",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4E44DB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -98,7 +106,8 @@ export var camera16Color = [
               "stop",
               {
                 "stopColor": "#312A9A"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -106,7 +115,8 @@ export var camera16Color = [
                 "offset": "1",
                 "stopColor": "#312A9A",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -125,14 +135,16 @@ export var camera16Color = [
               "stop",
               {
                 "stopColor": "white"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DECBFF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -152,14 +164,16 @@ export var camera16Color = [
               {
                 "offset": "0.242576",
                 "stopColor": "#3BD5FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2052CB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -178,14 +192,16 @@ export var camera16Color = [
               "stop",
               {
                 "stopColor": "#F08AF4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#F462AB"
-              }
+              },
+              []
             ]
           ]
         ]

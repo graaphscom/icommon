@@ -9,7 +9,8 @@ export var documentLayoutLeft = [
       "path",
       {
         "d": "M21 8h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2zm0 4h-8a1 1 0 0 1 0-2h8a1 1 0 0 1 0 2z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -19,13 +20,15 @@ export var documentLayoutLeft = [
         "width": "8",
         "x": "2",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21 16H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2zm-8 4H3a1 1 0 0 1 0-2h10a1 1 0 0 1 0 2z"
-      }
+      },
+      []
     ]
   ]
 ];

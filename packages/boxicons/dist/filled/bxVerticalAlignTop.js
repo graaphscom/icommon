@@ -11,7 +11,8 @@ export var bxVerticalAlignTop = [
       "path",
       {
         "d": "M2 2H22V4H2z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -22,7 +23,8 @@ export var bxVerticalAlignTop = [
         "width": "6",
         "x": "13",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -33,7 +35,8 @@ export var bxVerticalAlignTop = [
         "width": "6",
         "x": "5",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

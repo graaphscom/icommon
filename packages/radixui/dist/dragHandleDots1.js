@@ -15,7 +15,8 @@ export var dragHandleDots1 = [
         "cy": "2.5",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -24,7 +25,8 @@ export var dragHandleDots1 = [
         "cy": "4.5",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -33,7 +35,8 @@ export var dragHandleDots1 = [
         "cy": "6.499",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -42,7 +45,8 @@ export var dragHandleDots1 = [
         "cy": "8.499",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -51,7 +55,8 @@ export var dragHandleDots1 = [
         "cy": "10.498",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -60,7 +65,8 @@ export var dragHandleDots1 = [
         "cy": "12.498",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -69,7 +75,8 @@ export var dragHandleDots1 = [
         "cy": "2.5",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -78,7 +85,8 @@ export var dragHandleDots1 = [
         "cy": "4.5",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -87,7 +95,8 @@ export var dragHandleDots1 = [
         "cy": "6.499",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -96,7 +105,8 @@ export var dragHandleDots1 = [
         "cy": "8.499",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -105,7 +115,8 @@ export var dragHandleDots1 = [
         "cy": "10.498",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -114,7 +125,8 @@ export var dragHandleDots1 = [
         "cy": "12.498",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -123,7 +135,8 @@ export var dragHandleDots1 = [
         "cy": "2.5",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -132,7 +145,8 @@ export var dragHandleDots1 = [
         "cy": "4.5",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -141,7 +155,8 @@ export var dragHandleDots1 = [
         "cy": "6.499",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -150,7 +165,8 @@ export var dragHandleDots1 = [
         "cy": "8.499",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -159,7 +175,8 @@ export var dragHandleDots1 = [
         "cy": "10.498",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -168,7 +185,8 @@ export var dragHandleDots1 = [
         "cy": "12.498",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -177,7 +195,8 @@ export var dragHandleDots1 = [
         "cy": "2.5",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -186,7 +205,8 @@ export var dragHandleDots1 = [
         "cy": "4.5",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -195,7 +215,8 @@ export var dragHandleDots1 = [
         "cy": "6.499",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -204,7 +225,8 @@ export var dragHandleDots1 = [
         "cy": "8.499",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -213,7 +235,8 @@ export var dragHandleDots1 = [
         "cy": "10.498",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -222,7 +245,8 @@ export var dragHandleDots1 = [
         "cy": "12.498",
         "fill": "currentColor",
         "r": ".6"
-      }
+      },
+      []
     ]
   ]
 ];

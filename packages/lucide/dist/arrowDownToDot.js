@@ -16,13 +16,15 @@ export var arrowDownToDot = [
       "path",
       {
         "d": "M12 2v14"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m19 9-7 7-7-7"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -30,7 +32,8 @@ export var arrowDownToDot = [
         "cx": "12",
         "cy": "21",
         "r": "1"
-      }
+      },
+      []
     ]
   ]
 ];

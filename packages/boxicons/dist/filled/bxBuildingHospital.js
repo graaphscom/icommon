@@ -11,7 +11,8 @@ export var bxBuildingHospital = [
       "path",
       {
         "d": "m20,6h-4v-2c0-1.1-.9-2-2-2H4c-1.1,0-2,.9-2,2v17c0,.55.45,1,1,1h4v-5h4v5h10c.55,0,1-.45,1-1v-13c0-1.1-.9-2-2-2Zm-8,4h-2v2h-2v-2h-2v-2h2v-2h2v2h2v2Zm8,6h-2v-2h2v2Zm0-4h-2v-2h2v2Z"
-      }
+      },
+      []
     ]
   ]
 ];

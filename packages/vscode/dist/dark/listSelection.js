@@ -13,7 +13,8 @@ export var listSelection = [
       {
         "d": "M1 12L1 11H10V12H1ZM1 7H15V8H1L1 7ZM12 3V4H1L1 3H12Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -13,7 +13,8 @@ export var documentEdit24Color = [
       {
         "d": "M14.1875 22H6C4.89543 22 4 21.1046 4 20V4C4 2.89543 4.89543 2 6 2H13L15 7L20 9V16.1875L14.1875 22Z",
         "fill": "url(#paint0_linear_72095_9740)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,42 +22,48 @@ export var documentEdit24Color = [
         "d": "M14.1875 22H6C4.89543 22 4 21.1046 4 20V4C4 2.89543 4.89543 2 6 2H13L15 7L20 9V16.1875L14.1875 22Z",
         "fill": "url(#paint1_radial_72095_9740)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 7.5V2L20 9H14.5C13.6716 9 13 8.32843 13 7.5Z",
         "fill": "url(#paint2_linear_72095_9740)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20.5852 14.4556H17.3437L13.2019 18.6017C13.1393 18.6644 13.08 18.73 13.0242 18.7981V22.0062L16.2747 22.0062C16.3337 21.9565 16.3907 21.9041 16.4455 21.8492L20.5852 17.7049V14.4556Z",
         "fill": "url(#paint3_linear_72095_9740)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16.2793 21.9976C15.9654 22.2632 15.5941 22.4541 15.1934 22.5544L13.3564 23.0141C12.5575 23.2141 11.8338 22.4896 12.0336 21.6898L12.4928 19.8508C12.5903 19.4606 12.7733 19.0983 13.0274 18.7896C13.4037 20.3891 14.6728 21.6438 16.2793 21.9976Z",
         "fill": "url(#paint4_linear_72095_9740)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17.574 14.2349L19.1344 12.6726C20.0301 11.7758 21.4824 11.7758 22.3781 12.6726C23.2738 13.5695 23.2738 15.0233 22.3781 15.9195L20.9371 17.3619L17.574 14.2349Z",
         "fill": "url(#paint5_linear_72095_9740)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21.8244 16.4773C20.2035 16.1209 18.9259 14.8476 18.5616 13.228L17.3352 14.4558C17.6996 16.0753 18.9773 17.3486 20.5982 17.7048L21.8244 16.4773Z",
         "fill": "url(#paint6_linear_72095_9740)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -77,14 +84,16 @@ export var documentEdit24Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -104,7 +113,8 @@ export var documentEdit24Color = [
               {
                 "offset": "0.362364",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -112,7 +122,8 @@ export var documentEdit24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -131,14 +142,16 @@ export var documentEdit24Color = [
               "stop",
               {
                 "stopColor": "#9FF0F9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -157,14 +170,16 @@ export var documentEdit24Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -184,14 +199,16 @@ export var documentEdit24Color = [
               {
                 "offset": "0.255",
                 "stopColor": "#FFD394"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -210,14 +227,16 @@ export var documentEdit24Color = [
               "stop",
               {
                 "stopColor": "#F97DBD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DD3CE2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -236,14 +255,16 @@ export var documentEdit24Color = [
               "stop",
               {
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFE994"
-              }
+              },
+              []
             ]
           ]
         ]

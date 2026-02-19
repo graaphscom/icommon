@@ -13,7 +13,8 @@ export var debugBreakpointLog = [
       {
         "d": "M8 3L13 8L8 13L3 8L8 3Z",
         "fill": "#E51400"
-      }
+      },
+      []
     ]
   ]
 ];

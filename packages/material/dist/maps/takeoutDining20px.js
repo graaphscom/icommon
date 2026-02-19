@@ -18,7 +18,8 @@ export var takeoutDining20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -39,7 +40,8 @@ export var takeoutDining20px = [
                   {
                     "fillRule": "evenodd",
                     "points": "5.22,9 6,16 14,16 14.78,9"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -52,7 +54,8 @@ export var takeoutDining20px = [
                   {
                     "fillRule": "evenodd",
                     "points": "16.3,6 15.14,7.14 12,4 8,4 4.86,7.14 3.7,6 3,6.71 4.31,8 15.69,8 17,6.71"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

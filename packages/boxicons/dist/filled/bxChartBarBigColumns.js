@@ -10,7 +10,8 @@ export var bxChartBarBigColumns = [
       "path",
       {
         "d": "M4 2H2v19c0 .55.45 1 1 1h19v-2H4z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -21,7 +22,8 @@ export var bxChartBarBigColumns = [
         "width": "6",
         "x": "14",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var bxChartBarBigColumns = [
         "width": "6",
         "x": "6",
         "y": "9"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -13,21 +13,24 @@ export var lightbulbCheckmark32Color = [
       {
         "d": "M20.834 25.5L20.4216 27.287C20.0551 28.8751 18.641 30 17.0112 30H14.9888C13.359 30 11.9449 28.8751 11.5784 27.287L11.166 25.5H20.834Z",
         "fill": "url(#paint0_radial_72095_9096)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20.834 25.5L20.4216 27.287C20.0551 28.8751 18.641 30 17.0112 30H14.9888C13.359 30 11.9449 28.8751 11.5784 27.287L11.166 25.5H20.834Z",
         "fill": "url(#paint1_linear_72095_9096)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 2C10.4772 2 6 6.47715 6 12C6 14.9771 7.30225 17.6514 9.36493 19.4818C9.7078 19.7861 9.92612 20.1271 10.0049 20.4685L10.9353 24.5H21.0647L21.9951 20.4685C22.0739 20.1271 22.2922 19.7861 22.6351 19.4818C24.6978 17.6514 26 14.9771 26 12C26 6.47715 21.5228 2 16 2Z",
         "fill": "url(#paint2_radial_72095_9096)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -35,14 +38,16 @@ export var lightbulbCheckmark32Color = [
         "d": "M16 2C10.4772 2 6 6.47715 6 12C6 14.9771 7.30225 17.6514 9.36493 19.4818C9.7078 19.7861 9.92612 20.1271 10.0049 20.4685L10.9353 24.5H21.0647L21.9951 20.4685C22.0739 20.1271 22.2922 19.7861 22.6351 19.4818C24.6978 17.6514 26 14.9771 26 12C26 6.47715 21.5228 2 16 2Z",
         "fill": "url(#paint3_radial_72095_9096)",
         "fillOpacity": "0.2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21.1801 24H10.8198L11.2814 26H20.7185L21.1801 24Z",
         "fill": "url(#paint4_linear_72095_9096)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -51,7 +56,8 @@ export var lightbulbCheckmark32Color = [
         "d": "M30.5 9C30.5 4.85786 27.1421 1.5 23 1.5C18.8579 1.5 15.5 4.85786 15.5 9C15.5 13.1421 18.8579 16.5 23 16.5C27.1421 16.5 30.5 13.1421 30.5 9Z",
         "fill": "url(#paint5_linear_72095_9096)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -60,7 +66,8 @@ export var lightbulbCheckmark32Color = [
         "d": "M27.5303 7.28033C27.8232 6.98744 27.8232 6.51256 27.5303 6.21967C27.2374 5.92678 26.7626 5.92678 26.4697 6.21967L21.75 10.9393L19.7803 8.96967C19.4874 8.67678 19.0126 8.67678 18.7197 8.96967C18.4268 9.26256 18.4268 9.73744 18.7197 10.0303L21.2197 12.5303C21.5126 12.8232 21.9874 12.8232 22.2803 12.5303L27.5303 7.28033Z",
         "fill": "url(#paint6_linear_72095_9096)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -81,21 +88,24 @@ export var lightbulbCheckmark32Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.376456",
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -114,7 +124,8 @@ export var lightbulbCheckmark32Color = [
               "stop",
               {
                 "stopColor": "#D34719"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -122,7 +133,8 @@ export var lightbulbCheckmark32Color = [
                 "offset": "1",
                 "stopColor": "#D34719",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -141,21 +153,24 @@ export var lightbulbCheckmark32Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.376456",
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -175,7 +190,8 @@ export var lightbulbCheckmark32Color = [
               {
                 "offset": "0.165145",
                 "stopColor": "#741C06"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -183,7 +199,8 @@ export var lightbulbCheckmark32Color = [
                 "offset": "1",
                 "stopColor": "#741C06",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -202,14 +219,16 @@ export var lightbulbCheckmark32Color = [
               "stop",
               {
                 "stopColor": "#FFC7A3"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF9C70"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -228,14 +247,16 @@ export var lightbulbCheckmark32Color = [
               "stop",
               {
                 "stopColor": "#52D17C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#22918B"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -254,14 +275,16 @@ export var lightbulbCheckmark32Color = [
               "stop",
               {
                 "stopColor": "white"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E3FFD9"
-              }
+              },
+              []
             ]
           ]
         ]

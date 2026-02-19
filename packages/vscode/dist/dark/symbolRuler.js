@@ -15,7 +15,8 @@ export var symbolRuler = [
         "d": "M4 1L3 2V14L4 15H12L13 14V2L12 1H4ZM4 3V2H12V14H4V13H6V12H4V10H8V9H4V7H6V6H4V4H8V3H4Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

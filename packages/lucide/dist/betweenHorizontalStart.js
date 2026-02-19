@@ -20,13 +20,15 @@ export var betweenHorizontalStart = [
         "width": "13",
         "x": "8",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m2 9 3 3-3 3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -36,7 +38,8 @@ export var betweenHorizontalStart = [
         "width": "13",
         "x": "8",
         "y": "14"
-      }
+      },
+      []
     ]
   ]
 ];

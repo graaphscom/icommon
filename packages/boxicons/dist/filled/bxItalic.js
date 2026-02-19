@@ -10,7 +10,8 @@ export var bxItalic = [
       "path",
       {
         "d": "M19 4H9v2h3.67L9.25 18H5v2h10v-2h-3.67l3.42-12H19z"
-      }
+      },
+      []
     ]
   ]
 ];

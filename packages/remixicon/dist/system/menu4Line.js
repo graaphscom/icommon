@@ -10,7 +10,8 @@ export var menu4Line = [
       "path",
       {
         "d": "M16 18V20H5V18H16ZM21 11V13H3V11H21ZM19 4V6H8V4H19Z"
-      }
+      },
+      []
     ]
   ]
 ];

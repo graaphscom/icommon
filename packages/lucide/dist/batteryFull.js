@@ -16,25 +16,29 @@ export var batteryFull = [
       "path",
       {
         "d": "M10 10v4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 10v4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 14v-4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 10v4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -44,7 +48,8 @@ export var batteryFull = [
         "width": "16",
         "x": "2",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

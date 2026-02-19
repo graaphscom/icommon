@@ -20,13 +20,15 @@ export var squareActivity = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 12h-2l-2 5-2-10-2 5H7"
-      }
+      },
+      []
     ]
   ]
 ];

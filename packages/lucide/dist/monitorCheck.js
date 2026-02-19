@@ -16,7 +16,8 @@ export var monitorCheck = [
       "path",
       {
         "d": "m9 10 2 2 4-4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,19 +27,22 @@ export var monitorCheck = [
         "width": "20",
         "x": "2",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 17v4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 21h8"
-      }
+      },
+      []
     ]
   ]
 ];

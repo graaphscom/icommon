@@ -15,7 +15,8 @@ export var bxGridColumnRight = [
         "width": "8",
         "x": "13",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var bxGridColumnRight = [
         "width": "8",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -37,7 +39,8 @@ export var bxGridColumnRight = [
         "width": "8",
         "x": "3",
         "y": "13"
-      }
+      },
+      []
     ]
   ]
 ];

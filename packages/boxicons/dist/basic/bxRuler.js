@@ -10,7 +10,8 @@ export var bxRuler = [
       "path",
       {
         "d": "M22 7H2c-.55 0-1 .45-1 1v8c0 .55.45 1 1 1h20c.55 0 1-.45 1-1V8c0-.55-.45-1-1-1m-1 8H3V9h2v3h2V9h2v4h2V9h2v3h2V9h2v4h2V9h2z"
-      }
+      },
+      []
     ]
   ]
 ];

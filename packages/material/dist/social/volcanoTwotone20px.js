@@ -18,7 +18,8 @@ export var volcanoTwotone20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -35,7 +36,8 @@ export var volcanoTwotone20px = [
               {
                 "opacity": ".3",
                 "points": "13.85,8.5 10.17,8.5 9.46,11.36 9.17,12.5 8,12.5 5.99,12.5 4.27,16.5 16.04,16.5"
-              }
+              },
+              []
             ],
             [
               "g",
@@ -45,7 +47,8 @@ export var volcanoTwotone20px = [
                   "path",
                   {
                     "d": "M15,7H9l-1,4H5l-3,7h16L15,7z M5.99,12.5H8h1.17l0.28-1.14l0.72-2.86h3.68l2.18,8H4.27L5.99,12.5z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -60,7 +63,8 @@ export var volcanoTwotone20px = [
                     "width": "1.5",
                     "x": "11.25",
                     "y": "1"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -76,7 +80,8 @@ export var volcanoTwotone20px = [
                     "width": "3",
                     "x": "13.69",
                     "y": "3.05"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -92,7 +97,8 @@ export var volcanoTwotone20px = [
                     "width": "1.5",
                     "x": "8.06",
                     "y": "2.3"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

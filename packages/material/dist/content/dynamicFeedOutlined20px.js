@@ -20,7 +20,8 @@ export var dynamicFeedOutlined20px = [
             "width": "20",
             "x": "0",
             "y": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -28,10 +29,6 @@ export var dynamicFeedOutlined20px = [
       "g",
       {},
       [
-        [
-          "g",
-          {}
-        ],
         [
           "g",
           {},
@@ -44,7 +41,8 @@ export var dynamicFeedOutlined20px = [
                   "path",
                   {
                     "d": "M4,8H3v7c0,0.55,0.45,1,1,1h9v-1H4V8z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -56,7 +54,8 @@ export var dynamicFeedOutlined20px = [
                   "path",
                   {
                     "d": "M6,6H5v7c0,0.55,0.45,1,1,1h9v-1H6V6z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -68,7 +67,8 @@ export var dynamicFeedOutlined20px = [
                   "path",
                   {
                     "d": "M16,4H8C7.45,4,7,4.45,7,5v6c0,0.55,0.45,1,1,1h8c0.55,0,1-0.45,1-1V5C17,4.45,16.55,4,16,4z M16,11H8V7h8V11z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]
@@ -86,21 +86,24 @@ export var dynamicFeedOutlined20px = [
           "g",
           {
             "display": "inline"
-          }
+          },
+          []
         ],
         [
           "path",
           {
             "d": "M4,15V8H3v7c0,0.55,0.45,1,1,1h9v-1H4z",
             "display": "inline"
-          }
+          },
+          []
         ],
         [
           "path",
           {
             "d": "M6,13V6H5v7c0,0.55,0.45,1,1,1h9v-1H6z",
             "display": "inline"
-          }
+          },
+          []
         ],
         [
           "g",
@@ -112,7 +115,8 @@ export var dynamicFeedOutlined20px = [
               "path",
               {
                 "d": "M16,5v6H8V5H16 M16,4H8C7.45,4,7,4.45,7,5v6c0,0.55,0.45,1,1,1h8c0.55,0,1-0.45,1-1V5C17,4.45,16.55,4,16,4L16,4z"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -129,7 +133,8 @@ export var dynamicFeedOutlined20px = [
                 "width": "8",
                 "x": "8",
                 "y": "5"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -20,7 +20,8 @@ export var alignHorizontalSpaceBetween = [
         "width": "6",
         "x": "3",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,19 +31,22 @@ export var alignHorizontalSpaceBetween = [
         "width": "6",
         "x": "15",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 2v20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21 2v20"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -15,7 +15,8 @@ export var debugReverseContinue = [
         "d": "M13.5 2H12V2.24001L12 14L13.5 14L13.5 2ZM10 2.18094V14L0.999998 8.06218L10 2.18094ZM3.68522 8.06218L8.49976 5L8.49976 11.1809L3.68522 8.06218Z",
         "fill": "#75BEFF",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

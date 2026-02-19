@@ -13,7 +13,8 @@ export var splitHorizontal = [
       {
         "d": "M14 1H3L2 2V13L3 14H14L15 13V2L14 1ZM8 13H3V2H8V13ZM14 13H9V2H14V13Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ]
   ]
 ];

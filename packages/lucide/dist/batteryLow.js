@@ -16,13 +16,15 @@ export var batteryLow = [
       "path",
       {
         "d": "M22 14v-4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 14v-4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var batteryLow = [
         "width": "16",
         "x": "2",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

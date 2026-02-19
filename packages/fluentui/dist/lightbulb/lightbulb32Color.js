@@ -13,28 +13,32 @@ export var lightbulb32Color = [
       {
         "d": "M20.834 25.5L20.4216 27.287C20.0551 28.8751 18.641 30 17.0112 30H14.9888C13.359 30 11.9449 28.8751 11.5784 27.287L11.166 25.5H20.834Z",
         "fill": "url(#paint0_radial_72095_9047)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20.834 25.5L20.4216 27.287C20.0551 28.8751 18.641 30 17.0112 30H14.9888C13.359 30 11.9449 28.8751 11.5784 27.287L11.166 25.5H20.834Z",
         "fill": "url(#paint1_linear_72095_9047)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 2C10.4772 2 6 6.47715 6 12C6 14.9771 7.30225 17.6514 9.36493 19.4818C9.7078 19.7861 9.92612 20.1271 10.0049 20.4685L10.9353 24.5H21.0647L21.9951 20.4685C22.0739 20.1271 22.2922 19.7861 22.6351 19.4818C24.6978 17.6514 26 14.9771 26 12C26 6.47715 21.5228 2 16 2Z",
         "fill": "url(#paint2_radial_72095_9047)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21.1801 24H10.8198L11.2814 26H20.7185L21.1801 24Z",
         "fill": "url(#paint3_linear_72095_9047)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -55,21 +59,24 @@ export var lightbulb32Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.376456",
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -88,7 +95,8 @@ export var lightbulb32Color = [
               "stop",
               {
                 "stopColor": "#D34719"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -96,7 +104,8 @@ export var lightbulb32Color = [
                 "offset": "1",
                 "stopColor": "#D34719",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -115,21 +124,24 @@ export var lightbulb32Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.376456",
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -148,14 +160,16 @@ export var lightbulb32Color = [
               "stop",
               {
                 "stopColor": "#FFC7A3"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF9C70"
-              }
+              },
+              []
             ]
           ]
         ]

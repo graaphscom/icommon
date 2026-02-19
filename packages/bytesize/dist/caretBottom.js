@@ -17,7 +17,8 @@ export var caretBottom = [
       "path",
       {
         "d": "M30 10 L16 26 2 10 Z"
-      }
+      },
+      []
     ]
   ]
 ];

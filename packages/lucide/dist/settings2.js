@@ -16,13 +16,15 @@ export var settings2 = [
       "path",
       {
         "d": "M14 17H5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 7h-9"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -30,7 +32,8 @@ export var settings2 = [
         "cx": "17",
         "cy": "17",
         "r": "3"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -38,7 +41,8 @@ export var settings2 = [
         "cx": "7",
         "cy": "7",
         "r": "3"
-      }
+      },
+      []
     ]
   ]
 ];

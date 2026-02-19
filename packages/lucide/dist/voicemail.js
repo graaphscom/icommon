@@ -18,7 +18,8 @@ export var voicemail = [
         "cx": "6",
         "cy": "12",
         "r": "4"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -26,7 +27,8 @@ export var voicemail = [
         "cx": "18",
         "cy": "12",
         "r": "4"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -35,7 +37,8 @@ export var voicemail = [
         "x2": "18",
         "y1": "16",
         "y2": "16"
-      }
+      },
+      []
     ]
   ]
 ];

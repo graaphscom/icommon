@@ -20,7 +20,8 @@ export var pause = [
         "width": "5",
         "x": "14",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var pause = [
         "width": "5",
         "x": "5",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

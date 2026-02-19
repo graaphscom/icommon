@@ -16,7 +16,8 @@ export var tableProperties = [
       "path",
       {
         "d": "M15 3v18"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,19 +27,22 @@ export var tableProperties = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21 9H3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21 15H3"
-      }
+      },
+      []
     ]
   ]
 ];

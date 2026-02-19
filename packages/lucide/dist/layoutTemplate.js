@@ -20,7 +20,8 @@ export var layoutTemplate = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var layoutTemplate = [
         "width": "9",
         "x": "3",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -40,7 +42,8 @@ export var layoutTemplate = [
         "width": "5",
         "x": "16",
         "y": "14"
-      }
+      },
+      []
     ]
   ]
 ];

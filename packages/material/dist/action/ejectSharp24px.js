@@ -12,13 +12,15 @@ export var ejectSharp24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 17h14v2H5v-2zm7-12L5.33 15h13.34L12 5z"
-      }
+      },
+      []
     ]
   ]
 ];

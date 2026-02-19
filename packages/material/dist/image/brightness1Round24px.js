@@ -18,7 +18,8 @@ export var brightness1Round24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -44,7 +45,8 @@ export var brightness1Round24px = [
                         "cx": "12",
                         "cy": "12",
                         "r": "10"
-                      }
+                      },
+                      []
                     ]
                   ]
                 ]

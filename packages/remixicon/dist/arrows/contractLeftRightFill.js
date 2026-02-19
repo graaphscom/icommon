@@ -10,7 +10,8 @@ export var contractLeftRightFill = [
       "path",
       {
         "d": "M5 18 11 12 5 6V18ZM19 6 13 12 19 18V6Z"
-      }
+      },
+      []
     ]
   ]
 ];

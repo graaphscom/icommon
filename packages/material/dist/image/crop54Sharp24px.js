@@ -18,7 +18,8 @@ export var crop54Sharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var crop54Sharp24px = [
                   "path",
                   {
                     "d": "M21,4H3v16h18V4z M19,18H5V6h14V18z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

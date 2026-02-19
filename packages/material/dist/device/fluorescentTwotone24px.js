@@ -17,7 +17,8 @@ export var fluorescentTwotone24px = [
           {
             "d": "M0,0h24v24H0V0z",
             "fill": "none"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,13 +38,15 @@ export var fluorescentTwotone24px = [
                 "width": "10",
                 "x": "7",
                 "y": "11"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M5,15h14V9H5V15z M7,11h10v2H7V11z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -52,7 +55,8 @@ export var fluorescentTwotone24px = [
                 "width": "2",
                 "x": "11",
                 "y": "2"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -62,7 +66,8 @@ export var fluorescentTwotone24px = [
                 "width": "2.54",
                 "x": "17.62",
                 "y": "5.2"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -71,13 +76,15 @@ export var fluorescentTwotone24px = [
                 "width": "2",
                 "x": "11",
                 "y": "19"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "17.29,17.71 19.08,19.51 20.5,18.09 18.7,16.3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -87,7 +94,8 @@ export var fluorescentTwotone24px = [
                 "width": "1.99",
                 "x": "4.1",
                 "y": "4.93"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -97,7 +105,8 @@ export var fluorescentTwotone24px = [
                 "width": "2.54",
                 "x": "3.83",
                 "y": "16.89"
-              }
+              },
+              []
             ]
           ]
         ]

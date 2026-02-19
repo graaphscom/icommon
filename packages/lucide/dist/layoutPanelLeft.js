@@ -20,7 +20,8 @@ export var layoutPanelLeft = [
         "width": "7",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var layoutPanelLeft = [
         "width": "7",
         "x": "14",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -40,7 +42,8 @@ export var layoutPanelLeft = [
         "width": "7",
         "x": "14",
         "y": "14"
-      }
+      },
+      []
     ]
   ]
 ];

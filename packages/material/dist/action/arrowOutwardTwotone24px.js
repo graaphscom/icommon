@@ -18,7 +18,8 @@ export var arrowOutwardTwotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var arrowOutwardTwotone24px = [
           "polygon",
           {
             "points": "6,6 6,8 14.59,8 5,17.59 6.41,19 16,9.41 16,18 18,18 18,6"
-          }
+          },
+          []
         ]
       ]
     ]

@@ -12,13 +12,15 @@ export var videocamSharp24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 10.5V6H3v12h14v-4.5l4 4v-11l-4 4z"
-      }
+      },
+      []
     ]
   ]
 ];

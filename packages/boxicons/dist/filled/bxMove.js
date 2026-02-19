@@ -10,7 +10,8 @@ export var bxMove = [
       "path",
       {
         "d": "M18 11h-5V6h4l-5-5-5 5h4v5H6V7l-5 5 5 5v-4h5v5H7l5 5 5-5h-4v-5h5v4l5-5-5-5z"
-      }
+      },
+      []
     ]
   ]
 ];

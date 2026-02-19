@@ -13,21 +13,24 @@ export var lockClosed32Color = [
       {
         "d": "M22 8V9.5H20V8C20 5.79086 18.2091 4 16 4C13.7909 4 12 5.79086 12 8V9.5H10V8C10 4.68629 12.6863 2 16 2C19.3137 2 22 4.68629 22 8Z",
         "fill": "url(#paint0_linear_72095_9071)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M28 13.5C28 11.0147 25.9853 9 23.5 9H8.5C6.01472 9 4 11.0147 4 13.5V25.5C4 27.9853 6.01472 30 8.5 30H23.5C25.9853 30 28 27.9853 28 25.5V13.5Z",
         "fill": "url(#paint1_linear_72095_9071)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M18 20C18 21.1046 17.1046 22 16 22C14.8954 22 14 21.1046 14 20C14 18.8954 14.8954 18 16 18C17.1046 18 18 18.8954 18 20Z",
         "fill": "url(#paint2_radial_72095_9071)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -48,14 +51,16 @@ export var lockClosed32Color = [
               "stop",
               {
                 "stopColor": "#FFC205"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -74,14 +79,16 @@ export var lockClosed32Color = [
               "stop",
               {
                 "stopColor": "#FF6F47"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -100,14 +107,16 @@ export var lockClosed32Color = [
               "stop",
               {
                 "stopColor": "#944600"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#CD8E02"
-              }
+              },
+              []
             ]
           ]
         ]

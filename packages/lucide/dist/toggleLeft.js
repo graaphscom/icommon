@@ -18,7 +18,8 @@ export var toggleLeft = [
         "cx": "9",
         "cy": "12",
         "r": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -28,7 +29,8 @@ export var toggleLeft = [
         "width": "20",
         "x": "2",
         "y": "5"
-      }
+      },
+      []
     ]
   ]
 ];

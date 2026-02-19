@@ -19,7 +19,8 @@ export var signalCellularAlt1BarOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -31,7 +32,8 @@ export var signalCellularAlt1BarOutlined20px = [
           "path",
           {
             "d": "M5,16h2v-5H5V16z"
-          }
+          },
+          []
         ]
       ]
     ]

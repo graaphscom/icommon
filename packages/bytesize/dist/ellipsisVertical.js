@@ -19,7 +19,8 @@ export var ellipsisVertical = [
         "cx": "16",
         "cy": "7",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -27,7 +28,8 @@ export var ellipsisVertical = [
         "cx": "16",
         "cy": "16",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -35,7 +37,8 @@ export var ellipsisVertical = [
         "cx": "16",
         "cy": "25",
         "r": "2"
-      }
+      },
+      []
     ]
   ]
 ];

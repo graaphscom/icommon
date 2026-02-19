@@ -15,7 +15,8 @@ export var bxPause = [
         "width": "5",
         "x": "6",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var bxPause = [
         "width": "5",
         "x": "13",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -16,13 +16,15 @@ export var galleryHorizontalEnd = [
       "path",
       {
         "d": "M2 7v10"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 5v14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var galleryHorizontalEnd = [
         "width": "12",
         "x": "10",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

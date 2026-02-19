@@ -10,7 +10,8 @@ export var bxDotsHorizontal = [
       "path",
       {
         "d": "M10 10h4v4h-4zM16 10h4v4h-4zM4 10h4v4H4z"
-      }
+      },
+      []
     ]
   ]
 ];

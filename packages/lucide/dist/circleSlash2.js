@@ -16,7 +16,8 @@ export var circleSlash2 = [
       "path",
       {
         "d": "M22 2 2 22"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -24,7 +25,8 @@ export var circleSlash2 = [
         "cx": "12",
         "cy": "12",
         "r": "10"
-      }
+      },
+      []
     ]
   ]
 ];

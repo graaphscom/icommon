@@ -18,7 +18,8 @@ export var signalCellularAlt1BarSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var signalCellularAlt1BarSharp20px = [
           "path",
           {
             "d": "M5,16h2v-5H5V16z"
-          }
+          },
+          []
         ]
       ]
     ]

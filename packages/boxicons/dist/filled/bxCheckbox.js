@@ -15,7 +15,8 @@ export var bxCheckbox = [
         "width": "14",
         "x": "5",
         "y": "5"
-      }
+      },
+      []
     ]
   ]
 ];

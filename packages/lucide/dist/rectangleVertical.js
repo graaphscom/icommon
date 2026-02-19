@@ -20,7 +20,8 @@ export var rectangleVertical = [
         "width": "12",
         "x": "6",
         "y": "2"
-      }
+      },
+      []
     ]
   ]
 ];

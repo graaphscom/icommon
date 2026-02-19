@@ -16,7 +16,8 @@ export var bxDashboardAlt = [
         "width": "8",
         "x": "13",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -27,7 +28,8 @@ export var bxDashboardAlt = [
         "width": "8",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -38,7 +40,8 @@ export var bxDashboardAlt = [
         "width": "8",
         "x": "13",
         "y": "15"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -49,7 +52,8 @@ export var bxDashboardAlt = [
         "width": "8",
         "x": "3",
         "y": "11"
-      }
+      },
+      []
     ]
   ]
 ];

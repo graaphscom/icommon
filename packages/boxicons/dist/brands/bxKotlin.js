@@ -10,7 +10,8 @@ export var bxKotlin = [
       "path",
       {
         "d": "M21 3H3v18h18l-9-9z"
-      }
+      },
+      []
     ]
   ]
 ];

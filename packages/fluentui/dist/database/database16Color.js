@@ -13,7 +13,8 @@ export var database16Color = [
       {
         "d": "M3 12.5V3.49994C4.057 4.42594 5.864 5.01294 8 5.01294C10.136 5.01294 11.943 4.42594 13 3.49994V12.5C13 13.925 10.851 15 8 15C5.149 15 3 13.925 3 12.5Z",
         "fill": "url(#paint0_linear_72095_9533)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,14 +22,16 @@ export var database16Color = [
         "d": "M3 12.5V3.49994C4.057 4.42594 5.864 5.01294 8 5.01294C10.136 5.01294 11.943 4.42594 13 3.49994V12.5C13 13.925 10.851 15 8 15C5.149 15 3 13.925 3 12.5Z",
         "fill": "url(#paint1_linear_72095_9533)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 3.5C13 4.88071 10.7614 6 8 6C5.23858 6 3 4.88071 3 3.5C3 2.11929 5.23858 1 8 1C10.7614 1 13 2.11929 13 3.5Z",
         "fill": "url(#paint2_linear_72095_9533)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -49,14 +52,16 @@ export var database16Color = [
               "stop",
               {
                 "stopColor": "#29C3FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#367AF2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -77,14 +82,16 @@ export var database16Color = [
                 "offset": "0.53288",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF6CE8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -103,14 +110,16 @@ export var database16Color = [
               "stop",
               {
                 "stopColor": "#58AAFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -10,7 +10,8 @@ export var bxCaretRightSquare = [
       "path",
       {
         "d": "M3 19c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2zm7-12 6 5-6 5z"
-      }
+      },
+      []
     ]
   ]
 ];

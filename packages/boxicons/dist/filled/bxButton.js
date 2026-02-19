@@ -16,7 +16,8 @@ export var bxButton = [
         "width": "20",
         "x": "2",
         "y": "7"
-      }
+      },
+      []
     ]
   ]
 ];

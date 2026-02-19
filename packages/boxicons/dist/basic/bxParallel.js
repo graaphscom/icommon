@@ -11,13 +11,15 @@ export var bxParallel = [
       "path",
       {
         "d": "M14 5H16V19H14z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 5H10V19H8z"
-      }
+      },
+      []
     ]
   ]
 ];

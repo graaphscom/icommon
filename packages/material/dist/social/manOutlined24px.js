@@ -18,7 +18,8 @@ export var manOutlined24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var manOutlined24px = [
               "path",
               {
                 "d": "M14,7h-4C8.9,7,8,7.9,8,9v6h2v7h4v-7h2V9C16,7.9,15.1,7,14,7z"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -42,7 +44,8 @@ export var manOutlined24px = [
                 "cx": "12",
                 "cy": "4",
                 "r": "2"
-              }
+              },
+              []
             ]
           ]
         ]

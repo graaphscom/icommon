@@ -18,7 +18,8 @@ export var solarPower24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,25 +35,29 @@ export var solarPower24px = [
               "polygon",
               {
                 "points": "3.33,16 11,16 11,13 4,13"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "13,16 20.67,16 20,13 13,13"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "21.11,18 13,18 13,22 22,22"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "2,22 11,22 11,18 2.89,18"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -61,7 +66,8 @@ export var solarPower24px = [
                 "width": "2",
                 "x": "11",
                 "y": "8"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -71,7 +77,8 @@ export var solarPower24px = [
                 "width": "2",
                 "x": "16.53",
                 "y": "6.06"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -81,7 +88,8 @@ export var solarPower24px = [
                 "width": "3",
                 "x": "4.97",
                 "y": "6.56"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -90,7 +98,8 @@ export var solarPower24px = [
                 "width": "3",
                 "x": "3",
                 "y": "2"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -99,13 +108,15 @@ export var solarPower24px = [
                 "width": "3",
                 "x": "18",
                 "y": "2"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M12,7c2.76,0,5-2.24,5-5H7C7,4.76,9.24,7,12,7z"
-              }
+              },
+              []
             ]
           ]
         ]

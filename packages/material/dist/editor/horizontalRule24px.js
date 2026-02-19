@@ -19,7 +19,8 @@ export var horizontalRule24px = [
             "fillRule": "evenodd",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -29,7 +30,8 @@ export var horizontalRule24px = [
             "width": "16",
             "x": "4",
             "y": "11"
-          }
+          },
+          []
         ]
       ]
     ]

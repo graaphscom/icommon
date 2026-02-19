@@ -10,13 +10,15 @@ export var bxChartGantt = [
       "path",
       {
         "d": "M4 2H2v19c0 .55.45 1 1 1h19v-2H4z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 8h6v2H6zM9 12h6v2H9zM13 16h6v2h-6zM11 4h8v2h-8z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -18,7 +18,8 @@ export var quickreplySharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var quickreplySharp20px = [
                   "polygon",
                   {
                     "points": "17,3 3,3 3,17 6,14 13,14 13,9 17,9"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var quickreplySharp20px = [
                   "polygon",
                   {
                     "points": "18,13 16.4,13 17.64,10 14,10 14,14.36 15.45,14.36 15.45,18"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

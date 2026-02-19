@@ -13,7 +13,8 @@ export var diffRemoved = [
       {
         "d": "M10 7L10 8L5 8L5 7L10 7Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -22,7 +23,8 @@ export var diffRemoved = [
         "d": "M1.5 1H13.5L14 1.5V13.5L13.5 14H1.5L1 13.5V1.5L1.5 1ZM2 13H13V2H2V13Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

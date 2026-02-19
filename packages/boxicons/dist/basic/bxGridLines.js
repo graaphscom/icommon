@@ -11,7 +11,8 @@ export var bxGridLines = [
       "path",
       {
         "d": "m17,2h-2v5h-6V2h-2v5H2v2h5v6H2v2h5v5h2v-5h6v5h2v-5h5v-2h-5v-6h5v-2h-5V2Zm-2,7v6h-6v-6h6Z"
-      }
+      },
+      []
     ]
   ]
 ];

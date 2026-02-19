@@ -20,19 +20,22 @@ export var panelsLeftBottom = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 3v18"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 15h12"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -19,7 +19,8 @@ export var viewAgendaSharp20px = [
             "height": "20",
             "width": "20",
             "y": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var viewAgendaSharp20px = [
                 "width": "14",
                 "x": "3",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -47,7 +49,8 @@ export var viewAgendaSharp20px = [
                 "width": "14",
                 "x": "3",
                 "y": "11"
-              }
+              },
+              []
             ]
           ]
         ]

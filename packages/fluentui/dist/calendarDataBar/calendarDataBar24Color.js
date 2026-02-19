@@ -13,14 +13,16 @@ export var calendarDataBar24Color = [
       {
         "d": "M21 7.5V17.75C21 19.5449 19.5449 21 17.75 21H6.25C4.45507 21 3 19.5449 3 17.75V7.5L12 6.5L21 7.5Z",
         "fill": "url(#paint0_linear_72095_10165)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21 7.5V17.75C21 19.5449 19.5449 21 17.75 21H6.25C4.45507 21 3 19.5449 3 17.75V7.5L12 6.5L21 7.5Z",
         "fill": "url(#paint1_linear_72095_10165)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -28,7 +30,8 @@ export var calendarDataBar24Color = [
         "d": "M21 7.5V17.75C21 19.5449 19.5449 21 17.75 21H6.25C4.45507 21 3 19.5449 3 17.75V7.5L12 6.5L21 7.5Z",
         "fill": "url(#paint2_radial_72095_10165)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -36,7 +39,8 @@ export var calendarDataBar24Color = [
         "d": "M21 7.5V17.75C21 19.5449 19.5449 21 17.75 21H6.25C4.45507 21 3 19.5449 3 17.75V7.5L12 6.5L21 7.5Z",
         "fill": "url(#paint3_radial_72095_10165)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -44,35 +48,40 @@ export var calendarDataBar24Color = [
         "d": "M21 7.5V17.75C21 19.5449 19.5449 21 17.75 21H6.25C4.45507 21 3 19.5449 3 17.75V7.5L12 6.5L21 7.5Z",
         "fill": "url(#paint4_radial_72095_10165)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17.75 3C19.5449 3 21 4.45507 21 6.25V8H3V6.25C3 4.45507 4.45507 3 6.25 3H17.75Z",
         "fill": "url(#paint5_linear_72095_10165)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20 15.5C20 14.6716 20.6716 14 21.5 14C22.3284 14 23 14.6716 23 15.5V21.5C23 22.3284 22.3284 23 21.5 23C20.6716 23 20 22.3284 20 21.5V15.5Z",
         "fill": "url(#paint6_linear_72095_10165)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17.5 12C16.6716 12 16 12.6716 16 13.5V21.5C16 22.3284 16.6716 23 17.5 23C18.3284 23 19 22.3284 19 21.5V13.5C19 12.6716 18.3284 12 17.5 12Z",
         "fill": "url(#paint7_linear_72095_10165)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13.5 16C12.6716 16 12 16.6716 12 17.5V21.5C12 22.3284 12.6716 23 13.5 23C14.3284 23 15 22.3284 15 21.5V17.5C15 16.6716 14.3284 16 13.5 16Z",
         "fill": "url(#paint8_linear_72095_10165)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -93,14 +102,16 @@ export var calendarDataBar24Color = [
               "stop",
               {
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#8CD0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -120,7 +131,8 @@ export var calendarDataBar24Color = [
               {
                 "stopColor": "#DCF8FF",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -128,7 +140,8 @@ export var calendarDataBar24Color = [
                 "offset": "1",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0.7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -148,7 +161,8 @@ export var calendarDataBar24Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -156,7 +170,8 @@ export var calendarDataBar24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -176,7 +191,8 @@ export var calendarDataBar24Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -184,7 +200,8 @@ export var calendarDataBar24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -204,7 +221,8 @@ export var calendarDataBar24Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -212,7 +230,8 @@ export var calendarDataBar24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -231,14 +250,16 @@ export var calendarDataBar24Color = [
               "stop",
               {
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -257,14 +278,16 @@ export var calendarDataBar24Color = [
               "stop",
               {
                 "stopColor": "#D7257D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E656EB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -283,14 +306,16 @@ export var calendarDataBar24Color = [
               "stop",
               {
                 "stopColor": "#5B2AB5"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DD3CE2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -309,14 +334,16 @@ export var calendarDataBar24Color = [
               "stop",
               {
                 "stopColor": "#16BBDA"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2052CB"
-              }
+              },
+              []
             ]
           ]
         ]

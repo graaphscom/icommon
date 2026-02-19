@@ -13,7 +13,8 @@ export var documentEdit16Color = [
       {
         "d": "M9.5 4.5L8.00364 1H4.5C3.67157 1 3 1.67157 3 2.5V13.5C3 14.3284 3.67157 15 4.5 15H9.5L12.9938 11.5062L13 6L9.5 4.5Z",
         "fill": "url(#paint0_linear_72095_9754)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var documentEdit16Color = [
         "d": "M9.5 4.5L8.00364 1H4.5C3.67157 1 3 1.67157 3 2.5V13.5C3 14.3284 3.67157 15 4.5 15H9.5L12.9938 11.5062L13 6L9.5 4.5Z",
         "fill": "url(#paint1_radial_72095_9754)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,42 +31,48 @@ export var documentEdit16Color = [
         "d": "M9.5 4.5L8.00364 1H4.5C3.67157 1 3 1.67157 3 2.5V13.5C3 14.3284 3.67157 15 4.5 15H9.5L12.9938 11.5062L13 6L9.5 4.5Z",
         "fill": "url(#paint2_radial_72095_9754)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 4.5V1L13 6H9.5C8.67157 6 8 5.32843 8 4.5Z",
         "fill": "url(#paint3_linear_72095_9754)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13.5 9.5H11.29L8.04867 12.7414C7.82116 12.9689 7.63592 13.2332 7.5 13.5218V15.5H9.46812C9.75941 15.3638 10.0261 15.1774 10.2554 14.9481L13.5 11.7035L13.5 9.5Z",
         "fill": "url(#paint4_linear_72095_9754)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7.93165 12.8658C8.27915 13.8996 9.09616 14.7177 10.1292 15.0667C9.79651 15.3603 9.39755 15.5705 8.96542 15.6785L7.75448 15.9812C7.30823 16.0928 6.90401 15.6886 7.01557 15.2423L7.31824 14.0314L7.32693 13.9978C7.43751 13.5778 7.64488 13.1903 7.93165 12.8658Z",
         "fill": "url(#paint5_linear_72095_9754)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12.3362 8.45375C12.5274 8.26256 12.7559 8.13136 12.9982 8.06014C13.5283 7.90433 14.1248 8.03555 14.543 8.45375C15.1524 9.06312 15.1524 10.0511 14.543 10.6605L13.3518 11.8517L11.145 9.64499L12.3362 8.45375Z",
         "fill": "url(#paint6_linear_72095_9754)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13.1849 12.0186L14.1348 11.0686C13.0972 10.7201 12.2768 9.89854 11.9297 8.86023L10.9797 9.81024C11.3268 10.8486 12.1472 11.6701 13.1849 12.0186Z",
         "fill": "url(#paint7_linear_72095_9754)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -85,14 +93,16 @@ export var documentEdit16Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -112,7 +122,8 @@ export var documentEdit16Color = [
               {
                 "offset": "0.362364",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -120,7 +131,8 @@ export var documentEdit16Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -140,7 +152,8 @@ export var documentEdit16Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -148,7 +161,8 @@ export var documentEdit16Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -167,14 +181,16 @@ export var documentEdit16Color = [
               "stop",
               {
                 "stopColor": "#9FF0F9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -193,14 +209,16 @@ export var documentEdit16Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -220,14 +238,16 @@ export var documentEdit16Color = [
               {
                 "offset": "0.255",
                 "stopColor": "#FFD394"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -246,14 +266,16 @@ export var documentEdit16Color = [
               "stop",
               {
                 "stopColor": "#F97DBD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DD3CE2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -272,14 +294,16 @@ export var documentEdit16Color = [
               "stop",
               {
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFE994"
-              }
+              },
+              []
             ]
           ]
         ]

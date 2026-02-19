@@ -19,7 +19,8 @@ export var torus = [
         "cy": "11",
         "rx": "3",
         "ry": "2"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -28,7 +29,8 @@ export var torus = [
         "cy": "12.5",
         "rx": "10",
         "ry": "8.5"
-      }
+      },
+      []
     ]
   ]
 ];

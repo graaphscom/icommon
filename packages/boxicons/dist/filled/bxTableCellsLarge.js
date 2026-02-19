@@ -11,25 +11,29 @@ export var bxTableCellsLarge = [
       "path",
       {
         "d": "M2 3H11V11H2z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 13H11V21H2z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 3H22V11H13z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 13H22V21H13z"
-      }
+      },
+      []
     ]
   ]
 ];

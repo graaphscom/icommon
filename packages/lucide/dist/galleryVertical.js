@@ -16,7 +16,8 @@ export var galleryVertical = [
       "path",
       {
         "d": "M3 2h18"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,13 +27,15 @@ export var galleryVertical = [
         "width": "18",
         "x": "3",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 22h18"
-      }
+      },
+      []
     ]
   ]
 ];

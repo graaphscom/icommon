@@ -13,7 +13,8 @@ export var documentAdd24Color = [
       {
         "d": "M6 22H18C19.1046 22 20 21.1046 20 20V9L15 7L13 2H6C4.89543 2 4 2.89543 4 4V20C4 21.1046 4.89543 22 6 22Z",
         "fill": "url(#paint0_linear_378174_8742)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var documentAdd24Color = [
         "d": "M6 22H18C19.1046 22 20 21.1046 20 20V9L15 7L13 2H6C4.89543 2 4 2.89543 4 4V20C4 21.1046 4.89543 22 6 22Z",
         "fill": "url(#paint1_radial_378174_8742)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,28 +31,32 @@ export var documentAdd24Color = [
         "d": "M6 22H18C19.1046 22 20 21.1046 20 20V9L15 7L13 2H6C4.89543 2 4 2.89543 4 4V20C4 21.1046 4.89543 22 6 22Z",
         "fill": "url(#paint2_radial_378174_8742)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 7.5V2L20 9H14.5C13.6716 9 13 8.32843 13 7.5Z",
         "fill": "url(#paint3_linear_378174_8742)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 17.5C12 14.4624 9.53757 12 6.5 12C3.46243 12 1 14.4624 1 17.5C1 20.5376 3.46243 23 6.5 23C9.53757 23 12 20.5376 12 17.5Z",
         "fill": "url(#paint4_linear_378174_8742)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6.5 14C6.22386 14 6 14.2239 6 14.5V17H3.5C3.22386 17 3 17.2239 3 17.5C3 17.7761 3.22386 18 3.5 18H6V20.5C6 20.7761 6.22386 21 6.5 21C6.77614 21 7 20.7761 7 20.5V18H9.5C9.77614 18 10 17.7761 10 17.5C10 17.2239 9.77614 17 9.5 17H7V14.5C7 14.2239 6.77614 14 6.5 14Z",
         "fill": "url(#paint5_linear_378174_8742)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -71,14 +77,16 @@ export var documentAdd24Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -98,7 +106,8 @@ export var documentAdd24Color = [
               {
                 "offset": "0.362364",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -106,7 +115,8 @@ export var documentAdd24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -126,7 +136,8 @@ export var documentAdd24Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -134,7 +145,8 @@ export var documentAdd24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -153,14 +165,16 @@ export var documentAdd24Color = [
               "stop",
               {
                 "stopColor": "#9FF0F9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -179,14 +193,16 @@ export var documentAdd24Color = [
               "stop",
               {
                 "stopColor": "#52D17C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#22918B"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -205,14 +221,16 @@ export var documentAdd24Color = [
               "stop",
               {
                 "stopColor": "white"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E3FFD9"
-              }
+              },
+              []
             ]
           ]
         ]

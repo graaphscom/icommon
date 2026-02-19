@@ -20,7 +20,8 @@ export var cassetteTape = [
         "width": "20",
         "x": "2",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -28,13 +29,15 @@ export var cassetteTape = [
         "cx": "8",
         "cy": "10",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 12h8"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -42,13 +45,15 @@ export var cassetteTape = [
         "cx": "16",
         "cy": "10",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m6 20 .7-2.9A1.4 1.4 0 0 1 8.1 16h7.8a1.4 1.4 0 0 1 1.4 1l.7 3"
-      }
+      },
+      []
     ]
   ]
 ];

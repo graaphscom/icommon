@@ -16,7 +16,8 @@ export var squareRadical = [
       "path",
       {
         "d": "M7 12h2l2 5 2-10h4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var squareRadical = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

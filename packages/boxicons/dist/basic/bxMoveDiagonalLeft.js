@@ -10,7 +10,8 @@ export var bxMoveDiagonalLeft = [
       "path",
       {
         "d": "M13 20h6c.55 0 1-.45 1-1v-6h-2v3.59L7.41 6H11V4H5c-.55 0-1 .45-1 1v6h2V7.41L16.59 18H13z"
-      }
+      },
+      []
     ]
   ]
 ];

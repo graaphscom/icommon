@@ -16,19 +16,22 @@ export var nonBinary = [
       "path",
       {
         "d": "M12 2v10"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m8.5 4 7 4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m8.5 8 7-4"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -36,7 +39,8 @@ export var nonBinary = [
         "cx": "12",
         "cy": "17",
         "r": "5"
-      }
+      },
+      []
     ]
   ]
 ];

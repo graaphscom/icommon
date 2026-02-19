@@ -11,7 +11,8 @@ export var bxFrame = [
       "path",
       {
         "d": "m19,2h-2v3H7v-3h-2v3h-3v2h3v10h-3v2h3v3h2v-3h10v3h2v-3h3v-2h-3V7h3v-2h-3v-3Zm-2,15H7V7h10v10Z"
-      }
+      },
+      []
     ]
   ]
 ];

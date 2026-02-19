@@ -16,7 +16,8 @@ export var tally1 = [
       "path",
       {
         "d": "M4 4v16"
-      }
+      },
+      []
     ]
   ]
 ];

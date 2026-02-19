@@ -20,7 +20,8 @@ export var vault = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -29,13 +30,15 @@ export var vault = [
         "cy": "7.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m7.9 7.9 2.7 2.7"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -44,13 +47,15 @@ export var vault = [
         "cy": "7.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m13.4 10.6 2.7-2.7"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -59,13 +64,15 @@ export var vault = [
         "cy": "16.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m7.9 16.1 2.7-2.7"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -74,13 +81,15 @@ export var vault = [
         "cy": "16.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m13.4 13.4 2.7 2.7"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -88,7 +97,8 @@ export var vault = [
         "cx": "12",
         "cy": "12",
         "r": "2"
-      }
+      },
+      []
     ]
   ]
 ];

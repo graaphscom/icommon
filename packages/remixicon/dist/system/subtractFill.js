@@ -10,7 +10,8 @@ export var subtractFill = [
       "path",
       {
         "d": "M19 11H5V13H19V11Z"
-      }
+      },
+      []
     ]
   ]
 ];

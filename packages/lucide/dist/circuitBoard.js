@@ -20,13 +20,15 @@ export var circuitBoard = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M11 9h4a2 2 0 0 0 2-2V3"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -34,13 +36,15 @@ export var circuitBoard = [
         "cx": "9",
         "cy": "9",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 21v-4a2 2 0 0 1 2-2h4"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -48,7 +52,8 @@ export var circuitBoard = [
         "cx": "15",
         "cy": "15",
         "r": "2"
-      }
+      },
+      []
     ]
   ]
 ];

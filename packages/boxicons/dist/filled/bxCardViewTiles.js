@@ -15,7 +15,8 @@ export var bxCardViewTiles = [
         "width": "7",
         "x": "3",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,13 +27,15 @@ export var bxCardViewTiles = [
         "width": "7",
         "x": "3",
         "y": "13"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 7h9v2h-9zM12 15h9v2h-9z"
-      }
+      },
+      []
     ]
   ]
 ];

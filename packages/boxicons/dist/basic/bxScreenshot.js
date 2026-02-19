@@ -10,7 +10,8 @@ export var bxScreenshot = [
       "path",
       {
         "d": "M3 3h2v2H3zM7 3h2v2H7zM11 3h2v2h-2zM15 3h2v2h-2zM3 15h2v2H3zM7 15h2v2H7zM15 7h2v2h-2zM3 7h2v2H3zM3 11h2v2H3zM17 11h-2v4h-4v2h4v4h2v-4h4v-2h-4z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -20,19 +20,22 @@ export var alignHorizontalSpaceAround = [
         "width": "6",
         "x": "9",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 22V2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20 22V2"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -18,7 +18,8 @@ export var playlistAddCheckOutlined20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var playlistAddCheckOutlined20px = [
               "polygon",
               {
                 "points": "16.94,9.34 13.4,12.88 11.64,11.11 10.58,12.17 13.4,15 18,10.4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -43,7 +45,8 @@ export var playlistAddCheckOutlined20px = [
                 "width": "9",
                 "x": "3",
                 "y": "5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -52,7 +55,8 @@ export var playlistAddCheckOutlined20px = [
                 "width": "6",
                 "x": "3",
                 "y": "11.25"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -61,7 +65,8 @@ export var playlistAddCheckOutlined20px = [
                 "width": "9",
                 "x": "3",
                 "y": "8.12"
-              }
+              },
+              []
             ]
           ]
         ]

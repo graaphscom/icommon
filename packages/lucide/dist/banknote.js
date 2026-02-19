@@ -20,7 +20,8 @@ export var banknote = [
         "width": "20",
         "x": "2",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -28,13 +29,15 @@ export var banknote = [
         "cx": "12",
         "cy": "12",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 12h.01M18 12h.01"
-      }
+      },
+      []
     ]
   ]
 ];

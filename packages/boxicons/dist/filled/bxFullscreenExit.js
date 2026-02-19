@@ -10,7 +10,8 @@ export var bxFullscreenExit = [
       "path",
       {
         "d": "M10 4H8v4H4v2h6zM10 20v-6H4v2h4v4zM16 16h4v-2h-6v6h2zM20 8h-4V4h-2v6h6z"
-      }
+      },
+      []
     ]
   ]
 ];

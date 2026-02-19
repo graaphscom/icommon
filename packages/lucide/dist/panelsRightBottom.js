@@ -20,19 +20,22 @@ export var panelsRightBottom = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 15h12"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 3v18"
-      }
+      },
+      []
     ]
   ]
 ];

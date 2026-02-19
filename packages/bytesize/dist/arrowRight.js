@@ -17,7 +17,8 @@ export var arrowRight = [
       "path",
       {
         "d": "M22 6 L30 16 22 26 M30 16 L2 16"
-      }
+      },
+      []
     ]
   ]
 ];

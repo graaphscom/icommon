@@ -10,7 +10,8 @@ export var bxColResize = [
       "path",
       {
         "d": "M11 2h2v20h-2zM17 17l5-5-5-5zM7 17V7l-5 5z"
-      }
+      },
+      []
     ]
   ]
 ];

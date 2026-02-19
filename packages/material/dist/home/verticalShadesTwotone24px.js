@@ -18,7 +18,8 @@ export var verticalShadesTwotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var verticalShadesTwotone24px = [
                 "width": "2",
                 "x": "6",
                 "y": "5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -48,13 +50,15 @@ export var verticalShadesTwotone24px = [
                 "width": "2",
                 "x": "16",
                 "y": "5"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M20,19V3H4v16H2v2h20v-2H20z M8,19H6V5h2V19z M14,19h-4V5h4V19z M18,19h-2V5h2V19z"
-              }
+              },
+              []
             ]
           ]
         ]

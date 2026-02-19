@@ -15,7 +15,8 @@ export var symbolArray = [
         "d": "M1.5 2L1 2.5V13.5L1.5 14H4V13H2V3H4V2H1.5ZM14.5 14L15 13.5L15 2.5L14.5 2H12V3L14 3L14 13H12V14H14.5Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

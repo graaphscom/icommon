@@ -11,19 +11,22 @@ export var bxList = [
       "path",
       {
         "d": "M4 11H20V13H4z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 6H20V8H4z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 16H20V18H4z"
-      }
+      },
+      []
     ]
   ]
 ];

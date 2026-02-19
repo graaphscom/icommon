@@ -19,7 +19,8 @@ export var horizontalRuleTwotone24px = [
             "fillRule": "evenodd",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ],
         [
           "g",
@@ -33,7 +34,8 @@ export var horizontalRuleTwotone24px = [
                 "width": "16",
                 "x": "4",
                 "y": "11"
-              }
+              },
+              []
             ]
           ]
         ]

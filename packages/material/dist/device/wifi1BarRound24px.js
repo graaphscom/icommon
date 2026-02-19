@@ -18,7 +18,8 @@ export var wifi1BarRound24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -26,7 +27,8 @@ export var wifi1BarRound24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -40,7 +42,8 @@ export var wifi1BarRound24px = [
             "cx": "12",
             "cy": "18",
             "r": "2"
-          }
+          },
+          []
         ]
       ]
     ]

@@ -18,7 +18,8 @@ export var viewComfySharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var viewComfySharp20px = [
                 "width": "16",
                 "x": "2",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var viewComfySharp20px = [
                 "width": "9.5",
                 "x": "8.5",
                 "y": "10.75"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +58,8 @@ export var viewComfySharp20px = [
                 "width": "5",
                 "x": "2",
                 "y": "10.75"
-              }
+              },
+              []
             ]
           ]
         ]

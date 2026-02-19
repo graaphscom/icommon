@@ -16,13 +16,15 @@ export var form = [
       "path",
       {
         "d": "M4 14h6"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 2h10"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var form = [
         "width": "16",
         "x": "4",
         "y": "18"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -42,7 +45,8 @@ export var form = [
         "width": "16",
         "x": "4",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

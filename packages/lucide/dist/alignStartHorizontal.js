@@ -20,7 +20,8 @@ export var alignStartHorizontal = [
         "width": "6",
         "x": "4",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,13 +31,15 @@ export var alignStartHorizontal = [
         "width": "6",
         "x": "14",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 2H2"
-      }
+      },
+      []
     ]
   ]
 ];

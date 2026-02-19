@@ -15,7 +15,8 @@ export var borderTop = [
         "d": "M14 1.75L1 1.75L1 0.249999L14 0.25L14 1.75Z",
         "fill": "currentColor",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -27,7 +28,8 @@ export var borderTop = [
         "width": "1",
         "x": "8",
         "y": "10"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -39,7 +41,8 @@ export var borderTop = [
         "width": "1",
         "x": "2",
         "y": "10"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -51,7 +54,8 @@ export var borderTop = [
         "width": "1",
         "x": "8",
         "y": "12"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -63,7 +67,8 @@ export var borderTop = [
         "width": "1",
         "x": "2",
         "y": "12"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -75,7 +80,8 @@ export var borderTop = [
         "width": "1",
         "x": "8",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -87,7 +93,8 @@ export var borderTop = [
         "width": "1",
         "x": "8",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -99,7 +106,8 @@ export var borderTop = [
         "width": "1",
         "x": "2",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -111,7 +119,8 @@ export var borderTop = [
         "width": "1",
         "x": "2",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -123,7 +132,8 @@ export var borderTop = [
         "width": "1",
         "x": "10",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -135,7 +145,8 @@ export var borderTop = [
         "width": "1",
         "x": "10",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -147,7 +158,8 @@ export var borderTop = [
         "width": "1",
         "x": "12",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -159,7 +171,8 @@ export var borderTop = [
         "width": "1",
         "x": "12",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -171,7 +184,8 @@ export var borderTop = [
         "width": "1",
         "x": "6",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -183,7 +197,8 @@ export var borderTop = [
         "width": "1",
         "x": "6",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -195,7 +210,8 @@ export var borderTop = [
         "width": "1",
         "x": "4",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -207,7 +223,8 @@ export var borderTop = [
         "width": "1",
         "x": "4",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -219,7 +236,8 @@ export var borderTop = [
         "width": "1",
         "x": "8",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -231,7 +249,8 @@ export var borderTop = [
         "width": "1",
         "x": "2",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -243,7 +262,8 @@ export var borderTop = [
         "width": "1",
         "x": "8",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -255,7 +275,8 @@ export var borderTop = [
         "width": "1",
         "x": "2",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -267,7 +288,8 @@ export var borderTop = [
         "width": "1",
         "x": "14",
         "y": "10"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -279,7 +301,8 @@ export var borderTop = [
         "width": "1",
         "x": "14",
         "y": "12"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -291,7 +314,8 @@ export var borderTop = [
         "width": "1",
         "x": "14",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -303,7 +327,8 @@ export var borderTop = [
         "width": "1",
         "x": "14",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -315,7 +340,8 @@ export var borderTop = [
         "width": "1",
         "x": "14",
         "y": "6"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -327,7 +353,8 @@ export var borderTop = [
         "width": "1",
         "x": "14",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

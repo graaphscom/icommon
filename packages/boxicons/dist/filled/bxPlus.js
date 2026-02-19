@@ -10,7 +10,8 @@ export var bxPlus = [
       "path",
       {
         "d": "M11 17v4h2v-8h8v-2h-8V3h-2v8H3v2h8v4"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -11,13 +11,15 @@ export var bxHorizontalSpacing = [
       "path",
       {
         "d": "M3 2H5V22H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 2H21V22H19z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -28,7 +30,8 @@ export var bxHorizontalSpacing = [
         "width": "10",
         "x": "7",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

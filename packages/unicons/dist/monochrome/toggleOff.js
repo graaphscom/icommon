@@ -10,7 +10,8 @@ export var toggleOff = [
       "path",
       {
         "d": "M16.5 17.5h-9a5.5 5.5 0 1 1 0-11h9a5.5 5.5 0 1 1 0 11z"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -18,7 +19,8 @@ export var toggleOff = [
         "cx": "7.5",
         "cy": "12",
         "r": "2.5"
-      }
+      },
+      []
     ]
   ]
 ];

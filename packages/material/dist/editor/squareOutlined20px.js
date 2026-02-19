@@ -19,7 +19,8 @@ export var squareOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -31,7 +32,8 @@ export var squareOutlined20px = [
           "path",
           {
             "d": "M3,3v14h14V3H3z M15.5,15.5h-11v-11h11V15.5z"
-          }
+          },
+          []
         ]
       ]
     ]

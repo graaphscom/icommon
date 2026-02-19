@@ -18,7 +18,8 @@ export var gridViewSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var gridViewSharp24px = [
                 "width": "8",
                 "x": "3",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var gridViewSharp24px = [
                 "width": "8",
                 "x": "3",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +58,8 @@ export var gridViewSharp24px = [
                 "width": "8",
                 "x": "13",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -64,7 +68,8 @@ export var gridViewSharp24px = [
                 "width": "8",
                 "x": "13",
                 "y": "13"
-              }
+              },
+              []
             ]
           ]
         ]

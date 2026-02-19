@@ -17,7 +17,8 @@ export var flourescentSharp24px = [
           {
             "d": "M0,0h24v24H0V0z",
             "fill": "none"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -36,7 +37,8 @@ export var flourescentSharp24px = [
                 "width": "14",
                 "x": "5",
                 "y": "9"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -45,7 +47,8 @@ export var flourescentSharp24px = [
                 "width": "2",
                 "x": "11",
                 "y": "2"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +58,8 @@ export var flourescentSharp24px = [
                 "width": "2.54",
                 "x": "17.62",
                 "y": "5.2"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -64,13 +68,15 @@ export var flourescentSharp24px = [
                 "width": "2",
                 "x": "11",
                 "y": "19"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "17.29,17.71 19.08,19.51 20.5,18.09 18.7,16.3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -80,7 +86,8 @@ export var flourescentSharp24px = [
                 "width": "1.99",
                 "x": "4.1",
                 "y": "4.93"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -90,7 +97,8 @@ export var flourescentSharp24px = [
                 "width": "2.54",
                 "x": "3.83",
                 "y": "16.89"
-              }
+              },
+              []
             ]
           ]
         ]

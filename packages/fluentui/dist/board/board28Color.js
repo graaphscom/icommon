@@ -13,28 +13,32 @@ export var board28Color = [
       {
         "d": "M25 18L19.5 17L14 18L13 21.5L14 25H21.25C23.3211 25 25 23.3211 25 21.25V18Z",
         "fill": "url(#paint0_linear_72095_10289)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 3L13 10.5L14 18H25V6.75C25 4.67893 23.3211 3 21.25 3H14Z",
         "fill": "url(#paint1_linear_72095_10289)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 25V11L8.5 10L3 11V21.25C3 23.3211 4.67893 25 6.75 25H14Z",
         "fill": "url(#paint2_linear_72095_10289)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 3V11H3V6.75C3 4.67893 4.67893 3 6.75 3H14Z",
         "fill": "url(#paint3_linear_72095_10289)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -55,14 +59,16 @@ export var board28Color = [
               "stop",
               {
                 "stopColor": "#B0F098"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#52D17C"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -81,14 +87,16 @@ export var board28Color = [
               "stop",
               {
                 "stopColor": "#52D17C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#309C61"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -107,14 +115,16 @@ export var board28Color = [
               "stop",
               {
                 "stopColor": "#42B870"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#1A7F7C"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -133,14 +143,16 @@ export var board28Color = [
               "stop",
               {
                 "stopColor": "#B0F098"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#64DE89"
-              }
+              },
+              []
             ]
           ]
         ]

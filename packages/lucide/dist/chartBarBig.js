@@ -16,7 +16,8 @@ export var chartBarBig = [
       "path",
       {
         "d": "M3 3v16a2 2 0 0 0 2 2h16"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var chartBarBig = [
         "width": "9",
         "x": "7",
         "y": "13"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -36,7 +38,8 @@ export var chartBarBig = [
         "width": "12",
         "x": "7",
         "y": "5"
-      }
+      },
+      []
     ]
   ]
 ];

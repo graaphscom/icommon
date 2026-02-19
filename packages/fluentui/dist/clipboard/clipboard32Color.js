@@ -13,7 +13,8 @@ export var clipboard32Color = [
       {
         "d": "M5 7.5C5 5.567 6.567 4 8.5 4H23.5C25.433 4 27 5.567 27 7.5V26.5C27 28.433 25.433 30 23.5 30H8.5C6.567 30 5 28.433 5 26.5V7.5Z",
         "fill": "url(#paint0_linear_378174_10139)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var clipboard32Color = [
         "d": "M5 7.5C5 5.567 6.567 4 8.5 4H23.5C25.433 4 27 5.567 27 7.5V26.5C27 28.433 25.433 30 23.5 30H8.5C6.567 30 5 28.433 5 26.5V7.5Z",
         "fill": "url(#paint1_radial_378174_10139)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,14 +31,16 @@ export var clipboard32Color = [
         "d": "M5 7.5C5 5.567 6.567 4 8.5 4H23.5C25.433 4 27 5.567 27 7.5V26.5C27 28.433 25.433 30 23.5 30H8.5C6.567 30 5 28.433 5 26.5V7.5Z",
         "fill": "url(#paint2_radial_378174_10139)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 5C10 3.34315 11.3431 2 13 2H19C20.6569 2 22 3.34315 22 5C22 6.65685 20.6569 8 19 8H13C11.3431 8 10 6.65685 10 5Z",
         "fill": "url(#paint3_linear_378174_10139)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -57,14 +61,16 @@ export var clipboard32Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -83,7 +89,8 @@ export var clipboard32Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -91,7 +98,8 @@ export var clipboard32Color = [
                 "offset": "0.970427",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -110,7 +118,8 @@ export var clipboard32Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -118,7 +127,8 @@ export var clipboard32Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -137,14 +147,16 @@ export var clipboard32Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FAB500"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -17,7 +17,8 @@ export var lightbulbSharp24px = [
           {
             "d": "M0,0h24v24H0V0z",
             "fill": "none"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var lightbulbSharp24px = [
                   "path",
                   {
                     "d": "M12,22c1.1,0,2-0.9,2-2h-4C10,21.1,10.9,22,12,22z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -52,7 +54,8 @@ export var lightbulbSharp24px = [
                     "width": "8",
                     "x": "8",
                     "y": "17"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -64,7 +67,8 @@ export var lightbulbSharp24px = [
                   "path",
                   {
                     "d": "M12,2C7.86,2,4.5,5.36,4.5,9.5c0,3.82,2.66,5.86,3.77,6.5h7.46c1.11-0.64,3.77-2.68,3.77-6.5C19.5,5.36,16.14,2,12,2z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

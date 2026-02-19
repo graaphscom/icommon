@@ -16,13 +16,15 @@ export var squareCode = [
       "path",
       {
         "d": "m10 9-3 3 3 3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m14 15 3-3-3-3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var squareCode = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

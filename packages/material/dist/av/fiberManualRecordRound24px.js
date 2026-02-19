@@ -13,7 +13,8 @@ export var fiberManualRecordRound24px = [
         "cx": "12",
         "cy": "12",
         "r": "8"
-      }
+      },
+      []
     ]
   ]
 ];

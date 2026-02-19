@@ -18,7 +18,8 @@ export var appRegistrationSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -41,7 +42,8 @@ export var appRegistrationSharp20px = [
                     "width": "3",
                     "x": "8.5",
                     "y": "4"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -56,7 +58,8 @@ export var appRegistrationSharp20px = [
                     "width": "3",
                     "x": "4",
                     "y": "13"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -71,7 +74,8 @@ export var appRegistrationSharp20px = [
                     "width": "3",
                     "x": "4",
                     "y": "8.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -86,7 +90,8 @@ export var appRegistrationSharp20px = [
                     "width": "3",
                     "x": "4",
                     "y": "4"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -101,7 +106,8 @@ export var appRegistrationSharp20px = [
                     "width": "3",
                     "x": "13",
                     "y": "4"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -113,7 +119,8 @@ export var appRegistrationSharp20px = [
                   "polygon",
                   {
                     "points": "9,14.49 9,16 10.51,16 15.4,11.1 13.9,9.6"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -125,7 +132,8 @@ export var appRegistrationSharp20px = [
                   "polygon",
                   {
                     "points": "11.5,9.88 11.5,8.5 8.5,8.5 8.5,11.5 9.87,11.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -141,7 +149,8 @@ export var appRegistrationSharp20px = [
                     "width": "1.56",
                     "x": "15.13",
                     "y": "8.03"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

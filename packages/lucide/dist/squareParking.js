@@ -20,13 +20,15 @@ export var squareParking = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 17V7h4a3 3 0 0 1 0 6H9"
-      }
+      },
+      []
     ]
   ]
 ];

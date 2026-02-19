@@ -11,31 +11,36 @@ export var bxAlignCenter = [
       "path",
       {
         "d": "M6 7H18V9H6z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 3H21V5H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 11H21V13H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 15H18V17H6z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 19H21V21H3z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -18,7 +18,8 @@ export var currency = [
         "cx": "12",
         "cy": "12",
         "r": "8"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -27,7 +28,8 @@ export var currency = [
         "x2": "6",
         "y1": "3",
         "y2": "6"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -36,7 +38,8 @@ export var currency = [
         "x2": "18",
         "y1": "3",
         "y2": "6"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -45,7 +48,8 @@ export var currency = [
         "x2": "6",
         "y1": "21",
         "y2": "18"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -54,7 +58,8 @@ export var currency = [
         "x2": "18",
         "y1": "21",
         "y2": "18"
-      }
+      },
+      []
     ]
   ]
 ];

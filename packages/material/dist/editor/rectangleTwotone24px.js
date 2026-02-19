@@ -18,7 +18,8 @@ export var rectangleTwotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -39,7 +40,8 @@ export var rectangleTwotone24px = [
                 "width": "16",
                 "x": "4",
                 "y": "6"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -51,7 +53,8 @@ export var rectangleTwotone24px = [
               "path",
               {
                 "d": "M2,4v16h20V4H2z M20,18H4V6h16V18z"
-              }
+              },
+              []
             ]
           ]
         ]

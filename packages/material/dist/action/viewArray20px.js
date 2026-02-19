@@ -14,13 +14,15 @@ export var viewArray20px = [
         "fill": "none",
         "height": "20",
         "width": "20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3,5h2v10H3V5z M15,5v10h2V5H15z M6,5h8v10H6V5z"
-      }
+      },
+      []
     ]
   ]
 ];

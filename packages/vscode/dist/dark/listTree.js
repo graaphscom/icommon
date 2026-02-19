@@ -13,28 +13,32 @@ export var listTree = [
       {
         "d": "M14 3V4H2V3H14Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 6V7H6V6H13Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 9V10H5V9H13Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 12V13H5V12H13Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -44,7 +48,8 @@ export var listTree = [
         "width": "1",
         "x": "5",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

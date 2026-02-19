@@ -16,13 +16,15 @@ export var turntable = [
       "path",
       {
         "d": "M10 12.01h.01"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M18 8v4a8 8 0 0 1-1.07 4"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -30,7 +32,8 @@ export var turntable = [
         "cx": "10",
         "cy": "12",
         "r": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -40,7 +43,8 @@ export var turntable = [
         "width": "20",
         "x": "2",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

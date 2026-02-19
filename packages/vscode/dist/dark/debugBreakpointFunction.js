@@ -13,7 +13,8 @@ export var debugBreakpointFunction = [
       {
         "d": "M8 4L12 10.9048H4L8 4Z",
         "fill": "#E51400"
-      }
+      },
+      []
     ]
   ]
 ];

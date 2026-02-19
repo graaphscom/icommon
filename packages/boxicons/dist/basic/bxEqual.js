@@ -11,13 +11,15 @@ export var bxEqual = [
       "path",
       {
         "d": "M5 8H19V10H5z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 14H19V16H5z"
-      }
+      },
+      []
     ]
   ]
 ];

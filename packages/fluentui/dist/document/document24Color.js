@@ -13,7 +13,8 @@ export var document24Color = [
       {
         "d": "M6 22H18C19.1046 22 20 21.1046 20 20V9L15 7L13 2H6C4.89543 2 4 2.89543 4 4V20C4 21.1046 4.89543 22 6 22Z",
         "fill": "url(#paint0_linear_378174_8719)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,14 +22,16 @@ export var document24Color = [
         "d": "M6 22H18C19.1046 22 20 21.1046 20 20V9L15 7L13 2H6C4.89543 2 4 2.89543 4 4V20C4 21.1046 4.89543 22 6 22Z",
         "fill": "url(#paint1_radial_378174_8719)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 7.5V2L20 9H14.5C13.6716 9 13 8.32843 13 7.5Z",
         "fill": "url(#paint2_linear_378174_8719)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -49,14 +52,16 @@ export var document24Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -76,7 +81,8 @@ export var document24Color = [
               {
                 "offset": "0.362364",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -84,7 +90,8 @@ export var document24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -103,14 +110,16 @@ export var document24Color = [
               "stop",
               {
                 "stopColor": "#9FF0F9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ]

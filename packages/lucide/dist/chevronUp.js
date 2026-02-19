@@ -16,7 +16,8 @@ export var chevronUp = [
       "path",
       {
         "d": "m18 15-6-6-6 6"
-      }
+      },
+      []
     ]
   ]
 ];

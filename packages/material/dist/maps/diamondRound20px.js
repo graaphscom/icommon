@@ -18,7 +18,8 @@ export var diamondRound20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var diamondRound20px = [
                   "polygon",
                   {
                     "points": "9.5,16.44 9.5,8.5 2.44,8.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var diamondRound20px = [
                   "polygon",
                   {
                     "points": "9.9,3.31 7.81,7.5 12.16,7.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -62,7 +65,8 @@ export var diamondRound20px = [
                   "polygon",
                   {
                     "points": "10.5,8.5 10.5,16.44 17.56,8.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -74,7 +78,8 @@ export var diamondRound20px = [
                   "path",
                   {
                     "d": "M6.69,7.5L8.94,3H5.02C4.4,3,3.85,3.37,3.62,3.94L2.2,7.5H6.69z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -86,7 +91,8 @@ export var diamondRound20px = [
                   "path",
                   {
                     "d": "M13.3,7.5h4.5l-1.42-3.56C16.15,3.37,15.6,3,14.98,3h-4.12L13.3,7.5z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

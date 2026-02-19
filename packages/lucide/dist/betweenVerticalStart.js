@@ -20,13 +20,15 @@ export var betweenVerticalStart = [
         "width": "7",
         "x": "3",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m15 2-3 3-3-3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -36,7 +38,8 @@ export var betweenVerticalStart = [
         "width": "7",
         "x": "14",
         "y": "8"
-      }
+      },
+      []
     ]
   ]
 ];

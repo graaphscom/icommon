@@ -18,7 +18,8 @@ export var squareSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var squareSharp24px = [
                 "width": "18",
                 "x": "3",
                 "y": "3"
-              }
+              },
+              []
             ]
           ]
         ]

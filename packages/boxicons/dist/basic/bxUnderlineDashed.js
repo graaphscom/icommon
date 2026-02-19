@@ -10,7 +10,8 @@ export var bxUnderlineDashed = [
       "path",
       {
         "d": "M5 18h3v2H5zM10 18h4v2h-4zM16 18h3v2h-3zM6 10c0 3.31 2.69 6 6 6s6-2.69 6-6V4h-2v6c0 2.21-1.79 4-4 4s-4-1.79-4-4V4H6z"
-      }
+      },
+      []
     ]
   ]
 ];

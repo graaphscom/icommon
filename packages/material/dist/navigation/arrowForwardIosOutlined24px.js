@@ -17,7 +17,8 @@ export var arrowForwardIosOutlined24px = [
           {
             "d": "M0,0h24v24H0V0z",
             "fill": "none"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -29,7 +30,8 @@ export var arrowForwardIosOutlined24px = [
           "polygon",
           {
             "points": "6.23,20.23 8,22 18,12 8,2 6.23,3.77 14.46,12"
-          }
+          },
+          []
         ]
       ]
     ]

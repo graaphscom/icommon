@@ -20,7 +20,8 @@ export var squareScissors = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -28,7 +29,8 @@ export var squareScissors = [
         "cx": "8.5",
         "cy": "8.5",
         "r": "1.5"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -37,7 +39,8 @@ export var squareScissors = [
         "x2": "12",
         "y1": "9.56066",
         "y2": "12"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -46,7 +49,8 @@ export var squareScissors = [
         "x2": "14.82",
         "y1": "17",
         "y2": "14.82"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -54,7 +58,8 @@ export var squareScissors = [
         "cx": "8.5",
         "cy": "15.5",
         "r": "1.5"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -63,7 +68,8 @@ export var squareScissors = [
         "x2": "17",
         "y1": "14.43934",
         "y2": "7"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -16,13 +16,15 @@ export var tableRowsSharp20px = [
         "width": "20",
         "x": "0",
         "y": "0"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17,7H3V4h14V7z M17,8.5H3v3h14V8.5z M17,13H3v3h14V13z"
-      }
+      },
+      []
     ]
   ]
 ];

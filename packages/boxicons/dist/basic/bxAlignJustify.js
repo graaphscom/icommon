@@ -11,31 +11,36 @@ export var bxAlignJustify = [
       "path",
       {
         "d": "M3 7H21V9H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 3H21V5H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 11H21V13H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 15H21V17H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 19H18V21H6z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -22,7 +22,8 @@ export var signalCellularConnectedNoInternet4BarSharp20px = [
                 "fill": "none",
                 "height": "20",
                 "width": "20"
-              }
+              },
+              []
             ]
           ]
         ]
@@ -40,7 +41,8 @@ export var signalCellularConnectedNoInternet4BarSharp20px = [
               "polygon",
               {
                 "points": "2,18 15,18 15,7.5 18,7.5 18,2"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -49,7 +51,8 @@ export var signalCellularConnectedNoInternet4BarSharp20px = [
                 "width": "1.5",
                 "x": "16.5",
                 "y": "16.5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -58,7 +61,8 @@ export var signalCellularConnectedNoInternet4BarSharp20px = [
                 "width": "1.5",
                 "x": "16.5",
                 "y": "9"
-              }
+              },
+              []
             ]
           ]
         ]

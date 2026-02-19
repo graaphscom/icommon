@@ -15,7 +15,8 @@ export var bxCardViewNoTitle = [
         "width": "18",
         "x": "3",
         "y": "5.5"
-      }
+      },
+      []
     ]
   ]
 ];

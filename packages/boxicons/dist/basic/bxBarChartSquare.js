@@ -10,13 +10,15 @@ export var bxBarChartSquare = [
       "path",
       {
         "d": "M15 12h2v5h-2zM11 7h2v10h-2zM7 10h2v7H7z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 21h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2M5 5h14v14H5z"
-      }
+      },
+      []
     ]
   ]
 ];

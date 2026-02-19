@@ -13,21 +13,24 @@ export var mailClock16Color = [
       {
         "d": "M13 7H1V13C1 14.1046 1.89543 15 3 15H11C12.1046 15 13 14.1046 13 13V7Z",
         "fill": "#367AF2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 7H1V13C1 14.1046 1.89543 15 3 15H11C12.1046 15 13 14.1046 13 13V7Z",
         "fill": "url(#paint0_linear_72095_9002)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 7H1V13C1 14.1046 1.89543 15 3 15H11C12.1046 15 13 14.1046 13 13V7Z",
         "fill": "url(#paint1_linear_72095_9002)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -35,7 +38,8 @@ export var mailClock16Color = [
         "d": "M13 7H1V13C1 14.1046 1.89543 15 3 15H11C12.1046 15 13 14.1046 13 13V7Z",
         "fill": "url(#paint2_linear_72095_9002)",
         "fillOpacity": "0.75"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -43,21 +47,24 @@ export var mailClock16Color = [
         "d": "M13 7H1V13C1 14.1046 1.89543 15 3 15H11C12.1046 15 13 14.1046 13 13V7Z",
         "fill": "url(#paint3_linear_72095_9002)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 5C1.89543 5 1 5.89543 1 7V7.8399L6.76305 10.9431C6.91104 11.0228 7.08916 11.0228 7.23715 10.9431L13 7.84V7C13 5.89543 12.1046 5 11 5H3Z",
         "fill": "url(#paint4_linear_72095_9002)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M1 7C1 5.89543 1.89543 5 3 5H11C12.1046 5 13 5.89543 13 7V13C13 14.1046 12.1046 15 11 15H3C1.89543 15 1 14.1046 1 13V7Z",
         "fill": "url(#paint5_radial_72095_9002)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -65,14 +72,16 @@ export var mailClock16Color = [
         "d": "M1 7C1 5.89543 1.89543 5 3 5H11C12.1046 5 13 5.89543 13 7V13C13 14.1046 12.1046 15 11 15H3C1.89543 15 1 14.1046 1 13V7Z",
         "fill": "url(#paint6_radial_72095_9002)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 5.5C15 3.01472 12.9853 1 10.5 1C8.01472 1 6 3.01472 6 5.5C6 7.98528 8.01472 10 10.5 10C12.9853 10 15 7.98528 15 5.5Z",
         "fill": "url(#paint7_linear_72095_9002)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -81,7 +90,8 @@ export var mailClock16Color = [
         "d": "M10.5 3C10.7761 3 11 3.22386 11 3.5V5H12C12.2761 5 12.5 5.22386 12.5 5.5C12.5 5.77614 12.2761 6 12 6H10.5C10.2239 6 10 5.77614 10 5.5V3.5C10 3.22386 10.2239 3 10.5 3Z",
         "fill": "url(#paint8_linear_72095_9002)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -104,14 +114,16 @@ export var mailClock16Color = [
                 "offset": "0.22807",
                 "stopColor": "#0094F0",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.430619",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -132,14 +144,16 @@ export var mailClock16Color = [
                 "offset": "0.22807",
                 "stopColor": "#0094F0",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.430619",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -159,14 +173,16 @@ export var mailClock16Color = [
               {
                 "stopColor": "#2764E7",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -187,14 +203,16 @@ export var mailClock16Color = [
                 "offset": "0.53288",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF6CE8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -213,21 +231,24 @@ export var mailClock16Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.461792",
                 "stopColor": "#29C3FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -247,7 +268,8 @@ export var mailClock16Color = [
               {
                 "offset": "0.430108",
                 "stopColor": "#3BD5FF"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -255,7 +277,8 @@ export var mailClock16Color = [
                 "offset": "1",
                 "stopColor": "#3BD5FF",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -275,7 +298,8 @@ export var mailClock16Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -283,7 +307,8 @@ export var mailClock16Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -302,14 +327,16 @@ export var mailClock16Color = [
               "stop",
               {
                 "stopColor": "#1EC8B0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#1B44B1"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -328,14 +355,16 @@ export var mailClock16Color = [
               "stop",
               {
                 "stopColor": "#FDFDFD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#D1D1FF"
-              }
+              },
+              []
             ]
           ]
         ]

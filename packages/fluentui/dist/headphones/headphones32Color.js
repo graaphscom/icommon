@@ -13,42 +13,48 @@ export var headphones32Color = [
       {
         "d": "M4 15.5C4 9.14873 9.14873 4 15.5 4C21.8513 4 27 9.14873 27 15.5V18L28 19L29 18V15.5C29 8.04416 22.9558 2 15.5 2C8.04416 2 2 8.04416 2 15.5V18L3 19L4 18V15.5Z",
         "fill": "url(#paint0_linear_378174_8987)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 15.5C4 9.14873 9.14873 4 15.5 4C21.8513 4 27 9.14873 27 15.5V18L28 19L29 18V15.5C29 8.04416 22.9558 2 15.5 2C8.04416 2 2 8.04416 2 15.5V18L3 19L4 18V15.5Z",
         "fill": "url(#paint1_linear_378174_8987)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 25.5C2 27.0602 2.79401 28.435 4 29.2422L6 23.5L4 18H2V25.5Z",
         "fill": "url(#paint2_linear_378174_8987)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M29 25.5C29 27.0602 28.206 28.435 27 29.2422L25 23.5L27 18H29V25.5Z",
         "fill": "url(#paint3_linear_378174_8987)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 29.2422V18H11C11.5523 18 12 18.4477 12 19V29C12 29.5523 11.5523 30 11 30H6.5C5.57493 30 4.71505 29.7209 4 29.2422Z",
         "fill": "url(#paint4_linear_378174_8987)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M27 18V29.2422C26.285 29.7209 25.4251 30 24.5 30H20C19.4477 30 19 29.5523 19 29V19C19 18.4477 19.4477 18 20 18H27Z",
         "fill": "url(#paint5_linear_378174_8987)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -69,14 +75,16 @@ export var headphones32Color = [
               "stop",
               {
                 "stopColor": "#CAD2D9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -95,14 +103,16 @@ export var headphones32Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -121,14 +131,16 @@ export var headphones32Color = [
               "stop",
               {
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2052CB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -147,14 +159,16 @@ export var headphones32Color = [
               "stop",
               {
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2052CB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -173,14 +187,16 @@ export var headphones32Color = [
               "stop",
               {
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -199,14 +215,16 @@ export var headphones32Color = [
               "stop",
               {
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -18,7 +18,8 @@ export var devicesFoldSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var devicesFoldSharp24px = [
                   "path",
                   {
                     "d": "M17,3v-3.03l-7,3V3v18h12V3H17z M20,19h-5.33L17,18V5h3V19z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -53,7 +55,8 @@ export var devicesFoldSharp24px = [
                     "width": "2",
                     "x": "2",
                     "y": "3"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -68,7 +71,8 @@ export var devicesFoldSharp24px = [
                     "width": "2",
                     "x": "2",
                     "y": "19"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -83,7 +87,8 @@ export var devicesFoldSharp24px = [
                     "width": "2",
                     "x": "2",
                     "y": "15"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -98,7 +103,8 @@ export var devicesFoldSharp24px = [
                     "width": "2",
                     "x": "2",
                     "y": "11"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -113,7 +119,8 @@ export var devicesFoldSharp24px = [
                     "width": "2",
                     "x": "2",
                     "y": "7"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -128,7 +135,8 @@ export var devicesFoldSharp24px = [
                     "width": "2",
                     "x": "6",
                     "y": "3"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -143,7 +151,8 @@ export var devicesFoldSharp24px = [
                     "width": "2",
                     "x": "6",
                     "y": "19"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

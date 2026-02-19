@@ -9,7 +9,8 @@ export var borderBottom = [
       "path",
       {
         "d": "M20 21.5H4a1 1 0 0 1 0-2h16a1 1 0 0 1 0 2Z"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -17,7 +18,8 @@ export var borderBottom = [
         "cx": "12",
         "cy": "16.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -25,7 +27,8 @@ export var borderBottom = [
         "cx": "12",
         "cy": "12.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -33,7 +36,8 @@ export var borderBottom = [
         "cx": "12",
         "cy": "8.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -41,7 +45,8 @@ export var borderBottom = [
         "cx": "12",
         "cy": "4.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -49,7 +54,8 @@ export var borderBottom = [
         "cx": "4",
         "cy": "16.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -57,7 +63,8 @@ export var borderBottom = [
         "cx": "4",
         "cy": "12.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -65,7 +72,8 @@ export var borderBottom = [
         "cx": "4",
         "cy": "8.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -73,7 +81,8 @@ export var borderBottom = [
         "cx": "4",
         "cy": "4.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -81,7 +90,8 @@ export var borderBottom = [
         "cx": "8",
         "cy": "4.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -89,7 +99,8 @@ export var borderBottom = [
         "cx": "16",
         "cy": "4.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -97,7 +108,8 @@ export var borderBottom = [
         "cx": "8",
         "cy": "12.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -105,7 +117,8 @@ export var borderBottom = [
         "cx": "16",
         "cy": "12.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -113,7 +126,8 @@ export var borderBottom = [
         "cx": "20",
         "cy": "16.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -121,7 +135,8 @@ export var borderBottom = [
         "cx": "20",
         "cy": "12.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -129,7 +144,8 @@ export var borderBottom = [
         "cx": "20",
         "cy": "8.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -137,7 +153,8 @@ export var borderBottom = [
         "cx": "20",
         "cy": "4.5",
         "r": "1"
-      }
+      },
+      []
     ]
   ]
 ];

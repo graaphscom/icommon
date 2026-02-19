@@ -17,7 +17,8 @@ export var pivotTableChartSharp24px = [
           {
             "d": "M0,0h24v24H0V0z",
             "fill": "none"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -36,7 +37,8 @@ export var pivotTableChartSharp24px = [
                 "width": "11",
                 "x": "10",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -45,7 +47,8 @@ export var pivotTableChartSharp24px = [
                 "width": "5",
                 "x": "3",
                 "y": "10"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -54,13 +57,15 @@ export var pivotTableChartSharp24px = [
                 "width": "5",
                 "x": "3",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "18,9 14,13 17,13 17,17 13,17 13,14 9,18 13,22 13,19 19,19 19,13 22,13"
-              }
+              },
+              []
             ]
           ]
         ]

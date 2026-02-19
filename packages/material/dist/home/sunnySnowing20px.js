@@ -18,7 +18,8 @@ export var sunnySnowing20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -32,7 +33,8 @@ export var sunnySnowing20px = [
             "cx": "5",
             "cy": "14",
             "r": "1"
-          }
+          },
+          []
         ],
         [
           "circle",
@@ -40,7 +42,8 @@ export var sunnySnowing20px = [
             "cx": "15",
             "cy": "14",
             "r": "1"
-          }
+          },
+          []
         ],
         [
           "circle",
@@ -48,7 +51,8 @@ export var sunnySnowing20px = [
             "cx": "7.5",
             "cy": "17",
             "r": "1"
-          }
+          },
+          []
         ],
         [
           "circle",
@@ -56,7 +60,8 @@ export var sunnySnowing20px = [
             "cx": "10",
             "cy": "14",
             "r": "1"
-          }
+          },
+          []
         ],
         [
           "circle",
@@ -64,13 +69,15 @@ export var sunnySnowing20px = [
             "cx": "12.5",
             "cy": "17",
             "r": "1"
-          }
+          },
+          []
         ],
         [
           "path",
           {
             "d": "M10 6c-2.21 0-4 1.79-4 4v1h8v-1c0-2.21-1.79-4-4-4z"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -79,7 +86,8 @@ export var sunnySnowing20px = [
             "width": "1.5",
             "x": "9.25",
             "y": "1.5"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -89,7 +97,8 @@ export var sunnySnowing20px = [
             "width": "1.5",
             "x": "16.25",
             "y": "8.5"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -99,7 +108,8 @@ export var sunnySnowing20px = [
             "width": "1.5",
             "x": "14.2",
             "y": "3.55"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -109,7 +119,8 @@ export var sunnySnowing20px = [
             "width": "1.5",
             "x": "4.3",
             "y": "3.55"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -118,7 +129,8 @@ export var sunnySnowing20px = [
             "width": "3",
             "x": "1.5",
             "y": "9.25"
-          }
+          },
+          []
         ]
       ]
     ]

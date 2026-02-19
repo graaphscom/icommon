@@ -16,13 +16,15 @@ export var calendarMinus2 = [
       "path",
       {
         "d": "M8 2v4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 2v4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,19 +34,22 @@ export var calendarMinus2 = [
         "width": "18",
         "x": "3",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 10h18"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 16h4"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -13,7 +13,8 @@ export var documentText48Color = [
       {
         "d": "M11 43H37C38.6569 43 40 41.6569 40 40V18L30 14L26 4H11C9.34315 4 8 5.34315 8 7V40C8 41.6569 9.34315 43 11 43Z",
         "fill": "url(#paint0_linear_72095_9761)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,14 +22,16 @@ export var documentText48Color = [
         "d": "M11 43H37C38.6569 43 40 41.6569 40 40V18L30 14L26 4H11C9.34315 4 8 5.34315 8 7V40C8 41.6569 9.34315 43 11 43Z",
         "fill": "url(#paint1_radial_72095_9761)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M26 15V4L40 18H29C27.3431 18 26 16.6569 26 15Z",
         "fill": "url(#paint2_linear_72095_9761)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -36,7 +39,8 @@ export var documentText48Color = [
         "d": "M16.25 23C15.5596 23 15 23.5596 15 24.25C15 24.9404 15.5596 25.5 16.25 25.5H31.75C32.4404 25.5 33 24.9404 33 24.25C33 23.5596 32.4404 23 31.75 23H16.25ZM15 30.25C15 29.5596 15.5596 29 16.25 29H31.75C32.4404 29 33 29.5596 33 30.25C33 30.9404 32.4404 31.5 31.75 31.5H16.25C15.5596 31.5 15 30.9404 15 30.25ZM16.25 35C15.5596 35 15 35.5596 15 36.25C15 36.9404 15.5596 37.5 16.25 37.5H31.75C32.4404 37.5 33 36.9404 33 36.25C33 35.5596 32.4404 35 31.75 35H16.25Z",
         "fill": "url(#paint3_linear_72095_9761)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -57,14 +61,16 @@ export var documentText48Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -84,7 +90,8 @@ export var documentText48Color = [
               {
                 "offset": "0.362364",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -92,7 +99,8 @@ export var documentText48Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -111,14 +119,16 @@ export var documentText48Color = [
               "stop",
               {
                 "stopColor": "#9FF0F9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -137,14 +147,16 @@ export var documentText48Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ]

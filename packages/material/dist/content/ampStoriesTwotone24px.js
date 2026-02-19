@@ -18,7 +18,8 @@ export var ampStoriesTwotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -26,10 +27,6 @@ export var ampStoriesTwotone24px = [
       "g",
       {},
       [
-        [
-          "g",
-          {}
-        ],
         [
           "g",
           {},
@@ -47,7 +44,8 @@ export var ampStoriesTwotone24px = [
                     "width": "6",
                     "x": "9",
                     "y": "6"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -55,7 +53,8 @@ export var ampStoriesTwotone24px = [
               "path",
               {
                 "d": "M7,19h10V4H7V19z M9,6h6v11H9V6z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -64,7 +63,8 @@ export var ampStoriesTwotone24px = [
                 "width": "2",
                 "x": "3",
                 "y": "6"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -73,7 +73,8 @@ export var ampStoriesTwotone24px = [
                 "width": "2",
                 "x": "19",
                 "y": "6"
-              }
+              },
+              []
             ]
           ]
         ]

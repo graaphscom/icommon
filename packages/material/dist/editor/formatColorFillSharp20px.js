@@ -18,7 +18,8 @@ export var formatColorFillSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var formatColorFillSharp20px = [
                   "path",
                   {
                     "d": "M15.25,14c0.96,0,1.75-0.79,1.75-1.75c0-1.16-1.75-3.06-1.75-3.06s-1.75,1.9-1.75,3.06C13.5,13.21,14.29,14,15.25,14z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -53,7 +55,8 @@ export var formatColorFillSharp20px = [
                     "width": "16",
                     "x": "2",
                     "y": "16"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -65,7 +68,8 @@ export var formatColorFillSharp20px = [
                   "path",
                   {
                     "d": "M8,13.57L13.57,8l-8-8L4.51,1.06l2.43,2.43L2.43,8L8,13.57z M8,4.56L11.44,8H4.56L8,4.56z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

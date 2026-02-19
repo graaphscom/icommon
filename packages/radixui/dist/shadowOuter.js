@@ -16,7 +16,8 @@ export var shadowOuter = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".05"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -26,7 +27,8 @@ export var shadowOuter = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".2"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -36,7 +38,8 @@ export var shadowOuter = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".35"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -46,7 +49,8 @@ export var shadowOuter = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -56,7 +60,8 @@ export var shadowOuter = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".65"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -65,7 +70,8 @@ export var shadowOuter = [
         "d": "M1.27707 7.50253C1.27707 4.06456 4.0641 1.27753 7.50207 1.27753C10.94 1.27753 13.7271 4.06456 13.7271 7.50253C13.7271 10.9405 10.94 13.7275 7.50207 13.7275C4.0641 13.7275 1.27707 10.9405 1.27707 7.50253ZM7.50207 2.22753C4.58877 2.22753 2.22707 4.58923 2.22707 7.50253C2.22707 10.4158 4.58877 12.7775 7.50207 12.7775C10.4153 12.7775 12.7771 10.4158 12.7771 7.50253C12.7771 4.58923 10.4153 2.22753 7.50207 2.22753Z",
         "fill": "currentColor",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -10,7 +10,8 @@ export var bxBarChart = [
       "path",
       {
         "d": "M13 8h2v12h-2zM9 4h2v16H9zM17 14h2v6h-2zM5 11h2v9H5z"
-      }
+      },
+      []
     ]
   ]
 ];

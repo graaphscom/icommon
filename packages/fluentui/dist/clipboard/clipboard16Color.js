@@ -13,7 +13,8 @@ export var clipboard16Color = [
       {
         "d": "M3 3.5C3 2.67157 3.67157 2 4.5 2H11.5C12.3284 2 13 2.67157 13 3.5V13.5C13 14.3284 12.3284 15 11.5 15H4.5C3.67157 15 3 14.3284 3 13.5V3.5Z",
         "fill": "url(#paint0_linear_378174_10127)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var clipboard16Color = [
         "d": "M3 3.5C3 2.67157 3.67157 2 4.5 2H11.5C12.3284 2 13 2.67157 13 3.5V13.5C13 14.3284 12.3284 15 11.5 15H4.5C3.67157 15 3 14.3284 3 13.5V3.5Z",
         "fill": "url(#paint1_radial_378174_10127)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,14 +31,16 @@ export var clipboard16Color = [
         "d": "M3 3.5C3 2.67157 3.67157 2 4.5 2H11.5C12.3284 2 13 2.67157 13 3.5V13.5C13 14.3284 12.3284 15 11.5 15H4.5C3.67157 15 3 14.3284 3 13.5V3.5Z",
         "fill": "url(#paint2_radial_378174_10127)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 2.5C5 3.32843 5.67157 4 6.5 4H9.5C10.3284 4 11 3.32843 11 2.5C11 1.67157 10.3284 1 9.5 1H6.5C5.67157 1 5 1.67157 5 2.5Z",
         "fill": "url(#paint3_linear_378174_10127)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -57,14 +61,16 @@ export var clipboard16Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -83,7 +89,8 @@ export var clipboard16Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -91,7 +98,8 @@ export var clipboard16Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -110,7 +118,8 @@ export var clipboard16Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -118,7 +127,8 @@ export var clipboard16Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -137,14 +147,16 @@ export var clipboard16Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FAB500"
-              }
+              },
+              []
             ]
           ]
         ]

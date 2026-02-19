@@ -15,7 +15,8 @@ export var chartMultiple24Color = [
         "d": "M9.9999 4.01637C10.2754 3.99823 10.5 4.22382 10.5 4.49996V10.5C10.5 11.0523 10.9477 11.5 11.5 11.5L17.5 11.5C17.7761 11.5 18.0017 11.7245 17.9836 12.0001C17.7262 15.909 14.4741 19 10.5 19C6.35786 19 3 15.6421 3 11.5C3 7.52588 6.09093 4.27372 9.9999 4.01637Z",
         "fill": "url(#paint0_linear_72095_9998)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -25,7 +26,8 @@ export var chartMultiple24Color = [
         "fill": "url(#paint1_radial_72095_9998)",
         "fillOpacity": "0.4",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -35,7 +37,8 @@ export var chartMultiple24Color = [
         "fill": "url(#paint2_radial_72095_9998)",
         "fillOpacity": "0.4",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -44,28 +47,32 @@ export var chartMultiple24Color = [
         "d": "M20 9.40194V9.4552C19.9999 9.48255 19.9997 9.50986 19.9993 9.53713C19.9955 9.79854 19.7764 10 19.515 10H12.5C12.2239 10 12 9.77614 12 9.5V2.48506C12 2.22363 12.2015 2.00452 12.4629 2.00078C12.499 2.00026 12.5352 2 12.5715 2C16.6653 2 19.9856 5.3115 20 9.40194Z",
         "fill": "url(#paint3_linear_72095_9998)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21.5 12C20.6716 12 20 12.6716 20 13.5V21.5C20 22.3284 20.6716 23 21.5 23C22.3284 23 23 22.3284 23 21.5V13.5C23 12.6716 22.3284 12 21.5 12Z",
         "fill": "url(#paint4_linear_72095_9998)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 16.5C16 15.6716 16.6716 15 17.5 15C18.3284 15 19 15.6716 19 16.5V21.5C19 22.3284 18.3284 23 17.5 23C16.6716 23 16 22.3284 16 21.5V16.5Z",
         "fill": "url(#paint5_linear_72095_9998)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13.5 18C12.6716 18 12 18.6716 12 19.5V21.5C12 22.3284 12.6716 23 13.5 23C14.3284 23 15 22.3284 15 21.5V19.5C15 18.6716 14.3284 18 13.5 18Z",
         "fill": "url(#paint6_linear_72095_9998)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -86,14 +93,16 @@ export var chartMultiple24Color = [
               "stop",
               {
                 "stopColor": "#6D37CD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#EA71EF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -112,7 +121,8 @@ export var chartMultiple24Color = [
               "stop",
               {
                 "stopColor": "#30116E"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -120,7 +130,8 @@ export var chartMultiple24Color = [
                 "offset": "0.749599",
                 "stopColor": "#30116E",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -139,7 +150,8 @@ export var chartMultiple24Color = [
               "stop",
               {
                 "stopColor": "#30116E"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -147,7 +159,8 @@ export var chartMultiple24Color = [
                 "offset": "1",
                 "stopColor": "#30116E",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -166,14 +179,16 @@ export var chartMultiple24Color = [
               "stop",
               {
                 "stopColor": "#E23CB4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#EA71EF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -192,14 +207,16 @@ export var chartMultiple24Color = [
               "stop",
               {
                 "stopColor": "#16BBDA"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -218,14 +235,16 @@ export var chartMultiple24Color = [
               "stop",
               {
                 "stopColor": "#16BBDA"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -244,14 +263,16 @@ export var chartMultiple24Color = [
               "stop",
               {
                 "stopColor": "#16BBDA"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ]

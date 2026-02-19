@@ -18,7 +18,8 @@ export var solarPowerOutlined24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var solarPowerOutlined24px = [
               "path",
               {
                 "d": "M20,12H4L2,22h20L20,12z M18.36,14l0.4,2H13v-2H18.36z M11,14v2H5.24l0.4-2H11z M4.84,18H11v2H4.44L4.84,18z M13,20v-2 h6.16l0.4,2H13z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -43,7 +45,8 @@ export var solarPowerOutlined24px = [
                 "width": "2",
                 "x": "11",
                 "y": "8"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -53,7 +56,8 @@ export var solarPowerOutlined24px = [
                 "width": "2",
                 "x": "16.53",
                 "y": "6.06"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -63,7 +67,8 @@ export var solarPowerOutlined24px = [
                 "width": "3",
                 "x": "4.97",
                 "y": "6.56"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -72,7 +77,8 @@ export var solarPowerOutlined24px = [
                 "width": "3",
                 "x": "3",
                 "y": "2"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -81,13 +87,15 @@ export var solarPowerOutlined24px = [
                 "width": "3",
                 "x": "18",
                 "y": "2"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M12,7c2.76,0,5-2.24,5-5h-2c0,1.65-1.35,3-3,3S9,3.65,9,2H7C7,4.76,9.24,7,12,7z"
-              }
+              },
+              []
             ]
           ]
         ]

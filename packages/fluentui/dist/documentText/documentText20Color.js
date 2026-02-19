@@ -13,7 +13,8 @@ export var documentText20Color = [
       {
         "d": "M10 2L12 6L16 8V16.5C16 17.3284 15.3284 18 14.5 18H5.5C4.67157 18 4 17.3284 4 16.5V3.5C4 2.67157 4.67157 2 5.5 2H10Z",
         "fill": "url(#paint0_linear_72095_9777)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,14 +22,16 @@ export var documentText20Color = [
         "d": "M10 2L12 6L16 8V16.5C16 17.3284 15.3284 18 14.5 18H5.5C4.67157 18 4 17.3284 4 16.5V3.5C4 2.67157 4.67157 2 5.5 2H10Z",
         "fill": "url(#paint1_radial_72095_9777)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10.01 6.5V2L16.01 8H11.51C10.6816 8 10.01 7.32843 10.01 6.5Z",
         "fill": "url(#paint2_linear_72095_9777)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -36,7 +39,8 @@ export var documentText20Color = [
         "d": "M6.5 10C6.22386 10 6 10.2239 6 10.5C6 10.7761 6.22386 11 6.5 11H13.5C13.7761 11 14 10.7761 14 10.5C14 10.2239 13.7761 10 13.5 10H6.5ZM6.5 12C6.22386 12 6 12.2239 6 12.5C6 12.7761 6.22386 13 6.5 13H13.5C13.7761 13 14 12.7761 14 12.5C14 12.2239 13.7761 12 13.5 12H6.5ZM6.5 14C6.22386 14 6 14.2239 6 14.5C6 14.7761 6.22386 15 6.5 15H13.5C13.7761 15 14 14.7761 14 14.5C14 14.2239 13.7761 14 13.5 14H6.5Z",
         "fill": "url(#paint3_linear_72095_9777)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -57,14 +61,16 @@ export var documentText20Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -84,7 +90,8 @@ export var documentText20Color = [
               {
                 "offset": "0.362364",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -92,7 +99,8 @@ export var documentText20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -111,14 +119,16 @@ export var documentText20Color = [
               "stop",
               {
                 "stopColor": "#9FF0F9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -137,14 +147,16 @@ export var documentText20Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ]

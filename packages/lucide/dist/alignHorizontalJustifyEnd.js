@@ -20,7 +20,8 @@ export var alignHorizontalJustifyEnd = [
         "width": "6",
         "x": "2",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,13 +31,15 @@ export var alignHorizontalJustifyEnd = [
         "width": "6",
         "x": "12",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 2v20"
-      }
+      },
+      []
     ]
   ]
 ];

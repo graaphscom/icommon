@@ -13,7 +13,8 @@ export var chromeRestore = [
       {
         "d": "M3 5V14H12V5H3ZM11 13H4V6H11V13Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -22,7 +23,8 @@ export var chromeRestore = [
         "d": "M5 5H6V4H13V11H12V12H14V5V3H12H5V5Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

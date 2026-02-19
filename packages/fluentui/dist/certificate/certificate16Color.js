@@ -13,7 +13,8 @@ export var certificate16Color = [
       {
         "d": "M3 2C1.89543 2 1 2.89543 1 4V9H1.5C1.5 9.81791 1.89278 10.5441 2.5 11.0002V12H13C14.1046 12 15 11.1046 15 10V4C15 2.89543 14.1046 2 13 2H3Z",
         "fill": "url(#paint0_linear_72095_10102)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var certificate16Color = [
         "d": "M8.5 8C8.22386 8 8 8.22386 8 8.5C8 8.77614 8.22386 9 8.5 9H11.5C11.7761 9 12 8.77614 12 8.5C12 8.22386 11.7761 8 11.5 8H8.5Z",
         "fill": "url(#paint1_linear_72095_10102)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,21 +31,24 @@ export var certificate16Color = [
         "d": "M4.5 5C4.22386 5 4 5.22386 4 5.5C4 5.77614 4.22386 6 4.5 6H11.5C11.7761 6 12 5.77614 12 5.5C12 5.22386 11.7761 5 11.5 5H4.5Z",
         "fill": "url(#paint2_linear_72095_10102)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 10.944V14.5C2 14.591 2.024 14.679 2.071 14.757C2.118 14.835 2.184 14.898 2.264 14.941C2.337 14.98 2.418 15 2.5 15C2.599 15 2.695 14.97 2.777 14.915L4 14.1L5.223 14.916C5.298 14.966 5.386 14.995 5.476 14.999C5.566 15.003 5.656 14.983 5.736 14.94C5.816 14.897 5.882 14.834 5.929 14.756C5.975 14.678 6 14.59 6 14.499V10.944C5.409 11.288 4.732 11.5 4 11.5C3.268 11.5 2.591 11.288 2 10.944Z",
         "fill": "url(#paint3_radial_72095_10102)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 9C7 10.657 5.657 12 4 12C2.343 12 1 10.657 1 9C1 7.343 2.343 6 4 6C5.657 6 7 7.343 7 9Z",
         "fill": "url(#paint4_radial_72095_10102)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -64,14 +69,16 @@ export var certificate16Color = [
               "stop",
               {
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -90,14 +97,16 @@ export var certificate16Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -116,14 +125,16 @@ export var certificate16Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -142,14 +153,16 @@ export var certificate16Color = [
               "stop",
               {
                 "stopColor": "#163697"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#29C3FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -169,14 +182,16 @@ export var certificate16Color = [
               {
                 "offset": "0.771547",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.990707",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ]

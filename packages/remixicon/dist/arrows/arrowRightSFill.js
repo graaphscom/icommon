@@ -10,7 +10,8 @@ export var arrowRightSFill = [
       "path",
       {
         "d": "M16 12L10 18V6L16 12Z"
-      }
+      },
+      []
     ]
   ]
 ];

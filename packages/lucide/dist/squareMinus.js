@@ -20,13 +20,15 @@ export var squareMinus = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 12h8"
-      }
+      },
+      []
     ]
   ]
 ];

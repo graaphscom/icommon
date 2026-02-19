@@ -13,14 +13,16 @@ export var calendarEdit20Color = [
       {
         "d": "M3 6H17V13.6923L12.2222 17H5.5C4.11929 17 3 15.8807 3 14.5V6Z",
         "fill": "url(#paint0_linear_72095_10133)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 6H17V13.6923L12.2222 17H5.5C4.11929 17 3 15.8807 3 14.5V6Z",
         "fill": "url(#paint1_linear_72095_10133)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -28,7 +30,8 @@ export var calendarEdit20Color = [
         "d": "M3 6H17V13.6923L12.2222 17H5.5C4.11929 17 3 15.8807 3 14.5V6Z",
         "fill": "url(#paint2_radial_72095_10133)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "g",
@@ -41,35 +44,40 @@ export var calendarEdit20Color = [
           {
             "d": "M8 10C8 10.5523 7.55228 11 7 11C6.44772 11 6 10.5523 6 10C6 9.44771 6.44772 9 7 9C7.55228 9 8 9.44771 8 10Z",
             "fill": "url(#paint3_linear_72095_10133)"
-          }
+          },
+          []
         ],
         [
           "path",
           {
             "d": "M8 13C8 13.5523 7.55228 14 7 14C6.44772 14 6 13.5523 6 13C6 12.4477 6.44772 12 7 12C7.55228 12 8 12.4477 8 13Z",
             "fill": "url(#paint4_linear_72095_10133)"
-          }
+          },
+          []
         ],
         [
           "path",
           {
             "d": "M11 13C11 13.5523 10.5523 14 10 14C9.44771 14 9 13.5523 9 13C9 12.4477 9.44771 12 10 12C10.5523 12 11 12.4477 11 13Z",
             "fill": "url(#paint5_linear_72095_10133)"
-          }
+          },
+          []
         ],
         [
           "path",
           {
             "d": "M10 11C10.5523 11 11 10.5523 11 10C11 9.44771 10.5523 9 10 9C9.44771 9 9 9.44771 9 10C9 10.5523 9.44771 11 10 11Z",
             "fill": "url(#paint6_linear_72095_10133)"
-          }
+          },
+          []
         ],
         [
           "path",
           {
             "d": "M14 10C14 10.5523 13.5523 11 13 11C12.4477 11 12 10.5523 12 10C12 9.44771 12.4477 9 13 9C13.5523 9 14 9.44771 14 10Z",
             "fill": "url(#paint7_linear_72095_10133)"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -78,35 +86,40 @@ export var calendarEdit20Color = [
       {
         "d": "M17 5.5C17 4.11929 15.8807 3 14.5 3H5.5C4.11929 3 3 4.11929 3 5.5V7H17V5.5Z",
         "fill": "url(#paint8_linear_72095_10133)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14.3521 12H16.9923V14.6465L13.6206 18.022C13.3393 18.3037 12.9869 18.5034 12.601 18.6001L11.1048 18.9746C10.4541 19.1372 9.86467 18.5474 10.0273 17.896L10.4014 16.3979C10.4979 16.0117 10.6974 15.6587 10.9787 15.377L14.3521 12Z",
         "fill": "url(#paint9_linear_72095_10133)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13.4854 18.1427C13.2297 18.359 12.9273 18.5145 12.601 18.5961L11.1047 18.9706C10.4541 19.1335 9.86466 18.5434 10.0273 17.892L10.4014 16.3941C10.4808 16.0763 10.6299 15.7812 10.8368 15.5298C11.1433 16.8326 12.1769 17.8545 13.4854 18.1427Z",
         "fill": "url(#paint10_linear_72095_10133)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14.54 11.8203L15.811 10.5479C16.5405 9.81738 17.7234 9.81738 18.4529 10.5479C19.1825 11.2783 19.1825 12.4624 18.4529 13.1924L17.2792 14.3672L14.54 11.8203Z",
         "fill": "url(#paint11_linear_72095_10133)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M18.0015 13.6466C16.6814 13.3563 15.6408 12.3191 15.3442 11L14.3452 12.0001C14.6418 13.3192 15.6824 14.3563 17.0026 14.6466L18.0015 13.6466Z",
         "fill": "url(#paint12_linear_72095_10133)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -129,7 +142,8 @@ export var calendarEdit20Color = [
               {
                 "floodOpacity": "0",
                 "result": "BackgroundImageFix"
-              }
+              },
+              []
             ],
             [
               "feColorMatrix",
@@ -138,26 +152,30 @@ export var calendarEdit20Color = [
                 "result": "hardAlpha",
                 "type": "matrix",
                 "values": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-              }
+              },
+              []
             ],
             [
               "feOffset",
               {
                 "dy": "0.666667"
-              }
+              },
+              []
             ],
             [
               "feGaussianBlur",
               {
                 "stdDeviation": "0.666667"
-              }
+              },
+              []
             ],
             [
               "feColorMatrix",
               {
                 "type": "matrix",
                 "values": "0 0 0 0 0.1242 0 0 0 0 0.323337 0 0 0 0 0.7958 0 0 0 0.32 0"
-              }
+              },
+              []
             ],
             [
               "feBlend",
@@ -165,7 +183,8 @@ export var calendarEdit20Color = [
                 "in2": "BackgroundImageFix",
                 "mode": "normal",
                 "result": "effect1_dropShadow_72095_10133"
-              }
+              },
+              []
             ],
             [
               "feBlend",
@@ -174,7 +193,8 @@ export var calendarEdit20Color = [
                 "in2": "effect1_dropShadow_72095_10133",
                 "mode": "normal",
                 "result": "shape"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -193,14 +213,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -220,7 +242,8 @@ export var calendarEdit20Color = [
               {
                 "stopColor": "#DCF8FF",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -228,7 +251,8 @@ export var calendarEdit20Color = [
                 "offset": "1",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0.7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -248,7 +272,8 @@ export var calendarEdit20Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -256,7 +281,8 @@ export var calendarEdit20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -275,14 +301,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -301,14 +329,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -327,14 +357,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -353,14 +385,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -379,14 +413,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -405,14 +441,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -431,14 +469,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -458,14 +498,16 @@ export var calendarEdit20Color = [
               {
                 "offset": "0.255",
                 "stopColor": "#FFD394"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -484,14 +526,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#F97DBD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DD3CE2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -510,14 +554,16 @@ export var calendarEdit20Color = [
               "stop",
               {
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFE994"
-              }
+              },
+              []
             ]
           ]
         ]

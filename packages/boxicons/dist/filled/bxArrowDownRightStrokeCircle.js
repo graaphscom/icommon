@@ -10,7 +10,8 @@ export var bxArrowDownRightStrokeCircle = [
       "path",
       {
         "d": "M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2m4 14H9v-2h3.59L8.3 9.71 9.71 8.3 14 12.59V9h2z"
-      }
+      },
+      []
     ]
   ]
 ];

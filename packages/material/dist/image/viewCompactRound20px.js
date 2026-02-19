@@ -18,7 +18,8 @@ export var viewCompactRound20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -41,7 +42,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "3.5",
                     "y": "5.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -56,7 +58,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "7",
                     "y": "5.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -71,7 +74,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "10.5",
                     "y": "5.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -86,7 +90,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "14",
                     "y": "5.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -101,7 +106,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "3.5",
                     "y": "9"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -116,7 +122,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "7",
                     "y": "9"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -131,7 +138,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "10.5",
                     "y": "9"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -146,7 +154,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "14",
                     "y": "9"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -161,7 +170,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "3.5",
                     "y": "12.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -176,7 +186,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "7",
                     "y": "12.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -191,7 +202,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "10.5",
                     "y": "12.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -206,7 +218,8 @@ export var viewCompactRound20px = [
                     "width": "2",
                     "x": "14",
                     "y": "12.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

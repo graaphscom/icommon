@@ -18,7 +18,8 @@ export var circleStop = [
         "cx": "12",
         "cy": "12",
         "r": "10"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -28,7 +29,8 @@ export var circleStop = [
         "width": "6",
         "x": "9",
         "y": "9"
-      }
+      },
+      []
     ]
   ]
 ];

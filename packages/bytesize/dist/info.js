@@ -17,7 +17,8 @@ export var info = [
       "path",
       {
         "d": "M16 14 L16 23 M16 8 L16 10"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -25,7 +26,8 @@ export var info = [
         "cx": "16",
         "cy": "16",
         "r": "14"
-      }
+      },
+      []
     ]
   ]
 ];

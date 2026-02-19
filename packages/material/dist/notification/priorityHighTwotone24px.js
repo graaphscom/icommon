@@ -12,7 +12,8 @@ export var priorityHighTwotone24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -20,13 +21,15 @@ export var priorityHighTwotone24px = [
         "cx": "12",
         "cy": "19",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 3h4v12h-4z"
-      }
+      },
+      []
     ]
   ]
 ];

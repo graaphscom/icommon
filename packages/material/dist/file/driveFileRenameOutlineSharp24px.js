@@ -18,7 +18,8 @@ export var driveFileRenameOutlineSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,13 +35,15 @@ export var driveFileRenameOutlineSharp24px = [
               "polygon",
               {
                 "points": "15,16 11,20 21,20 21,16"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "12.06,7.19 3,16.25 3,20 6.75,20 15.81,10.94"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -50,7 +53,8 @@ export var driveFileRenameOutlineSharp24px = [
                 "width": "3.59",
                 "x": "14.48",
                 "y": "4.08"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -11,7 +11,8 @@ export var bxBetweenVerticalStart = [
       "path",
       {
         "d": "M16 2 8 2 12 6 16 2z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -22,7 +23,8 @@ export var bxBetweenVerticalStart = [
         "width": "9",
         "x": "13",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -33,7 +35,8 @@ export var bxBetweenVerticalStart = [
         "width": "9",
         "x": "2",
         "y": "7"
-      }
+      },
+      []
     ]
   ]
 ];

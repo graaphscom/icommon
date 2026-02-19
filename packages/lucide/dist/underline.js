@@ -16,7 +16,8 @@ export var underline = [
       "path",
       {
         "d": "M6 4v6a6 6 0 0 0 12 0V4"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -25,7 +26,8 @@ export var underline = [
         "x2": "20",
         "y1": "20",
         "y2": "20"
-      }
+      },
+      []
     ]
   ]
 ];

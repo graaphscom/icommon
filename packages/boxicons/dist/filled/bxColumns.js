@@ -16,7 +16,8 @@ export var bxColumns = [
         "width": "9",
         "x": "13",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -27,7 +28,8 @@ export var bxColumns = [
         "width": "9",
         "x": "2",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

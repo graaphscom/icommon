@@ -15,7 +15,8 @@ export var bxRectangleVertical = [
         "width": "16",
         "x": "4",
         "y": "2"
-      }
+      },
+      []
     ]
   ]
 ];

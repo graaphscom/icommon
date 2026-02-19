@@ -13,7 +13,8 @@ export var clipboardTask20Color = [
       {
         "d": "M4 4.50586C4 3.67743 4.67157 3.00586 5.5 3.00586H14.5C15.3284 3.00586 16 3.67743 16 4.50586V16.5059C16 17.3343 15.3284 18.0059 14.5 18.0059H5.5C4.67157 18.0059 4 17.3343 4 16.5059V4.50586Z",
         "fill": "url(#paint0_linear_72095_10069)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var clipboardTask20Color = [
         "d": "M4 4.50586C4 3.67743 4.67157 3.00586 5.5 3.00586H14.5C15.3284 3.00586 16 3.67743 16 4.50586V16.5059C16 17.3343 15.3284 18.0059 14.5 18.0059H5.5C4.67157 18.0059 4 17.3343 4 16.5059V4.50586Z",
         "fill": "url(#paint1_radial_72095_10069)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,14 +31,16 @@ export var clipboardTask20Color = [
         "d": "M4 4.50586C4 3.67743 4.67157 3.00586 5.5 3.00586H14.5C15.3284 3.00586 16 3.67743 16 4.50586V16.5059C16 17.3343 15.3284 18.0059 14.5 18.0059H5.5C4.67157 18.0059 4 17.3343 4 16.5059V4.50586Z",
         "fill": "url(#paint2_radial_72095_10069)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 3.5C7 4.32843 7.67157 5 8.5 5H11.5C12.3284 5 13 4.32843 13 3.5C13 2.67157 12.3284 2 11.5 2H8.5C7.67157 2 7 2.67157 7 3.5Z",
         "fill": "url(#paint3_linear_72095_10069)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -44,7 +48,8 @@ export var clipboardTask20Color = [
         "d": "M12.8536 9.85355C13.0488 9.65829 13.0488 9.34171 12.8536 9.14645C12.6583 8.95118 12.3417 8.95118 12.1464 9.14645L9 12.2929L7.85355 11.1464C7.65829 10.9512 7.34171 10.9512 7.14645 11.1464C6.95118 11.3417 6.95118 11.6583 7.14645 11.8536L8.64645 13.3536C8.84171 13.5488 9.15829 13.5488 9.35355 13.3536L12.8536 9.85355Z",
         "fill": "url(#paint4_linear_72095_10069)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -65,14 +70,16 @@ export var clipboardTask20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -91,7 +98,8 @@ export var clipboardTask20Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -99,7 +107,8 @@ export var clipboardTask20Color = [
                 "offset": "0.970427",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -118,7 +127,8 @@ export var clipboardTask20Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -126,7 +136,8 @@ export var clipboardTask20Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -145,14 +156,16 @@ export var clipboardTask20Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FAB500"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -171,14 +184,16 @@ export var clipboardTask20Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ]

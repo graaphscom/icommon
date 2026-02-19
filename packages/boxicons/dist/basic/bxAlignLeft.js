@@ -11,31 +11,36 @@ export var bxAlignLeft = [
       "path",
       {
         "d": "M3 7H15V9H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 3H21V5H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 11H21V13H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 15H15V17H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 19H21V21H3z"
-      }
+      },
+      []
     ]
   ]
 ];

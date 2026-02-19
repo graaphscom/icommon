@@ -12,13 +12,15 @@ export var sendSharp24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2.01 21L23 12 2.01 3 2 10l15 2-15 2 .01 7z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -19,7 +19,8 @@ export var solarPowerOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -35,7 +36,8 @@ export var solarPowerOutlined20px = [
               "path",
               {
                 "d": "M16.5,10h-13L2,18h16L16.5,10z M15.26,11.5l0.33,1.75h-4.83V11.5H15.26z M9.25,11.5v1.75H4.42l0.33-1.75H9.25z M4.14,14.75h5.11v1.75H3.81L4.14,14.75z M10.75,16.5v-1.75h5.11l0.33,1.75H10.75z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -44,7 +46,8 @@ export var solarPowerOutlined20px = [
                 "width": "1.5",
                 "x": "9.25",
                 "y": "7"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -54,7 +57,8 @@ export var solarPowerOutlined20px = [
                 "width": "1.5",
                 "x": "13.71",
                 "y": "5.46"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -64,7 +68,8 @@ export var solarPowerOutlined20px = [
                 "width": "2",
                 "x": "4.54",
                 "y": "5.71"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -73,7 +78,8 @@ export var solarPowerOutlined20px = [
                 "width": "2",
                 "x": "3",
                 "y": "2.05"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -82,13 +88,15 @@ export var solarPowerOutlined20px = [
                 "width": "2",
                 "x": "15",
                 "y": "2.05"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M10,6c2.21,0,4-1.79,4-4h-1.5c0,1.38-1.12,2.5-2.5,2.5S7.5,3.38,7.5,2H6C6,4.21,7.79,6,10,6z"
-              }
+              },
+              []
             ]
           ]
         ]

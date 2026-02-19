@@ -13,7 +13,8 @@ export var coinMultiple24Color = [
       {
         "d": "M12 22C15.866 22 19 20.2091 19 18V16H5V18C5 20.2091 8.13401 22 12 22Z",
         "fill": "url(#paint0_linear_72095_9867)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -23,14 +24,16 @@ export var coinMultiple24Color = [
         "fill": "url(#paint1_linear_72095_9867)",
         "rx": "7",
         "ry": "4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 17C15.866 17 19 15.2091 19 13V11H5V13C5 15.2091 8.13401 17 12 17Z",
         "fill": "url(#paint2_linear_72095_9867)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -40,14 +43,16 @@ export var coinMultiple24Color = [
         "fill": "url(#paint3_linear_72095_9867)",
         "rx": "7",
         "ry": "4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 12C15.866 12 19 10.2091 19 8V6H5V8C5 10.2091 8.13401 12 12 12Z",
         "fill": "url(#paint4_linear_72095_9867)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -57,7 +62,8 @@ export var coinMultiple24Color = [
         "fill": "url(#paint5_linear_72095_9867)",
         "rx": "7",
         "ry": "4"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -78,14 +84,16 @@ export var coinMultiple24Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -104,14 +112,16 @@ export var coinMultiple24Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -130,14 +140,16 @@ export var coinMultiple24Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -156,14 +168,16 @@ export var coinMultiple24Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -182,14 +196,16 @@ export var coinMultiple24Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -208,14 +224,16 @@ export var coinMultiple24Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ]

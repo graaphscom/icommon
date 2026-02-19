@@ -9,7 +9,8 @@ export var alignLetterRight = [
       "path",
       {
         "d": "M21 4H10a1 1 0 0 1 0-2h11a1 1 0 0 1 0 2zm0 4H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2zm0 4H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2zm0 6H11a1 1 0 0 1 0-2h10a1 1 0 0 1 0 2zm0 4H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2z"
-      }
+      },
+      []
     ]
   ]
 ];

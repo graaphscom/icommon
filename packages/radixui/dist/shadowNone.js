@@ -16,7 +16,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".05"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -26,7 +27,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".1"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -36,7 +38,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".15"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -46,7 +49,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".2"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -56,7 +60,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".25"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -66,7 +71,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -76,7 +82,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".35"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -86,7 +93,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".4"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -96,7 +104,8 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".45"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -106,14 +115,16 @@ export var shadowNone = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7.49911 0.877045C9.14783 0.877045 10.6553 1.48093 11.8145 2.47763L12.6466 1.64658C12.8418 1.45131 13.1583 1.45131 13.3536 1.64658C13.5488 1.84185 13.5488 2.15838 13.3536 2.35361L12.5216 3.18466C13.5185 4.34363 14.122 5.85045 14.1222 7.49911C14.1222 11.1568 11.1568 14.1222 7.49911 14.1222C5.85045 14.122 4.34363 13.5185 3.18466 12.5216L2.35361 13.3536C2.15838 13.5488 1.84185 13.5488 1.64658 13.3536C1.45131 13.1583 1.45131 12.8418 1.64658 12.6466L2.47763 11.8145C1.48093 10.6553 0.877045 9.14783 0.877045 7.49911C0.877456 3.84203 3.84203 0.877456 7.49911 0.877045ZM3.85751 11.8487C4.84285 12.6747 6.11291 13.1718 7.49911 13.172C10.6321 13.172 13.172 10.6321 13.172 7.49911C13.1718 6.11291 12.6747 4.84285 11.8487 3.85751L3.85751 11.8487ZM7.49911 1.82626C4.3667 1.82667 1.82667 4.3667 1.82626 7.49911C1.82626 8.88557 2.32529 10.1553 3.15146 11.1407L11.1407 3.15146C10.1553 2.32529 8.88557 1.82626 7.49911 1.82626Z",
         "fill": "currentColor"
-      }
+      },
+      []
     ]
   ]
 ];

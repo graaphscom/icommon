@@ -16,13 +16,15 @@ export var monitorStop = [
       "path",
       {
         "d": "M12 17v4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 21h8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var monitorStop = [
         "width": "20",
         "x": "2",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -42,7 +45,8 @@ export var monitorStop = [
         "width": "6",
         "x": "9",
         "y": "7"
-      }
+      },
+      []
     ]
   ]
 ];

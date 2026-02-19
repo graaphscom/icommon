@@ -10,7 +10,8 @@ export var bxVercel = [
       "path",
       {
         "d": "M12 2.68 22 20H2z"
-      }
+      },
+      []
     ]
   ]
 ];

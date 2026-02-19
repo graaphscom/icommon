@@ -17,7 +17,8 @@ export var music = [
       "path",
       {
         "d": "M11 25 L11 6 24 3 24 23 M11 13 L24 10"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -26,7 +27,8 @@ export var music = [
         "cy": "25",
         "rx": "4",
         "ry": "5"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -35,7 +37,8 @@ export var music = [
         "cy": "23",
         "rx": "4",
         "ry": "5"
-      }
+      },
+      []
     ]
   ]
 ];

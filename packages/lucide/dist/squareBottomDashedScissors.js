@@ -19,7 +19,8 @@ export var squareBottomDashedScissors = [
         "x2": "19",
         "y1": "3",
         "y2": "3"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -28,7 +29,8 @@ export var squareBottomDashedScissors = [
         "x2": "3",
         "y1": "5",
         "y2": "19"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -37,7 +39,8 @@ export var squareBottomDashedScissors = [
         "x2": "21",
         "y1": "5",
         "y2": "19"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -46,7 +49,8 @@ export var squareBottomDashedScissors = [
         "x2": "10",
         "y1": "21",
         "y2": "21"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -55,31 +59,36 @@ export var squareBottomDashedScissors = [
         "x2": "15",
         "y1": "21",
         "y2": "21"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M 3 5 A2 2 0 0 1 5 3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M 19 3 A2 2 0 0 1 21 5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M 5 21 A2 2 0 0 1 3 19"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M 21 19 A2 2 0 0 1 19 21"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -87,7 +96,8 @@ export var squareBottomDashedScissors = [
         "cx": "8.5",
         "cy": "8.5",
         "r": "1.5"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -96,7 +106,8 @@ export var squareBottomDashedScissors = [
         "x2": "12",
         "y1": "9.56066",
         "y2": "12"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -105,7 +116,8 @@ export var squareBottomDashedScissors = [
         "x2": "14.82",
         "y1": "17",
         "y2": "14.82"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -113,7 +125,8 @@ export var squareBottomDashedScissors = [
         "cx": "8.5",
         "cy": "15.5",
         "r": "1.5"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -122,7 +135,8 @@ export var squareBottomDashedScissors = [
         "x2": "17",
         "y1": "14.43934",
         "y2": "7"
-      }
+      },
+      []
     ]
   ]
 ];

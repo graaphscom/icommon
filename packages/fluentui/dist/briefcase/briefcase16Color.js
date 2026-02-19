@@ -13,14 +13,16 @@ export var briefcase16Color = [
       {
         "d": "M2 7H14V12C14 13.1046 13.1046 14 12 14H4C2.89543 14 2 13.1046 2 12V7Z",
         "fill": "url(#paint0_linear_75401_32002)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 7H14V12C14 13.1046 13.1046 14 12 14H4C2.89543 14 2 13.1046 2 12V7Z",
         "fill": "url(#paint1_radial_75401_32002)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,21 +31,24 @@ export var briefcase16Color = [
         "d": "M9.5 2C10.3284 2 11 2.67157 11 3.5V5H12C12.5063 5 12.967 5.18988 13.3193 5.5H2.68066C3.03298 5.18988 3.49374 5 4 5H5V3.5C5 2.67157 5.67157 2 6.5 2H9.5ZM6.5 3C6.22386 3 6 3.22386 6 3.5V5H10V3.5C10 3.22386 9.77614 3 9.5 3H6.5Z",
         "fill": "url(#paint2_linear_75401_32002)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 7C2 5.89543 2.89543 5 4 5H12C13.1046 5 14 5.89543 14 7V8.5C14 9.32843 13.3284 10 12.5 10H3.5C2.67157 10 2 9.32843 2 8.5V7Z",
         "fill": "url(#paint3_linear_75401_32002)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8.5 7.5H7.5C7.22386 7.5 7 7.72386 7 8V10.0102C7 10.2863 7.22386 10.5102 7.5 10.5102H8.5C8.77614 10.5102 9 10.2863 9 10.0102V8C9 7.72386 8.77614 7.5 8.5 7.5Z",
         "fill": "url(#paint4_linear_75401_32002)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -64,14 +69,16 @@ export var briefcase16Color = [
               "stop",
               {
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#CC23D1"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -91,7 +98,8 @@ export var briefcase16Color = [
               {
                 "offset": "0.336754",
                 "stopColor": "#194694"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -99,7 +107,8 @@ export var briefcase16Color = [
                 "offset": "0.74691",
                 "stopColor": "#367AF2",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -118,14 +127,16 @@ export var briefcase16Color = [
               "stop",
               {
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#163697"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -144,21 +155,24 @@ export var briefcase16Color = [
               "stop",
               {
                 "stopColor": "#80F1E6"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.551691",
                 "stopColor": "#40C4F5"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#00A2FA"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -177,14 +191,16 @@ export var briefcase16Color = [
               "stop",
               {
                 "stopColor": "#B8F5FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.843749",
                 "stopColor": "#7CECFF"
-              }
+              },
+              []
             ]
           ]
         ]

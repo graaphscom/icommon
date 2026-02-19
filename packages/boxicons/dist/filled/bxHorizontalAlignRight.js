@@ -11,7 +11,8 @@ export var bxHorizontalAlignRight = [
       "path",
       {
         "d": "M20 2H22V22H20z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -22,7 +23,8 @@ export var bxHorizontalAlignRight = [
         "width": "10",
         "x": "8",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -33,7 +35,8 @@ export var bxHorizontalAlignRight = [
         "width": "16",
         "x": "2",
         "y": "13"
-      }
+      },
+      []
     ]
   ]
 ];

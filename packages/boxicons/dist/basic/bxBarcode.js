@@ -10,7 +10,8 @@ export var bxBarcode = [
       "path",
       {
         "d": "M5 5h2v14H5zM18 5h3v14h-3zM8 5h1v14H8zM16 5h1v14h-1zM12 5h3v14h-3zM10 5h1v14h-1zM3 5h1v14H3z"
-      }
+      },
+      []
     ]
   ]
 ];

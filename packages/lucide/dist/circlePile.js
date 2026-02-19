@@ -18,7 +18,8 @@ export var circlePile = [
         "cx": "12",
         "cy": "19",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -26,7 +27,8 @@ export var circlePile = [
         "cx": "12",
         "cy": "5",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -34,7 +36,8 @@ export var circlePile = [
         "cx": "16",
         "cy": "12",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -42,7 +45,8 @@ export var circlePile = [
         "cx": "20",
         "cy": "19",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -50,7 +54,8 @@ export var circlePile = [
         "cx": "4",
         "cy": "19",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -58,7 +63,8 @@ export var circlePile = [
         "cx": "8",
         "cy": "12",
         "r": "2"
-      }
+      },
+      []
     ]
   ]
 ];

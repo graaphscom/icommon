@@ -10,7 +10,8 @@ export var arrowDropLeftFill = [
       "path",
       {
         "d": "M9 12L13 8V16L9 12Z"
-      }
+      },
+      []
     ]
   ]
 ];

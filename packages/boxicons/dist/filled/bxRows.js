@@ -16,7 +16,8 @@ export var bxRows = [
         "width": "18",
         "x": "3",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -27,7 +28,8 @@ export var bxRows = [
         "width": "18",
         "x": "3",
         "y": "13"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -19,7 +19,8 @@ export var readMoreOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -35,7 +36,8 @@ export var readMoreOutlined20px = [
               "polygon",
               {
                 "points": "11,10 8,7 8,9.5 3,9.5 3,10.5 8,10.5 8,13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -44,7 +46,8 @@ export var readMoreOutlined20px = [
                 "width": "6",
                 "x": "11",
                 "y": "7"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -53,7 +56,8 @@ export var readMoreOutlined20px = [
                 "width": "6",
                 "x": "11",
                 "y": "12"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -62,7 +66,8 @@ export var readMoreOutlined20px = [
                 "width": "4",
                 "x": "13",
                 "y": "9.5"
-              }
+              },
+              []
             ]
           ]
         ]

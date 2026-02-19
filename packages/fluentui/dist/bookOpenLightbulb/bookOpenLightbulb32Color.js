@@ -13,63 +13,72 @@ export var bookOpenLightbulb32Color = [
       {
         "d": "M2 6.25C2 5.00736 3.00736 4 4.25 4H12.25C13.7743 4 15.1308 4.71797 16 5.83417L17 16L16 26.1658C15.1308 27.282 13.7743 28 12.25 28H4.25C3.00736 28 2 26.9926 2 25.75V6.25Z",
         "fill": "url(#paint0_linear_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M27.75 4C28.9926 4 30 5.00736 30 6.25V24H25V28H19.75C18.2258 28 16.8692 27.2822 16 26.166L15 16L16 5.83398C16.8692 4.71785 18.2258 4 19.75 4H27.75Z",
         "fill": "url(#paint1_linear_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 5C4 4.44772 4.44772 4 5 4H14.5C15.3284 4 16 4.67157 16 5.5L16.5 14L16 22.5C16 24.433 14.433 26 12.5 26H5C4.44772 26 4 25.5523 4 25V5Z",
         "fill": "url(#paint2_linear_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M28 5C28 4.44772 27.5523 4 27 4H17.5C16.6716 4 16 4.67157 16 5.5V22.5C16 24.433 17.567 26 19.5 26H27C27.5523 26 28 25.5523 28 25V5Z",
         "fill": "url(#paint3_linear_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M28 5C28 4.44772 27.5523 4 27 4H17.5C16.6716 4 16 4.67157 16 5.5V22.5C16 24.433 17.567 26 19.5 26H27C27.5523 26 28 25.5523 28 25V5Z",
         "fill": "url(#paint4_radial_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M27.8213 29.3926C27.6342 30.3272 26.8136 31 25.8604 31H25.1396C24.1864 31 23.3658 30.3272 23.1787 29.3926L23 28.5L25.5 27.5L28 28.5L27.8213 29.3926Z",
         "fill": "url(#paint5_radial_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M27.8213 29.3926C27.6342 30.3272 26.8136 31 25.8604 31H25.1396C24.1864 31 23.3658 30.3272 23.1787 29.3926L23 28.5L25.5 27.5L28 28.5L27.8213 29.3926Z",
         "fill": "url(#paint6_linear_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M25.5 16C28.5376 16 31 18.4624 31 21.5C31 23.441 29.9932 25.1451 28.4746 26.124L28.2998 27L25.5 27.5L22.7002 27L22.5244 26.124C21.0063 25.1451 20 23.4407 20 21.5C20 18.4624 22.4624 16 25.5 16Z",
         "fill": "url(#paint7_radial_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M28.0029 28.5H23.0029L22.7031 27H28.3027L28.0029 28.5Z",
         "fill": "url(#paint8_linear_75418_31494)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -90,14 +99,16 @@ export var bookOpenLightbulb32Color = [
               "stop",
               {
                 "stopColor": "#20AC9D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2052CB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -116,14 +127,16 @@ export var bookOpenLightbulb32Color = [
               "stop",
               {
                 "stopColor": "#20AC9D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2052CB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -142,14 +155,16 @@ export var bookOpenLightbulb32Color = [
               "stop",
               {
                 "stopColor": "#B6EFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.851323",
                 "stopColor": "#58AAFE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -169,14 +184,16 @@ export var bookOpenLightbulb32Color = [
               {
                 "offset": "0.12337",
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.61551",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -196,7 +213,8 @@ export var bookOpenLightbulb32Color = [
               {
                 "offset": "0.251056",
                 "stopColor": "#2063C3"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -204,7 +222,8 @@ export var bookOpenLightbulb32Color = [
                 "offset": "0.714294",
                 "stopColor": "#8AD6FF",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -223,21 +242,24 @@ export var bookOpenLightbulb32Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.376456",
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -256,7 +278,8 @@ export var bookOpenLightbulb32Color = [
               "stop",
               {
                 "stopColor": "#D34719"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -264,7 +287,8 @@ export var bookOpenLightbulb32Color = [
                 "offset": "1",
                 "stopColor": "#D34719",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -283,21 +307,24 @@ export var bookOpenLightbulb32Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.376456",
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -316,14 +343,16 @@ export var bookOpenLightbulb32Color = [
               "stop",
               {
                 "stopColor": "#FFC7A3"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF9C70"
-              }
+              },
+              []
             ]
           ]
         ]

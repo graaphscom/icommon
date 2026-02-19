@@ -19,7 +19,8 @@ export var markUnreadChatAltOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -35,7 +36,8 @@ export var markUnreadChatAltOutlined20px = [
               "path",
               {
                 "d": "M16.5,13.5h-13v-10h8.07c-0.06-0.29-0.13-0.84,0-1.5L3.5,2C2.67,2,2,2.67,2,3.5V18l3-3h11.5c0.83,0,1.5-0.67,1.5-1.5V5.87 c-0.43,0.35-0.94,0.61-1.5,0.75L16.5,13.5z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -44,7 +46,8 @@ export var markUnreadChatAltOutlined20px = [
                 "width": "7",
                 "x": "5",
                 "y": "10.5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -53,7 +56,8 @@ export var markUnreadChatAltOutlined20px = [
                 "width": "10",
                 "x": "5",
                 "y": "7.75"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -61,13 +65,15 @@ export var markUnreadChatAltOutlined20px = [
                 "cx": "15.5",
                 "cy": "2.75",
                 "r": "2.5"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M5,6.5h9.15c-0.8-0.29-1.49-0.81-1.96-1.5H5V6.5z"
-              }
+              },
+              []
             ]
           ]
         ]

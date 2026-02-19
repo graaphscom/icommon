@@ -16,13 +16,15 @@ export var radioReceiver = [
       "path",
       {
         "d": "M5 16v2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 16v2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,13 +34,15 @@ export var radioReceiver = [
         "width": "20",
         "x": "2",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M18 12h.01"
-      }
+      },
+      []
     ]
   ]
 ];

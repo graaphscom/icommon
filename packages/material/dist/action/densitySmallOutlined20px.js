@@ -19,7 +19,8 @@ export var densitySmallOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var densitySmallOutlined20px = [
                 "width": "14",
                 "x": "3",
                 "y": "11.5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -47,7 +49,8 @@ export var densitySmallOutlined20px = [
                 "width": "14",
                 "x": "3",
                 "y": "7"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -56,7 +59,8 @@ export var densitySmallOutlined20px = [
                 "width": "14",
                 "x": "3",
                 "y": "2.5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -65,7 +69,8 @@ export var densitySmallOutlined20px = [
                 "width": "14",
                 "x": "3",
                 "y": "16"
-              }
+              },
+              []
             ]
           ]
         ]

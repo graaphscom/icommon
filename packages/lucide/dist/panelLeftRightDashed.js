@@ -16,49 +16,57 @@ export var panelLeftRightDashed = [
       "path",
       {
         "d": "M15 10V9"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 15v-1"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 21v-2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 5V3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 10V9"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 15v-1"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 21v-2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 5V3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -68,7 +76,8 @@ export var panelLeftRightDashed = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

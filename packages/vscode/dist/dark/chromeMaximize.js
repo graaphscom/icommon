@@ -13,7 +13,8 @@ export var chromeMaximize = [
       {
         "d": "M3 3V13H13V3H3ZM12 12H4V4H12V12Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -15,7 +15,8 @@ export var org32Color = [
         "d": "M15 15H9.5C8.11929 15 7 16.1193 7 17.5V22H9V17.5C9 17.2239 9.22386 17 9.5 17H22.5C22.7761 17 23 17.2239 23 17.5V22H25V17.5C25 16.1193 23.8807 15 22.5 15H17V10H15V15Z",
         "fill": "url(#paint0_linear_378174_9223)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -24,7 +25,8 @@ export var org32Color = [
         "d": "M15 15H9.5C8.11929 15 7 16.1193 7 17.5V22H9V17.5C9 17.2239 9.22386 17 9.5 17H22.5C22.7761 17 23 17.2239 23 17.5V22H25V17.5C25 16.1193 23.8807 15 22.5 15H17V10H15V15Z",
         "fill": "url(#paint1_radial_378174_9223)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -33,7 +35,8 @@ export var org32Color = [
         "d": "M15 15H9.5C8.11929 15 7 16.1193 7 17.5V22H9V17.5C9 17.2239 9.22386 17 9.5 17H22.5C22.7761 17 23 17.2239 23 17.5V22H25V17.5C25 16.1193 23.8807 15 22.5 15H17V10H15V15Z",
         "fill": "url(#paint2_radial_378174_9223)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -42,28 +45,32 @@ export var org32Color = [
         "d": "M15 15H9.5C8.11929 15 7 16.1193 7 17.5V22H9V17.5C9 17.2239 9.22386 17 9.5 17H22.5C22.7761 17 23 17.2239 23 17.5V22H25V17.5C25 16.1193 23.8807 15 22.5 15H17V10H15V15Z",
         "fill": "url(#paint3_radial_378174_9223)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M29 25C29 27.7614 26.7614 30 24 30C21.2386 30 19 27.7614 19 25C19 22.2386 21.2386 20 24 20C26.7614 20 29 22.2386 29 25Z",
         "fill": "url(#paint4_radial_378174_9223)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 25C13 27.7614 10.7614 30 8 30C5.23858 30 3 27.7614 3 25C3 22.2386 5.23858 20 8 20C10.7614 20 13 22.2386 13 25Z",
         "fill": "url(#paint5_radial_378174_9223)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21 7C21 9.76142 18.7614 12 16 12C13.2386 12 11 9.76142 11 7C11 4.23858 13.2386 2 16 2C18.7614 2 21 4.23858 21 7Z",
         "fill": "url(#paint6_radial_378174_9223)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -84,14 +91,16 @@ export var org32Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -111,7 +120,8 @@ export var org32Color = [
               {
                 "offset": "0.695323",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -119,7 +129,8 @@ export var org32Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -139,7 +150,8 @@ export var org32Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -147,7 +159,8 @@ export var org32Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -167,7 +180,8 @@ export var org32Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -175,7 +189,8 @@ export var org32Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -195,14 +210,16 @@ export var org32Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#7B7BFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -222,14 +239,16 @@ export var org32Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#1EC8B0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#1A7F7C"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -249,14 +268,16 @@ export var org32Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0067BF"
-              }
+              },
+              []
             ]
           ]
         ]

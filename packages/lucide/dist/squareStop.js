@@ -20,7 +20,8 @@ export var squareStop = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var squareStop = [
         "width": "6",
         "x": "9",
         "y": "9"
-      }
+      },
+      []
     ]
   ]
 ];

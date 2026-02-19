@@ -20,7 +20,8 @@ export var rectangleHorizontal = [
         "width": "20",
         "x": "2",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

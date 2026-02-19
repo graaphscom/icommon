@@ -14,13 +14,15 @@ export var driveFileMoveRtlSharp20px = [
         "fill": "none",
         "height": "20",
         "width": "20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10,10.25h3v1.5h-3V14l-3-3l3-3V10.25z M18,6h-8L8,4H2v12h16V6z"
-      }
+      },
+      []
     ]
   ]
 ];

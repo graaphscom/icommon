@@ -13,14 +13,16 @@ export var bookContacts24Color = [
       {
         "d": "M5 19H19.7812C19.7812 19 19.5 19.5 19.5 20C19.5 20.5 19.7812 21 19.7812 21H6C5.44772 21 5 20.5523 5 20V19Z",
         "fill": "url(#paint0_linear_75809_8107)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 4.5C4 3.11929 5.11929 2 6.5 2H17.5C18.8807 2 20 3.11929 20 4.5V18.75C20 19.1642 19.6642 19.5 19.25 19.5H5.5C5.5 20.0523 5.94772 20.5 6.5 20.5H19.25C19.6642 20.5 20 20.8358 20 21.25C20 21.6642 19.6642 22 19.25 22H6.5C5.11929 22 4 20.8807 4 19.5V4.5Z",
         "fill": "url(#paint1_linear_75809_8107)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -28,7 +30,8 @@ export var bookContacts24Color = [
         "d": "M4 4.5C4 3.11929 5.11929 2 6.5 2H17.5C18.8807 2 20 3.11929 20 4.5V18.75C20 19.1642 19.6642 19.5 19.25 19.5H5.5C5.5 20.0523 5.94772 20.5 6.5 20.5H19.25C19.6642 20.5 20 20.8358 20 21.25C20 21.6642 19.6642 22 19.25 22H6.5C5.11929 22 4 20.8807 4 19.5V4.5Z",
         "fill": "url(#paint2_radial_75809_8107)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -36,7 +39,8 @@ export var bookContacts24Color = [
         "d": "M4 4.5C4 3.11929 5.11929 2 6.5 2H17.5C18.8807 2 20 3.11929 20 4.5V18.75C20 19.1642 19.6642 19.5 19.25 19.5H5.5C5.5 20.0523 5.94772 20.5 6.5 20.5H19.25C19.6642 20.5 20 20.8358 20 21.25C20 21.6642 19.6642 22 19.25 22H6.5C5.11929 22 4 20.8807 4 19.5V4.5Z",
         "fill": "url(#paint3_radial_75809_8107)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -44,7 +48,8 @@ export var bookContacts24Color = [
         "d": "M14 8C14 9.10457 13.1046 10 12 10C10.8954 10 10 9.10457 10 8C10 6.89543 10.8954 6 12 6C13.1046 6 14 6.89543 14 8ZM15.5 12.5C15.5 13.7452 14.5 15 12 15C9.5 15 8.5 13.7499 8.5 12.5C8.5 11.6716 9.17157 11 10 11H14C14.8284 11 15.5 11.6716 15.5 12.5Z",
         "fill": "url(#paint4_linear_75809_8107)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -65,14 +70,16 @@ export var bookContacts24Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.715705",
                 "stopColor": "#58AAFE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -91,14 +98,16 @@ export var bookContacts24Color = [
               "stop",
               {
                 "stopColor": "#20AC9D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2052CB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -117,7 +126,8 @@ export var bookContacts24Color = [
               "stop",
               {
                 "stopColor": "#171155"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -125,7 +135,8 @@ export var bookContacts24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -144,7 +155,8 @@ export var bookContacts24Color = [
               "stop",
               {
                 "stopColor": "#171155"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -152,7 +164,8 @@ export var bookContacts24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -171,14 +184,16 @@ export var bookContacts24Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ]

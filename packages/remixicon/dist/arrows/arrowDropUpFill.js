@@ -10,7 +10,8 @@ export var arrowDropUpFill = [
       "path",
       {
         "d": "M12 10L16 14H8L12 10Z"
-      }
+      },
+      []
     ]
   ]
 ];

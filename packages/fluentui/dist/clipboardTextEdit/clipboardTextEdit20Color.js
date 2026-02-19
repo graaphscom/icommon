@@ -13,7 +13,8 @@ export var clipboardTextEdit20Color = [
       {
         "d": "M5.5 3.00586C4.67157 3.00586 4 3.67743 4 4.50586V16.5059C4 17.3343 4.67157 18.0059 5.5 18.0059H11.0706L16 13.4286V4.50586C16 3.67743 15.3284 3.00586 14.5 3.00586H5.5Z",
         "fill": "url(#paint0_linear_378174_10151)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var clipboardTextEdit20Color = [
         "d": "M6 8.50586C6 8.22972 6.22386 8.00586 6.5 8.00586H13.5C13.7761 8.00586 14 8.22972 14 8.50586C14 8.782 13.7761 9.00586 13.5 9.00586H6.5C6.22386 9.00586 6 8.782 6 8.50586Z",
         "fill": "url(#paint1_linear_378174_10151)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,7 +31,8 @@ export var clipboardTextEdit20Color = [
         "d": "M6 14.5059C6 14.2297 6.22386 14.0059 6.5 14.0059H13.5C13.7761 14.0059 14 14.2297 14 14.5059C14 14.782 13.7761 15.0059 13.5 15.0059H6.5C6.22386 15.0059 6 14.782 6 14.5059Z",
         "fill": "url(#paint2_linear_378174_10151)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -37,7 +40,8 @@ export var clipboardTextEdit20Color = [
         "d": "M6.5 11.0059C6.22386 11.0059 6 11.2297 6 11.5059C6 11.782 6.22386 12.0059 6.5 12.0059H9.5C9.77614 12.0059 10 11.782 10 11.5059C10 11.2297 9.77614 11.0059 9.5 11.0059H6.5Z",
         "fill": "url(#paint3_linear_378174_10151)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -45,7 +49,8 @@ export var clipboardTextEdit20Color = [
         "d": "M5.5 3C4.67157 3 4 3.67157 4 4.5V16.5C4 17.3284 4.67157 18 5.5 18H11.0708L16 13.4229V4.5C16 3.67157 15.3284 3 14.5 3H5.5Z",
         "fill": "url(#paint4_radial_378174_10151)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -53,42 +58,48 @@ export var clipboardTextEdit20Color = [
         "d": "M5.5 3C4.67157 3 4 3.67157 4 4.5V16.5C4 17.3284 4.67157 18 5.5 18H11.0708L16 13.4229V4.5C16 3.67157 15.3284 3 14.5 3H5.5Z",
         "fill": "url(#paint5_radial_378174_10151)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 3.5C7 4.32843 7.67157 5 8.5 5H11.5C12.3284 5 13 4.32843 13 3.5C13 2.67157 12.3284 2 11.5 2H8.5C7.67157 2 7 2.67157 7 3.5Z",
         "fill": "url(#paint6_linear_378174_10151)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14.3522 12H16.9924V14.6465L13.6207 18.022C13.3394 18.3037 12.987 18.5034 12.6011 18.6001L11.1049 18.9746C10.4542 19.1372 9.86479 18.5474 10.0275 17.896L10.4015 16.3979C10.498 16.0117 10.6975 15.6587 10.9788 15.377L14.3522 12Z",
         "fill": "url(#paint7_linear_378174_10151)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13.4854 18.1427C13.2297 18.359 12.9273 18.5145 12.601 18.5961L11.1047 18.9706C10.4541 19.1335 9.86466 18.5434 10.0273 17.892L10.4014 16.3941C10.4808 16.0763 10.6299 15.7812 10.8368 15.5298C11.1433 16.8326 12.1769 17.8545 13.4854 18.1427Z",
         "fill": "url(#paint8_linear_378174_10151)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14.5399 11.8203L15.8109 10.5479C16.5404 9.81738 17.7233 9.81738 18.4528 10.5479C19.1823 11.2783 19.1823 12.4624 18.4528 13.1924L17.2791 14.3672L14.5399 11.8203Z",
         "fill": "url(#paint9_linear_378174_10151)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M18.0015 13.6466C16.6814 13.3563 15.6408 12.3191 15.3442 11L14.3452 12.0001C14.6418 13.3192 15.6824 14.3563 17.0026 14.6466L18.0015 13.6466Z",
         "fill": "url(#paint10_linear_378174_10151)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -109,14 +120,16 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -135,14 +148,16 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -161,14 +176,16 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -187,14 +204,16 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -213,7 +232,8 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -221,7 +241,8 @@ export var clipboardTextEdit20Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -240,7 +261,8 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -248,7 +270,8 @@ export var clipboardTextEdit20Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -267,14 +290,16 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#FAB500"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -293,14 +318,16 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -320,14 +347,16 @@ export var clipboardTextEdit20Color = [
               {
                 "offset": "0.255",
                 "stopColor": "#FFD394"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -346,14 +375,16 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#F97DBD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DD3CE2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -372,14 +403,16 @@ export var clipboardTextEdit20Color = [
               "stop",
               {
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFE994"
-              }
+              },
+              []
             ]
           ]
         ]

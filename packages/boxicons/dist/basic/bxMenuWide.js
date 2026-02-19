@@ -11,19 +11,22 @@ export var bxMenuWide = [
       "path",
       {
         "d": "M3 4H21V6H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 11H21V13H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 18H21V20H3z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -13,7 +13,8 @@ export var clipboardTextEdit28Color = [
       {
         "d": "M20.25 4C21.7688 4 23 5.23122 23 6.75V19L16 26H7.75C6.23122 26 5 24.7688 5 23.25V6.75C5 5.23122 6.23122 4 7.75 4H20.25Z",
         "fill": "url(#paint0_linear_79129_4842)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var clipboardTextEdit28Color = [
         "d": "M20.25 4C21.7688 4 23 5.23122 23 6.75V19L16 26H7.75C6.23122 26 5 24.7688 5 23.25V6.75C5 5.23122 6.23122 4 7.75 4H20.25Z",
         "fill": "url(#paint1_radial_79129_4842)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,7 +31,8 @@ export var clipboardTextEdit28Color = [
         "d": "M20.25 4C21.7688 4 23 5.23122 23 6.75V19L16 26H7.75C6.23122 26 5 24.7688 5 23.25V6.75C5 5.23122 6.23122 4 7.75 4H20.25Z",
         "fill": "url(#paint2_radial_79129_4842)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -37,14 +40,16 @@ export var clipboardTextEdit28Color = [
         "d": "M20.25 4C21.7688 4 23 5.23122 23 6.75V19L16 26H7.75C6.23122 26 5 24.7688 5 23.25V6.75C5 5.23122 6.23122 4 7.75 4H20.25Z",
         "fill": "url(#paint3_radial_79129_4842)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M23.0996 14.6693C23.9921 13.7767 25.4394 13.7769 26.332 14.6693C27.2246 15.5619 27.2246 17.0091 26.332 17.9017L25.3486 18.8841C24.6826 18.6584 24.02 18.2547 23.4463 17.681C22.8174 17.0521 22.39 16.3172 22.1807 15.5872L23.0996 14.6693Z",
         "fill": "url(#paint4_linear_79129_4842)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -52,21 +57,24 @@ export var clipboardTextEdit28Color = [
         "d": "M16.25 20C16.6642 20 17 20.3358 17 20.75C17 21.1642 16.6642 21.5 16.25 21.5H9.5C9.08579 21.5 8.75 21.1642 8.75 20.75C8.75 20.3358 9.08579 20 9.5 20H16.25ZM14.25 15C14.6642 15 15 15.3358 15 15.75C15 16.1642 14.6642 16.5 14.25 16.5H9.5C9.08579 16.5 8.75 16.1642 8.75 15.75C8.75 15.3358 9.08579 15 9.5 15H14.25ZM18.75 10C19.1642 10 19.5 10.3358 19.5 10.75C19.5 11.1642 19.1642 11.5 18.75 11.5H9.5C9.08579 11.5 8.75 11.1642 8.75 10.75C8.75 10.3358 9.08579 10 9.5 10H18.75Z",
         "fill": "url(#paint5_linear_79129_4842)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22.0645 15.707C22.3779 16.3998 22.8505 17.0898 23.4697 17.709C24.0185 18.2577 24.6228 18.6912 25.2354 19.001L18.4326 25.8047C18.3274 25.9099 18.2129 26.0041 18.0928 26.0898L14.9141 22.9111C14.9998 22.791 15.0951 22.6774 15.2002 22.5723L22.0645 15.707Z",
         "fill": "url(#paint6_linear_79129_4842)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22.1838 15.5903C22.3935 16.319 22.8198 17.0525 23.4474 17.6802C24.0222 18.2549 24.6865 18.6588 25.3537 18.8843L23.9074 20.3306C23.1824 20.1197 22.4528 19.6953 21.8283 19.0708C21.2505 18.4929 20.8439 17.8247 20.6193 17.1538L22.1838 15.5903Z",
         "fill": "url(#paint7_linear_79129_4842)"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -77,14 +85,16 @@ export var clipboardTextEdit28Color = [
         "width": "9",
         "x": "9.5",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15.6565 22.1123C15.8518 22.882 16.2896 23.6642 16.9534 24.3281C17.4946 24.8693 18.1159 25.2581 18.7435 25.4902L18.43 25.8047C18.0859 26.1488 17.654 26.3927 17.1819 26.5107L15.3519 26.9688C14.5558 27.1678 13.8347 26.4464 14.0335 25.6504L14.4915 23.8193C14.6095 23.3473 14.8535 22.9164 15.1976 22.5723L15.6565 22.1123ZM19.0003 18.793C18.9938 18.7913 18.9873 18.7897 18.9808 18.7881L19.0003 18.7695V18.793Z",
         "fill": "url(#paint9_linear_79129_4842)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -105,14 +115,16 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -131,7 +143,8 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -139,7 +152,8 @@ export var clipboardTextEdit28Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -158,7 +172,8 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -166,7 +181,8 @@ export var clipboardTextEdit28Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -185,7 +201,8 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -193,7 +210,8 @@ export var clipboardTextEdit28Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -212,14 +230,16 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#F97DBD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DD3CE2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -238,14 +258,16 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -264,14 +286,16 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -290,14 +314,16 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFE994"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -316,14 +342,16 @@ export var clipboardTextEdit28Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FAB500"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -343,14 +371,16 @@ export var clipboardTextEdit28Color = [
               {
                 "offset": "0.255",
                 "stopColor": "#FFD394"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF921F"
-              }
+              },
+              []
             ]
           ]
         ]

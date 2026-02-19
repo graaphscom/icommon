@@ -18,7 +18,8 @@ export var appRegistrationSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var appRegistrationSharp24px = [
                 "width": "4",
                 "x": "10",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var appRegistrationSharp24px = [
                 "width": "4",
                 "x": "4",
                 "y": "16"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +58,8 @@ export var appRegistrationSharp24px = [
                 "width": "4",
                 "x": "4",
                 "y": "10"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -64,7 +68,8 @@ export var appRegistrationSharp24px = [
                 "width": "4",
                 "x": "4",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -73,19 +78,22 @@ export var appRegistrationSharp24px = [
                 "width": "4",
                 "x": "16",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "11,17.86 11,20 13.1,20 19.08,14.03 16.96,11.91"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "14,12.03 14,10 10,10 10,14 12.03,14"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -95,7 +103,8 @@ export var appRegistrationSharp24px = [
                 "width": "2",
                 "x": "18.44",
                 "y": "10.06"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -11,7 +11,8 @@ export var ellipsisV = [
         "cx": "12",
         "cy": "12",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -19,7 +20,8 @@ export var ellipsisV = [
         "cx": "12",
         "cy": "5",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -27,7 +29,8 @@ export var ellipsisV = [
         "cx": "12",
         "cy": "19",
         "r": "2"
-      }
+      },
+      []
     ]
   ]
 ];

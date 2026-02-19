@@ -19,7 +19,8 @@ export var dynamicFeedSharp20px = [
             "height": "20",
             "width": "20",
             "y": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -27,10 +28,6 @@ export var dynamicFeedSharp20px = [
       "g",
       {},
       [
-        [
-          "g",
-          {}
-        ],
         [
           "g",
           {},
@@ -43,7 +40,8 @@ export var dynamicFeedSharp20px = [
                   "polygon",
                   {
                     "points": "4,8 3,8 3,16 13,16 13,15 4,15"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -55,7 +53,8 @@ export var dynamicFeedSharp20px = [
                   "polygon",
                   {
                     "points": "6,6 5,6 5,14 15,14 15,13 6,13"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -67,7 +66,8 @@ export var dynamicFeedSharp20px = [
                   "path",
                   {
                     "d": "M7,4v8h10V4H7z M16,11H8V7h8V11z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]
@@ -85,21 +85,24 @@ export var dynamicFeedSharp20px = [
           "g",
           {
             "display": "inline"
-          }
+          },
+          []
         ],
         [
           "polygon",
           {
             "display": "inline",
             "points": "4,15 4,8 3,8 3,16 13,16 13,15"
-          }
+          },
+          []
         ],
         [
           "polygon",
           {
             "display": "inline",
             "points": "6,13 6,6 5,6 5,14 15,14 15,13"
-          }
+          },
+          []
         ],
         [
           "g",
@@ -111,7 +114,8 @@ export var dynamicFeedSharp20px = [
               "path",
               {
                 "d": "M16,5v6H8V5H16 M17,4H7v8h10V4L17,4z"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -128,7 +132,8 @@ export var dynamicFeedSharp20px = [
                 "width": "8",
                 "x": "8",
                 "y": "5"
-              }
+              },
+              []
             ]
           ]
         ]

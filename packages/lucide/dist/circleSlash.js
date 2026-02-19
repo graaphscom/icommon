@@ -18,7 +18,8 @@ export var circleSlash = [
         "cx": "12",
         "cy": "12",
         "r": "10"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -27,7 +28,8 @@ export var circleSlash = [
         "x2": "15",
         "y1": "15",
         "y2": "9"
-      }
+      },
+      []
     ]
   ]
 ];

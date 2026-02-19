@@ -15,7 +15,8 @@ export var molecule20Color = [
         "d": "M12.3354 7.17074L6.33537 10.1707L5.66455 8.8291L11.6646 5.8291L12.3354 7.17074Z",
         "fill": "#212121",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -24,7 +25,8 @@ export var molecule20Color = [
         "d": "M12.3354 7.17074L6.33537 10.1707L5.66455 8.8291L11.6646 5.8291L12.3354 7.17074Z",
         "fill": "url(#paint0_linear_72095_8937)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -33,7 +35,8 @@ export var molecule20Color = [
         "d": "M12.3354 7.17074L6.33537 10.1707L5.66455 8.8291L11.6646 5.8291L12.3354 7.17074Z",
         "fill": "url(#paint1_radial_72095_8937)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -42,7 +45,8 @@ export var molecule20Color = [
         "d": "M12.3354 7.17074L6.33537 10.1707L5.66455 8.8291L11.6646 5.8291L12.3354 7.17074Z",
         "fill": "url(#paint2_radial_72095_8937)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -51,7 +55,8 @@ export var molecule20Color = [
         "d": "M12.3354 7.17074L6.33537 10.1707L5.66455 8.8291L11.6646 5.8291L12.3354 7.17074Z",
         "fill": "url(#paint3_radial_72095_8937)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -60,7 +65,8 @@ export var molecule20Color = [
         "d": "M12.1646 15.6707L7.16455 13.1707L7.83537 11.8291L12.8354 14.3291L12.1646 15.6707Z",
         "fill": "#242424",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -69,7 +75,8 @@ export var molecule20Color = [
         "d": "M12.1646 15.6707L7.16455 13.1707L7.83537 11.8291L12.8354 14.3291L12.1646 15.6707Z",
         "fill": "url(#paint4_linear_72095_8937)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -78,7 +85,8 @@ export var molecule20Color = [
         "d": "M12.1646 15.6707L7.16455 13.1707L7.83537 11.8291L12.8354 14.3291L12.1646 15.6707Z",
         "fill": "url(#paint5_radial_72095_8937)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -87,7 +95,8 @@ export var molecule20Color = [
         "d": "M12.1646 15.6707L7.16455 13.1707L7.83537 11.8291L12.8354 14.3291L12.1646 15.6707Z",
         "fill": "url(#paint6_radial_72095_8937)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -96,7 +105,8 @@ export var molecule20Color = [
         "cy": "6",
         "fill": "url(#paint7_linear_72095_8937)",
         "r": "4"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -105,7 +115,8 @@ export var molecule20Color = [
         "cy": "11.5",
         "fill": "url(#paint8_linear_72095_8937)",
         "r": "3.5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -114,7 +125,8 @@ export var molecule20Color = [
         "cy": "15.5",
         "fill": "url(#paint9_linear_72095_8937)",
         "r": "2.5"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -135,14 +147,16 @@ export var molecule20Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -162,7 +176,8 @@ export var molecule20Color = [
               {
                 "offset": "0.5625",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -170,7 +185,8 @@ export var molecule20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -190,7 +206,8 @@ export var molecule20Color = [
               {
                 "offset": "0.5625",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -198,7 +215,8 @@ export var molecule20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -218,7 +236,8 @@ export var molecule20Color = [
               {
                 "offset": "0.5625",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -226,7 +245,8 @@ export var molecule20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -245,14 +265,16 @@ export var molecule20Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -272,7 +294,8 @@ export var molecule20Color = [
               {
                 "offset": "0.5625",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -280,7 +303,8 @@ export var molecule20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -300,7 +324,8 @@ export var molecule20Color = [
               {
                 "offset": "0.5625",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -308,7 +333,8 @@ export var molecule20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -327,14 +353,16 @@ export var molecule20Color = [
               "stop",
               {
                 "stopColor": "#2BDABE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#22918B"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -353,14 +381,16 @@ export var molecule20Color = [
               "stop",
               {
                 "stopColor": "#EC318F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B91D6B"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -379,14 +409,16 @@ export var molecule20Color = [
               "stop",
               {
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FE8401"
-              }
+              },
+              []
             ]
           ]
         ]

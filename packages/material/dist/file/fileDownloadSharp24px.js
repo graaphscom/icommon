@@ -18,7 +18,8 @@ export var fileDownloadSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var fileDownloadSharp24px = [
           "path",
           {
             "d": "M19,9h-4V3H9v6H5l7,7L19,9z M5,18v2h14v-2H5z"
-          }
+          },
+          []
         ]
       ]
     ]

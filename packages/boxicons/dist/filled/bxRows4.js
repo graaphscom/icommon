@@ -16,7 +16,8 @@ export var bxRows4 = [
         "width": "18",
         "x": "3",
         "y": "7.5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -27,7 +28,8 @@ export var bxRows4 = [
         "width": "18",
         "x": "3",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -38,7 +40,8 @@ export var bxRows4 = [
         "width": "18",
         "x": "3",
         "y": "18.5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -49,7 +52,8 @@ export var bxRows4 = [
         "width": "18",
         "x": "3",
         "y": "13"
-      }
+      },
+      []
     ]
   ]
 ];

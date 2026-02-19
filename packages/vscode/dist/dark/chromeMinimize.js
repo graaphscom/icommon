@@ -13,7 +13,8 @@ export var chromeMinimize = [
       {
         "d": "M14 7.99994V8.99994H3V7.99994H14Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ]
   ]
 ];

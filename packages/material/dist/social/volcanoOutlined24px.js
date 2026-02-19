@@ -18,7 +18,8 @@ export var volcanoOutlined24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var volcanoOutlined24px = [
                   "path",
                   {
                     "d": "M18,8h-7l-2,5H6l-4,9h20L18,8z M7.3,15H9h1.35l0.5-1.26l1.5-3.74h4.14l2.86,10H5.08L7.3,15z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -53,7 +55,8 @@ export var volcanoOutlined24px = [
                     "width": "2",
                     "x": "13",
                     "y": "1"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -69,7 +72,8 @@ export var volcanoOutlined24px = [
                     "width": "4",
                     "x": "16.24",
                     "y": "3.76"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -85,7 +89,8 @@ export var volcanoOutlined24px = [
                     "width": "2",
                     "x": "8.76",
                     "y": "2.76"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

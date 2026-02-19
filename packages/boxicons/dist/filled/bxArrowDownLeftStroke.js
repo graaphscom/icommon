@@ -10,7 +10,8 @@ export var bxArrowDownLeftStroke = [
       "path",
       {
         "d": "M7 8v9h9v-2h-5.59l6.3-6.29-1.42-1.42L9 13.59V8z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -18,7 +18,8 @@ export var keyboardControlKeySharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var keyboardControlKeySharp20px = [
           "polygon",
           {
             "points": "5,10 6.06,11.06 10,7.12 13.94,11.06 15,10 10,5"
-          }
+          },
+          []
         ]
       ]
     ]

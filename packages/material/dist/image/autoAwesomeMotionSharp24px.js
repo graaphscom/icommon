@@ -19,7 +19,8 @@ export var autoAwesomeMotionSharp24px = [
             "height": "24",
             "width": "24",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -35,7 +36,8 @@ export var autoAwesomeMotionSharp24px = [
               "path",
               {
                 "d": "M14,2H2v12h2V4h10V2z M18,6H6v12h2V8h10V6z M22,10H10v12h12V10z"
-              }
+              },
+              []
             ]
           ]
         ]

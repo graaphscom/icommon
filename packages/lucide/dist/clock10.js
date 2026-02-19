@@ -16,7 +16,8 @@ export var clock10 = [
       "path",
       {
         "d": "M12 6v6l-4-2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -24,7 +25,8 @@ export var clock10 = [
         "cx": "12",
         "cy": "12",
         "r": "10"
-      }
+      },
+      []
     ]
   ]
 ];

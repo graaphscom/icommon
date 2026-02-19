@@ -10,7 +10,8 @@ export var bxArrowUp = [
       "path",
       {
         "d": "M13 18v-6h4l-5-6-5 6h4v6z"
-      }
+      },
+      []
     ]
   ]
 ];

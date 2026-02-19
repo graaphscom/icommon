@@ -14,13 +14,15 @@ export var spaceDashboardSharp20px = [
         "fill": "none",
         "height": "20",
         "width": "20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10.75,10H17v7h-6.25V10z M9.25,3H3v14h6.25V3z M17,8.5V3h-6.25v5.5H17z"
-      }
+      },
+      []
     ]
   ]
 ];

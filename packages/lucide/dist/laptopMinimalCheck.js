@@ -16,13 +16,15 @@ export var laptopMinimalCheck = [
       "path",
       {
         "d": "M2 20h20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m9 10 2 2 4-4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var laptopMinimalCheck = [
         "width": "18",
         "x": "3",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

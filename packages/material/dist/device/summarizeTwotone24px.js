@@ -17,7 +17,8 @@ export var summarizeTwotone24px = [
           {
             "d": "M0,0h24v24H0V0z",
             "fill": "none"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var summarizeTwotone24px = [
               {
                 "d": "M14,5H5v14h14v-9h-5V5z M8,17c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S8.55,17,8,17z M8,13 c-0.55,0-1-0.45-1-1s0.45-1,1-1s1,0.45,1,1S8.55,13,8,13z M8,9C7.45,9,7,8.55,7,8s0.45-1,1-1s1,0.45,1,1S8.55,9,8,9z",
                 "opacity": ".3"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -42,13 +44,15 @@ export var summarizeTwotone24px = [
                 "cx": "8",
                 "cy": "8",
                 "r": "1"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M15,3H5C3.9,3,3.01,3.9,3.01,5L3,19c0,1.1,0.89,2,1.99,2H19c1.1,0,2-0.9,2-2V9L15,3z M19,19H5V5h9v5h5V19z"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -56,7 +60,8 @@ export var summarizeTwotone24px = [
                 "cx": "8",
                 "cy": "12",
                 "r": "1"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -64,7 +69,8 @@ export var summarizeTwotone24px = [
                 "cx": "8",
                 "cy": "16",
                 "r": "1"
-              }
+              },
+              []
             ]
           ]
         ]

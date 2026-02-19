@@ -18,7 +18,8 @@ export var barChart20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var barChart20px = [
                 "width": "3",
                 "x": "13",
                 "y": "10"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var barChart20px = [
                 "width": "3",
                 "x": "4",
                 "y": "8"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +58,8 @@ export var barChart20px = [
                 "width": "3",
                 "x": "8.5",
                 "y": "4"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -13,14 +13,16 @@ export var personAvailable16Color = [
       {
         "d": "M10.5 8C11.3284 8 12 8.67157 12 9.5V10C12 11.9714 10.1405 14 7 14C3.85951 14 2 11.9714 2 10V9.5C2 8.67157 2.67157 8 3.5 8H10.5Z",
         "fill": "url(#paint0_linear_378174_9366)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10.5 8C11.3284 8 12 8.67157 12 9.5V10C12 11.9714 10.1405 14 7 14C3.85951 14 2 11.9714 2 10V9.5C2 8.67157 2.67157 8 3.5 8H10.5Z",
         "fill": "url(#paint1_linear_378174_9366)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -28,21 +30,24 @@ export var personAvailable16Color = [
         "d": "M10.5 8C11.3284 8 12 8.67157 12 9.5V10C12 11.9714 10.1405 14 7 14C3.85951 14 2 11.9714 2 10V9.5C2 8.67157 2.67157 8 3.5 8H10.5Z",
         "fill": "url(#paint2_radial_378174_9366)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6.5 2C7.88071 2 9 3.11929 9 4.5C9 5.88071 7.88071 7 6.5 7C5.11929 7 4 5.88071 4 4.5C4 3.11929 5.11929 2 6.5 2Z",
         "fill": "url(#paint3_linear_378174_9366)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 10.5C15 12.9853 12.9853 15 10.5 15C8.01472 15 6 12.9853 6 10.5C6 8.01472 8.01472 6 10.5 6C12.9853 6 15 8.01472 15 10.5Z",
         "fill": "url(#paint4_linear_378174_9366)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -51,7 +56,8 @@ export var personAvailable16Color = [
         "d": "M12.8536 8.64645C13.0488 8.84171 13.0488 9.15829 12.8536 9.35355L9.85355 12.3536C9.65829 12.5488 9.34171 12.5488 9.14645 12.3536L8.14645 11.3536C7.95118 11.1583 7.95118 10.8417 8.14645 10.6464C8.34171 10.4512 8.65829 10.4512 8.85355 10.6464L9.5 11.2929L12.1464 8.64645C12.3417 8.45118 12.6583 8.45118 12.8536 8.64645Z",
         "fill": "url(#paint5_linear_378174_9366)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -73,14 +79,16 @@ export var personAvailable16Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -100,14 +108,16 @@ export var personAvailable16Color = [
               {
                 "stopColor": "#885EDB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E362F8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -127,7 +137,8 @@ export var personAvailable16Color = [
               {
                 "offset": "0.54836",
                 "stopColor": "#30116E"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -135,7 +146,8 @@ export var personAvailable16Color = [
                 "offset": "1",
                 "stopColor": "#30116E",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -155,14 +167,16 @@ export var personAvailable16Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -181,14 +195,16 @@ export var personAvailable16Color = [
               "stop",
               {
                 "stopColor": "#52D17C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#22918B"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -207,14 +223,16 @@ export var personAvailable16Color = [
               "stop",
               {
                 "stopColor": "white"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E3FFD9"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -20,13 +20,15 @@ export var betweenHorizontalEnd = [
         "width": "13",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m22 15-3-3 3-3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -36,7 +38,8 @@ export var betweenHorizontalEnd = [
         "width": "13",
         "x": "3",
         "y": "14"
-      }
+      },
+      []
     ]
   ]
 ];

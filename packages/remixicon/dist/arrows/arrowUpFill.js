@@ -10,7 +10,8 @@ export var arrowUpFill = [
       "path",
       {
         "d": "M13 12V20H11V12H4L12 4L20 12H13Z"
-      }
+      },
+      []
     ]
   ]
 ];

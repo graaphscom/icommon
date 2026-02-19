@@ -15,7 +15,8 @@ export var checkboxPerson20Color = [
         "d": "M3 6.25C3 4.45507 4.45507 3 6.25 3H13.75C15.5449 3 17 4.45507 17 6.25V13.75C17 15.5449 15.5449 17 13.75 17H6.25C4.45507 17 3 15.5449 3 13.75V6.25Z",
         "fill": "url(#paint0_linear_378174_10080)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -24,7 +25,8 @@ export var checkboxPerson20Color = [
         "d": "M3 6.25C3 4.45507 4.45507 3 6.25 3H13.75C15.5449 3 17 4.45507 17 6.25V13.75C17 15.5449 15.5449 17 13.75 17H6.25C4.45507 17 3 15.5449 3 13.75V6.25Z",
         "fill": "url(#paint1_radial_378174_10080)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -33,35 +35,40 @@ export var checkboxPerson20Color = [
         "d": "M3 6.25C3 4.45507 4.45507 3 6.25 3H13.75C15.5449 3 17 4.45507 17 6.25V13.75C17 15.5449 15.5449 17 13.75 17H6.25C4.45507 17 3 15.5449 3 13.75V6.25Z",
         "fill": "url(#paint2_radial_378174_10080)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13.8536 7.85355C14.0488 7.65829 14.0488 7.34171 13.8536 7.14645C13.6583 6.95118 13.3417 6.95118 13.1464 7.14645L8.5 11.7929L6.85355 10.1464C6.65829 9.95118 6.34171 9.95118 6.14645 10.1464C5.95118 10.3417 5.95118 10.6583 6.14645 10.8536L8.14645 12.8536C8.34171 13.0488 8.65829 13.0488 8.85355 12.8536L13.8536 7.85355Z",
         "fill": "url(#paint3_linear_378174_10080)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 16.5C19 17.7452 18 19 15.5 19C13 19 12 17.7499 12 16.5C12 15.6716 12.6716 15 13.5 15H17.5C18.3284 15 19 15.6716 19 16.5Z",
         "fill": "url(#paint4_linear_378174_10080)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 16.5C19 17.7452 18 19 15.5 19C13 19 12 17.7499 12 16.5C12 15.6716 12.6716 15 13.5 15H17.5C18.3284 15 19 15.6716 19 16.5Z",
         "fill": "url(#paint5_linear_378174_10080)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17.5 12C17.5 13.1046 16.6046 14 15.5 14C14.3954 14 13.5 13.1046 13.5 12C13.5 10.8954 14.3954 10 15.5 10C16.6046 10 17.5 10.8954 17.5 12Z",
         "fill": "url(#paint6_linear_378174_10080)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -82,14 +89,16 @@ export var checkboxPerson20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -108,7 +117,8 @@ export var checkboxPerson20Color = [
               "stop",
               {
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -116,7 +126,8 @@ export var checkboxPerson20Color = [
                 "offset": "0.914422",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -135,7 +146,8 @@ export var checkboxPerson20Color = [
               "stop",
               {
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -143,7 +155,8 @@ export var checkboxPerson20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -162,14 +175,16 @@ export var checkboxPerson20Color = [
               "stop",
               {
                 "stopColor": "white"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -189,14 +204,16 @@ export var checkboxPerson20Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#BD96FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -216,14 +233,16 @@ export var checkboxPerson20Color = [
               {
                 "stopColor": "#885EDB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E362F8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -243,14 +262,16 @@ export var checkboxPerson20Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#BD96FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ]
           ]
         ]

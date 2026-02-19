@@ -16,13 +16,15 @@ export var arrowDownLeft = [
       "path",
       {
         "d": "M17 7 7 17"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 17H7V7"
-      }
+      },
+      []
     ]
   ]
 ];

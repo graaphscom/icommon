@@ -16,13 +16,15 @@ export var monitorPause = [
       "path",
       {
         "d": "M10 13V7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 13V7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,19 +34,22 @@ export var monitorPause = [
         "width": "20",
         "x": "2",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 17v4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 21h8"
-      }
+      },
+      []
     ]
   ]
 ];

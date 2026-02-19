@@ -13,14 +13,16 @@ export var phone16Color = [
       {
         "d": "M4 2.75C4 1.7835 4.7835 1 5.75 1H10.25C11.2165 1 12 1.7835 12 2.75V13.25C12 14.2165 11.2165 15 10.25 15H5.75C4.7835 15 4 14.2165 4 13.25V2.75Z",
         "fill": "url(#paint0_radial_72095_8521)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 12C6.72386 12 6.5 12.2239 6.5 12.5C6.5 12.7761 6.72386 13 7 13H9C9.27614 13 9.5 12.7761 9.5 12.5C9.5 12.2239 9.27614 12 9 12H7Z",
         "fill": "url(#paint1_radial_72095_8521)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -41,21 +43,24 @@ export var phone16Color = [
               "stop",
               {
                 "stopColor": "#CB7DF8"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.412452",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4E44DB"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -74,14 +79,16 @@ export var phone16Color = [
               "stop",
               {
                 "stopColor": "#DECBFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#D1D1FF"
-              }
+              },
+              []
             ]
           ]
         ]

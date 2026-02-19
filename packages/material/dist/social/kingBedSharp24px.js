@@ -18,7 +18,8 @@ export var kingBedSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var kingBedSharp24px = [
                 "width": "5",
                 "x": "6",
                 "y": "7"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -48,13 +50,15 @@ export var kingBedSharp24px = [
                 "width": "5",
                 "x": "13",
                 "y": "7"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M20,10V5H4v5H2v7h1.33L4,19h1l0.67-2h12.67L19,19h1l0.67-2H22v-7H20z M11,10H6V7h5V10z M18,10h-5V7h5V10z"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -13,7 +13,8 @@ export var apps = [
         "width": "9",
         "x": "2",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -23,7 +24,8 @@ export var apps = [
         "width": "9",
         "x": "2",
         "y": "13"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -33,7 +35,8 @@ export var apps = [
         "width": "9",
         "x": "13",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -43,7 +46,8 @@ export var apps = [
         "width": "9",
         "x": "13",
         "y": "13"
-      }
+      },
+      []
     ]
   ]
 ];

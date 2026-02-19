@@ -11,7 +11,8 @@ export var bxPaperDesign = [
       "path",
       {
         "d": "m21,14.08h-6.92V5.77H5.77v8.31h8.31v6.92H3V5.77h2.77v-2.77h15.23v11.08Z"
-      }
+      },
+      []
     ]
   ]
 ];

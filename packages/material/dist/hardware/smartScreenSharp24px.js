@@ -19,7 +19,8 @@ export var smartScreenSharp24px = [
             "height": "24",
             "width": "24",
             "y": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -35,7 +36,8 @@ export var smartScreenSharp24px = [
               "path",
               {
                 "d": "M1,5v14h22V5H1z M18,17H6V7h12V17z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -44,7 +46,8 @@ export var smartScreenSharp24px = [
                 "width": "1.5",
                 "x": "12.5",
                 "y": "11.25"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -53,7 +56,8 @@ export var smartScreenSharp24px = [
                 "width": "1.5",
                 "x": "15",
                 "y": "11.25"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -62,7 +66,8 @@ export var smartScreenSharp24px = [
                 "width": "1.5",
                 "x": "10",
                 "y": "11.25"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -71,7 +76,8 @@ export var smartScreenSharp24px = [
                 "width": "1.5",
                 "x": "7.5",
                 "y": "11.25"
-              }
+              },
+              []
             ]
           ]
         ]

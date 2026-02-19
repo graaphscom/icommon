@@ -18,7 +18,8 @@ export var diamondSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var diamondSharp24px = [
                   "polygon",
                   {
                     "points": "12.16,3 11.84,3 9.21,8.25 14.79,8.25"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var diamondSharp24px = [
                   "polygon",
                   {
                     "points": "16.46,8.25 21.62,8.25 19,3 13.84,3"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -62,7 +65,8 @@ export var diamondSharp24px = [
                   "polygon",
                   {
                     "points": "21.38,9.75 12.75,9.75 12.75,20.1"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -74,7 +78,8 @@ export var diamondSharp24px = [
                   "polygon",
                   {
                     "points": "11.25,20.1 11.25,9.75 2.62,9.75"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -86,7 +91,8 @@ export var diamondSharp24px = [
                   "polygon",
                   {
                     "points": "7.54,8.25 10.16,3 5,3 2.38,8.25"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

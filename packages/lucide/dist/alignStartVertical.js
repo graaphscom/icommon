@@ -20,7 +20,8 @@ export var alignStartVertical = [
         "width": "9",
         "x": "6",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,13 +31,15 @@ export var alignStartVertical = [
         "width": "16",
         "x": "6",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 2v20"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -13,7 +13,8 @@ export var menu = [
       {
         "d": "M16 5H0V4H16V5ZM16 13H0V12H16V13ZM16 8.99218H0V8H16V8.99218Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ]
   ]
 ];

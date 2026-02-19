@@ -16,7 +16,8 @@ export var minus = [
       "path",
       {
         "d": "M5 12h14"
-      }
+      },
+      []
     ]
   ]
 ];

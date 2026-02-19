@@ -13,21 +13,24 @@ export var mail16Color = [
       {
         "d": "M14 5H2V11C2 12.1046 2.89543 13 4 13H12C13.1046 13 14 12.1046 14 11V5Z",
         "fill": "#367AF2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 5H2V11C2 12.1046 2.89543 13 4 13H12C13.1046 13 14 12.1046 14 11V5Z",
         "fill": "url(#paint0_linear_378174_9138)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 5H2V11C2 12.1046 2.89543 13 4 13H12C13.1046 13 14 12.1046 14 11V5Z",
         "fill": "url(#paint1_linear_378174_9138)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -35,7 +38,8 @@ export var mail16Color = [
         "d": "M14 5H2V11C2 12.1046 2.89543 13 4 13H12C13.1046 13 14 12.1046 14 11V5Z",
         "fill": "url(#paint2_linear_378174_9138)",
         "fillOpacity": "0.75"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -43,14 +47,16 @@ export var mail16Color = [
         "d": "M14 5H2V11C2 12.1046 2.89543 13 4 13H12C13.1046 13 14 12.1046 14 11V5Z",
         "fill": "url(#paint3_linear_378174_9138)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 3C2.89543 3 2 3.89543 2 5V5.8399L7.76305 8.94307C7.91104 9.02276 8.08916 9.02276 8.23715 8.94307L14 5.84V5C14 3.89543 13.1046 3 12 3H4Z",
         "fill": "url(#paint4_linear_378174_9138)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -73,14 +79,16 @@ export var mail16Color = [
                 "offset": "0.22807",
                 "stopColor": "#0094F0",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.430619",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -101,14 +109,16 @@ export var mail16Color = [
                 "offset": "0.22807",
                 "stopColor": "#0094F0",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.430619",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -128,14 +138,16 @@ export var mail16Color = [
               {
                 "stopColor": "#2764E7",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -156,14 +168,16 @@ export var mail16Color = [
                 "offset": "0.53288",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF6CE8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -182,21 +196,24 @@ export var mail16Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.461792",
                 "stopColor": "#29C3FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ]

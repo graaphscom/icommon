@@ -13,7 +13,8 @@ export var debugBreakpointLog = [
       {
         "d": "M8.00024 3L13.0002 8L8.00024 13L3.00024 8L8.00024 3Z",
         "fill": "#E51400"
-      }
+      },
+      []
     ]
   ]
 ];

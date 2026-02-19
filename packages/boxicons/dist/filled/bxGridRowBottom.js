@@ -15,7 +15,8 @@ export var bxGridRowBottom = [
         "width": "18",
         "x": "3",
         "y": "13"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var bxGridRowBottom = [
         "width": "8",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -37,7 +39,8 @@ export var bxGridRowBottom = [
         "width": "8",
         "x": "13",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

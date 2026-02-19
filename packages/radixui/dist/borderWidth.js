@@ -13,7 +13,8 @@ export var borderWidth = [
       {
         "d": "M14 12.75H1V10.25H14V12.75ZM14 8H1V6H14V8ZM14 4H1V3H14V4Z",
         "fill": "currentColor"
-      }
+      },
+      []
     ]
   ]
 ];

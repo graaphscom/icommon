@@ -18,7 +18,8 @@ export var appRegistrationOutlined20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -41,7 +42,8 @@ export var appRegistrationOutlined20px = [
                     "width": "3",
                     "x": "8.5",
                     "y": "4"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -56,7 +58,8 @@ export var appRegistrationOutlined20px = [
                     "width": "3",
                     "x": "4",
                     "y": "13"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -71,7 +74,8 @@ export var appRegistrationOutlined20px = [
                     "width": "3",
                     "x": "4",
                     "y": "8.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -86,7 +90,8 @@ export var appRegistrationOutlined20px = [
                     "width": "3",
                     "x": "4",
                     "y": "4"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -101,7 +106,8 @@ export var appRegistrationOutlined20px = [
                     "width": "3",
                     "x": "13",
                     "y": "4"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -113,7 +119,8 @@ export var appRegistrationOutlined20px = [
                   "polygon",
                   {
                     "points": "9,14.49 9,16 10.51,16 15.4,11.1 13.9,9.6"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -125,7 +132,8 @@ export var appRegistrationOutlined20px = [
                   "polygon",
                   {
                     "points": "11.5,9.88 11.5,8.5 8.5,8.5 8.5,11.5 9.87,11.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -137,7 +145,8 @@ export var appRegistrationOutlined20px = [
                   "path",
                   {
                     "d": "M16.85,8.94l-0.79-0.79c-0.2-0.2-0.51-0.2-0.71,0L14.6,8.9l1.5,1.5l0.75-0.75C17.05,9.45,17.05,9.13,16.85,8.94z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

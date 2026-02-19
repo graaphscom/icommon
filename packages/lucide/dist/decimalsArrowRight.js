@@ -16,19 +16,22 @@ export var decimalsArrowRight = [
       "path",
       {
         "d": "M10 18h10"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m17 21 3-3-3-3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 11h.01"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -38,7 +41,8 @@ export var decimalsArrowRight = [
         "width": "5",
         "x": "15",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -48,7 +52,8 @@ export var decimalsArrowRight = [
         "width": "5",
         "x": "6",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

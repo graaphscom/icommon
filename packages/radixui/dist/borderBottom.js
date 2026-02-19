@@ -15,7 +15,8 @@ export var borderBottom = [
         "d": "M1 13.25L14 13.25V14.75L1 14.75V13.25Z",
         "fill": "currentColor",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var borderBottom = [
         "width": "1",
         "x": "7",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -37,7 +39,8 @@ export var borderBottom = [
         "width": "1",
         "x": "13",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -48,7 +51,8 @@ export var borderBottom = [
         "width": "1",
         "x": "7",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -59,7 +63,8 @@ export var borderBottom = [
         "width": "1",
         "x": "13",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -70,7 +75,8 @@ export var borderBottom = [
         "width": "1",
         "x": "7",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -81,7 +87,8 @@ export var borderBottom = [
         "width": "1",
         "x": "7",
         "y": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -92,7 +99,8 @@ export var borderBottom = [
         "width": "1",
         "x": "13",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -103,7 +111,8 @@ export var borderBottom = [
         "width": "1",
         "x": "13",
         "y": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -114,7 +123,8 @@ export var borderBottom = [
         "width": "1",
         "x": "5",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -125,7 +135,8 @@ export var borderBottom = [
         "width": "1",
         "x": "5",
         "y": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -136,7 +147,8 @@ export var borderBottom = [
         "width": "1",
         "x": "3",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -147,7 +159,8 @@ export var borderBottom = [
         "width": "1",
         "x": "3",
         "y": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -158,7 +171,8 @@ export var borderBottom = [
         "width": "1",
         "x": "9",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -169,7 +183,8 @@ export var borderBottom = [
         "width": "1",
         "x": "9",
         "y": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -180,7 +195,8 @@ export var borderBottom = [
         "width": "1",
         "x": "11",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -191,7 +207,8 @@ export var borderBottom = [
         "width": "1",
         "x": "11",
         "y": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -202,7 +219,8 @@ export var borderBottom = [
         "width": "1",
         "x": "7",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -213,7 +231,8 @@ export var borderBottom = [
         "width": "1",
         "x": "13",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -224,7 +243,8 @@ export var borderBottom = [
         "width": "1",
         "x": "7",
         "y": "11"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -235,7 +255,8 @@ export var borderBottom = [
         "width": "1",
         "x": "13",
         "y": "11"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -246,7 +267,8 @@ export var borderBottom = [
         "width": "1",
         "x": "1",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -257,7 +279,8 @@ export var borderBottom = [
         "width": "1",
         "x": "1",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -268,7 +291,8 @@ export var borderBottom = [
         "width": "1",
         "x": "1",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -279,7 +303,8 @@ export var borderBottom = [
         "width": "1",
         "x": "1",
         "y": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -290,7 +315,8 @@ export var borderBottom = [
         "width": "1",
         "x": "1",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -301,7 +327,8 @@ export var borderBottom = [
         "width": "1",
         "x": "1",
         "y": "11"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -18,7 +18,8 @@ export var fastForwardSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -26,7 +27,8 @@ export var fastForwardSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -34,7 +36,8 @@ export var fastForwardSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -46,7 +49,8 @@ export var fastForwardSharp24px = [
           "path",
           {
             "d": "M4,18l8.5-6L4,6V18z M13,6v12l8.5-6L13,6z"
-          }
+          },
+          []
         ]
       ]
     ]

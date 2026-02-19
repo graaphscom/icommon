@@ -11,13 +11,15 @@ export var bxVerticalDistributeTop = [
       "path",
       {
         "d": "M2 13H22V15H2z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 1H22V3H2z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -28,7 +30,8 @@ export var bxVerticalDistributeTop = [
         "width": "10",
         "x": "7",
         "y": "17"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -39,7 +42,8 @@ export var bxVerticalDistributeTop = [
         "width": "16",
         "x": "4",
         "y": "5"
-      }
+      },
+      []
     ]
   ]
 ];

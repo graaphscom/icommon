@@ -18,7 +18,8 @@ export var devicesFoldSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -41,7 +42,8 @@ export var devicesFoldSharp20px = [
                     "width": "1.5",
                     "x": "2",
                     "y": "3"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -56,7 +58,8 @@ export var devicesFoldSharp20px = [
                     "width": "1.5",
                     "x": "2",
                     "y": "6.12"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -71,7 +74,8 @@ export var devicesFoldSharp20px = [
                     "width": "1.5",
                     "x": "2",
                     "y": "9.25"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -86,7 +90,8 @@ export var devicesFoldSharp20px = [
                     "width": "1.5",
                     "x": "2",
                     "y": "12.38"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -101,7 +106,8 @@ export var devicesFoldSharp20px = [
                     "width": "1.5",
                     "x": "2",
                     "y": "15.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -116,7 +122,8 @@ export var devicesFoldSharp20px = [
                     "width": "1.5",
                     "x": "5.12",
                     "y": "3"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -131,7 +138,8 @@ export var devicesFoldSharp20px = [
                     "width": "1.5",
                     "x": "5.12",
                     "y": "15.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -143,7 +151,8 @@ export var devicesFoldSharp20px = [
                   "path",
                   {
                     "d": "M13.5,3v-3.02l-5.5,3V3v14h10V3H13.5z M16.5,15.5h-5.75L13.5,14V4.5h3V15.5z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

@@ -13,49 +13,56 @@ export var checkboxPerson16Color = [
       {
         "d": "M4.5 2C3.11929 2 2 3.11929 2 4.5V11.5C2 12.8807 3.11929 14 4.5 14H11.5C12.8807 14 14 12.8807 14 11.5V4.5C14 3.11929 12.8807 2 11.5 2H4.5Z",
         "fill": "url(#paint0_linear_378174_10075)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4.5 2C3.11929 2 2 3.11929 2 4.5V11.5C2 12.8807 3.11929 14 4.5 14H11.5C12.8807 14 14 12.8807 14 11.5V4.5C14 3.11929 12.8807 2 11.5 2H4.5Z",
         "fill": "url(#paint1_radial_378174_10075)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4.5 2C3.11929 2 2 3.11929 2 4.5V11.5C2 12.8807 3.11929 14 4.5 14H11.5C12.8807 14 14 12.8807 14 11.5V4.5C14 3.11929 12.8807 2 11.5 2H4.5Z",
         "fill": "url(#paint2_radial_378174_10075)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10.8536 6.85355L7.35355 10.3536C7.15829 10.5488 6.84171 10.5488 6.64645 10.3536L5.14645 8.85355C4.95118 8.65829 4.95118 8.34171 5.14645 8.14645C5.34171 7.95118 5.65829 7.95118 5.85355 8.14645L7 9.29289L10.1464 6.14645C10.3417 5.95118 10.6583 5.95118 10.8536 6.14645C11.0488 6.34171 11.0488 6.65829 10.8536 6.85355Z",
         "fill": "url(#paint3_linear_378174_10075)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 13.5C16 14.7452 15 16 12.5 16C10 16 9 14.7499 9 13.5C9 12.6716 9.67157 12 10.5 12H14.5C15.3284 12 16 12.6716 16 13.5Z",
         "fill": "url(#paint4_linear_378174_10075)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 13.5C16 14.7452 15 16 12.5 16C10 16 9 14.7499 9 13.5C9 12.6716 9.67157 12 10.5 12H14.5C15.3284 12 16 12.6716 16 13.5Z",
         "fill": "url(#paint5_linear_378174_10075)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14.5 9C14.5 10.1046 13.6046 11 12.5 11C11.3954 11 10.5 10.1046 10.5 9C10.5 7.89543 11.3954 7 12.5 7C13.6046 7 14.5 7.89543 14.5 9Z",
         "fill": "url(#paint6_linear_378174_10075)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -76,14 +83,16 @@ export var checkboxPerson16Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -102,7 +111,8 @@ export var checkboxPerson16Color = [
               "stop",
               {
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -110,7 +120,8 @@ export var checkboxPerson16Color = [
                 "offset": "0.914422",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -129,7 +140,8 @@ export var checkboxPerson16Color = [
               "stop",
               {
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -137,7 +149,8 @@ export var checkboxPerson16Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -156,14 +169,16 @@ export var checkboxPerson16Color = [
               "stop",
               {
                 "stopColor": "white"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -183,14 +198,16 @@ export var checkboxPerson16Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#BD96FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -210,14 +227,16 @@ export var checkboxPerson16Color = [
               {
                 "stopColor": "#885EDB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E362F8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -237,14 +256,16 @@ export var checkboxPerson16Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#BD96FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ]
           ]
         ]

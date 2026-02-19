@@ -20,13 +20,15 @@ export var panelBottom = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 15h18"
-      }
+      },
+      []
     ]
   ]
 ];

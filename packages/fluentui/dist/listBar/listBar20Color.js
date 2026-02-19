@@ -13,42 +13,48 @@ export var listBar20Color = [
       {
         "d": "M15.5 7H7L6.5 5L7 3H15.5C16.3284 3 17 3.67157 17 4.5V5.5C17 6.32843 16.3284 7 15.5 7Z",
         "fill": "url(#paint0_linear_72095_9168)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 12H15.5C16.3284 12 17 11.3284 17 10.5V9.5C17 8.67157 16.3284 8 15.5 8H7L6.5 10L7 12Z",
         "fill": "url(#paint1_linear_72095_9168)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 17H15.5C16.3284 17 17 16.3284 17 15.5V14.5C17 13.6716 16.3284 13 15.5 13H7L6.5 15L7 17Z",
         "fill": "url(#paint2_linear_72095_9168)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 7L7 3H4.5C3.67157 3 3 3.67157 3 4.5V5.5C3 6.32843 3.67157 7 4.5 7H7Z",
         "fill": "url(#paint3_linear_72095_9168)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 8L7 12H4.5C3.67157 12 3 11.3284 3 10.5V9.5C3 8.67157 3.67157 8 4.5 8H7Z",
         "fill": "url(#paint4_linear_72095_9168)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 13L7 17H4.5C3.67157 17 3 16.3284 3 15.5V14.5C3 13.6716 3.67157 13 4.5 13H7Z",
         "fill": "url(#paint5_linear_72095_9168)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -69,14 +75,16 @@ export var listBar20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -95,14 +103,16 @@ export var listBar20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -121,14 +131,16 @@ export var listBar20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -148,14 +160,16 @@ export var listBar20Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -175,14 +189,16 @@ export var listBar20Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -202,14 +218,16 @@ export var listBar20Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ]

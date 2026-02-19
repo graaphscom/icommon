@@ -13,7 +13,8 @@ export var clipboard24Color = [
       {
         "d": "M4 6.25C4 5.00736 5.00736 4 6.25 4H17.75C18.9926 4 20 5.00736 20 6.25V19.75C20 20.9926 18.9926 22 17.75 22H6.25C5.00736 22 4 20.9926 4 19.75V6.25Z",
         "fill": "url(#paint0_linear_378174_10133)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var clipboard24Color = [
         "d": "M4 6.25C4 5.00736 5.00736 4 6.25 4H17.75C18.9926 4 20 5.00736 20 6.25V19.75C20 20.9926 18.9926 22 17.75 22H6.25C5.00736 22 4 20.9926 4 19.75V6.25Z",
         "fill": "url(#paint1_radial_378174_10133)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,14 +31,16 @@ export var clipboard24Color = [
         "d": "M4 6.25C4 5.00736 5.00736 4 6.25 4H17.75C18.9926 4 20 5.00736 20 6.25V19.75C20 20.9926 18.9926 22 17.75 22H6.25C5.00736 22 4 20.9926 4 19.75V6.25Z",
         "fill": "url(#paint2_radial_378174_10133)",
         "fillOpacity": "0.4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 4.25C8 5.49264 9.00736 6.5 10.25 6.5H13.75C14.9926 6.5 16 5.49264 16 4.25C16 3.00736 14.9926 2 13.75 2H10.25C9.00736 2 8 3.00736 8 4.25Z",
         "fill": "url(#paint3_linear_378174_10133)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -57,14 +61,16 @@ export var clipboard24Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -83,7 +89,8 @@ export var clipboard24Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -91,7 +98,8 @@ export var clipboard24Color = [
                 "offset": "0.9",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -110,7 +118,8 @@ export var clipboard24Color = [
               "stop",
               {
                 "stopColor": "#0A1852"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -118,7 +127,8 @@ export var clipboard24Color = [
                 "offset": "1",
                 "stopColor": "#0A1852",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -137,14 +147,16 @@ export var clipboard24Color = [
               "stop",
               {
                 "stopColor": "#FFE06B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FAB500"
-              }
+              },
+              []
             ]
           ]
         ]

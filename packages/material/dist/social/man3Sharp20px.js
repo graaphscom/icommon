@@ -18,7 +18,8 @@ export var man3Sharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var man3Sharp20px = [
               "polygon",
               {
                 "points": "13,7 7,7 7,13 8.5,13 8.5,18 11.5,18 11.5,13 13,13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -44,7 +46,8 @@ export var man3Sharp20px = [
                 "width": "2.83",
                 "x": "8.59",
                 "y": "2.59"
-              }
+              },
+              []
             ]
           ]
         ]

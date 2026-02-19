@@ -16,7 +16,8 @@ export var outline = [
         "strokeLinejoin": "round",
         "strokeMiterlimit": "10",
         "strokeWidth": "2"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -19,7 +19,8 @@ export var quickreplyOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -39,7 +40,8 @@ export var quickreplyOutlined20px = [
                   "path",
                   {
                     "d": "M4,14.59V4h12v5h1V4c0-0.55-0.45-1-1-1H4C3.45,3,3,3.45,3,4v13l3-3h7v-1H5.59L4,14.59z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -51,7 +53,8 @@ export var quickreplyOutlined20px = [
                   "polygon",
                   {
                     "points": "18,13 16.4,13 17.64,10 14,10 14,14.36 15.45,14.36 15.45,18"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

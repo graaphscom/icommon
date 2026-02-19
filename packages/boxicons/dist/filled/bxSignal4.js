@@ -10,7 +10,8 @@ export var bxSignal4 = [
       "path",
       {
         "d": "M3 15h2v5H3zM7 12h2v8H7zM11 9h2v11h-2zM15 6h2v14h-2z"
-      }
+      },
+      []
     ]
   ]
 ];

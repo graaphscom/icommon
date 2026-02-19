@@ -11,13 +11,15 @@ export var bxArrowFromBottom = [
       "path",
       {
         "d": "M12 3 7 9 11 9 11 16 13 16 13 9 17 9 12 3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 18H20V20H4z"
-      }
+      },
+      []
     ]
   ]
 ];

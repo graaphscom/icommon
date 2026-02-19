@@ -16,13 +16,15 @@ export var music4 = [
       "path",
       {
         "d": "M9 18V5l12-2v13"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m9 9 12-2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -30,7 +32,8 @@ export var music4 = [
         "cx": "6",
         "cy": "18",
         "r": "3"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -38,7 +41,8 @@ export var music4 = [
         "cx": "18",
         "cy": "16",
         "r": "3"
-      }
+      },
+      []
     ]
   ]
 ];

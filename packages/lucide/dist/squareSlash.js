@@ -20,7 +20,8 @@ export var squareSlash = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -29,7 +30,8 @@ export var squareSlash = [
         "x2": "15",
         "y1": "15",
         "y2": "9"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -20,7 +20,8 @@ export var alignHorizontalDistributeCenter = [
         "width": "6",
         "x": "4",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,31 +31,36 @@ export var alignHorizontalDistributeCenter = [
         "width": "6",
         "x": "14",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 22v-5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 7V2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 22v-3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 5V2"
-      }
+      },
+      []
     ]
   ]
 ];

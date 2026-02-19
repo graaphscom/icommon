@@ -10,7 +10,8 @@ export var bxFullscreen = [
       "path",
       {
         "d": "M10 3H3v7h2V5h5zM10 19H5v-5H3v7h7zM21 14h-2v5h-5v2h7zM21 3h-7v2h5v5h2z"
-      }
+      },
+      []
     ]
   ]
 ];

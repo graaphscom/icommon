@@ -18,7 +18,8 @@ export var addRoadSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var addRoadSharp24px = [
               "polygon",
               {
                 "points": "20,18 20,15 18,15 18,18 15,18 15,20 18,20 18,23 20,23 20,20 23,20 23,18"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -43,7 +45,8 @@ export var addRoadSharp24px = [
                 "width": "2",
                 "x": "18",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -52,7 +55,8 @@ export var addRoadSharp24px = [
                 "width": "2",
                 "x": "4",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -61,7 +65,8 @@ export var addRoadSharp24px = [
                 "width": "2",
                 "x": "11",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -70,7 +75,8 @@ export var addRoadSharp24px = [
                 "width": "2",
                 "x": "11",
                 "y": "10"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -79,7 +85,8 @@ export var addRoadSharp24px = [
                 "width": "2",
                 "x": "11",
                 "y": "16"
-              }
+              },
+              []
             ]
           ]
         ]

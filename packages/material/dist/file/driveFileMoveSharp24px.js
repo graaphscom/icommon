@@ -18,7 +18,8 @@ export var driveFileMoveSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var driveFileMoveSharp24px = [
           "path",
           {
             "d": "M22,6H12l-2-2H2v16h20V6z M12,17v-3H8v-2h4V9l4,4L12,17z"
-          }
+          },
+          []
         ]
       ]
     ]

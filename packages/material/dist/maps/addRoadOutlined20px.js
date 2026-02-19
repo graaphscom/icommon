@@ -19,7 +19,8 @@ export var addRoadOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var addRoadOutlined20px = [
                 "width": "1",
                 "x": "4",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -47,7 +49,8 @@ export var addRoadOutlined20px = [
                 "width": "1",
                 "x": "15",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -56,7 +59,8 @@ export var addRoadOutlined20px = [
                 "width": "1",
                 "x": "9.5",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -65,13 +69,15 @@ export var addRoadOutlined20px = [
                 "width": "1",
                 "x": "9.5",
                 "y": "14"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "18,15 16,15 16,13 15,13 15,15 13,15 13,16 15,16 15,18 16,18 16,16 18,16"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -80,7 +86,8 @@ export var addRoadOutlined20px = [
                 "width": "1",
                 "x": "9.5",
                 "y": "9"
-              }
+              },
+              []
             ]
           ]
         ]

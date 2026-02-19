@@ -15,13 +15,15 @@ export var bxGalleryHorizontal = [
         "width": "12",
         "x": "6",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20 4h2v16h-2zM2 4h2v16H2z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -16,7 +16,8 @@ export var flagPride48Filled = [
         "width": "30",
         "x": "9",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var flagPride48Filled = [
         "width": "30",
         "x": "9",
         "y": "12"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -36,7 +38,8 @@ export var flagPride48Filled = [
         "width": "30",
         "x": "9",
         "y": "16"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -46,7 +49,8 @@ export var flagPride48Filled = [
         "width": "30",
         "x": "9",
         "y": "19"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -56,7 +60,8 @@ export var flagPride48Filled = [
         "width": "30",
         "x": "9",
         "y": "23"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -66,14 +71,16 @@ export var flagPride48Filled = [
         "width": "30",
         "x": "9",
         "y": "27"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 7.25C7 6.55964 7.55964 6 8.25 6H39.75C40.4404 6 41 6.55964 41 7.25V31.75C41 32.4404 40.4404 33 39.75 33H9.5V40.75C9.5 41.4404 8.94036 42 8.25 42C7.55964 42 7 41.4404 7 40.75V7.25ZM9.5 30.5H38.5V8.5H9.5V30.5Z",
         "fill": "#212121"
-      }
+      },
+      []
     ]
   ]
 ];

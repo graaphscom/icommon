@@ -11,19 +11,22 @@ export var bxMenuClose = [
       "path",
       {
         "d": "M3 6H21V8H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 11H21V13H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 16H21V18H3z"
-      }
+      },
+      []
     ]
   ]
 ];

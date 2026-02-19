@@ -13,7 +13,8 @@ export var coinMultiple48Color = [
       {
         "d": "M9 36C9 40.4183 15.7157 44 24 44C32.2077 44 38.8757 40.4842 38.9983 36.1223L39 32H9V36Z",
         "fill": "url(#paint0_linear_72095_9846)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -23,14 +24,16 @@ export var coinMultiple48Color = [
         "fill": "url(#paint1_linear_72095_9846)",
         "rx": "15",
         "ry": "8"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 26C9 30.4183 15.7157 34 24 34C32.2077 34 38.8757 30.4842 38.9983 26.1223L39 22H9V26Z",
         "fill": "url(#paint2_linear_72095_9846)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -40,14 +43,16 @@ export var coinMultiple48Color = [
         "fill": "url(#paint3_linear_72095_9846)",
         "rx": "15",
         "ry": "8"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 16C9 20.4183 15.7157 24 24 24C32.2077 24 38.8757 20.4842 38.9983 16.1223L39 12H9V16Z",
         "fill": "url(#paint4_linear_72095_9846)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -57,7 +62,8 @@ export var coinMultiple48Color = [
         "fill": "url(#paint5_linear_72095_9846)",
         "rx": "15",
         "ry": "8"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -78,14 +84,16 @@ export var coinMultiple48Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -104,14 +112,16 @@ export var coinMultiple48Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -130,14 +140,16 @@ export var coinMultiple48Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -156,14 +168,16 @@ export var coinMultiple48Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -182,14 +196,16 @@ export var coinMultiple48Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -208,14 +224,16 @@ export var coinMultiple48Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -20,13 +20,15 @@ export var squareChevronLeft = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m14 16-4-4 4-4"
-      }
+      },
+      []
     ]
   ]
 ];

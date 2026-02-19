@@ -16,7 +16,8 @@ export var galleryHorizontal = [
       "path",
       {
         "d": "M2 3v18"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,13 +27,15 @@ export var galleryHorizontal = [
         "width": "12",
         "x": "6",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 3v18"
-      }
+      },
+      []
     ]
   ]
 ];

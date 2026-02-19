@@ -15,7 +15,8 @@ export var primitiveSquare = [
         "d": "M3.5 4L4 3.5H12L12.5 4V12L12 12.5H4L3.5 12V4ZM4.5 4.5V11.5H11.5V4.5H4.5Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -15,7 +15,8 @@ export var grabber = [
         "d": "M15.0002 6H1.00024V7H15.0002V6ZM15.0002 9H1.00024V10H15.0002V9Z",
         "fill": "#424242",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

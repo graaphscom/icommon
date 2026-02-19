@@ -20,7 +20,8 @@ export var computer = [
         "width": "14",
         "x": "5",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,19 +31,22 @@ export var computer = [
         "width": "20",
         "x": "2",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 18h2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 18h6"
-      }
+      },
+      []
     ]
   ]
 ];

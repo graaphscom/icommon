@@ -13,14 +13,16 @@ export var calendarCancel20Color = [
       {
         "d": "M17 6H3V14.5C3 15.8807 4.11929 17 5.5 17H14.5C15.8807 17 17 15.8807 17 14.5V6Z",
         "fill": "url(#paint0_linear_378174_9818)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 6H3V14.5C3 15.8807 4.11929 17 5.5 17H14.5C15.8807 17 17 15.8807 17 14.5V6Z",
         "fill": "url(#paint1_linear_378174_9818)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -28,21 +30,24 @@ export var calendarCancel20Color = [
         "d": "M17 6H3V14.5C3 15.8807 4.11929 17 5.5 17H14.5C15.8807 17 17 15.8807 17 14.5V6Z",
         "fill": "url(#paint2_radial_378174_9818)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 5.5C17 4.11929 15.8807 3 14.5 3H5.5C4.11929 3 3 4.11929 3 5.5V7H17V5.5Z",
         "fill": "url(#paint3_linear_378174_9818)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 14.5C19 16.9853 16.9853 19 14.5 19C12.0147 19 10 16.9853 10 14.5C10 12.0147 12.0147 10 14.5 10C16.9853 10 19 12.0147 19 14.5Z",
         "fill": "url(#paint4_linear_378174_9818)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -51,7 +56,8 @@ export var calendarCancel20Color = [
         "d": "M12.6464 12.6464C12.8417 12.4512 13.1583 12.4512 13.3536 12.6464L14.5 13.7929L15.6464 12.6464C15.8417 12.4512 16.1583 12.4512 16.3536 12.6464C16.5488 12.8417 16.5488 13.1583 16.3536 13.3536L15.2071 14.5L16.3536 15.6464C16.5488 15.8417 16.5488 16.1583 16.3536 16.3536C16.1583 16.5488 15.8417 16.5488 15.6464 16.3536L14.5 15.2071L13.3536 16.3536C13.1583 16.5488 12.8417 16.5488 12.6464 16.3536C12.4512 16.1583 12.4512 15.8417 12.6464 15.6464L13.7929 14.5L12.6464 13.3536C12.4512 13.1583 12.4512 12.8417 12.6464 12.6464Z",
         "fill": "url(#paint5_linear_378174_9818)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -72,14 +78,16 @@ export var calendarCancel20Color = [
               "stop",
               {
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#8CD0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -99,7 +107,8 @@ export var calendarCancel20Color = [
               {
                 "stopColor": "#DCF8FF",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -107,7 +116,8 @@ export var calendarCancel20Color = [
                 "offset": "1",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0.7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -127,7 +137,8 @@ export var calendarCancel20Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -135,7 +146,8 @@ export var calendarCancel20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -154,14 +166,16 @@ export var calendarCancel20Color = [
               "stop",
               {
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -180,14 +194,16 @@ export var calendarCancel20Color = [
               "stop",
               {
                 "stopColor": "#F83F54"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#CA2134"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -206,14 +222,16 @@ export var calendarCancel20Color = [
               "stop",
               {
                 "stopColor": "#FDFDFD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FECBE6"
-              }
+              },
+              []
             ]
           ]
         ]

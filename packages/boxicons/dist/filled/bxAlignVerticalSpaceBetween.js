@@ -11,13 +11,15 @@ export var bxAlignVerticalSpaceBetween = [
       "path",
       {
         "d": "M2 1H22V3H2z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 21H22V23H2z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -28,7 +30,8 @@ export var bxAlignVerticalSpaceBetween = [
         "width": "10",
         "x": "7",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -39,7 +42,8 @@ export var bxAlignVerticalSpaceBetween = [
         "width": "16",
         "x": "4",
         "y": "13"
-      }
+      },
+      []
     ]
   ]
 ];

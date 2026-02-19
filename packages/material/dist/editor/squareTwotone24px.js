@@ -18,7 +18,8 @@ export var squareTwotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -39,7 +40,8 @@ export var squareTwotone24px = [
                 "width": "14",
                 "x": "5",
                 "y": "5"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -51,7 +53,8 @@ export var squareTwotone24px = [
               "path",
               {
                 "d": "M3,3v18h18V3H3z M19,19H5V5h14V19z"
-              }
+              },
+              []
             ]
           ]
         ]

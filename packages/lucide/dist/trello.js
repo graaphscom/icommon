@@ -21,7 +21,8 @@ export var trello = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var trello = [
         "width": "3",
         "x": "7",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -39,7 +41,8 @@ export var trello = [
         "width": "3",
         "x": "14",
         "y": "7"
-      }
+      },
+      []
     ]
   ]
 ];

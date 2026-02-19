@@ -21,7 +21,8 @@ export var neobreadBlush = [
         "width": "256",
         "x": "0",
         "y": "0"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,7 +30,8 @@ export var neobreadBlush = [
         "d": "M192.734,26.885C222.946,26.885 247.473,51.413 247.473,81.624C247.473,94.467 243.041,106.282 235.623,115.623L235.623,200.464C235.623,216.277 222.785,229.115 206.972,229.115L48.771,229.115C32.958,229.115 20.12,216.277 20.12,200.464L20.12,115.297C12.857,106.008 8.527,94.318 8.527,81.624C8.527,51.413 33.054,26.885 63.266,26.885L192.734,26.885Z",
         "id": "Crust",
         "style": "fill:rgb(209,160,132);stroke:black;stroke-width:15px;"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -40,7 +42,8 @@ export var neobreadBlush = [
         "width": "105.66",
         "x": "122.332",
         "y": "112.959"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -48,7 +51,8 @@ export var neobreadBlush = [
         "d": "M42.009,112.691C33.24,105.704 27.616,94.934 27.616,82.861C27.616,61.82 44.698,44.738 65.738,44.738L135.611,44.738C156.652,44.738 173.734,61.82 173.734,82.861C173.734,94.528 168.481,104.979 160.213,111.974L160.213,196.732C160.213,204.964 153.53,211.647 145.299,211.647L56.924,211.647C48.692,211.647 42.009,204.964 42.009,196.732L42.009,112.691Z",
         "id": "Slice",
         "style": "fill:rgb(252,233,186);"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -58,7 +62,8 @@ export var neobreadBlush = [
         "id": "Right blush",
         "r": "39.358",
         "style": "fill:url(#_Radial1);"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -68,7 +73,8 @@ export var neobreadBlush = [
         "id": "Left blush",
         "r": "36.452",
         "style": "fill:url(#_Radial2);"
-      }
+      },
+      []
     ],
     [
       "g",
@@ -82,7 +88,8 @@ export var neobreadBlush = [
             "d": "M76.509,168.135L92.089,152.977L111.407,168.536",
             "id": "Mouth",
             "style": "fill:none;stroke:black;stroke-width:10px;"
-          }
+          },
+          []
         ],
         [
           "g",
@@ -96,7 +103,8 @@ export var neobreadBlush = [
                 "d": "M139.619,105.292L113.841,120.202L139.771,131.466",
                 "id": "Right eye",
                 "style": "fill:none;stroke:black;stroke-width:12.61px;"
-              }
+              },
+              []
             ],
             [
               "path",
@@ -104,7 +112,8 @@ export var neobreadBlush = [
                 "d": "M52.172,105.292L77.95,120.202L52.02,131.466",
                 "id": "Left eye",
                 "style": "fill:none;stroke:black;stroke-width:12.61px;"
-              }
+              },
+              []
             ]
           ]
         ]
@@ -130,14 +139,16 @@ export var neobreadBlush = [
               {
                 "offset": "0",
                 "style": "stop-color:rgb(252,101,51);stop-opacity:1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "style": "stop-color:rgb(248,138,58);stop-opacity:0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -157,14 +168,16 @@ export var neobreadBlush = [
               {
                 "offset": "0",
                 "style": "stop-color:rgb(252,101,51);stop-opacity:1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "style": "stop-color:rgb(248,138,58);stop-opacity:0"
-              }
+              },
+              []
             ]
           ]
         ]

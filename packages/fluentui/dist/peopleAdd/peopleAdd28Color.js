@@ -13,14 +13,16 @@ export var peopleAdd28Color = [
       {
         "d": "M2 17.25C2 16.0074 3.00736 15 4.25 15H14.75C15.9926 15 17 16.0074 17 17.25V17.75C17 17.75 17 23 9.5 23C2 23 2 17.75 2 17.75V17.25Z",
         "fill": "url(#paint0_linear_74358_6463)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 17.25C2 16.0074 3.00736 15 4.25 15H14.75C15.9926 15 17 16.0074 17 17.25V17.75C17 17.75 17 23 9.5 23C2 23 2 17.75 2 17.75V17.25Z",
         "fill": "url(#paint1_linear_74358_6463)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -28,28 +30,32 @@ export var peopleAdd28Color = [
         "d": "M2 17.25C2 16.0074 3.00736 15 4.25 15H14.75C15.9926 15 17 16.0074 17 17.25V17.75C17 17.75 17 23 9.5 23C2 23 2 17.75 2 17.75V17.25Z",
         "fill": "url(#paint2_radial_74358_6463)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M23.5 9.5C23.5 11.433 21.933 13 20 13C18.067 13 16.5 11.433 16.5 9.5C16.5 7.567 18.067 6 20 6C21.933 6 23.5 7.567 23.5 9.5Z",
         "fill": "url(#paint3_linear_74358_6463)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9.5 13C11.9853 13 14 10.9853 14 8.5C14 6.01472 11.9853 4 9.5 4C7.01472 4 5 6.01472 5 8.5C5 10.9853 7.01472 13 9.5 13Z",
         "fill": "url(#paint4_linear_74358_6463)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M27 20.5C27 24.0899 24.0899 27 20.5 27C16.9101 27 14 24.0899 14 20.5C14 16.9101 16.9101 14 20.5 14C24.0899 14 27 16.9101 27 20.5Z",
         "fill": "url(#paint5_linear_74358_6463)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -58,7 +64,8 @@ export var peopleAdd28Color = [
         "d": "M20.5 16C20.7761 16 21 16.2239 21 16.5V20H24.5C24.7761 20 25 20.2239 25 20.5C25 20.7761 24.7761 21 24.5 21H21V24.5C21 24.7761 20.7761 25 20.5 25C20.2239 25 20 24.7761 20 24.5V21H16.5C16.2239 21 16 20.7761 16 20.5C16 20.2239 16.2239 20 16.5 20H20V16.5C20 16.2239 20.2239 16 20.5 16Z",
         "fill": "white",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -80,14 +87,16 @@ export var peopleAdd28Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#BD96FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -107,14 +116,16 @@ export var peopleAdd28Color = [
               {
                 "stopColor": "#885EDB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E362F8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -134,7 +145,8 @@ export var peopleAdd28Color = [
               {
                 "offset": "1.83502e-09",
                 "stopColor": "#30116E"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -142,7 +154,8 @@ export var peopleAdd28Color = [
                 "offset": "0.268231",
                 "stopColor": "#30116E",
                 "stopOpacity": "0.811643"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -150,7 +163,8 @@ export var peopleAdd28Color = [
                 "offset": "1",
                 "stopColor": "#30116E",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -170,14 +184,16 @@ export var peopleAdd28Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -197,14 +213,16 @@ export var peopleAdd28Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#BD96FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -223,14 +241,16 @@ export var peopleAdd28Color = [
               "stop",
               {
                 "stopColor": "#52D17C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#22918B"
-              }
+              },
+              []
             ]
           ]
         ]

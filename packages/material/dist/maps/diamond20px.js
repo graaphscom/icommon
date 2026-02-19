@@ -18,7 +18,8 @@ export var diamond20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var diamond20px = [
                   "polygon",
                   {
                     "points": "9.5,16.44 9.5,8.5 2.44,8.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var diamond20px = [
                   "polygon",
                   {
                     "points": "9.9,3.31 7.81,7.5 12.16,7.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -62,7 +65,8 @@ export var diamond20px = [
                   "polygon",
                   {
                     "points": "10.5,8.5 10.5,16.44 17.56,8.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -74,7 +78,8 @@ export var diamond20px = [
                   "polygon",
                   {
                     "points": "6.69,7.5 8.94,3 4,3 2.2,7.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -86,7 +91,8 @@ export var diamond20px = [
                   "polygon",
                   {
                     "points": "13.3,7.5 17.8,7.5 16,3 10.87,3"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

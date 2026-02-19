@@ -21,7 +21,8 @@ export var squareDivide = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -30,7 +31,8 @@ export var squareDivide = [
         "x2": "16",
         "y1": "12",
         "y2": "12"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -39,7 +41,8 @@ export var squareDivide = [
         "x2": "12",
         "y1": "16",
         "y2": "16"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -48,7 +51,8 @@ export var squareDivide = [
         "x2": "12",
         "y1": "8",
         "y2": "8"
-      }
+      },
+      []
     ]
   ]
 ];

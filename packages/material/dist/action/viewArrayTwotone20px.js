@@ -14,7 +14,8 @@ export var viewArrayTwotone20px = [
         "fill": "none",
         "height": "20",
         "width": "20"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -24,13 +25,15 @@ export var viewArrayTwotone20px = [
         "width": "5",
         "x": "7.5",
         "y": "6.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3,5h2v10H3V5z M15,5v10h2V5H15z M6,5h8v10H6V5z M7.5,13.5h5v-7h-5V13.5z"
-      }
+      },
+      []
     ]
   ]
 ];

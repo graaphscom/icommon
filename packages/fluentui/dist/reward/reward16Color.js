@@ -13,28 +13,32 @@ export var reward16Color = [
       {
         "d": "M10 8L13.295 5.94063C13.7336 5.66652 14 5.18581 14 4.66863V3.5C14 2.67157 13.3284 2 12.5 2H10L9.5 5L10 8Z",
         "fill": "url(#paint0_linear_378174_9486)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 2H3.5C2.67157 2 2 2.67157 2 3.5V4.66863C2 5.18581 2.26643 5.66652 2.705 5.94063L6 8L6.5 5L6 2Z",
         "fill": "url(#paint1_linear_378174_9486)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 2H6V8L7.205 8.75313C7.69141 9.05713 8.30859 9.05713 8.795 8.75313L10 8V2Z",
         "fill": "url(#paint2_linear_378174_9486)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M11 11C11 12.6569 9.65685 14 8 14C6.34315 14 5 12.6569 5 11C5 9.34315 6.34315 8 8 8C9.65685 8 11 9.34315 11 11Z",
         "fill": "url(#paint3_radial_378174_9486)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -55,14 +59,16 @@ export var reward16Color = [
               "stop",
               {
                 "stopColor": "#52D17C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#1A7F7C"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -81,14 +87,16 @@ export var reward16Color = [
               "stop",
               {
                 "stopColor": "#52D17C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#1A7F7C"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -107,14 +115,16 @@ export var reward16Color = [
               "stop",
               {
                 "stopColor": "#76EB95"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#1EC8B0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -134,14 +144,16 @@ export var reward16Color = [
               {
                 "offset": "0.771547",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.990707",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ]

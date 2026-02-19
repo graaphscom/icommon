@@ -16,7 +16,8 @@ export var gripper = [
         "width": "2",
         "x": "5",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var gripper = [
         "width": "2",
         "x": "5",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -36,7 +38,8 @@ export var gripper = [
         "width": "2",
         "x": "5",
         "y": "11"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -46,7 +49,8 @@ export var gripper = [
         "width": "2",
         "x": "9",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -56,7 +60,8 @@ export var gripper = [
         "width": "2",
         "x": "9",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -66,7 +71,8 @@ export var gripper = [
         "width": "2",
         "x": "9",
         "y": "11"
-      }
+      },
+      []
     ]
   ]
 ];

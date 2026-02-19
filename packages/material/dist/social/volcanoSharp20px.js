@@ -18,7 +18,8 @@ export var volcanoSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var volcanoSharp20px = [
                   "polygon",
                   {
                     "points": "15,7 9,7 8,11 5,11 2,18 18,18"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -53,7 +55,8 @@ export var volcanoSharp20px = [
                     "width": "1.5",
                     "x": "11.25",
                     "y": "1"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -69,7 +72,8 @@ export var volcanoSharp20px = [
                     "width": "3",
                     "x": "13.69",
                     "y": "3.05"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -85,7 +89,8 @@ export var volcanoSharp20px = [
                     "width": "1.5",
                     "x": "8.06",
                     "y": "2.3"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

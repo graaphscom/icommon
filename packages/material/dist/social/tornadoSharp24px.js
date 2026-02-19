@@ -18,7 +18,8 @@ export var tornadoSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var tornadoSharp24px = [
                   "polygon",
                   {
                     "points": "20.11,8 23,3 1,3 3.89,8"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var tornadoSharp24px = [
                   "polygon",
                   {
                     "points": "7.95,15 12,22 16.05,15"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -62,7 +65,8 @@ export var tornadoSharp24px = [
                   "polygon",
                   {
                     "points": "18.95,10 5.05,10 6.79,13 17.21,13"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

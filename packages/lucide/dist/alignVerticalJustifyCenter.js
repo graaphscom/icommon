@@ -20,7 +20,8 @@ export var alignVerticalJustifyCenter = [
         "width": "14",
         "x": "5",
         "y": "16"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,13 +31,15 @@ export var alignVerticalJustifyCenter = [
         "width": "10",
         "x": "7",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 12h20"
-      }
+      },
+      []
     ]
   ]
 ];

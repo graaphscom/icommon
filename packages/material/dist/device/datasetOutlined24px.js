@@ -18,7 +18,8 @@ export var datasetOutlined24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -41,7 +42,8 @@ export var datasetOutlined24px = [
                     "width": "4",
                     "x": "7",
                     "y": "13"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -56,7 +58,8 @@ export var datasetOutlined24px = [
                     "width": "4",
                     "x": "13",
                     "y": "13"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -68,7 +71,8 @@ export var datasetOutlined24px = [
                   "path",
                   {
                     "d": "M19,3H5C3.9,3,3,3.9,3,5v14c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V5C21,3.9,20.1,3,19,3z M19,19H5V5h14V19z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -83,7 +87,8 @@ export var datasetOutlined24px = [
                     "width": "4",
                     "x": "7",
                     "y": "7"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -98,7 +103,8 @@ export var datasetOutlined24px = [
                     "width": "4",
                     "x": "13",
                     "y": "7"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

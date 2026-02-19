@@ -17,7 +17,8 @@ export var bookmark = [
       "path",
       {
         "d": "M6 2 L26 2 26 30 16 20 6 30 Z"
-      }
+      },
+      []
     ]
   ]
 ];

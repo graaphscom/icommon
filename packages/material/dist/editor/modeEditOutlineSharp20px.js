@@ -18,7 +18,8 @@ export var modeEditOutlineSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var modeEditOutlineSharp20px = [
               "polygon",
               {
                 "points": "11.62,5.38 3,14 3,17 6,17 14.62,8.38"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -44,7 +46,8 @@ export var modeEditOutlineSharp20px = [
                 "width": "2.45",
                 "x": "13.82",
                 "y": "2.83"
-              }
+              },
+              []
             ]
           ]
         ]

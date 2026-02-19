@@ -10,7 +10,8 @@ export var bxGridCircleDiagonalRight = [
       "path",
       {
         "d": "M17 3a4 4 0 1 0 0 8 4 4 0 1 0 0-8M7 13a4 4 0 1 0 0 8 4 4 0 1 0 0-8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -21,7 +22,8 @@ export var bxGridCircleDiagonalRight = [
         "width": "8",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var bxGridCircleDiagonalRight = [
         "width": "8",
         "x": "13",
         "y": "13"
-      }
+      },
+      []
     ]
   ]
 ];

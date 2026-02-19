@@ -18,7 +18,8 @@ export var battery4BarSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var battery4BarSharp20px = [
           "path",
           {
             "d": "M11.5,3.5H14V18H6V3.5h2.5V2h3V3.5z M12.5,5h-5v5h5V5z"
-          }
+          },
+          []
         ]
       ]
     ]

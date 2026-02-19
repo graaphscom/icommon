@@ -20,7 +20,8 @@ export var discAlbum = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -28,13 +29,15 @@ export var discAlbum = [
         "cx": "12",
         "cy": "12",
         "r": "5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 12h.01"
-      }
+      },
+      []
     ]
   ]
 ];

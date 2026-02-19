@@ -11,7 +11,8 @@ export var bxTestTube = [
       "path",
       {
         "d": "m7,2h-1v2h1v13c0,2.76,2.24,5,5,5s5-2.24,5-5V4h1v-2H7Zm8,4h-3v2h3v2h-3v2h3v2h-3v2h3v1c0,1.65-1.35,3-3,3s-3-1.35-3-3V4h6v2Z"
-      }
+      },
+      []
     ]
   ]
 ];

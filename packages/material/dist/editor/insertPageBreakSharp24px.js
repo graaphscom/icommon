@@ -18,7 +18,8 @@ export var insertPageBreakSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,13 +38,15 @@ export var insertPageBreakSharp24px = [
                 "width": "16",
                 "x": "4",
                 "y": "17"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M20,8l-6-6H4.01l-0.01,9H20V8z M13,9V3.5L18.5,9H13z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -52,7 +55,8 @@ export var insertPageBreakSharp24px = [
                 "width": "6",
                 "x": "9",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -61,7 +65,8 @@ export var insertPageBreakSharp24px = [
                 "width": "6",
                 "x": "17",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -70,7 +75,8 @@ export var insertPageBreakSharp24px = [
                 "width": "6",
                 "x": "1",
                 "y": "13"
-              }
+              },
+              []
             ]
           ]
         ]

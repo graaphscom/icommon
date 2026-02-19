@@ -15,7 +15,8 @@ export var threeBars = [
         "d": "M14 5H2V3H14V5ZM14 9H2V7H14V9ZM2 13H14V11H2V13Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

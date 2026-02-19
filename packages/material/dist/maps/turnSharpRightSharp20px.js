@@ -18,7 +18,8 @@ export var turnSharpRightSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var turnSharpRightSharp20px = [
           "polygon",
           {
             "points": "14.5,5.87 14.5,12 7,12 7,17 5.5,17 5.5,10.5 13,10.5 13,5.87 11.81,7.06 10.75,6 13.75,3 16.75,6 15.69,7.06"
-          }
+          },
+          []
         ]
       ]
     ]

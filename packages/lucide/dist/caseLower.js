@@ -16,13 +16,15 @@ export var caseLower = [
       "path",
       {
         "d": "M10 9v7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 6v10"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -30,7 +32,8 @@ export var caseLower = [
         "cx": "17.5",
         "cy": "12.5",
         "r": "3.5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -38,7 +41,8 @@ export var caseLower = [
         "cx": "6.5",
         "cy": "12.5",
         "r": "3.5"
-      }
+      },
+      []
     ]
   ]
 ];

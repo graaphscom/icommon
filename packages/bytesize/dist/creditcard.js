@@ -17,14 +17,16 @@ export var creditcard = [
       "path",
       {
         "d": "M2 7 L2 25 30 25 30 7 Z M5 18 L9 18 M5 21 L11 21"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 11 L2 13 30 13 30 11 Z",
         "fill": "currentColor"
-      }
+      },
+      []
     ]
   ]
 ];

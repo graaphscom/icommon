@@ -10,7 +10,8 @@ export var bxMinus = [
       "path",
       {
         "d": "M3 11h18v2H3z"
-      }
+      },
+      []
     ]
   ]
 ];

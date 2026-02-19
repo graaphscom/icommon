@@ -21,7 +21,8 @@ export var laptopMinimal = [
         "width": "18",
         "x": "3",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -30,7 +31,8 @@ export var laptopMinimal = [
         "x2": "22",
         "y1": "20",
         "y2": "20"
-      }
+      },
+      []
     ]
   ]
 ];

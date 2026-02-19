@@ -12,7 +12,8 @@ export var brightness1Sharp24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -20,7 +21,8 @@ export var brightness1Sharp24px = [
         "cx": "12",
         "cy": "12",
         "r": "10"
-      }
+      },
+      []
     ]
   ]
 ];

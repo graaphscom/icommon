@@ -18,7 +18,8 @@ export var tornado20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var tornado20px = [
                   "polygon",
                   {
                     "points": "16.6,7 19,3 1,3 3.4,7"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var tornado20px = [
                   "polygon",
                   {
                     "points": "6.7,12.5 10,18 13.3,12.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -62,7 +65,8 @@ export var tornado20px = [
                   "polygon",
                   {
                     "points": "15.7,8.5 4.3,8.5 5.8,11 14.2,11"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

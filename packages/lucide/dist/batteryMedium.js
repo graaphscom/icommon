@@ -16,19 +16,22 @@ export var batteryMedium = [
       "path",
       {
         "d": "M10 14v-4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 14v-4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 14v-4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -38,7 +41,8 @@ export var batteryMedium = [
         "width": "16",
         "x": "2",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

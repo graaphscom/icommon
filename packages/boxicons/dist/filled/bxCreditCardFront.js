@@ -11,7 +11,8 @@ export var bxCreditCardFront = [
       "path",
       {
         "d": "m20,4H4c-1.1,0-2,.9-2,2v12c0,1.1.9,2,2,2h16c1.1,0,2-.9,2-2V6c0-1.1-.9-2-2-2Zm-9,12h-5v-2h5v2Zm0-5h-5v-3h5v3Zm7,5h-5v-2h5v2Z"
-      }
+      },
+      []
     ]
   ]
 ];

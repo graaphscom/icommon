@@ -13,7 +13,8 @@ export var buildingGovernmentSearch24Color = [
       {
         "d": "M11 4.5H12.5V6.5H11V4.5Z",
         "fill": "#70777D"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -24,35 +25,40 @@ export var buildingGovernmentSearch24Color = [
         "width": "5",
         "x": "11",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 13C5 9.13401 8.13401 6 12 6C15.866 6 19 9.13401 19 13V13.5H5V13Z",
         "fill": "url(#paint0_linear_72095_10328)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 13C5 9.13401 8.13401 6 12 6C15.866 6 19 9.13401 19 13V13.5H5V13Z",
         "fill": "url(#paint1_radial_72095_10328)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 13C5 9.13401 8.13401 6 12 6C15.866 6 19 9.13401 19 13V13.5H5V13Z",
         "fill": "url(#paint2_radial_72095_10328)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4.5 13C3.11929 13 2 14.1193 2 15.5V18H2.33682C2.89855 19.1825 4.1038 20 5.5 20C6.49242 20 7.38837 19.587 8.02531 18.9234L11.025 22H21.25C21.6642 22 22 21.6642 22 21.25V15.5C22 14.1193 20.8807 13 19.5 13H4.5Z",
         "fill": "url(#paint3_linear_72095_10328)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -60,7 +66,8 @@ export var buildingGovernmentSearch24Color = [
         "d": "M4.5 13C3.11929 13 2 14.1193 2 15.5V18H2.33682C2.89855 19.1825 4.1038 20 5.5 20C6.49242 20 7.38837 19.587 8.02531 18.9234L11.025 22H21.25C21.6642 22 22 21.6642 22 21.25V15.5C22 14.1193 20.8807 13 19.5 13H4.5Z",
         "fill": "url(#paint4_linear_72095_10328)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -68,7 +75,8 @@ export var buildingGovernmentSearch24Color = [
         "d": "M4.5 13C3.11929 13 2 14.1193 2 15.5V18H2.33682C2.89855 19.1825 4.1038 20 5.5 20C6.49242 20 7.38837 19.587 8.02531 18.9234L11.025 22H21.25C21.6642 22 22 21.6642 22 21.25V15.5C22 14.1193 20.8807 13 19.5 13H4.5Z",
         "fill": "url(#paint5_radial_72095_10328)",
         "fillOpacity": "0.6"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -76,35 +84,40 @@ export var buildingGovernmentSearch24Color = [
         "d": "M4.5 13C3.11929 13 2 14.1193 2 15.5V18H2.33682C2.89855 19.1825 4.1038 20 5.5 20C6.49242 20 7.38837 19.587 8.02531 18.9234L11.025 22H21.25C21.6642 22 22 21.6642 22 21.25V15.5C22 14.1193 20.8807 13 19.5 13H4.5Z",
         "fill": "url(#paint6_radial_72095_10328)",
         "fillOpacity": "0.6"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 16.25C19 15.8358 18.6642 15.5 18.25 15.5C17.8358 15.5 17.5 15.8358 17.5 16.25V18.75C17.5 19.1642 17.8358 19.5 18.25 19.5C18.6642 19.5 19 19.1642 19 18.75V16.25Z",
         "fill": "#63686E"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 9.75C16 9.33579 15.6642 9 15.25 9C14.8358 9 14.5 9.33579 14.5 9.75V11.25C14.5 11.6642 14.8358 12 15.25 12C15.6642 12 16 11.6642 16 11.25V9.75ZM12 9C12.4142 9 12.75 9.33579 12.75 9.75V11.25C12.75 11.6642 12.4142 12 12 12C11.5858 12 11.25 11.6642 11.25 11.25V9.75C11.25 9.33579 11.5858 9 12 9ZM9.5 9.75C9.5 9.33579 9.16421 9 8.75 9C8.33579 9 8 9.33579 8 9.75V11.25C8 11.6642 8.33579 12 8.75 12C9.16421 12 9.5 11.6642 9.5 11.25V9.75Z",
         "fill": "#CA6407"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 16.5C9 18.433 7.433 20 5.5 20C3.567 20 2 18.433 2 16.5C2 14.567 3.567 13 5.5 13C7.433 13 9 14.567 9 16.5Z",
         "fill": "url(#paint7_linear_72095_10328)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5.5 21C6.47187 21 7.37179 20.6919 8.1074 20.1681L10.7197 22.7803C11.0126 23.0732 11.4874 23.0732 11.7803 22.7803C12.0732 22.4874 12.0732 22.0126 11.7803 21.7197L9.16806 19.1074C9.69191 18.3718 10 17.4719 10 16.5C10 14.0147 7.98528 12 5.5 12C3.01472 12 1 14.0147 1 16.5C1 18.9853 3.01472 21 5.5 21ZM5.5 19.5C3.84315 19.5 2.5 18.1569 2.5 16.5C2.5 14.8431 3.84315 13.5 5.5 13.5C7.15685 13.5 8.5 14.8431 8.5 16.5C8.5 18.1569 7.15685 19.5 5.5 19.5Z",
         "fill": "url(#paint8_linear_72095_10328)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -125,21 +138,24 @@ export var buildingGovernmentSearch24Color = [
               "stop",
               {
                 "stopColor": "#FFC205"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.735",
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -158,7 +174,8 @@ export var buildingGovernmentSearch24Color = [
               "stop",
               {
                 "stopColor": "#FFD638"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -166,7 +183,8 @@ export var buildingGovernmentSearch24Color = [
                 "offset": "1",
                 "stopColor": "#FFD638",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -186,7 +204,8 @@ export var buildingGovernmentSearch24Color = [
               {
                 "offset": "0.494756",
                 "stopColor": "#E67505"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -194,7 +213,8 @@ export var buildingGovernmentSearch24Color = [
                 "offset": "0.837274",
                 "stopColor": "#E67505",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -213,14 +233,16 @@ export var buildingGovernmentSearch24Color = [
               "stop",
               {
                 "stopColor": "#AAB3BD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#889096"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -240,14 +262,16 @@ export var buildingGovernmentSearch24Color = [
               {
                 "offset": "0.136092",
                 "stopOpacity": "0.689224"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.622433",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -266,14 +290,16 @@ export var buildingGovernmentSearch24Color = [
               "stop",
               {
                 "offset": "0.121875"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.884375",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -292,7 +318,8 @@ export var buildingGovernmentSearch24Color = [
               "stop",
               {
                 "stopColor": "#FFB357"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -300,7 +327,8 @@ export var buildingGovernmentSearch24Color = [
                 "offset": "1",
                 "stopColor": "#FFB357",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -319,14 +347,16 @@ export var buildingGovernmentSearch24Color = [
               "stop",
               {
                 "stopColor": "#FDFDFD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -345,14 +375,16 @@ export var buildingGovernmentSearch24Color = [
               "stop",
               {
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#29C3FF"
-              }
+              },
+              []
             ]
           ]
         ]

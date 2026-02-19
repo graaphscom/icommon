@@ -16,13 +16,15 @@ export var washingMachine = [
       "path",
       {
         "d": "M3 6h3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 6h.01"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var washingMachine = [
         "width": "18",
         "x": "3",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -40,13 +43,15 @@ export var washingMachine = [
         "cx": "12",
         "cy": "13",
         "r": "5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 18a2.5 2.5 0 0 0 0-5 2.5 2.5 0 0 1 0-5"
-      }
+      },
+      []
     ]
   ]
 ];

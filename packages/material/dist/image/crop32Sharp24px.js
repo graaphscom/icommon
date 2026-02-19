@@ -18,7 +18,8 @@ export var crop32Sharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var crop32Sharp24px = [
                   "path",
                   {
                     "d": "M21,6H3v12h18V6z M19,16H5V8h14V16z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

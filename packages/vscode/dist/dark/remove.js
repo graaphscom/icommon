@@ -13,7 +13,8 @@ export var remove = [
       {
         "d": "M15 8H1V7H15V8Z",
         "fill": "#C5C5C5"
-      }
+      },
+      []
     ]
   ]
 ];

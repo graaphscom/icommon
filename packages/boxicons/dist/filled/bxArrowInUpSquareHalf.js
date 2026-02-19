@@ -10,13 +10,15 @@ export var bxArrowInUpSquareHalf = [
       "path",
       {
         "d": "m12 8-5 6h4v7h2v-7h4z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 3H5c-1.1 0-2 .9-2 2v7h2V5h14v7h2V5c0-1.1-.9-2-2-2"
-      }
+      },
+      []
     ]
   ]
 ];

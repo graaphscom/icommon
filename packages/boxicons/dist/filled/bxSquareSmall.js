@@ -15,7 +15,8 @@ export var bxSquareSmall = [
         "width": "12",
         "x": "6",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

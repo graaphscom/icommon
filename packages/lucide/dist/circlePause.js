@@ -18,7 +18,8 @@ export var circlePause = [
         "cx": "12",
         "cy": "12",
         "r": "10"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -27,7 +28,8 @@ export var circlePause = [
         "x2": "10",
         "y1": "15",
         "y2": "9"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -36,7 +38,8 @@ export var circlePause = [
         "x2": "14",
         "y1": "15",
         "y2": "9"
-      }
+      },
+      []
     ]
   ]
 ];

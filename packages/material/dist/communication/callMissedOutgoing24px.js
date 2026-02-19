@@ -19,7 +19,8 @@ export var callMissedOutgoing24px = [
             "height": "24",
             "width": "24",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -39,7 +40,8 @@ export var callMissedOutgoing24px = [
                   "path",
                   {
                     "d": "M3,8.41l9,9l7-7V15h2V7h-8v2h4.59L12,14.59L4.41,7L3,8.41z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

@@ -15,7 +15,8 @@ export var emptyWindow = [
         "d": "M4 4H7V5H4V8H3V5H0V4H3V1H4V4ZM1 14.5V9H2V14H14V7H8V6H14V4H8V3H14H14.5L15 3.5V14.5L14.5 15H1.5L1 14.5Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

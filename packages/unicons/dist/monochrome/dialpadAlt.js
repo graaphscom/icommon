@@ -13,7 +13,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "10",
         "y": "6.955"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -23,7 +24,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "10",
         "y": ".955"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -33,7 +35,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "10",
         "y": "13.045"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -43,7 +46,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "4",
         "y": "6.955"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -53,7 +57,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "4",
         "y": ".955"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -63,7 +68,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "4",
         "y": "13.045"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -73,7 +79,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "16",
         "y": "6.955"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -83,7 +90,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "16",
         "y": ".955"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -93,7 +101,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "16",
         "y": "13.045"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -103,7 +112,8 @@ export var dialpadAlt = [
         "width": "4",
         "x": "10",
         "y": "19"
-      }
+      },
+      []
     ]
   ]
 ];

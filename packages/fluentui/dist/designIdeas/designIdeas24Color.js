@@ -15,7 +15,8 @@ export var designIdeas24Color = [
         "cy": "9.5",
         "fill": "url(#paint0_radial_74105_6464)",
         "r": "6.5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -25,7 +26,8 @@ export var designIdeas24Color = [
         "fill": "url(#paint1_radial_74105_6464)",
         "fillOpacity": "0.6",
         "r": "6.5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -35,7 +37,8 @@ export var designIdeas24Color = [
         "fill": "url(#paint2_radial_74105_6464)",
         "fillOpacity": "0.6",
         "r": "6.5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -46,7 +49,8 @@ export var designIdeas24Color = [
         "width": "12",
         "x": "10",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -55,7 +59,8 @@ export var designIdeas24Color = [
         "d": "M10.5 16C14.0899 16 17 13.0898 17 9.49997C17 9.33173 16.9936 9.16499 16.9811 8.99997H13C11.3431 8.99997 10 10.3431 10 12V15.981C10.165 15.9936 10.3318 16 10.5 16Z",
         "fill": "url(#paint4_linear_74105_6464)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -64,14 +69,16 @@ export var designIdeas24Color = [
         "d": "M10.5 16C14.0899 16 17 13.0898 17 9.49997C17 9.33173 16.9936 9.16499 16.9811 8.99997H13C11.3431 8.99997 10 10.3431 10 12V15.981C10.165 15.9936 10.3318 16 10.5 16Z",
         "fill": "url(#paint5_linear_74105_6464)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7.5 13.9483C7.5 19.2172 6.03906 21.9688 4.75 21.9688C3.63281 21.9688 2 19.6855 2 13.9483C2 9.05011 3.23122 8.26953 4.75 8.26953C6.10352 8.26953 7.5 8.67934 7.5 13.9483Z",
         "fill": "url(#paint6_linear_74105_6464)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -79,14 +86,16 @@ export var designIdeas24Color = [
         "d": "M7.5 13.9483C7.5 19.2172 6.03906 21.9688 4.75 21.9688C3.63281 21.9688 2 19.6855 2 13.9483C2 9.05011 3.23122 8.26953 4.75 8.26953C6.10352 8.26953 7.5 8.67934 7.5 13.9483Z",
         "fill": "url(#paint7_radial_74105_6464)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7.5 13.9483C7.5 19.2172 6.03906 21.9688 4.75 21.9688C3.63281 21.9688 2 19.6855 2 13.9483C2 9.05011 3.23122 8.26953 4.75 8.26953C6.10352 8.26953 7.5 8.67934 7.5 13.9483Z",
         "fill": "url(#paint8_linear_74105_6464)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -94,7 +103,8 @@ export var designIdeas24Color = [
         "d": "M7.5 13.9483C7.5 19.2172 6.03906 21.9688 4.75 21.9688C3.63281 21.9688 2 19.6855 2 13.9483C2 9.05011 3.23122 8.26953 4.75 8.26953C6.10352 8.26953 7.5 8.67934 7.5 13.9483Z",
         "fill": "url(#paint9_radial_74105_6464)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -102,14 +112,16 @@ export var designIdeas24Color = [
         "d": "M2.06311 12.2056C2.33244 8.85641 3.43316 8.26953 4.75008 8.26953C5.93603 8.26953 7.15497 8.58415 7.4386 12.2064C6.67706 12.6893 5.75068 12.9725 4.75147 12.9725C3.75172 12.9725 2.82488 12.689 2.06311 12.2056Z",
         "fill": "white",
         "fillOpacity": "0.15"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5.57489 2.07403C5.83474 2.19892 6 2.4617 6 2.75001C6 3.49518 6.32769 4.08141 6.73156 4.68175C7.0641 5.17579 7.5 5.8234 7.5 6.75001C7.5 7.22276 7.38071 7.66766 7.17058 8.05623C6.70564 8.91598 5.79602 9.5 4.75 9.5C3.70764 9.5 2.80073 8.92007 2.33432 8.06525C2.12115 7.67455 2 7.22642 2 6.75C2 6.38181 2.00034 5.74888 2.38341 4.93168C2.75829 4.13192 3.47066 3.21301 4.78148 2.16436C5.00661 1.98425 5.31504 1.94914 5.57489 2.07403Z",
         "fill": "url(#paint10_radial_74105_6464)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -131,21 +143,24 @@ export var designIdeas24Color = [
               {
                 "offset": "0.221888",
                 "stopColor": "#4E46E2"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.577558",
                 "stopColor": "#625DF6"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.954926",
                 "stopColor": "#E37DFF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -165,7 +180,8 @@ export var designIdeas24Color = [
               {
                 "offset": "0.566147",
                 "stopColor": "#251FBA"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -173,7 +189,8 @@ export var designIdeas24Color = [
                 "offset": "1",
                 "stopColor": "#5E51E4",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -193,7 +210,8 @@ export var designIdeas24Color = [
               {
                 "offset": "0.566147",
                 "stopColor": "#251FBA"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -201,7 +219,8 @@ export var designIdeas24Color = [
                 "offset": "1",
                 "stopColor": "#5E51E4",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -220,35 +239,40 @@ export var designIdeas24Color = [
               "stop",
               {
                 "stopColor": "#C354FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.157798",
                 "stopColor": "#B339F0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.429343",
                 "stopColor": "#F24A9D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.748908",
                 "stopColor": "#FF835C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFC470"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -268,14 +292,16 @@ export var designIdeas24Color = [
               {
                 "offset": "0.194812",
                 "stopColor": "#6D37CD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.764931",
                 "stopColor": "#EA71EF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -295,14 +321,16 @@ export var designIdeas24Color = [
               {
                 "offset": "0.194812",
                 "stopColor": "#7631FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.885651",
                 "stopColor": "#E63080"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -321,14 +349,16 @@ export var designIdeas24Color = [
               "stop",
               {
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -349,14 +379,16 @@ export var designIdeas24Color = [
                 "offset": "0.5",
                 "stopColor": "#DD3CE2",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DD3CE2"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -376,14 +408,16 @@ export var designIdeas24Color = [
               {
                 "offset": "0.307407",
                 "stopColor": "#0D91E1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.760677",
                 "stopColor": "#52B471"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -403,7 +437,8 @@ export var designIdeas24Color = [
               {
                 "offset": "0.168605",
                 "stopColor": "#02888D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -411,7 +446,8 @@ export var designIdeas24Color = [
                 "offset": "0.259941",
                 "stopColor": "#02888D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -430,21 +466,24 @@ export var designIdeas24Color = [
               "stop",
               {
                 "stopColor": "#FF9532"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.251092",
                 "stopColor": "#FF835C"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#F24A9D"
-              }
+              },
+              []
             ]
           ]
         ]

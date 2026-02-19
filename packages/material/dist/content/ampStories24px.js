@@ -18,7 +18,8 @@ export var ampStories24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -26,10 +27,6 @@ export var ampStories24px = [
       "g",
       {},
       [
-        [
-          "g",
-          {}
-        ],
         [
           "g",
           {},
@@ -41,7 +38,8 @@ export var ampStories24px = [
                 "width": "10",
                 "x": "7",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -50,7 +48,8 @@ export var ampStories24px = [
                 "width": "2",
                 "x": "3",
                 "y": "6"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -59,7 +58,8 @@ export var ampStories24px = [
                 "width": "2",
                 "x": "19",
                 "y": "6"
-              }
+              },
+              []
             ]
           ]
         ]

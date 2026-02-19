@@ -15,7 +15,8 @@ export var shareAndroid20Color = [
         "d": "M13.1649 5.3291L13.8357 6.67074L7.17734 9.99992L14.8357 13.8291L14.1649 15.1707L3.82324 9.99992L13.1649 5.3291Z",
         "fill": "url(#paint0_linear_72095_8331)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -24,7 +25,8 @@ export var shareAndroid20Color = [
         "d": "M13.1649 5.3291L13.8357 6.67074L7.17734 9.99992L14.8357 13.8291L14.1649 15.1707L3.82324 9.99992L13.1649 5.3291Z",
         "fill": "url(#paint1_radial_72095_8331)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -33,7 +35,8 @@ export var shareAndroid20Color = [
         "d": "M13.1649 5.3291L13.8357 6.67074L7.17734 9.99992L14.8357 13.8291L14.1649 15.1707L3.82324 9.99992L13.1649 5.3291Z",
         "fill": "url(#paint2_radial_72095_8331)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -42,7 +45,8 @@ export var shareAndroid20Color = [
         "d": "M13.1649 5.3291L13.8357 6.67074L7.17734 9.99992L14.8357 13.8291L14.1649 15.1707L3.82324 9.99992L13.1649 5.3291Z",
         "fill": "url(#paint3_radial_72095_8331)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -51,14 +55,16 @@ export var shareAndroid20Color = [
         "cy": "14.5",
         "fill": "url(#paint4_radial_72095_8331)",
         "r": "2.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 10C8 11.3807 6.88071 12.5 5.5 12.5C4.11929 12.5 3 11.3807 3 10C3 8.61929 4.11929 7.5 5.5 7.5C6.88071 7.5 8 8.61929 8 10Z",
         "fill": "url(#paint5_radial_72095_8331)"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -67,7 +73,8 @@ export var shareAndroid20Color = [
         "cy": "5.5",
         "fill": "url(#paint6_radial_72095_8331)",
         "r": "2.5"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -88,14 +95,16 @@ export var shareAndroid20Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -115,7 +124,8 @@ export var shareAndroid20Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -123,7 +133,8 @@ export var shareAndroid20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -143,7 +154,8 @@ export var shareAndroid20Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -151,7 +163,8 @@ export var shareAndroid20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -171,7 +184,8 @@ export var shareAndroid20Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -179,7 +193,8 @@ export var shareAndroid20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -199,14 +214,16 @@ export var shareAndroid20Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -226,14 +243,16 @@ export var shareAndroid20Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -253,14 +272,16 @@ export var shareAndroid20Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ]
           ]
         ]

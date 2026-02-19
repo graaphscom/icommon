@@ -13,49 +13,56 @@ export var shareAndroid24Color = [
       {
         "d": "M16.6278 5.34882L17.3721 6.65118L8.01163 12L17.3721 17.3488L16.6278 18.6512L4.98828 12L16.6278 5.34882Z",
         "fill": "url(#paint0_linear_72095_8326)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16.6278 5.34882L17.3721 6.65118L8.01163 12L17.3721 17.3488L16.6278 18.6512L4.98828 12L16.6278 5.34882Z",
         "fill": "url(#paint1_radial_72095_8326)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16.6278 5.34882L17.3721 6.65118L8.01163 12L17.3721 17.3488L16.6278 18.6512L4.98828 12L16.6278 5.34882Z",
         "fill": "url(#paint2_radial_72095_8326)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16.6278 5.34882L17.3721 6.65118L8.01163 12L17.3721 17.3488L16.6278 18.6512L4.98828 12L16.6278 5.34882Z",
         "fill": "url(#paint3_radial_72095_8326)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20.5 18.0001C20.5 19.9331 18.933 21.5001 17 21.5001C15.067 21.5001 13.5 19.9331 13.5 18.0001C13.5 16.0671 15.067 14.5001 17 14.5001C18.933 14.5001 20.5 16.0671 20.5 18.0001Z",
         "fill": "url(#paint4_radial_72095_8326)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 12C10 13.933 8.433 15.5 6.5 15.5C4.567 15.5 3 13.933 3 12C3 10.067 4.567 8.5 6.5 8.5C8.433 8.5 10 10.067 10 12Z",
         "fill": "url(#paint5_radial_72095_8326)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20.5 6C20.5 7.933 18.933 9.5 17 9.5C15.067 9.5 13.5 7.933 13.5 6C13.5 4.067 15.067 2.5 17 2.5C18.933 2.5 20.5 4.067 20.5 6Z",
         "fill": "url(#paint6_radial_72095_8326)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -76,14 +83,16 @@ export var shareAndroid24Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -103,7 +112,8 @@ export var shareAndroid24Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -111,7 +121,8 @@ export var shareAndroid24Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -131,7 +142,8 @@ export var shareAndroid24Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -139,7 +151,8 @@ export var shareAndroid24Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -159,7 +172,8 @@ export var shareAndroid24Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -167,7 +181,8 @@ export var shareAndroid24Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -187,14 +202,16 @@ export var shareAndroid24Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -214,14 +231,16 @@ export var shareAndroid24Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -241,14 +260,16 @@ export var shareAndroid24Color = [
               {
                 "offset": "0.528807",
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0078D4"
-              }
+              },
+              []
             ]
           ]
         ]

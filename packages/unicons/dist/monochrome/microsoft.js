@@ -12,7 +12,8 @@ export var microsoft = [
         "width": "9.503",
         "x": "2",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -21,7 +22,8 @@ export var microsoft = [
         "width": "9.503",
         "x": "12.493",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +32,8 @@ export var microsoft = [
         "width": "9.503",
         "x": "2",
         "y": "12.497"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -39,7 +42,8 @@ export var microsoft = [
         "width": "9.503",
         "x": "12.493",
         "y": "12.497"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -15,7 +15,8 @@ export var linkMultiple20Color = [
         "d": "M5 4L11 4C13.2091 4 15 5.79086 15 8C15 10.2091 13.2091 12 11 12H5C2.79086 12 1 10.2091 1 8C1 5.79086 2.79086 4 5 4ZM11 6L5 6C3.89543 6 3 6.89543 3 8C3 9.10457 3.89543 10 5 10L11 10C12.1046 10 13 9.10457 13 8C13 6.89543 12.1046 6 11 6Z",
         "fill": "url(#paint0_radial_72095_9192)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -24,7 +25,8 @@ export var linkMultiple20Color = [
         "d": "M5 4L11 4C13.2091 4 15 5.79086 15 8C15 10.2091 13.2091 12 11 12H5C2.79086 12 1 10.2091 1 8C1 5.79086 2.79086 4 5 4ZM11 6L5 6C3.89543 6 3 6.89543 3 8C3 9.10457 3.89543 10 5 10L11 10C12.1046 10 13 9.10457 13 8C13 6.89543 12.1046 6 11 6Z",
         "fill": "url(#paint1_radial_72095_9192)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -33,28 +35,32 @@ export var linkMultiple20Color = [
         "d": "M5 4L11 4C13.2091 4 15 5.79086 15 8C15 10.2091 13.2091 12 11 12H5C2.79086 12 1 10.2091 1 8C1 5.79086 2.79086 4 5 4ZM11 6L5 6C3.89543 6 3 6.89543 3 8C3 9.10457 3.89543 10 5 10L11 10C12.1046 10 13 9.10457 13 8C13 6.89543 12.1046 6 11 6Z",
         "fill": "url(#paint2_linear_72095_9192)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 8H9C6.79086 8 5 9.79086 5 12C5 14.2091 6.79086 16 9 16H15C17.2091 16 19 14.2091 19 12C19 9.79086 17.2091 8 15 8C15 8.72857 14.8052 9.41165 14.4649 10H15C16.1046 10 17 10.8954 17 12C17 13.1046 16.1046 14 15 14L9 14C7.89543 14 7 13.1046 7 12C7 10.8954 7.89543 10 9 10L11 10C12.1046 10 13 9.10457 13 8Z",
         "fill": "url(#paint3_linear_72095_9192)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 8H9C6.79086 8 5 9.79086 5 12C5 14.2091 6.79086 16 9 16H15C17.2091 16 19 14.2091 19 12C19 9.79086 17.2091 8 15 8C15 8.72857 14.8052 9.41165 14.4649 10H15C16.1046 10 17 10.8954 17 12C17 13.1046 16.1046 14 15 14L9 14C7.89543 14 7 13.1046 7 12C7 10.8954 7.89543 10 9 10L11 10C12.1046 10 13 9.10457 13 8Z",
         "fill": "url(#paint4_radial_72095_9192)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 8H9C6.79086 8 5 9.79086 5 12C5 14.2091 6.79086 16 9 16H15C17.2091 16 19 14.2091 19 12C19 9.79086 17.2091 8 15 8C15 8.72857 14.8052 9.41165 14.4649 10H15C16.1046 10 17 10.8954 17 12C17 13.1046 16.1046 14 15 14L9 14C7.89543 14 7 13.1046 7 12C7 10.8954 7.89543 10 9 10L11 10C12.1046 10 13 9.10457 13 8Z",
         "fill": "url(#paint5_linear_72095_9192)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -75,28 +81,32 @@ export var linkMultiple20Color = [
               "stop",
               {
                 "stopColor": "#0FAFFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.429447",
                 "stopColor": "#367AF2"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.942067",
                 "stopColor": "#5750E2"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#6F47DF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -117,21 +127,24 @@ export var linkMultiple20Color = [
                 "offset": "0.229167",
                 "stopColor": "#261D82",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.395833",
                 "stopColor": "#261D82"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.578125",
                 "stopColor": "#261D82"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -139,7 +152,8 @@ export var linkMultiple20Color = [
                 "offset": "0.78125",
                 "stopColor": "#261D82",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -159,21 +173,24 @@ export var linkMultiple20Color = [
               {
                 "stopColor": "#5157E4",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.066311",
                 "stopColor": "#5157E4"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.272866",
                 "stopColor": "#5157E4"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -181,7 +198,8 @@ export var linkMultiple20Color = [
                 "offset": "0.6",
                 "stopColor": "#5157E4",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -200,14 +218,16 @@ export var linkMultiple20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -228,21 +248,24 @@ export var linkMultiple20Color = [
                 "offset": "0.229167",
                 "stopColor": "#2764E7",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.395833",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.578125",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -250,7 +273,8 @@ export var linkMultiple20Color = [
                 "offset": "0.78125",
                 "stopColor": "#2764E7",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -270,21 +294,24 @@ export var linkMultiple20Color = [
               {
                 "stopColor": "#31B3EE",
                 "stopOpacity": "0.243137"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.207974",
                 "stopColor": "#31B3EE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.568966",
                 "stopColor": "#31B3EE"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -292,7 +319,8 @@ export var linkMultiple20Color = [
                 "offset": "0.877534",
                 "stopColor": "#31B3EE",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ]

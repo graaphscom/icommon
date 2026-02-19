@@ -18,7 +18,8 @@ export var divide = [
         "cx": "12",
         "cy": "6",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -27,7 +28,8 @@ export var divide = [
         "x2": "19",
         "y1": "12",
         "y2": "12"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -35,7 +37,8 @@ export var divide = [
         "cx": "12",
         "cy": "18",
         "r": "1"
-      }
+      },
+      []
     ]
   ]
 ];

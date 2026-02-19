@@ -18,7 +18,8 @@ export var barChart24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var barChart24px = [
                 "width": "4",
                 "x": "4",
                 "y": "9"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var barChart24px = [
                 "width": "4",
                 "x": "16",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +58,8 @@ export var barChart24px = [
                 "width": "4",
                 "x": "10",
                 "y": "4"
-              }
+              },
+              []
             ]
           ]
         ]

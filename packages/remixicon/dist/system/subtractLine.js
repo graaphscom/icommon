@@ -10,7 +10,8 @@ export var subtractLine = [
       "path",
       {
         "d": "M5 11V13H19V11H5Z"
-      }
+      },
+      []
     ]
   ]
 ];

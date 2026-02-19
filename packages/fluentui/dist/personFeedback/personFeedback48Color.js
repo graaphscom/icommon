@@ -13,28 +13,32 @@ export var personFeedback48Color = [
       {
         "d": "M3 34.79C3 34.88 3.15 44 16 44C28.85 44 29 34.88 29 34.79V33.75C29 31.68 27.32 30 25.25 30H6.75C4.68 30 3 31.68 3 33.75V34.79Z",
         "fill": "url(#paint0_linear_72095_8636)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 34.79C3 34.88 3.15 44 16 44C28.85 44 29 34.88 29 34.79V33.75C29 31.68 27.32 30 25.25 30H6.75C4.68 30 3 31.68 3 33.75V34.79Z",
         "fill": "url(#paint1_linear_72095_8636)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 27.5C11.86 27.5 8.5 24.14 8.5 20C8.5 15.86 11.86 12.5 16 12.5C20.14 12.5 23.5 15.86 23.5 20C23.5 24.14 20.14 27.5 16 27.5Z",
         "fill": "url(#paint2_linear_72095_8636)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M30.27 25C30.03 25 29.78 24.96 29.54 24.88C28.6 24.57 28 23.73 28 22.75V19.94C25.74 19.58 24 17.61 24 15.25V8.75C24 6.13 26.13 4 28.75 4H40.25C42.87 4 45 6.13 45 8.75V15.25C45 17.87 42.87 20 40.25 20H35.13L32.05 24.1C31.61 24.68 30.96 25 30.27 25Z",
         "fill": "url(#paint3_radial_72095_8636)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -56,14 +60,16 @@ export var personFeedback48Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -83,14 +89,16 @@ export var personFeedback48Color = [
               {
                 "stopColor": "#885EDB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#E362F8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -110,14 +118,16 @@ export var personFeedback48Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -136,21 +146,24 @@ export var personFeedback48Color = [
               "stop",
               {
                 "stopColor": "#FAB500"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.535356",
                 "stopColor": "#FE8401"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ]

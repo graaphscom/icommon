@@ -19,7 +19,8 @@ export var calculateOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -46,7 +47,8 @@ export var calculateOutlined20px = [
                         "width": "3",
                         "x": "11",
                         "y": "12.25"
-                      }
+                      },
+                      []
                     ]
                   ]
                 ],
@@ -61,7 +63,8 @@ export var calculateOutlined20px = [
                         "width": "3",
                         "x": "11",
                         "y": "10.75"
-                      }
+                      },
+                      []
                     ]
                   ]
                 ]
@@ -78,7 +81,8 @@ export var calculateOutlined20px = [
                     "width": "3",
                     "x": "6",
                     "y": "7.27"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -90,7 +94,8 @@ export var calculateOutlined20px = [
                   "path",
                   {
                     "d": "M15,4H5C4.45,4,4,4.45,4,5v10c0,0.55,0.45,1,1,1h10c0.55,0,1-0.45,1-1V5C16,4.45,15.55,4,15,4z M15,15H5V5h10V15z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -102,7 +107,8 @@ export var calculateOutlined20px = [
                   "polygon",
                   {
                     "points": "7.5,14 8.5,14 8.5,12.5 10,12.5 10,11.5 8.5,11.5 8.5,10 7.5,10 7.5,11.5 6,11.5 6,12.5 7.5,12.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -114,7 +120,8 @@ export var calculateOutlined20px = [
                   "polygon",
                   {
                     "points": "11.44,9.54 12.5,8.47 13.56,9.54 14.27,8.83 13.21,7.77 14.27,6.71 13.56,6 12.5,7.06 11.44,6 10.73,6.71 11.79,7.77 10.73,8.83"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

@@ -15,7 +15,8 @@ export var project = [
         "d": "M1.5 1H14.5L15 1.5V14.5L14.5 15H1.5L1 14.5V1.5L1.5 1ZM2 14H14V2H2V14ZM3 3H5V13H3V3ZM9 3H7V9H9V3ZM11 3H13V11H11V3Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

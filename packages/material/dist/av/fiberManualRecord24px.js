@@ -12,7 +12,8 @@ export var fiberManualRecord24px = [
       {
         "d": "M24 24H0V0h24v24z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -20,7 +21,8 @@ export var fiberManualRecord24px = [
         "cx": "12",
         "cy": "12",
         "r": "8"
-      }
+      },
+      []
     ]
   ]
 ];

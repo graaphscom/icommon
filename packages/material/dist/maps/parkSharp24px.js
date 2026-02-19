@@ -18,7 +18,8 @@ export var parkSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var parkSharp24px = [
                   "polygon",
                   {
                     "points": "17,12 19,12 12,2 5.05,12 7,12 3.1,18 10.02,18 10.02,22 13.98,22 13.98,18 21,18"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

@@ -16,25 +16,29 @@ export var alignVerticalDistributeCenter = [
       "path",
       {
         "d": "M22 17h-3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 7h-5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 17H2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 7H2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -44,7 +48,8 @@ export var alignVerticalDistributeCenter = [
         "width": "14",
         "x": "5",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -54,7 +59,8 @@ export var alignVerticalDistributeCenter = [
         "width": "10",
         "x": "7",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

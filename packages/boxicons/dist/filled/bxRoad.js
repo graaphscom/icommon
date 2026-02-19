@@ -11,7 +11,8 @@ export var bxRoad = [
       "path",
       {
         "d": "m13,2v3h-2v-3h-7l-2,20h9v-3h2v3h9l-2-20h-7Zm0,15h-2v-4h2v4Zm0-6h-2v-4h2v4Z"
-      }
+      },
+      []
     ]
   ]
 ];

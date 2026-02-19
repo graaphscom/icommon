@@ -12,13 +12,15 @@ export var maximizeSharp24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 3h18v2H3V3z"
-      }
+      },
+      []
     ]
   ]
 ];

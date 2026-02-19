@@ -16,7 +16,8 @@ export var signalZero = [
       "path",
       {
         "d": "M2 20h.01"
-      }
+      },
+      []
     ]
   ]
 ];

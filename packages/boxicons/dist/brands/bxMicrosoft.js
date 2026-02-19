@@ -10,7 +10,8 @@ export var bxMicrosoft = [
       "path",
       {
         "d": "M11.55 21H3v-8.55h8.55zM21 21h-8.55v-8.55H21zm-9.45-9.45H3V3h8.55zm9.45 0h-8.55V3H21z"
-      }
+      },
+      []
     ]
   ]
 ];

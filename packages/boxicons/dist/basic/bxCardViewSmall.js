@@ -10,7 +10,8 @@ export var bxCardViewSmall = [
       "path",
       {
         "d": "M4 12c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2H6c-1.1 0-2 .9-2 2zm2-8h12v8H6zM4 16h16v2H4zM4 20h16v2H4z"
-      }
+      },
+      []
     ]
   ]
 ];

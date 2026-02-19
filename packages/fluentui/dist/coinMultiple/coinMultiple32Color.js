@@ -13,7 +13,8 @@ export var coinMultiple32Color = [
       {
         "d": "M16 30C21.5228 30 26 27.5376 26 24.5V21.5H6V24.5C6 27.5376 10.4772 30 16 30Z",
         "fill": "url(#paint0_linear_72095_9853)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -23,14 +24,16 @@ export var coinMultiple32Color = [
         "fill": "url(#paint1_linear_72095_9853)",
         "rx": "10",
         "ry": "5.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 23C21.5228 23 26 20.5376 26 17.5V14.5H6V17.5C6 20.5376 10.4772 23 16 23Z",
         "fill": "url(#paint2_linear_72095_9853)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -40,14 +43,16 @@ export var coinMultiple32Color = [
         "fill": "url(#paint3_linear_72095_9853)",
         "rx": "10",
         "ry": "5.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 16C21.5228 16 26 13.5376 26 10.5V7.5H6V10.5C6 13.5376 10.4772 16 16 16Z",
         "fill": "url(#paint4_linear_72095_9853)"
-      }
+      },
+      []
     ],
     [
       "ellipse",
@@ -57,7 +62,8 @@ export var coinMultiple32Color = [
         "fill": "url(#paint5_linear_72095_9853)",
         "rx": "10",
         "ry": "5.5"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -78,14 +84,16 @@ export var coinMultiple32Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -104,14 +112,16 @@ export var coinMultiple32Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -130,14 +140,16 @@ export var coinMultiple32Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -156,14 +168,16 @@ export var coinMultiple32Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -182,14 +196,16 @@ export var coinMultiple32Color = [
               "stop",
               {
                 "stopColor": "#FFA43D"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FB5937"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -208,14 +224,16 @@ export var coinMultiple32Color = [
               "stop",
               {
                 "stopColor": "#FF8A69"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ]

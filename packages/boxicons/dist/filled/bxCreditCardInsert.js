@@ -11,13 +11,15 @@ export var bxCreditCardInsert = [
       "path",
       {
         "d": "M2 2H22V4H2z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m4,20c0,1.1.9,2,2,2h12c1.1,0,2-.9,2-2V5H4v15ZM14,7h2v5h-2v-5Zm0,7h2v5h-2v-5Zm-6,0h3v5h-3v-5Z"
-      }
+      },
+      []
     ]
   ]
 ];

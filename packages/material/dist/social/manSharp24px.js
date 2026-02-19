@@ -18,7 +18,8 @@ export var manSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var manSharp24px = [
               "polygon",
               {
                 "points": "16,7 8,7 8,15 10,15 10,22 14,22 14,15 16,15"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -42,7 +44,8 @@ export var manSharp24px = [
                 "cx": "12",
                 "cy": "4",
                 "r": "2"
-              }
+              },
+              []
             ]
           ]
         ]

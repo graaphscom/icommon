@@ -11,31 +11,36 @@ export var bxAlignRight = [
       "path",
       {
         "d": "M9 7H21V9H9z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 3H21V5H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 11H21V13H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 15H21V17H9z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 19H21V21H3z"
-      }
+      },
+      []
     ]
   ]
 ];

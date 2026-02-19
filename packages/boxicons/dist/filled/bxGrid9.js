@@ -15,7 +15,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "2",
         "y": "16"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "9",
         "y": "16"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -37,7 +39,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "16",
         "y": "16"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -48,7 +51,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "2",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -59,7 +63,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "9",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -70,7 +75,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "16",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -81,7 +87,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "2",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -92,7 +99,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "9",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -103,7 +111,8 @@ export var bxGrid9 = [
         "width": "6",
         "x": "16",
         "y": "2"
-      }
+      },
+      []
     ]
   ]
 ];

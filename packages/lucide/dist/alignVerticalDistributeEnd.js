@@ -20,7 +20,8 @@ export var alignVerticalDistributeEnd = [
         "width": "14",
         "x": "5",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,19 +31,22 @@ export var alignVerticalDistributeEnd = [
         "width": "10",
         "x": "7",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 20h20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 10h20"
-      }
+      },
+      []
     ]
   ]
 ];

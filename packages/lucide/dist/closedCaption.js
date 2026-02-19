@@ -16,13 +16,15 @@ export var closedCaption = [
       "path",
       {
         "d": "M10 9.17a3 3 0 1 0 0 5.66"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 9.17a3 3 0 1 0 0 5.66"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,7 +34,8 @@ export var closedCaption = [
         "width": "20",
         "x": "2",
         "y": "5"
-      }
+      },
+      []
     ]
   ]
 ];

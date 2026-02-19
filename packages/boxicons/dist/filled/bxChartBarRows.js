@@ -10,13 +10,15 @@ export var bxChartBarRows = [
       "path",
       {
         "d": "M4 2H2v19c0 .55.45 1 1 1h19v-2H4z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 15h6v2H6zM6 10h14v2H6zM6 5h9v2H6z"
-      }
+      },
+      []
     ]
   ]
 ];

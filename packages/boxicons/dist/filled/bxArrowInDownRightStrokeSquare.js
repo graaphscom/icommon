@@ -10,13 +10,15 @@ export var bxArrowInDownRightStrokeSquare = [
       "path",
       {
         "d": "M7 16h9V7h-2v5.59l-8.29-8.3-1.42 1.42 8.3 8.29H7z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 3h-7v2h7v14H5v-7H3v7c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2"
-      }
+      },
+      []
     ]
   ]
 ];

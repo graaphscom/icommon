@@ -10,7 +10,8 @@ export var bxUppercase = [
       "path",
       {
         "d": "M3 8h2v8H3v2h6v-2H7V8h2v2h2V6H1v4h2zM17 6h-4v4h2V8h2v8h-2v2h6v-2h-2V8h2v2h2V6h-6"
-      }
+      },
+      []
     ]
   ]
 ];

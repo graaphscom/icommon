@@ -16,19 +16,22 @@ export var tableCellsSplit = [
       "path",
       {
         "d": "M12 15V9"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 15h18"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 9h18"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -38,7 +41,8 @@ export var tableCellsSplit = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

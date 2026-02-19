@@ -16,7 +16,8 @@ export var bxAlignHorizontalJustifyCenter = [
         "width": "6",
         "x": "15",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -27,13 +28,15 @@ export var bxAlignHorizontalJustifyCenter = [
         "width": "6",
         "x": "3",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M11 2H13V22H11z"
-      }
+      },
+      []
     ]
   ]
 ];

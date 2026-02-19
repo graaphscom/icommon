@@ -15,13 +15,15 @@ export var bxCardViewLarge = [
         "width": "20",
         "x": "2",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 20h16v2H4z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -19,7 +19,8 @@ export var factCheckOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -36,7 +37,8 @@ export var factCheckOutlined20px = [
               {
                 "d": "M16,4H4C3.45,4,3,4.45,3,5v10c0,0.55,0.45,1,1,1h12c0.55,0,1-0.45,1-1V5 C17,4.45,16.55,4,16,4z M16,15H4V5h12V15z",
                 "fillRule": "evenodd"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var factCheckOutlined20px = [
                 "width": "4",
                 "x": "5",
                 "y": "7"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -56,7 +59,8 @@ export var factCheckOutlined20px = [
                 "width": "4",
                 "x": "5",
                 "y": "9.5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -66,14 +70,16 @@ export var factCheckOutlined20px = [
                 "width": "4",
                 "x": "5",
                 "y": "12"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "fillRule": "evenodd",
                 "points": "11.97,11.77 14.8,8.94 14.1,8.23 11.97,10.35 11.27,9.65 10.56,10.35"
-              }
+              },
+              []
             ]
           ]
         ]

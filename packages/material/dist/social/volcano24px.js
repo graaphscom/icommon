@@ -18,7 +18,8 @@ export var volcano24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var volcano24px = [
                   "polygon",
                   {
                     "points": "18,8 11,8 9,13 6,13 2,22 22,22"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -53,7 +55,8 @@ export var volcano24px = [
                     "width": "2",
                     "x": "13",
                     "y": "1"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -69,7 +72,8 @@ export var volcano24px = [
                     "width": "4",
                     "x": "16.24",
                     "y": "3.76"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -85,7 +89,8 @@ export var volcano24px = [
                     "width": "2",
                     "x": "8.76",
                     "y": "2.76"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

@@ -20,7 +20,8 @@ export var alignHorizontalDistributeEnd = [
         "width": "6",
         "x": "4",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,19 +31,22 @@ export var alignHorizontalDistributeEnd = [
         "width": "6",
         "x": "14",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 2v20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M20 2v20"
-      }
+      },
+      []
     ]
   ]
 ];

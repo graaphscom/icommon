@@ -17,7 +17,8 @@ export var chevronBottom = [
       "path",
       {
         "d": "M30 12 L16 24 2 12"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -16,19 +16,22 @@ export var chartBarStacked = [
       "path",
       {
         "d": "M11 13v4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 5v4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 3v16a2 2 0 0 0 2 2h16"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -38,7 +41,8 @@ export var chartBarStacked = [
         "width": "9",
         "x": "7",
         "y": "13"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -48,7 +52,8 @@ export var chartBarStacked = [
         "width": "12",
         "x": "7",
         "y": "5"
-      }
+      },
+      []
     ]
   ]
 ];

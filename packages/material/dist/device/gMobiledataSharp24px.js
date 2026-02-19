@@ -17,7 +17,8 @@ export var gMobiledataSharp24px = [
           {
             "d": "M0,0h24v24H0V0z",
             "fill": "none"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -33,7 +34,8 @@ export var gMobiledataSharp24px = [
               "path",
               {
                 "d": "M12,11v2h2v2H9V9h7V7H7v10h9v-6H12z"
-              }
+              },
+              []
             ]
           ]
         ]

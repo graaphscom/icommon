@@ -11,7 +11,8 @@ export var bxOvalVertical = [
       "path",
       {
         "d": "M12 2A8 10 0 1 0 12 22 8 10 0 1 0 12 2z"
-      }
+      },
+      []
     ]
   ]
 ];

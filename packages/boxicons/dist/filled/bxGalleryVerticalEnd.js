@@ -15,13 +15,15 @@ export var bxGalleryVerticalEnd = [
         "width": "18",
         "x": "3",
         "y": "10"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 6h14v2H5zM7 2h10v2H7z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -10,7 +10,8 @@ export var bxHeading1 = [
       "path",
       {
         "d": "M4 13h5v4h2V7H9v4H4V7H2v10h2zM22 15h-3V7h-1.41l-3.3 3.29 1.42 1.42 1.29-1.3V15h-3v2h8z"
-      }
+      },
+      []
     ]
   ]
 ];

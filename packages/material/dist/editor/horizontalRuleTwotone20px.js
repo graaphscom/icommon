@@ -18,7 +18,8 @@ export var horizontalRuleTwotone20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ],
         [
           "rect",
@@ -27,7 +28,8 @@ export var horizontalRuleTwotone20px = [
             "width": "14",
             "x": "3",
             "y": "9"
-          }
+          },
+          []
         ]
       ]
     ]

@@ -13,7 +13,8 @@ export var slash = [
       {
         "d": "M5.46033 14H4.10779L9.46521 1H10.8177L5.46033 14Z",
         "fill": "currentColor"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -11,7 +11,8 @@ export var bxBuilding = [
       "path",
       {
         "d": "m6,22h12c.55,0,1-.45,1-1V4c0-1.1-.9-2-2-2H7c-1.1,0-2,.9-2,2v17c0,.55.45,1,1,1ZM13,6h2v2h-2v-2Zm0,4h2v2h-2v-2Zm0,4h2v2h-2v-2Zm-4-8h2v2h-2v-2Zm0,4h2v2h-2v-2Zm0,4h2v2h-2v-2Z"
-      }
+      },
+      []
     ]
   ]
 ];

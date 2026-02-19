@@ -15,7 +15,8 @@ export var bxGridPlus = [
         "width": "8",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var bxGridPlus = [
         "width": "8",
         "x": "13",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -37,13 +39,15 @@ export var bxGridPlus = [
         "width": "8",
         "x": "3",
         "y": "13"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M18 13h-2v3h-3v2h3v3h2v-3h3v-2h-3z"
-      }
+      },
+      []
     ]
   ]
 ];

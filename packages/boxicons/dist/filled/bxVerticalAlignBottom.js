@@ -11,7 +11,8 @@ export var bxVerticalAlignBottom = [
       "path",
       {
         "d": "M2 20H22V22H2z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -22,7 +23,8 @@ export var bxVerticalAlignBottom = [
         "width": "6",
         "x": "13",
         "y": "8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -33,7 +35,8 @@ export var bxVerticalAlignBottom = [
         "width": "6",
         "x": "5",
         "y": "2"
-      }
+      },
+      []
     ]
   ]
 ];

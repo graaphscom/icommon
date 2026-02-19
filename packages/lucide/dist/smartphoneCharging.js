@@ -21,13 +21,15 @@ export var smartphoneCharging = [
         "width": "14",
         "x": "5",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12.667 8 10 12h4l-2.667 4"
-      }
+      },
+      []
     ]
   ]
 ];

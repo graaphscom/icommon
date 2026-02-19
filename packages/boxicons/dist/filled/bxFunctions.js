@@ -10,7 +10,8 @@ export var bxFunctions = [
       "path",
       {
         "d": "M18 18H9.41l6-6-6-6H18V4H6v1.41L12.59 12 6 18.59V20h12z"
-      }
+      },
+      []
     ]
   ]
 ];

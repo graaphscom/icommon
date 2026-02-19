@@ -19,7 +19,8 @@ export var chartScatter = [
         "cy": "7.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -28,7 +29,8 @@ export var chartScatter = [
         "cy": "5.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -37,7 +39,8 @@ export var chartScatter = [
         "cy": "11.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -46,7 +49,8 @@ export var chartScatter = [
         "cy": "16.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -55,13 +59,15 @@ export var chartScatter = [
         "cy": "14.5",
         "fill": "currentColor",
         "r": ".5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 3v16a2 2 0 0 0 2 2h16"
-      }
+      },
+      []
     ]
   ]
 ];

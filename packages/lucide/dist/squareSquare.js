@@ -20,7 +20,8 @@ export var squareSquare = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var squareSquare = [
         "width": "8",
         "x": "8",
         "y": "8"
-      }
+      },
+      []
     ]
   ]
 ];

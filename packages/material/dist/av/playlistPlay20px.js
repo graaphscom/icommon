@@ -18,7 +18,8 @@ export var playlistPlay20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var playlistPlay20px = [
               "polygon",
               {
                 "points": "13,10.5 13,17 18,13.75"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -43,7 +45,8 @@ export var playlistPlay20px = [
                 "width": "9",
                 "x": "3",
                 "y": "5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -52,7 +55,8 @@ export var playlistPlay20px = [
                 "width": "6",
                 "x": "3",
                 "y": "11.25"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -61,7 +65,8 @@ export var playlistPlay20px = [
                 "width": "9",
                 "x": "3",
                 "y": "8.12"
-              }
+              },
+              []
             ]
           ]
         ]

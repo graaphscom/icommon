@@ -18,7 +18,8 @@ export var ampStoriesSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -26,10 +27,6 @@ export var ampStoriesSharp20px = [
       "g",
       {},
       [
-        [
-          "g",
-          {}
-        ],
         [
           "g",
           {},
@@ -41,7 +38,8 @@ export var ampStoriesSharp20px = [
                 "width": "8",
                 "x": "6",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -50,7 +48,8 @@ export var ampStoriesSharp20px = [
                 "width": "1",
                 "x": "3",
                 "y": "5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -59,7 +58,8 @@ export var ampStoriesSharp20px = [
                 "width": "1",
                 "x": "16",
                 "y": "5"
-              }
+              },
+              []
             ]
           ]
         ]

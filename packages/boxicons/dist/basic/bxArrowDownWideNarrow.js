@@ -11,25 +11,29 @@ export var bxArrowDownWideNarrow = [
       "path",
       {
         "d": "M10 4H22V6H10z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 8H19V10H10z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 12H16V14H10z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 16 8 16 8 2 6 2 6 16 2 16 7 22 12 16z"
-      }
+      },
+      []
     ]
   ]
 ];

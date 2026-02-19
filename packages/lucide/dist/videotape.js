@@ -20,13 +20,15 @@ export var videotape = [
         "width": "20",
         "x": "2",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 8h20"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -34,13 +36,15 @@ export var videotape = [
         "cx": "8",
         "cy": "14",
         "r": "2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 12h8"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -48,7 +52,8 @@ export var videotape = [
         "cx": "16",
         "cy": "14",
         "r": "2"
-      }
+      },
+      []
     ]
   ]
 ];

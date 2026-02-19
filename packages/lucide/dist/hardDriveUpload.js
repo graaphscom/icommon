@@ -16,13 +16,15 @@ export var hardDriveUpload = [
       "path",
       {
         "d": "m16 6-4-4-4 4"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M12 2v8"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -32,19 +34,22 @@ export var hardDriveUpload = [
         "width": "20",
         "x": "2",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 18h.01"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 18h.01"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -20,7 +20,8 @@ export var creditCard = [
         "width": "20",
         "x": "2",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -29,7 +30,8 @@ export var creditCard = [
         "x2": "22",
         "y1": "10",
         "y2": "10"
-      }
+      },
+      []
     ]
   ]
 ];

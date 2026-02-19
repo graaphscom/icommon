@@ -19,7 +19,8 @@ export var man3Outlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -35,7 +36,8 @@ export var man3Outlined20px = [
               "path",
               {
                 "d": "M11.5,7h-3C7.67,7,7,7.67,7,8.5V13h1.5v5h3v-5H13V8.5C13,7.67,12.33,7,11.5,7z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -45,7 +47,8 @@ export var man3Outlined20px = [
                 "width": "2.83",
                 "x": "8.59",
                 "y": "2.59"
-              }
+              },
+              []
             ]
           ]
         ]

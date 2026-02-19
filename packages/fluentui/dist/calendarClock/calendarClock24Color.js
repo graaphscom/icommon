@@ -13,14 +13,16 @@ export var calendarClock24Color = [
       {
         "d": "M21 7.5V17.75C21 19.5449 19.5449 21 17.75 21H6.25C4.45507 21 3 19.5449 3 17.75V7.5L12 6.5L21 7.5Z",
         "fill": "url(#paint0_linear_378174_9885)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21 7.5V17.75C21 19.5449 19.5449 21 17.75 21H6.25C4.45507 21 3 19.5449 3 17.75V7.5L12 6.5L21 7.5Z",
         "fill": "url(#paint1_linear_378174_9885)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -28,21 +30,24 @@ export var calendarClock24Color = [
         "d": "M21 7.5V17.75C21 19.5449 19.5449 21 17.75 21H6.25C4.45507 21 3 19.5449 3 17.75V7.5L12 6.5L21 7.5Z",
         "fill": "url(#paint2_radial_378174_9885)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17.75 3C19.5449 3 21 4.45507 21 6.25V8H3V6.25C3 4.45507 4.45507 3 6.25 3H17.75Z",
         "fill": "url(#paint3_linear_378174_9885)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17.5 12C20.5376 12 23 14.4624 23 17.5C23 20.5376 20.5376 23 17.5 23C14.4624 23 12 20.5376 12 17.5C12 14.4624 14.4624 12 17.5 12Z",
         "fill": "url(#paint4_linear_378174_9885)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -51,7 +56,8 @@ export var calendarClock24Color = [
         "d": "M17.5 14C17.7761 14 18 14.2239 18 14.5V17H20C20.2761 17 20.5 17.2239 20.5 17.5C20.5 17.7761 20.2761 18 20 18H17.5C17.2239 18 17 17.7761 17 17.5V14.5C17 14.2239 17.2239 14 17.5 14Z",
         "fill": "url(#paint5_linear_378174_9885)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -72,14 +78,16 @@ export var calendarClock24Color = [
               "stop",
               {
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#8CD0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -99,7 +107,8 @@ export var calendarClock24Color = [
               {
                 "stopColor": "#DCF8FF",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -107,7 +116,8 @@ export var calendarClock24Color = [
                 "offset": "1",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0.7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -127,7 +137,8 @@ export var calendarClock24Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -135,7 +146,8 @@ export var calendarClock24Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -154,14 +166,16 @@ export var calendarClock24Color = [
               "stop",
               {
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -180,14 +194,16 @@ export var calendarClock24Color = [
               "stop",
               {
                 "stopColor": "#1EC8B0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -206,14 +222,16 @@ export var calendarClock24Color = [
               "stop",
               {
                 "stopColor": "#FDFDFD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#D1D1FF"
-              }
+              },
+              []
             ]
           ]
         ]

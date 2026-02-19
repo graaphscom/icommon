@@ -20,7 +20,8 @@ export var alignEndVertical = [
         "width": "16",
         "x": "2",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,13 +31,15 @@ export var alignEndVertical = [
         "width": "9",
         "x": "9",
         "y": "14"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 22V2"
-      }
+      },
+      []
     ]
   ]
 ];

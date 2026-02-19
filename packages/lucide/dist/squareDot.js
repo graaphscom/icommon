@@ -20,7 +20,8 @@ export var squareDot = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -28,7 +29,8 @@ export var squareDot = [
         "cx": "12",
         "cy": "12",
         "r": "1"
-      }
+      },
+      []
     ]
   ]
 ];

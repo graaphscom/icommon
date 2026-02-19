@@ -18,7 +18,8 @@ export var deblurTwotone20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -36,7 +37,8 @@ export var deblurTwotone20px = [
                 "cx": "5.5",
                 "cy": "11.5",
                 "r": ".75"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -44,7 +46,8 @@ export var deblurTwotone20px = [
                 "cx": "5.5",
                 "cy": "14.5",
                 "r": ".75"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -52,7 +55,8 @@ export var deblurTwotone20px = [
                 "cx": "5.5",
                 "cy": "8.5",
                 "r": ".75"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -60,7 +64,8 @@ export var deblurTwotone20px = [
                 "cx": "3",
                 "cy": "8.5",
                 "r": ".5"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -68,7 +73,8 @@ export var deblurTwotone20px = [
                 "cx": "5.5",
                 "cy": "5.5",
                 "r": ".75"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -76,7 +82,8 @@ export var deblurTwotone20px = [
                 "cx": "3",
                 "cy": "11.5",
                 "r": ".5"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -84,7 +91,8 @@ export var deblurTwotone20px = [
                 "cx": "8.5",
                 "cy": "17",
                 "r": ".5"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -92,7 +100,8 @@ export var deblurTwotone20px = [
                 "cx": "8.5",
                 "cy": "3",
                 "r": ".5"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -100,7 +109,8 @@ export var deblurTwotone20px = [
                 "cx": "8.5",
                 "cy": "5.5",
                 "r": ".75"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -108,7 +118,8 @@ export var deblurTwotone20px = [
                 "cx": "8.5",
                 "cy": "11.5",
                 "r": "1"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -116,7 +127,8 @@ export var deblurTwotone20px = [
                 "cx": "8.5",
                 "cy": "8.5",
                 "r": "1"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -124,20 +136,23 @@ export var deblurTwotone20px = [
                 "cx": "8.5",
                 "cy": "14.5",
                 "r": ".75"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M10,3v1.5c3.03,0,5.5,2.47,5.5,5.5s-2.47,5.5-5.5,5.5V17c3.87,0,7-3.13,7-7C17,6.13,13.87,3,10,3z"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M10,4.5v11c3.04,0,5.5-2.46,5.5-5.5C15.5,6.96,13.04,4.5,10,4.5z",
                 "opacity": ".3"
-              }
+              },
+              []
             ]
           ]
         ]

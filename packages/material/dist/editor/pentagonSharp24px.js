@@ -18,7 +18,8 @@ export var pentagonSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var pentagonSharp24px = [
           "polygon",
           {
             "points": "2,9 6,21 18,21 22,9 12,2"
-          }
+          },
+          []
         ]
       ]
     ]

@@ -19,7 +19,8 @@ export var adUnitsSharp24px = [
             "height": "24",
             "width": "24",
             "x": "0"
-          }
+          },
+          []
         ],
         [
           "g",
@@ -29,7 +30,8 @@ export var adUnitsSharp24px = [
               "path",
               {
                 "d": "M19,1H5v22h14V1z M17,19H7V5h10V19z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -38,7 +40,8 @@ export var adUnitsSharp24px = [
                 "width": "8",
                 "x": "8",
                 "y": "6"
-              }
+              },
+              []
             ]
           ]
         ]

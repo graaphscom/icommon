@@ -20,7 +20,8 @@ export var alignEndHorizontal = [
         "width": "6",
         "x": "4",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,13 +31,15 @@ export var alignEndHorizontal = [
         "width": "6",
         "x": "14",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 22H2"
-      }
+      },
+      []
     ]
   ]
 ];

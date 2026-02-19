@@ -20,19 +20,22 @@ export var alignVerticalSpaceAround = [
         "width": "10",
         "x": "7",
         "y": "9"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 20H2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 4H2"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -17,7 +17,8 @@ export var offlineShareSharp24px = [
           {
             "d": "M0,0h24v24H0V0z",
             "fill": "none"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var offlineShareSharp24px = [
                   "polygon",
                   {
                     "points": "6,5 4,5 4,23 16,23 16,21 6,21"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -49,7 +51,8 @@ export var offlineShareSharp24px = [
                   "path",
                   {
                     "d": "M20,1H8v18h12V1z M18,15h-8V5h8V15z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -61,7 +64,8 @@ export var offlineShareSharp24px = [
                   "polygon",
                   {
                     "points": "12.5,10.25 14.5,10.25 14.5,12 17,9.5 14.5,7 14.5,8.75 11,8.75 11,12 12.5,12"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

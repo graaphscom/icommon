@@ -18,7 +18,8 @@ export var wifi1BarSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var wifi1BarSharp20px = [
               "path",
               {
                 "d": "M10,13c1.12,0,2.12,0.42,2.91,1.09L10,17l-2.91-2.91C7.88,13.42,8.88,13,10,13z"
-              }
+              },
+              []
             ]
           ]
         ]

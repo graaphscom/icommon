@@ -18,7 +18,8 @@ export var man4Sharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var man4Sharp24px = [
               "polygon",
               {
                 "points": "7.96,7 10,22 14,22 16.04,7"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -42,7 +44,8 @@ export var man4Sharp24px = [
                 "cx": "12",
                 "cy": "4",
                 "r": "2"
-              }
+              },
+              []
             ]
           ]
         ]

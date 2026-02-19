@@ -18,7 +18,8 @@ export var personAddAlt1Sharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var personAddAlt1Sharp20px = [
               "path",
               {
                 "d": "M8,11c2,0,6,0.96,6,2.86V16H2v-2.14C2,11.96,6,11,8,11z"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -42,13 +44,15 @@ export var personAddAlt1Sharp20px = [
                 "cx": "8",
                 "cy": "7",
                 "r": "3"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "13,10 13,9 15,9 15,7 16,7 16,9 18,9 18,10 16,10 16,12 15,12 15,10"
-              }
+              },
+              []
             ]
           ]
         ]

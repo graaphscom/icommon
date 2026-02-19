@@ -19,7 +19,8 @@ export var gavel24px = [
             "height": "24",
             "width": "24",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -39,7 +40,8 @@ export var gavel24px = [
                 "width": "4",
                 "x": "11.73",
                 "y": "3.73"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -49,7 +51,8 @@ export var gavel24px = [
                 "width": "4",
                 "x": "11.73",
                 "y": "1.24"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -59,7 +62,8 @@ export var gavel24px = [
                 "width": "4",
                 "x": "3.24",
                 "y": "9.73"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -68,7 +72,8 @@ export var gavel24px = [
                 "width": "12",
                 "x": "1",
                 "y": "21"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -16,7 +16,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".05"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -26,7 +27,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".1"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -36,7 +38,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".15"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -46,7 +49,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".2"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -56,7 +60,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".25"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -66,7 +71,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -76,7 +82,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".35"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -86,7 +93,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".4"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -96,7 +104,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".45"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -106,7 +115,8 @@ export var shadow = [
         "fill": "currentColor",
         "fillRule": "evenodd",
         "opacity": ".5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -115,7 +125,8 @@ export var shadow = [
         "d": "M0.877045 7.49988C0.877045 3.84219 3.84219 0.877045 7.49988 0.877045C11.1575 0.877045 14.1227 3.84219 14.1227 7.49988C14.1227 11.1575 11.1575 14.1227 7.49988 14.1227C3.84219 14.1227 0.877045 11.1575 0.877045 7.49988ZM7.49988 1.82704C4.36686 1.82704 1.82704 4.36686 1.82704 7.49988C1.82704 10.6329 4.36686 13.1727 7.49988 13.1727C10.6329 13.1727 13.1727 10.6329 13.1727 7.49988C13.1727 4.36686 10.6329 1.82704 7.49988 1.82704Z",
         "fill": "currentColor",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

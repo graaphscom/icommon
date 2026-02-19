@@ -13,42 +13,48 @@ export var appsListDetail32Color = [
       {
         "d": "M15 6C14.4477 6 14 6.44772 14 7C14 7.55228 14.4477 8 15 8H29C29.5523 8 30 7.55228 30 7C30 6.44772 29.5523 6 29 6H15Z",
         "fill": "url(#paint0_linear_72095_11862)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 19C14.4477 19 14 19.4477 14 20C14 20.5523 14.4477 21 15 21H29C29.5523 21 30 20.5523 30 20C30 19.4477 29.5523 19 29 19H15Z",
         "fill": "url(#paint1_linear_72095_11862)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M14 11C14 10.4477 14.4477 10 15 10H24C24.5523 10 25 10.4477 25 11C25 11.5523 24.5523 12 24 12H15C14.4477 12 14 11.5523 14 11Z",
         "fill": "url(#paint2_linear_72095_11862)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M15 23C14.4477 23 14 23.4477 14 24C14 24.5523 14.4477 25 15 25H24C24.5523 25 25 24.5523 25 24C25 23.4477 24.5523 23 24 23H15Z",
         "fill": "url(#paint3_linear_72095_11862)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 8C2 6.34315 3.34315 5 5 5H8C9.65685 5 11 6.34315 11 8V11C11 12.6569 9.65685 14 8 14H5C3.34315 14 2 12.6569 2 11V8Z",
         "fill": "url(#paint4_linear_72095_11862)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5 18C3.34315 18 2 19.3431 2 21V24C2 25.6569 3.34315 27 5 27H8C9.65685 27 11 25.6569 11 24V21C11 19.3431 9.65685 18 8 18H5Z",
         "fill": "url(#paint5_linear_72095_11862)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -69,14 +75,16 @@ export var appsListDetail32Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -95,14 +103,16 @@ export var appsListDetail32Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -121,14 +131,16 @@ export var appsListDetail32Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -147,14 +159,16 @@ export var appsListDetail32Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -174,14 +188,16 @@ export var appsListDetail32Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -201,14 +217,16 @@ export var appsListDetail32Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -20,7 +20,8 @@ export var ungroup = [
         "width": "8",
         "x": "5",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var ungroup = [
         "width": "8",
         "x": "11",
         "y": "14"
-      }
+      },
+      []
     ]
   ]
 ];

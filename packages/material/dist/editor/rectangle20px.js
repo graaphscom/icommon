@@ -18,7 +18,8 @@ export var rectangle20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -33,7 +34,8 @@ export var rectangle20px = [
             "width": "16",
             "x": "2",
             "y": "4"
-          }
+          },
+          []
         ]
       ]
     ]

@@ -18,7 +18,8 @@ export var postAddSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -28,23 +29,21 @@ export var postAddSharp20px = [
       [
         [
           "g",
-          {}
-        ],
-        [
-          "g",
           {},
           [
             [
               "polygon",
               {
                 "points": "14,15 5,15 5,6 11,6 11,5 4,5 4,16 15,16 15,9 14,9"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "7,8 7,9 11,9 12,9 12,8"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -53,7 +52,8 @@ export var postAddSharp20px = [
                 "width": "5",
                 "x": "7",
                 "y": "10"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -62,13 +62,15 @@ export var postAddSharp20px = [
                 "width": "5",
                 "x": "7",
                 "y": "12"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "15,3 14,3 14,5 12,5 12,6 14,6 14,8 15,8 15,6 17,6 17,5 15,5"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -18,7 +18,8 @@ export var man2Sharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -40,13 +41,15 @@ export var man2Sharp20px = [
                     "cx": "10",
                     "cy": "3.75",
                     "r": "1.75"
-                  }
+                  },
+                  []
                 ],
                 [
                   "path",
                   {
                     "d": "M13,7H7v6h2v5h2v-5h2V7z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

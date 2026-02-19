@@ -18,7 +18,8 @@ export var windowSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -41,7 +42,8 @@ export var windowSharp20px = [
                     "width": "6.25",
                     "x": "3",
                     "y": "3"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -56,7 +58,8 @@ export var windowSharp20px = [
                     "width": "6.25",
                     "x": "10.75",
                     "y": "3"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -71,7 +74,8 @@ export var windowSharp20px = [
                     "width": "6.25",
                     "x": "10.75",
                     "y": "10.75"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -86,7 +90,8 @@ export var windowSharp20px = [
                     "width": "6.25",
                     "x": "3",
                     "y": "10.75"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

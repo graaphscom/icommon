@@ -15,7 +15,8 @@ export var symbolConstant = [
         "d": "M4 6H12V7H4V6ZM12 9H4V10H12V9Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -24,7 +25,8 @@ export var symbolConstant = [
         "d": "M1 4L2 3H14L15 4V12L14 13H2L1 12V4ZM2 4V12H14V4H2Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

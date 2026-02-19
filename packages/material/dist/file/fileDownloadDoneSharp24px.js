@@ -18,7 +18,8 @@ export var fileDownloadDoneSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var fileDownloadDoneSharp24px = [
               "polygon",
               {
                 "points": "20.13,5.41 18.72,4 9.53,13.19 5.28,8.95 3.87,10.36 9.53,16.02"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -43,7 +45,8 @@ export var fileDownloadDoneSharp24px = [
                 "width": "14",
                 "x": "5",
                 "y": "18"
-              }
+              },
+              []
             ]
           ]
         ]

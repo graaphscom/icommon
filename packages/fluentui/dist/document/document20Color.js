@@ -13,7 +13,8 @@ export var document20Color = [
       {
         "d": "M10 2L12 6L16 8V16.5C16 17.3284 15.3284 18 14.5 18H5.5C4.67157 18 4 17.3284 4 16.5V3.5C4 2.67157 4.67157 2 5.5 2H10Z",
         "fill": "url(#paint0_linear_378174_8716)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,14 +22,16 @@ export var document20Color = [
         "d": "M10 2L12 6L16 8V16.5C16 17.3284 15.3284 18 14.5 18H5.5C4.67157 18 4 17.3284 4 16.5V3.5C4 2.67157 4.67157 2 5.5 2H10Z",
         "fill": "url(#paint1_radial_378174_8716)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10.01 6.5V2L16.01 8H11.51C10.6816 8 10.01 7.32843 10.01 6.5Z",
         "fill": "url(#paint2_linear_378174_8716)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -49,14 +52,16 @@ export var document20Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -76,7 +81,8 @@ export var document20Color = [
               {
                 "offset": "0.362364",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -84,7 +90,8 @@ export var document20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -103,14 +110,16 @@ export var document20Color = [
               "stop",
               {
                 "stopColor": "#9FF0F9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ]

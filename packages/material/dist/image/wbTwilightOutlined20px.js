@@ -18,7 +18,8 @@ export var wbTwilightOutlined20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var wbTwilightOutlined20px = [
                 "width": "16",
                 "x": "2",
                 "y": "14.5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var wbTwilightOutlined20px = [
                 "width": "1.5",
                 "x": "9.25",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -56,7 +59,8 @@ export var wbTwilightOutlined20px = [
                 "width": "2.5",
                 "x": "14.16",
                 "y": "5.91"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -66,13 +70,15 @@ export var wbTwilightOutlined20px = [
                 "width": "1.5",
                 "x": "3.78",
                 "y": "5.41"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M10,7c-3.31,0-6,2.69-6,6h12C16,9.69,13.31,7,10,7z"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -18,7 +18,8 @@ export var densitySmallTwotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var densitySmallTwotone24px = [
                 "width": "18",
                 "x": "3",
                 "y": "2"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var densitySmallTwotone24px = [
                 "width": "18",
                 "x": "3",
                 "y": "20"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +58,8 @@ export var densitySmallTwotone24px = [
                 "width": "18",
                 "x": "3",
                 "y": "14"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -64,7 +68,8 @@ export var densitySmallTwotone24px = [
                 "width": "18",
                 "x": "3",
                 "y": "8"
-              }
+              },
+              []
             ]
           ]
         ]

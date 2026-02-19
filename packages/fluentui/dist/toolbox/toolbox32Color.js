@@ -13,35 +13,40 @@ export var toolbox32Color = [
       {
         "d": "M9 6.25C9 4.45507 10.4551 3 12.25 3H19.75C21.5449 3 23 4.45507 23 6.25V8.5H21V6.25C21 5.55964 20.4404 5 19.75 5H12.25C11.5596 5 11 5.55964 11 6.25V8.5H9V6.25Z",
         "fill": "url(#paint0_linear_72095_8106)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M5.25 28C3.45507 28 2 26.5449 2 24.75V15.5H30V24.75C30 26.5449 28.5449 28 26.75 28H5.25Z",
         "fill": "url(#paint1_linear_72095_8106)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 11.25C2 9.45507 3.45507 8 5.25 8H26.75C28.5449 8 30 9.45508 30 11.25V16H2V11.25Z",
         "fill": "url(#paint2_linear_72095_8106)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 13C22.5523 13 23 13.4477 23 14V18C23 18.5523 22.5523 19 22 19C21.4477 19 21 18.5523 21 18V14C21 13.4477 21.4477 13 22 13Z",
         "fill": "url(#paint3_linear_72095_8106)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 13C10.5523 13 11 13.4477 11 14V18C11 18.5523 10.5523 19 10 19C9.44772 19 9 18.5523 9 18V14C9 13.4477 9.44772 13 10 13Z",
         "fill": "url(#paint4_linear_72095_8106)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -62,14 +67,16 @@ export var toolbox32Color = [
               "stop",
               {
                 "stopColor": "#B9C0C7"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -89,14 +96,16 @@ export var toolbox32Color = [
               {
                 "offset": "0.124704",
                 "stopColor": "#F97DBD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#D7257D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -115,14 +124,16 @@ export var toolbox32Color = [
               "stop",
               {
                 "stopColor": "#F97DBD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#D7257D"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -141,14 +152,16 @@ export var toolbox32Color = [
               "stop",
               {
                 "stopColor": "#EFEFEF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DADADA"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -167,14 +180,16 @@ export var toolbox32Color = [
               "stop",
               {
                 "stopColor": "#EFEFEF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#DADADA"
-              }
+              },
+              []
             ]
           ]
         ]

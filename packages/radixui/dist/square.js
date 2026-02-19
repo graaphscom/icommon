@@ -13,7 +13,8 @@ export var square = [
       {
         "d": "M14 14H1V1H14V14ZM2 13H13V2H2V13Z",
         "fill": "currentColor"
-      }
+      },
+      []
     ]
   ]
 ];

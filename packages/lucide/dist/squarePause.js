@@ -20,7 +20,8 @@ export var squarePause = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -29,7 +30,8 @@ export var squarePause = [
         "x2": "10",
         "y1": "15",
         "y2": "9"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -38,7 +40,8 @@ export var squarePause = [
         "x2": "14",
         "y1": "15",
         "y2": "9"
-      }
+      },
+      []
     ]
   ]
 ];

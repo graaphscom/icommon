@@ -20,7 +20,8 @@ export var ratio = [
         "width": "12",
         "x": "6",
         "y": "2"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var ratio = [
         "width": "20",
         "x": "2",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

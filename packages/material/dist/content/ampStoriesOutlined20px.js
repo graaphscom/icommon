@@ -19,7 +19,8 @@ export var ampStoriesOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -29,17 +30,14 @@ export var ampStoriesOutlined20px = [
       [
         [
           "g",
-          {}
-        ],
-        [
-          "g",
           {},
           [
             [
               "path",
               {
                 "d": "M6,15h8V4H6V15z M7,5h6v9H7V5z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -48,7 +46,8 @@ export var ampStoriesOutlined20px = [
                 "width": "1",
                 "x": "3",
                 "y": "5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -57,7 +56,8 @@ export var ampStoriesOutlined20px = [
                 "width": "1",
                 "x": "16",
                 "y": "5"
-              }
+              },
+              []
             ]
           ]
         ]

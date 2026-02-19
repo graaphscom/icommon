@@ -12,13 +12,15 @@ export var turnedInSharp24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M19 3H5v18l7-3 7 3V3z"
-      }
+      },
+      []
     ]
   ]
 ];

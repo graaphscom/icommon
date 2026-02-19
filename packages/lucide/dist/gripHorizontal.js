@@ -18,7 +18,8 @@ export var gripHorizontal = [
         "cx": "12",
         "cy": "9",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -26,7 +27,8 @@ export var gripHorizontal = [
         "cx": "19",
         "cy": "9",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -34,7 +36,8 @@ export var gripHorizontal = [
         "cx": "5",
         "cy": "9",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -42,7 +45,8 @@ export var gripHorizontal = [
         "cx": "12",
         "cy": "15",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -50,7 +54,8 @@ export var gripHorizontal = [
         "cx": "19",
         "cy": "15",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -58,7 +63,8 @@ export var gripHorizontal = [
         "cx": "5",
         "cy": "15",
         "r": "1"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -18,7 +18,8 @@ export var qrCodeTwotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "17",
                 "y": "15"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -48,7 +50,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "15",
                 "y": "17"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -58,7 +61,8 @@ export var qrCodeTwotone24px = [
                 "width": "4",
                 "x": "5",
                 "y": "15"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -68,7 +72,8 @@ export var qrCodeTwotone24px = [
                 "width": "4",
                 "x": "5",
                 "y": "5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -78,25 +83,29 @@ export var qrCodeTwotone24px = [
                 "width": "4",
                 "x": "15",
                 "y": "5"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M3,11h8V3H3V11z M5,5h4v4H5V5z"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M3,21h8v-8H3V21z M5,15h4v4H5V15z"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M13,3v8h8V3H13z M19,9h-4V5h4V9z"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -105,7 +114,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "19",
                 "y": "19"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -114,7 +124,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "13",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -123,7 +134,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "15",
                 "y": "15"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -132,7 +144,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "13",
                 "y": "17"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -141,7 +154,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "15",
                 "y": "19"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -150,7 +164,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "17",
                 "y": "17"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -159,7 +174,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "17",
                 "y": "13"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -168,7 +184,8 @@ export var qrCodeTwotone24px = [
                 "width": "2",
                 "x": "19",
                 "y": "15"
-              }
+              },
+              []
             ]
           ]
         ]

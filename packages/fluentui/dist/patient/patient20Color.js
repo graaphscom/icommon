@@ -13,28 +13,32 @@ export var patient20Color = [
       {
         "d": "M4 4C4 2.89543 4.89543 2 6 2H14C15.1046 2 16 2.89543 16 4V12.5H4V4Z",
         "fill": "url(#paint0_linear_72095_8412)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 12.5V10C7 9.44772 7.44772 9 8 9H12C12.5523 9 13 9.44772 13 10V12.5H7Z",
         "fill": "url(#paint1_linear_72095_8412)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 4C8.89543 4 8 4.89543 8 6C8 7.10457 8.89543 8 10 8C11.1046 8 12 7.10457 12 6C12 4.89543 11.1046 4 10 4Z",
         "fill": "url(#paint2_linear_72095_8412)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M4 12H16V16C16 17.1046 15.1046 18 14 18H6C4.89543 18 4 17.1046 4 16V12Z",
         "fill": "url(#paint3_linear_72095_8412)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -42,14 +46,16 @@ export var patient20Color = [
         "d": "M4 12H16V16C16 17.1046 15.1046 18 14 18H6C4.89543 18 4 17.1046 4 16V12Z",
         "fill": "url(#paint4_linear_72095_8412)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6.5 14.5C6.22386 14.5 6 14.7239 6 15C6 15.2761 6.22386 15.5 6.5 15.5H13.5C13.7761 15.5 14 15.2761 14 15C14 14.7239 13.7761 14.5 13.5 14.5H6.5Z",
         "fill": "url(#paint5_linear_72095_8412)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -70,14 +76,16 @@ export var patient20Color = [
               "stop",
               {
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#8CD0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -97,14 +105,16 @@ export var patient20Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -124,14 +134,16 @@ export var patient20Color = [
               {
                 "offset": "0.125321",
                 "stopColor": "#9C6CFE"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#7A41DC"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -150,14 +162,16 @@ export var patient20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -178,14 +192,16 @@ export var patient20Color = [
                 "offset": "0.618682",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF6CE8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -204,14 +220,16 @@ export var patient20Color = [
               "stop",
               {
                 "stopColor": "white"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ]

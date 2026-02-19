@@ -18,7 +18,8 @@ export var windowRound20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var windowRound20px = [
                   "path",
                   {
                     "d": "M9.25 9.25V3H4.5C3.67 3 3 3.67 3 4.5v4.75h6.25z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var windowRound20px = [
                   "path",
                   {
                     "d": "M10.75 9.25H17V4.5c0-.83-.67-1.5-1.5-1.5h-4.75v6.25z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -62,7 +65,8 @@ export var windowRound20px = [
                   "path",
                   {
                     "d": "M10.75 10.75V17h4.75c.83 0 1.5-.67 1.5-1.5v-4.75h-6.25z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -74,7 +78,8 @@ export var windowRound20px = [
                   "path",
                   {
                     "d": "M9.25 10.75H3v4.75c0 .83.67 1.5 1.5 1.5h4.75v-6.25z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

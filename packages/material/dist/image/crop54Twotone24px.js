@@ -18,7 +18,8 @@ export var crop54Twotone24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var crop54Twotone24px = [
                   "path",
                   {
                     "d": "M19,4H5C3.9,4,3,4.9,3,6v12c0,1.1,0.9,2,2,2h14c1.1,0,2-0.9,2-2V6C21,4.9,20.1,4,19,4z M19,18H5V6h14V18z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

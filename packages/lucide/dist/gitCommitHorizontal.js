@@ -18,7 +18,8 @@ export var gitCommitHorizontal = [
         "cx": "12",
         "cy": "12",
         "r": "3"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -27,7 +28,8 @@ export var gitCommitHorizontal = [
         "x2": "9",
         "y1": "12",
         "y2": "12"
-      }
+      },
+      []
     ],
     [
       "line",
@@ -36,7 +38,8 @@ export var gitCommitHorizontal = [
         "x2": "21",
         "y1": "12",
         "y2": "12"
-      }
+      },
+      []
     ]
   ]
 ];

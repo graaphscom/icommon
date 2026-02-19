@@ -12,13 +12,15 @@ export var webAssetSharp24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 4v16h18V4H3zm16 14H5V8h14v10z"
-      }
+      },
+      []
     ]
   ]
 ];

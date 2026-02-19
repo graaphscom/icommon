@@ -11,7 +11,8 @@ export var bxDockBottomRight = [
       "path",
       {
         "d": "m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-14,2h9v9H5V5Zm14,14H5v-3h14v3Zm0-5h-3V5h3v9Z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -15,13 +15,15 @@ export var bxGalleryThumbnails = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M10 19h4v2h-4zM4 19h4v2H4zM16 19h4v2h-4z"
-      }
+      },
+      []
     ]
   ]
 ];

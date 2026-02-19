@@ -20,13 +20,15 @@ export var betweenVerticalEnd = [
         "width": "7",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m9 22 3-3 3 3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -36,7 +38,8 @@ export var betweenVerticalEnd = [
         "width": "7",
         "x": "14",
         "y": "3"
-      }
+      },
+      []
     ]
   ]
 ];

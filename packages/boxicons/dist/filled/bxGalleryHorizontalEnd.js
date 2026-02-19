@@ -15,13 +15,15 @@ export var bxGalleryHorizontalEnd = [
         "width": "12",
         "x": "10",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M6 5h2v14H6zM2 7h2v10H2z"
-      }
+      },
+      []
     ]
   ]
 ];

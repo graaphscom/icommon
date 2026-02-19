@@ -10,7 +10,8 @@ export var bxCaretRightCircle = [
       "path",
       {
         "d": "M12 2C6.49 2 2 6.49 2 12s4.49 10 10 10 10-4.49 10-10S17.51 2 12 2m-2 15V7l6 5z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -10,7 +10,8 @@ export var bxMoveHorizontal = [
       "path",
       {
         "d": "M7 13h10v4l5-5-5-5v4H7V7l-5 5 5 5z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -14,7 +14,8 @@ export var viewColumnTwotone20px = [
         "fill": "none",
         "height": "20",
         "width": "20"
-      }
+      },
+      []
     ],
     [
       "g",
@@ -26,7 +27,8 @@ export var viewColumnTwotone20px = [
           "path",
           {
             "d": "M7.17,13.5H4.5v-7h2.67V13.5z M11.33,13.5H8.67v-7h2.67V13.5z M15.5,13.5h-2.67v-7h2.67V13.5z"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +40,8 @@ export var viewColumnTwotone20px = [
           "path",
           {
             "d": "M3,5v10h14V5H3z M7.17,13.5H4.5v-7h2.67V13.5z M11.33,13.5H8.67v-7h2.67V13.5z M15.5,13.5h-2.67v-7h2.67V13.5z"
-          }
+          },
+          []
         ]
       ]
     ]

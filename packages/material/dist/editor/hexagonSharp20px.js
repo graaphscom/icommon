@@ -18,7 +18,8 @@ export var hexagonSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var hexagonSharp20px = [
           "polygon",
           {
             "points": "6,3 2,10 6,17 14,17 18,10 14,3"
-          }
+          },
+          []
         ]
       ]
     ]

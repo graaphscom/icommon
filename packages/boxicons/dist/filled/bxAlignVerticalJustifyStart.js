@@ -16,7 +16,8 @@ export var bxAlignVerticalJustifyStart = [
         "width": "10",
         "x": "7",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -27,13 +28,15 @@ export var bxAlignVerticalJustifyStart = [
         "width": "16",
         "x": "4",
         "y": "15"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 3H22V5H2z"
-      }
+      },
+      []
     ]
   ]
 ];

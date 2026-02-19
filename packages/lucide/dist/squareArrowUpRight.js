@@ -20,19 +20,22 @@ export var squareArrowUpRight = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M8 8h8v8"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m8 16 8-8"
-      }
+      },
+      []
     ]
   ]
 ];

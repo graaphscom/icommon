@@ -18,7 +18,8 @@ export var manSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -36,13 +37,15 @@ export var manSharp20px = [
                 "cx": "10",
                 "cy": "3.75",
                 "r": "1.75"
-              }
+              },
+              []
             ],
             [
               "polygon",
               {
                 "points": "13,7 7,7 7,13 8.5,13 8.5,18 11.5,18 11.5,13 13,13"
-              }
+              },
+              []
             ]
           ]
         ]

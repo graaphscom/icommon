@@ -9,7 +9,8 @@ export var borderAlt = [
       "path",
       {
         "d": "M3.5 20.5a1 1 0 0 1-1-1v-16a1 1 0 0 1 1-1h16a1 1 0 0 1 0 2h-15v15a1 1 0 0 1-1 1Z"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -17,7 +18,8 @@ export var borderAlt = [
         "cx": "19.5",
         "cy": "11.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -25,7 +27,8 @@ export var borderAlt = [
         "cx": "19.5",
         "cy": "7.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -33,7 +36,8 @@ export var borderAlt = [
         "cx": "19.5",
         "cy": "15.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -41,7 +45,8 @@ export var borderAlt = [
         "cx": "7.5",
         "cy": "19.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -49,7 +54,8 @@ export var borderAlt = [
         "cx": "11.5",
         "cy": "19.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -57,7 +63,8 @@ export var borderAlt = [
         "cx": "15.5",
         "cy": "19.5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -65,7 +72,8 @@ export var borderAlt = [
         "cx": "19.5",
         "cy": "19.5",
         "r": "1"
-      }
+      },
+      []
     ]
   ]
 ];

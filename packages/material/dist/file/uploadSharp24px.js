@@ -12,13 +12,15 @@ export var uploadSharp24px = [
       {
         "d": "M0 0h24v24H0V0z",
         "fill": "none"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9 16h6v-6h4l-7-7-7 7h4v6zm-4 2h14v2H5v-2z"
-      }
+      },
+      []
     ]
   ]
 ];

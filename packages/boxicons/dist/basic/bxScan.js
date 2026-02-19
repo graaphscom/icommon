@@ -10,7 +10,8 @@ export var bxScan = [
       "path",
       {
         "d": "M9 5V3H3v6h2V5zM21 9V3h-6v2h4v4zM19 19h-4v2h6v-6h-2zM5 15H3v6h6v-2H5zM2 11h20v2H2z"
-      }
+      },
+      []
     ]
   ]
 ];

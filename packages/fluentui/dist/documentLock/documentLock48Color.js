@@ -13,7 +13,8 @@ export var documentLock48Color = [
       {
         "d": "M11 43H37C38.6569 43 40 41.6569 40 40V18L30 14L26 4H11C9.34315 4 8 5.34315 8 7V40C8 41.6569 9.34315 43 11 43Z",
         "fill": "url(#paint0_linear_378174_8816)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -21,7 +22,8 @@ export var documentLock48Color = [
         "d": "M11 43H37C38.6569 43 40 41.6569 40 40V18L30 14L26 4H11C9.34315 4 8 5.34315 8 7V40C8 41.6569 9.34315 43 11 43Z",
         "fill": "url(#paint1_radial_378174_8816)",
         "fillOpacity": "0.5"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,7 +31,8 @@ export var documentLock48Color = [
         "d": "M11 43H37C38.6569 43 40 41.6569 40 40V18L30 14L26 4H11C9.34315 4 8 5.34315 8 7V40C8 41.6569 9.34315 43 11 43Z",
         "fill": "url(#paint2_radial_378174_8816)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -37,7 +40,8 @@ export var documentLock48Color = [
         "d": "M11 43H37C38.6569 43 40 41.6569 40 40V18L30 14L26 4H11C9.34315 4 8 5.34315 8 7V40C8 41.6569 9.34315 43 11 43Z",
         "fill": "url(#paint3_radial_378174_8816)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -45,14 +49,16 @@ export var documentLock48Color = [
         "d": "M11 43H37C38.6569 43 40 41.6569 40 40V18L30 14L26 4H11C9.34315 4 8 5.34315 8 7V40C8 41.6569 9.34315 43 11 43Z",
         "fill": "url(#paint4_radial_378174_8816)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M26 15V4L40 18H29C27.3431 18 26 16.6569 26 15Z",
         "fill": "url(#paint5_linear_378174_8816)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -61,14 +67,16 @@ export var documentLock48Color = [
         "d": "M8 30V29C8 26.2386 10.2386 24 13 24C15.7614 24 18 26.2386 18 29V30H19C20.6569 30 22 31.3431 22 33V43C22 44.6569 20.6569 46 19 46H7C5.34315 46 4 44.6569 4 43V33C4 31.3431 5.34315 30 7 30H8ZM10.5 29C10.5 27.6193 11.6193 26.5 13 26.5C14.3807 26.5 15.5 27.6193 15.5 29V30H10.5V29Z",
         "fill": "url(#paint6_linear_378174_8816)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16 38C16 39.6569 14.6569 41 13 41C11.3431 41 10 39.6569 10 38C10 36.3431 11.3431 35 13 35C14.6569 35 16 36.3431 16 38Z",
         "fill": "#944600"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -89,14 +97,16 @@ export var documentLock48Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -116,7 +126,8 @@ export var documentLock48Color = [
               {
                 "offset": "0.362364",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -124,7 +135,8 @@ export var documentLock48Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -144,7 +156,8 @@ export var documentLock48Color = [
               {
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0.4"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -152,7 +165,8 @@ export var documentLock48Color = [
                 "offset": "0.5",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0.2"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -160,7 +174,8 @@ export var documentLock48Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -180,7 +195,8 @@ export var documentLock48Color = [
               {
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0.5"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -188,7 +204,8 @@ export var documentLock48Color = [
                 "offset": "0.731251",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0.05"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -196,7 +213,8 @@ export var documentLock48Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -216,7 +234,8 @@ export var documentLock48Color = [
               {
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -224,7 +243,8 @@ export var documentLock48Color = [
                 "offset": "0.619792",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0.5"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -232,7 +252,8 @@ export var documentLock48Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -251,14 +272,16 @@ export var documentLock48Color = [
               "stop",
               {
                 "stopColor": "#9FF0F9"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#B3E0FF"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -277,14 +300,16 @@ export var documentLock48Color = [
               "stop",
               {
                 "stopColor": "#FF6F47"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFD638"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -16,7 +16,8 @@ export var chartColumnBig = [
       "path",
       {
         "d": "M3 3v16a2 2 0 0 0 2 2h16"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var chartColumnBig = [
         "width": "4",
         "x": "15",
         "y": "5"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -36,7 +38,8 @@ export var chartColumnBig = [
         "width": "4",
         "x": "7",
         "y": "8"
-      }
+      },
+      []
     ]
   ]
 ];

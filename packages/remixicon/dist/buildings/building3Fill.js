@@ -10,7 +10,8 @@ export var building3Fill = [
       "path",
       {
         "d": "M10 10.1111V1L21 7V21H3V7L10 10.1111Z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -11,31 +11,36 @@ export var bxParagraphSpacing = [
       "path",
       {
         "d": "M2 8H15V10H2z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 4H15V6H2z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 12H15V14H2z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M22 22 22 14 17 18 22 22z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 16H15V20H2z"
-      }
+      },
+      []
     ]
   ]
 ];

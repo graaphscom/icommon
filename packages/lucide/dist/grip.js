@@ -18,7 +18,8 @@ export var grip = [
         "cx": "12",
         "cy": "5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -26,7 +27,8 @@ export var grip = [
         "cx": "19",
         "cy": "5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -34,7 +36,8 @@ export var grip = [
         "cx": "5",
         "cy": "5",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -42,7 +45,8 @@ export var grip = [
         "cx": "12",
         "cy": "12",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -50,7 +54,8 @@ export var grip = [
         "cx": "19",
         "cy": "12",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -58,7 +63,8 @@ export var grip = [
         "cx": "5",
         "cy": "12",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -66,7 +72,8 @@ export var grip = [
         "cx": "12",
         "cy": "19",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -74,7 +81,8 @@ export var grip = [
         "cx": "19",
         "cy": "19",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -82,7 +90,8 @@ export var grip = [
         "cx": "5",
         "cy": "19",
         "r": "1"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -18,7 +18,8 @@ export var hardware20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var hardware20px = [
                   "path",
                   {
                     "d": "M8,15c0,0.55,0.45,1,1,1h2c0.55,0,1-0.45,1-1v-5H8V15z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var hardware20px = [
                   "path",
                   {
                     "d": "M14,4l-2,2V4H8C6.34,4,5,5.34,5,7h3v2h4V7l2,2h1V4H14z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

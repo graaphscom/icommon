@@ -18,7 +18,8 @@ export var rectangle24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var rectangle24px = [
                 "width": "20",
                 "x": "2",
                 "y": "4"
-              }
+              },
+              []
             ]
           ]
         ]

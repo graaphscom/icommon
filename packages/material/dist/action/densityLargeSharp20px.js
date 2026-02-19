@@ -18,7 +18,8 @@ export var densityLargeSharp20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var densityLargeSharp20px = [
                 "width": "14",
                 "x": "3",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var densityLargeSharp20px = [
                 "width": "14",
                 "x": "3",
                 "y": "15.5"
-              }
+              },
+              []
             ]
           ]
         ]

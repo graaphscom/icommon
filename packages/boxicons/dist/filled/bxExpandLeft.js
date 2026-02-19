@@ -10,7 +10,8 @@ export var bxExpandLeft = [
       "path",
       {
         "d": "M10 19h9v-9h-2v7h-7zM7 7h7V5H5v9h2z"
-      }
+      },
+      []
     ]
   ]
 ];

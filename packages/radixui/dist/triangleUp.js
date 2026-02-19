@@ -13,7 +13,8 @@ export var triangleUp = [
       {
         "d": "M7.5 4.5L4 9H11L7.5 4.5Z",
         "fill": "currentColor"
-      }
+      },
+      []
     ]
   ]
 ];

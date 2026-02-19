@@ -20,7 +20,8 @@ export var alignVerticalSpaceBetween = [
         "width": "14",
         "x": "5",
         "y": "15"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,19 +31,22 @@ export var alignVerticalSpaceBetween = [
         "width": "10",
         "x": "7",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 21h20"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 3h20"
-      }
+      },
+      []
     ]
   ]
 ];

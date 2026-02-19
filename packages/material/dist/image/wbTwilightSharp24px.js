@@ -18,7 +18,8 @@ export var wbTwilightSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var wbTwilightSharp24px = [
                 "width": "3",
                 "x": "17.22",
                 "y": "7.31"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -47,7 +49,8 @@ export var wbTwilightSharp24px = [
                 "width": "20",
                 "x": "2",
                 "y": "18"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -56,7 +59,8 @@ export var wbTwilightSharp24px = [
                 "width": "2",
                 "x": "11",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -66,13 +70,15 @@ export var wbTwilightSharp24px = [
                 "width": "2",
                 "x": "4.31",
                 "y": "6.78"
-              }
+              },
+              []
             ],
             [
               "path",
               {
                 "d": "M5,16h14c0-3.87-3.13-7-7-7S5,12.13,5,16z"
-              }
+              },
+              []
             ]
           ]
         ]

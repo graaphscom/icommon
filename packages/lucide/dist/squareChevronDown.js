@@ -20,13 +20,15 @@ export var squareChevronDown = [
         "width": "18",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "m16 10-4 4-4-4"
-      }
+      },
+      []
     ]
   ]
 ];

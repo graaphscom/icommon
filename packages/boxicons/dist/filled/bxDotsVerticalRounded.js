@@ -10,7 +10,8 @@ export var bxDotsVerticalRounded = [
       "path",
       {
         "d": "M12 10a2 2 0 1 0 0 4 2 2 0 1 0 0-4M12 16a2 2 0 1 0 0 4 2 2 0 1 0 0-4M12 4a2 2 0 1 0 0 4 2 2 0 1 0 0-4"
-      }
+      },
+      []
     ]
   ]
 ];

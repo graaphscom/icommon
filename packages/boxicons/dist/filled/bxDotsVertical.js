@@ -10,7 +10,8 @@ export var bxDotsVertical = [
       "path",
       {
         "d": "M10 10h4v4h-4zM10 16h4v4h-4zM10 4h4v4h-4z"
-      }
+      },
+      []
     ]
   ]
 ];

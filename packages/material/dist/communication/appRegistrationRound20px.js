@@ -18,7 +18,8 @@ export var appRegistrationRound20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -40,7 +41,8 @@ export var appRegistrationRound20px = [
                     "cx": "10",
                     "cy": "5.5",
                     "r": "1.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -54,7 +56,8 @@ export var appRegistrationRound20px = [
                     "cx": "5.5",
                     "cy": "14.5",
                     "r": "1.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -68,7 +71,8 @@ export var appRegistrationRound20px = [
                     "cx": "5.5",
                     "cy": "10",
                     "r": "1.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -82,7 +86,8 @@ export var appRegistrationRound20px = [
                     "cx": "5.5",
                     "cy": "5.5",
                     "r": "1.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -96,7 +101,8 @@ export var appRegistrationRound20px = [
                     "cx": "14.5",
                     "cy": "5.5",
                     "r": "1.5"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -108,7 +114,8 @@ export var appRegistrationRound20px = [
                   "polygon",
                   {
                     "points": "9,14.49 9,16 10.51,16 15.4,11.1 13.9,9.6"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -120,7 +127,8 @@ export var appRegistrationRound20px = [
                   "path",
                   {
                     "d": "M11.49,9.89C11.43,9.11,10.79,8.5,10,8.5c-0.83,0-1.5,0.67-1.5,1.5c0,0.79,0.61,1.43,1.39,1.49L11.49,9.89z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -132,7 +140,8 @@ export var appRegistrationRound20px = [
                   "path",
                   {
                     "d": "M16.85,8.94l-0.79-0.79c-0.2-0.2-0.51-0.2-0.71,0L14.6,8.9l1.5,1.5l0.75-0.75C17.05,9.45,17.05,9.13,16.85,8.94z"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

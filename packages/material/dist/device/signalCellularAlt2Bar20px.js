@@ -18,7 +18,8 @@ export var signalCellularAlt2Bar20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -34,7 +35,8 @@ export var signalCellularAlt2Bar20px = [
               "path",
               {
                 "d": "M9,8h2v8H9V8z M5,16h2v-5H5V16z"
-              }
+              },
+              []
             ]
           ]
         ]

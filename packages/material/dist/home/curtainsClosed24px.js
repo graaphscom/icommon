@@ -18,7 +18,8 @@ export var curtainsClosed24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -30,7 +31,8 @@ export var curtainsClosed24px = [
           "path",
           {
             "d": "M20,19V3H4v16H2v2h20v-2H20z M11,5h2v14h-2V5z"
-          }
+          },
+          []
         ]
       ]
     ]

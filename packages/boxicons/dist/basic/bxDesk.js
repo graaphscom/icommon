@@ -11,7 +11,8 @@ export var bxDesk = [
       "path",
       {
         "d": "m17,10v-4h3l-2-4h-4l-2,4h3v4h-6v-2H3v2h-1v2h1v10h2v-2h14v2h2v-10h1v-2h-5Zm2,8H5v-6h14v6Z"
-      }
+      },
+      []
     ]
   ]
 ];

@@ -13,21 +13,24 @@ export var mailClock32Color = [
       {
         "d": "M30 10L16.4741 17.2921C16.1781 17.4514 15.8219 17.4514 15.5259 17.2921L2 10V22.5C2 24.9853 4.01472 27 6.5 27H25.5C27.9853 27 30 24.9853 30 22.5V10Z",
         "fill": "#367AF2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M30 10L16.4741 17.2921C16.1781 17.4514 15.8219 17.4514 15.5259 17.2921L2 10V22.5C2 24.9853 4.01472 27 6.5 27H25.5C27.9853 27 30 24.9853 30 22.5V10Z",
         "fill": "url(#paint0_linear_72095_8979)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M30 10L16.4741 17.2921C16.1781 17.4514 15.8219 17.4514 15.5259 17.2921L2 10V22.5C2 24.9853 4.01472 27 6.5 27H25.5C27.9853 27 30 24.9853 30 22.5V10Z",
         "fill": "url(#paint1_linear_72095_8979)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -35,7 +38,8 @@ export var mailClock32Color = [
         "d": "M30 10L16.4741 17.2921C16.1781 17.4514 15.8219 17.4514 15.5259 17.2921L2 10V22.5C2 24.9853 4.01472 27 6.5 27H25.5C27.9853 27 30 24.9853 30 22.5V10Z",
         "fill": "url(#paint2_linear_72095_8979)",
         "fillOpacity": "0.75"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -43,14 +47,16 @@ export var mailClock32Color = [
         "d": "M30 10L16.4741 17.2921C16.1781 17.4514 15.8219 17.4514 15.5259 17.2921L2 10V22.5C2 24.9853 4.01472 27 6.5 27H25.5C27.9853 27 30 24.9853 30 22.5V10Z",
         "fill": "url(#paint3_linear_72095_8979)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 9.5C2 7.01472 4.01472 5 6.5 5H25.5C26.9136 5 28.175 5.65183 29 6.67133V10H30V10.59L16.4741 17.8821C16.1781 18.0414 15.8219 18.0414 15.5259 17.8821L2 10.59V9.5Z",
         "fill": "url(#paint4_linear_72095_8979)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -58,7 +64,8 @@ export var mailClock32Color = [
         "d": "M6.5 5C4.01472 5 2 7.01472 2 9.5V22.5C2 24.9853 4.01472 27 6.5 27H25.5C27.9853 27 30 24.9853 30 22.5V10H29V6.67133C28.175 5.65183 26.9136 5 25.5 5H6.5Z",
         "fill": "url(#paint5_radial_72095_8979)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -67,7 +74,8 @@ export var mailClock32Color = [
         "d": "M15.5 9C15.5 13.1421 18.8579 16.5 23 16.5C27.1421 16.5 30.5 13.1421 30.5 9C30.5 4.85786 27.1421 1.5 23 1.5C18.8579 1.5 15.5 4.85786 15.5 9Z",
         "fill": "url(#paint6_linear_72095_8979)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -76,7 +84,8 @@ export var mailClock32Color = [
         "d": "M23.5 4.75C23.5 4.33579 23.1642 4 22.75 4C22.3358 4 22 4.33579 22 4.75V9.25C22 9.66421 22.3358 10 22.75 10H26.25C26.6642 10 27 9.66421 27 9.25C27 8.83579 26.6642 8.5 26.25 8.5H23.5V4.75Z",
         "fill": "url(#paint7_linear_72095_8979)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -99,14 +108,16 @@ export var mailClock32Color = [
                 "offset": "0.19865",
                 "stopColor": "#0094F0",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.430619",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -127,14 +138,16 @@ export var mailClock32Color = [
                 "offset": "0.191319",
                 "stopColor": "#0094F0",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.430619",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -154,14 +167,16 @@ export var mailClock32Color = [
               {
                 "stopColor": "#2764E7",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -182,14 +197,16 @@ export var mailClock32Color = [
                 "offset": "0.53288",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF6CE8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -208,21 +225,24 @@ export var mailClock32Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.461792",
                 "stopColor": "#29C3FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -242,7 +262,8 @@ export var mailClock32Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -250,7 +271,8 @@ export var mailClock32Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -269,14 +291,16 @@ export var mailClock32Color = [
               "stop",
               {
                 "stopColor": "#1EC8B0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#1B44B1"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -295,14 +319,16 @@ export var mailClock32Color = [
               "stop",
               {
                 "stopColor": "#FDFDFD"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#D1D1FF"
-              }
+              },
+              []
             ]
           ]
         ]

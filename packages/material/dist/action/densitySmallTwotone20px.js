@@ -18,7 +18,8 @@ export var densitySmallTwotone20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -37,7 +38,8 @@ export var densitySmallTwotone20px = [
                 "width": "14",
                 "x": "3",
                 "y": "11.5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -46,7 +48,8 @@ export var densitySmallTwotone20px = [
                 "width": "14",
                 "x": "3",
                 "y": "7"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -55,7 +58,8 @@ export var densitySmallTwotone20px = [
                 "width": "14",
                 "x": "3",
                 "y": "2.5"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -64,7 +68,8 @@ export var densitySmallTwotone20px = [
                 "width": "14",
                 "x": "3",
                 "y": "16"
-              }
+              },
+              []
             ]
           ]
         ]

@@ -16,13 +16,15 @@ export var userLock = [
       "path",
       {
         "d": "M19 16v-2a2 2 0 0 0-4 0v2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M9.5 15H7a4 4 0 0 0-4 4v2"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -30,7 +32,8 @@ export var userLock = [
         "cx": "10",
         "cy": "7",
         "r": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -40,7 +43,8 @@ export var userLock = [
         "width": "8",
         "x": "13",
         "y": "16"
-      }
+      },
+      []
     ]
   ]
 ];

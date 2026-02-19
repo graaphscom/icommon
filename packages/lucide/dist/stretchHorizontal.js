@@ -20,7 +20,8 @@ export var stretchHorizontal = [
         "width": "20",
         "x": "2",
         "y": "4"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -30,7 +31,8 @@ export var stretchHorizontal = [
         "width": "20",
         "x": "2",
         "y": "14"
-      }
+      },
+      []
     ]
   ]
 ];

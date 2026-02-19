@@ -15,7 +15,8 @@ export var diffIgnored = [
         "d": "M1.5 1H14.5L15 1.5V14.5L14.5 15H1.5L1 14.5V1.5L1.5 1ZM2 14H14V2H2V14ZM10 4H12V6L6 12H4V10L10 4Z",
         "fill": "#C5C5C5",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ]
   ]
 ];

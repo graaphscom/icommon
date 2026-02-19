@@ -13,42 +13,48 @@ export var options20Color = [
       {
         "d": "M2 5.75C2 5.33579 2.33579 5 2.75 5H17.25C17.6642 5 18 5.33579 18 5.75C18 6.16421 17.6642 6.5 17.25 6.5H2.75C2.33579 6.5 2 6.16421 2 5.75Z",
         "fill": "url(#paint0_linear_72095_8788)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 5.75C2 5.33579 2.33579 5 2.75 5H17.25C17.6642 5 18 5.33579 18 5.75C18 6.16421 17.6642 6.5 17.25 6.5H2.75C2.33579 6.5 2 6.16421 2 5.75Z",
         "fill": "url(#paint1_radial_72095_8788)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 5.75C2 5.33579 2.33579 5 2.75 5H17.25C17.6642 5 18 5.33579 18 5.75C18 6.16421 17.6642 6.5 17.25 6.5H2.75C2.33579 6.5 2 6.16421 2 5.75Z",
         "fill": "url(#paint2_radial_72095_8788)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 14.25C2 13.8358 2.33579 13.5 2.75 13.5H17.25C17.6642 13.5 18 13.8358 18 14.25C18 14.6642 17.6642 15 17.25 15H2.75C2.33579 15 2 14.6642 2 14.25Z",
         "fill": "url(#paint3_linear_72095_8788)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 14.25C2 13.8358 2.33579 13.5 2.75 13.5H17.25C17.6642 13.5 18 13.8358 18 14.25C18 14.6642 17.6642 15 17.25 15H2.75C2.33579 15 2 14.6642 2 14.25Z",
         "fill": "url(#paint4_radial_72095_8788)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 14.25C2 13.8358 2.33579 13.5 2.75 13.5H17.25C17.6642 13.5 18 13.8358 18 14.25C18 14.6642 17.6642 15 17.25 15H2.75C2.33579 15 2 14.6642 2 14.25Z",
         "fill": "url(#paint5_radial_72095_8788)"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -57,7 +63,8 @@ export var options20Color = [
         "cy": "14.25",
         "fill": "url(#paint6_linear_72095_8788)",
         "r": "2.5"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -66,7 +73,8 @@ export var options20Color = [
         "cy": "5.75",
         "fill": "url(#paint7_linear_72095_8788)",
         "r": "2.5"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -87,14 +95,16 @@ export var options20Color = [
               "stop",
               {
                 "stopColor": "#8C959B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#A3ACB5"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -114,7 +124,8 @@ export var options20Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -122,7 +133,8 @@ export var options20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -142,7 +154,8 @@ export var options20Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -150,7 +163,8 @@ export var options20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -169,14 +183,16 @@ export var options20Color = [
               "stop",
               {
                 "stopColor": "#8C959B"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#A3ACB5"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -196,7 +212,8 @@ export var options20Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -204,7 +221,8 @@ export var options20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -224,7 +242,8 @@ export var options20Color = [
               {
                 "offset": "0.548597",
                 "stopColor": "#70777D"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -232,7 +251,8 @@ export var options20Color = [
                 "offset": "1",
                 "stopColor": "#70777D",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -251,14 +271,16 @@ export var options20Color = [
               "stop",
               {
                 "stopColor": "#29B4FB"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -277,14 +299,16 @@ export var options20Color = [
               "stop",
               {
                 "stopColor": "#29B4FB"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ]

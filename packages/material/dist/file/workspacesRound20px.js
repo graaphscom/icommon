@@ -18,7 +18,8 @@ export var workspacesRound20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -36,7 +37,8 @@ export var workspacesRound20px = [
                 "cx": "5",
                 "cy": "14",
                 "r": "3"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -44,7 +46,8 @@ export var workspacesRound20px = [
                 "cx": "10",
                 "cy": "6",
                 "r": "3"
-              }
+              },
+              []
             ],
             [
               "circle",
@@ -52,7 +55,8 @@ export var workspacesRound20px = [
                 "cx": "15",
                 "cy": "14",
                 "r": "3"
-              }
+              },
+              []
             ]
           ]
         ]

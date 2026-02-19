@@ -13,21 +13,24 @@ export var mailAlert20Color = [
       {
         "d": "M17 6.2169L10 10.4169L2.75725 6.07125C2.60278 5.97857 2.4104 5.97615 2.25365 6.0649C2.0969 6.15365 2 6.31986 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V6.2169Z",
         "fill": "#367AF2"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 6.2169L10 10.4169L2.75725 6.07125C2.60278 5.97857 2.4104 5.97615 2.25365 6.0649C2.0969 6.15365 2 6.31986 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V6.2169Z",
         "fill": "url(#paint0_linear_72095_9031)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M17 6.2169L10 10.4169L2.75725 6.07125C2.60278 5.97857 2.4104 5.97615 2.25365 6.0649C2.0969 6.15365 2 6.31986 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V6.2169Z",
         "fill": "url(#paint1_linear_72095_9031)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -35,7 +38,8 @@ export var mailAlert20Color = [
         "d": "M17 6.2169L10 10.4169L2.75725 6.07125C2.60278 5.97857 2.4104 5.97615 2.25365 6.0649C2.0969 6.15365 2 6.31986 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V6.2169Z",
         "fill": "url(#paint2_linear_72095_9031)",
         "fillOpacity": "0.75"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -43,14 +47,16 @@ export var mailAlert20Color = [
         "d": "M17 6.2169L10 10.4169L2.75725 6.07125C2.60278 5.97857 2.4104 5.97615 2.25365 6.0649C2.0969 6.15365 2 6.31986 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V6.2169Z",
         "fill": "url(#paint3_linear_72095_9031)",
         "fillOpacity": "0.7"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M2 6.5C2 5.11929 3.11929 4 4.5 4H15.5C16.0628 4 16.5822 4.18597 17 4.49982V7H18V7.1C18 7.27739 17.906 7.4415 17.753 7.53126L10.253 11.9313C10.0968 12.0229 9.90321 12.0229 9.74699 11.9313L2.24699 7.53126C2.09399 7.4415 2 7.27739 2 7.1V6.5Z",
         "fill": "url(#paint4_linear_72095_9031)"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -58,7 +64,8 @@ export var mailAlert20Color = [
         "d": "M4.5 4C3.11929 4 2 5.11929 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V4.49982C16.5822 4.18597 16.0628 4 15.5 4H4.5Z",
         "fill": "url(#paint5_radial_72095_9031)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -66,7 +73,8 @@ export var mailAlert20Color = [
         "d": "M4.5 4C3.11929 4 2 5.11929 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V4.49982C16.5822 4.18597 16.0628 4 15.5 4H4.5Z",
         "fill": "url(#paint6_radial_72095_9031)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -74,7 +82,8 @@ export var mailAlert20Color = [
         "d": "M4.5 4C3.11929 4 2 5.11929 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V4.49982C16.5822 4.18597 16.0628 4 15.5 4H4.5Z",
         "fill": "url(#paint7_radial_72095_9031)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -82,21 +91,24 @@ export var mailAlert20Color = [
         "d": "M4.5 4C3.11929 4 2 5.11929 2 6.5V14.5C2 15.8807 3.11929 17 4.5 17H15.5C16.8807 17 18 15.8807 18 14.5V7H17V4.49982C16.5822 4.18597 16.0628 4 15.5 4H4.5Z",
         "fill": "url(#paint8_radial_72095_9031)",
         "fillOpacity": "0.3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M16.5 8C16.5 9.10457 15.6046 10 14.5 10C13.3954 10 12.5 9.10457 12.5 8C12.5 6.89543 13.3954 6 14.5 6C15.6046 6 16.5 6.89543 16.5 8Z",
         "fill": "url(#paint9_linear_72095_9031)"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M11.4974 4C11.4974 2.34326 12.8407 1 14.4974 1C16.1541 1 17.4974 2.34326 17.4974 4V6L18.8172 7.11865C19.1727 7.41968 18.9598 8 18.494 8H10.5008C10.0355 8 9.82261 7.41968 10.1776 7.11865L11.4974 6.00024V4Z",
         "fill": "url(#paint10_linear_72095_9031)"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -119,14 +131,16 @@ export var mailAlert20Color = [
                 "offset": "0.22807",
                 "stopColor": "#0094F0",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.430619",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -147,14 +161,16 @@ export var mailAlert20Color = [
                 "offset": "0.22807",
                 "stopColor": "#0094F0",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.430619",
                 "stopColor": "#0094F0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -174,14 +190,16 @@ export var mailAlert20Color = [
               {
                 "stopColor": "#2764E7",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -202,14 +220,16 @@ export var mailAlert20Color = [
                 "offset": "0.53288",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF6CE8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -228,21 +248,24 @@ export var mailAlert20Color = [
               "stop",
               {
                 "stopColor": "#6CE0FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.461792",
                 "stopColor": "#29C3FF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#4894FE"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -262,7 +285,8 @@ export var mailAlert20Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -270,7 +294,8 @@ export var mailAlert20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -290,7 +315,8 @@ export var mailAlert20Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -298,7 +324,8 @@ export var mailAlert20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -317,7 +344,8 @@ export var mailAlert20Color = [
               "stop",
               {
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -325,7 +353,8 @@ export var mailAlert20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -345,7 +374,8 @@ export var mailAlert20Color = [
               {
                 "offset": "0.535",
                 "stopColor": "#4A43CB"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -353,7 +383,8 @@ export var mailAlert20Color = [
                 "offset": "1",
                 "stopColor": "#4A43CB",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -372,7 +403,8 @@ export var mailAlert20Color = [
               "stop",
               {
                 "stopColor": "#EB4824"
-              }
+              },
+              []
             ],
             [
               "stop",
@@ -380,7 +412,8 @@ export var mailAlert20Color = [
                 "offset": "1",
                 "stopColor": "#FFCD0F",
                 "stopOpacity": "0.988235"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -399,14 +432,16 @@ export var mailAlert20Color = [
               "stop",
               {
                 "stopColor": "#FF6F47"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FFCD0F"
-              }
+              },
+              []
             ]
           ]
         ]

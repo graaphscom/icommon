@@ -16,7 +16,8 @@ export var battery = [
       "path",
       {
         "d": "M 22 14 L 22 10"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var battery = [
         "width": "16",
         "x": "2",
         "y": "6"
-      }
+      },
+      []
     ]
   ]
 ];

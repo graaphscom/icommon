@@ -21,7 +21,8 @@ export var neobreadPleading = [
         "width": "256",
         "x": "0",
         "y": "0"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -29,7 +30,8 @@ export var neobreadPleading = [
         "d": "M192.734,26.885C222.946,26.885 247.473,51.413 247.473,81.624C247.473,94.467 243.041,106.282 235.623,115.623L235.623,200.464C235.623,216.277 222.785,229.115 206.972,229.115L48.771,229.115C32.958,229.115 20.12,216.277 20.12,200.464L20.12,115.297C12.857,106.008 8.527,94.318 8.527,81.624C8.527,51.413 33.054,26.885 63.266,26.885L192.734,26.885Z",
         "id": "Crust",
         "style": "fill:rgb(209,160,132);stroke:black;stroke-width:15px;"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -40,7 +42,8 @@ export var neobreadPleading = [
         "width": "105.66",
         "x": "122.332",
         "y": "112.959"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -48,7 +51,8 @@ export var neobreadPleading = [
         "d": "M42.009,112.691C33.24,105.704 27.616,94.934 27.616,82.861C27.616,61.82 44.698,44.738 65.738,44.738L135.611,44.738C156.652,44.738 173.734,61.82 173.734,82.861C173.734,94.528 168.481,104.979 160.213,111.974L160.213,196.732C160.213,204.964 153.53,211.647 145.299,211.647L56.924,211.647C48.692,211.647 42.009,204.964 42.009,196.732L42.009,112.691Z",
         "id": "Slice",
         "style": "fill:rgb(252,233,186);"
-      }
+      },
+      []
     ],
     [
       "g",
@@ -62,7 +66,8 @@ export var neobreadPleading = [
             "d": "M79.007,168.781L94.923,153.296L114.657,169.191",
             "id": "Mouth",
             "style": "fill:none;stroke:black;stroke-width:10px;"
-          }
+          },
+          []
         ],
         [
           "g",
@@ -84,7 +89,8 @@ export var neobreadPleading = [
                     "id": "Eye white",
                     "r": "23.779",
                     "style": "fill:white;"
-                  }
+                  },
+                  []
                 ],
                 [
                   "circle",
@@ -93,7 +99,8 @@ export var neobreadPleading = [
                     "cy": "119.83",
                     "id": "Pupil",
                     "r": "20.392"
-                  }
+                  },
+                  []
                 ],
                 [
                   "path",
@@ -101,7 +108,8 @@ export var neobreadPleading = [
                     "d": "M113.498,108.977C117.525,104.949 123.325,104.208 126.44,107.324C129.556,110.439 128.815,116.239 124.787,120.266C120.76,124.294 114.96,125.035 111.845,121.919C108.729,118.804 109.47,113.004 113.498,108.977Z",
                     "id": "Eye reflection top",
                     "style": "fill:white;"
-                  }
+                  },
+                  []
                 ],
                 [
                   "path",
@@ -109,7 +117,8 @@ export var neobreadPleading = [
                     "d": "M134.436,124.742C134.436,124.742 133.237,128.878 128.995,129.783",
                     "id": "Eye reflection bottom",
                     "style": "fill:none;stroke:rgb(151,151,151);stroke-width:8px;"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -127,7 +136,8 @@ export var neobreadPleading = [
                     "id": "Eye white",
                     "r": "23.779",
                     "style": "fill:white;"
-                  }
+                  },
+                  []
                 ],
                 [
                   "circle",
@@ -136,7 +146,8 @@ export var neobreadPleading = [
                     "cy": "119.83",
                     "id": "Pupil",
                     "r": "20.392"
-                  }
+                  },
+                  []
                 ],
                 [
                   "path",
@@ -144,7 +155,8 @@ export var neobreadPleading = [
                     "d": "M52.911,108.977C56.939,104.949 62.738,104.208 65.854,107.324C68.969,110.439 68.229,116.239 64.201,120.266C60.173,124.294 54.374,125.035 51.258,121.919C48.143,118.804 48.883,113.004 52.911,108.977Z",
                     "id": "Eye reflection top",
                     "style": "fill:white;"
-                  }
+                  },
+                  []
                 ],
                 [
                   "path",
@@ -152,7 +164,8 @@ export var neobreadPleading = [
                     "d": "M73.85,124.742C73.85,124.742 72.651,128.878 68.408,129.783",
                     "id": "Eye reflection bottom",
                     "style": "fill:none;stroke:rgb(151,151,151);stroke-width:8px;"
-                  }
+                  },
+                  []
                 ]
               ]
             ]
@@ -170,7 +183,8 @@ export var neobreadPleading = [
                 "d": "M116.303,78.613C116.303,78.613 120.458,91.268 140.467,85.602",
                 "id": "Right eyebrow",
                 "style": "fill:none;stroke:black;stroke-width:10px;"
-              }
+              },
+              []
             ],
             [
               "path",
@@ -178,7 +192,8 @@ export var neobreadPleading = [
                 "d": "M77.93,78.613C77.93,78.613 73.775,91.268 53.765,85.602",
                 "id": "Left eyebrow",
                 "style": "fill:none;stroke:black;stroke-width:10px;"
-              }
+              },
+              []
             ]
           ]
         ]

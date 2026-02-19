@@ -15,7 +15,8 @@ export var bxQr = [
         "width": "8",
         "x": "3",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -26,7 +27,8 @@ export var bxQr = [
         "width": "8",
         "x": "3",
         "y": "13"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -37,13 +39,15 @@ export var bxQr = [
         "width": "8",
         "x": "13",
         "y": "3"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M13 13h2v2h-2zM15 15h2v2h-2zM13 17h2v2h-2zM17 17h2v2h-2zM19 19h2v2h-2zM15 19h2v2h-2zM17 13h2v2h-2zM19 15h2v2h-2z"
-      }
+      },
+      []
     ]
   ]
 ];

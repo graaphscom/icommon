@@ -19,7 +19,8 @@ export var stackedBarChartOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var stackedBarChartOutlined20px = [
                 "width": "3",
                 "x": "13",
                 "y": "12"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -47,7 +49,8 @@ export var stackedBarChartOutlined20px = [
                 "width": "3",
                 "x": "4",
                 "y": "8"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -56,7 +59,8 @@ export var stackedBarChartOutlined20px = [
                 "width": "3",
                 "x": "4",
                 "y": "4"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -65,7 +69,8 @@ export var stackedBarChartOutlined20px = [
                 "width": "3",
                 "x": "8.5",
                 "y": "6"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -74,7 +79,8 @@ export var stackedBarChartOutlined20px = [
                 "width": "3",
                 "x": "13",
                 "y": "8"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -83,7 +89,8 @@ export var stackedBarChartOutlined20px = [
                 "width": "3",
                 "x": "8.5",
                 "y": "10"
-              }
+              },
+              []
             ]
           ]
         ]

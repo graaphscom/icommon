@@ -11,13 +11,15 @@ export var bxHorizontalDistributeRight = [
       "path",
       {
         "d": "M9 2H11V22H9z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M21 2H23V22H21z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -28,7 +30,8 @@ export var bxHorizontalDistributeRight = [
         "width": "6",
         "x": "1",
         "y": "7"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -39,7 +42,8 @@ export var bxHorizontalDistributeRight = [
         "width": "6",
         "x": "13",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

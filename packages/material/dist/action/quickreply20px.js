@@ -18,7 +18,8 @@ export var quickreply20px = [
             "fill": "none",
             "height": "20",
             "width": "20"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var quickreply20px = [
                   "path",
                   {
                     "d": "M17,4c0-0.55-0.45-1-1-1H4C3.45,3,3,3.45,3,4v13l3-3h7V9h4V4z"
-                  }
+                  },
+                  []
                 ]
               ]
             ],
@@ -50,7 +52,8 @@ export var quickreply20px = [
                   "polygon",
                   {
                     "points": "18,13 16.4,13 17.64,10 14,10 14,14.36 15.45,14.36 15.45,18"
-                  }
+                  },
+                  []
                 ]
               ]
             ]

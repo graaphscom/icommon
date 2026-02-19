@@ -19,7 +19,8 @@ export var densityMediumOutlined20px = [
             "height": "20",
             "width": "20",
             "x": "0"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -38,7 +39,8 @@ export var densityMediumOutlined20px = [
                 "width": "14",
                 "x": "3",
                 "y": "9.25"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -47,7 +49,8 @@ export var densityMediumOutlined20px = [
                 "width": "14",
                 "x": "3",
                 "y": "3"
-              }
+              },
+              []
             ],
             [
               "rect",
@@ -56,7 +59,8 @@ export var densityMediumOutlined20px = [
                 "width": "14",
                 "x": "3",
                 "y": "15.5"
-              }
+              },
+              []
             ]
           ]
         ]

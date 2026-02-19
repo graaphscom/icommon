@@ -18,7 +18,8 @@ export var closedCaptionOffSharp24px = [
             "fill": "none",
             "height": "24",
             "width": "24"
-          }
+          },
+          []
         ]
       ]
     ],
@@ -36,7 +37,8 @@ export var closedCaptionOffSharp24px = [
               "path",
               {
                 "d": "M21,4H3v16h18V4z M11,11H9.5v-0.5h-2v3h2V13H11v2H6V9h5V11z M18,11h-1.5v-0.5h-2v3h2V13H18v2h-5V9h5V11z"
-              }
+              },
+              []
             ]
           ]
         ]

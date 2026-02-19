@@ -11,19 +11,22 @@ export var bxQueue = [
       "path",
       {
         "d": "M3 14H21V16H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 18H21V20H3z"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M3 10H21V12H3z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -34,7 +37,8 @@ export var bxQueue = [
         "width": "18",
         "x": "3",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

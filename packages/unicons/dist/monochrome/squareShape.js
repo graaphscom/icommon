@@ -13,7 +13,8 @@ export var squareShape = [
         "width": "20",
         "x": "2",
         "y": "2"
-      }
+      },
+      []
     ]
   ]
 ];

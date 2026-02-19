@@ -11,7 +11,8 @@ export var bxTvAlt = [
       "path",
       {
         "d": "M5 20H19V22H5z"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -22,7 +23,8 @@ export var bxTvAlt = [
         "width": "20",
         "x": "2",
         "y": "4"
-      }
+      },
+      []
     ]
   ]
 ];

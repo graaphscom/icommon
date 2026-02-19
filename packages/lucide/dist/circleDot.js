@@ -18,7 +18,8 @@ export var circleDot = [
         "cx": "12",
         "cy": "12",
         "r": "10"
-      }
+      },
+      []
     ],
     [
       "circle",
@@ -26,7 +27,8 @@ export var circleDot = [
         "cx": "12",
         "cy": "12",
         "r": "1"
-      }
+      },
+      []
     ]
   ]
 ];

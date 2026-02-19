@@ -18,7 +18,8 @@ export var lockKeyholeOpen = [
         "cx": "12",
         "cy": "16",
         "r": "1"
-      }
+      },
+      []
     ],
     [
       "rect",
@@ -28,13 +29,15 @@ export var lockKeyholeOpen = [
         "width": "18",
         "x": "3",
         "y": "10"
-      }
+      },
+      []
     ],
     [
       "path",
       {
         "d": "M7 10V7a5 5 0 0 1 9.33-2.5"
-      }
+      },
+      []
     ]
   ]
 ];

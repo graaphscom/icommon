@@ -15,7 +15,8 @@ export var guest20Color = [
         "d": "M5.5 2C4.67157 2 4 2.67157 4 3.5V16.5059C4 17.3343 4.67157 18.0059 5.5 18.0059H14.5C15.3284 18.0059 16 17.3343 16 16.5059V3.5C16 2.67157 15.3284 2 14.5 2H5.5ZM8.5 4C8.22386 4 8 4.22386 8 4.5C8 4.77614 8.22386 5 8.5 5H11.5C11.7761 5 12 4.77614 12 4.5C12 4.22386 11.7761 4 11.5 4H8.5Z",
         "fill": "url(#paint0_linear_73184_13125)",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -25,7 +26,8 @@ export var guest20Color = [
         "fill": "url(#paint1_linear_73184_13125)",
         "fillOpacity": "0.7",
         "fillRule": "evenodd"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -33,7 +35,8 @@ export var guest20Color = [
         "d": "M8.29536 15.7306C8.74307 15.8964 9.30242 16 10.0012 16C10.699 16 11.2577 15.8967 11.7051 15.7314C13.5004 15.0664 13.5 13.4 13.5 13.4C13.5 12.6268 12.8599 12 12.0703 12H7.92968C7.14009 12 6.5 12.6268 6.5 13.4C6.5 13.4 6.5 15.0657 8.29536 15.7306Z",
         "fill": "url(#paint2_linear_73184_13125)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "path",
@@ -41,7 +44,8 @@ export var guest20Color = [
         "d": "M10 11C11.1046 11 12 10.1046 12 9C12 7.89543 11.1046 7 10 7C8.89543 7 8 7.89543 8 9C8 10.1046 8.89543 11 10 11Z",
         "fill": "url(#paint3_linear_73184_13125)",
         "fillOpacity": "0.9"
-      }
+      },
+      []
     ],
     [
       "defs",
@@ -62,21 +66,24 @@ export var guest20Color = [
               "stop",
               {
                 "stopColor": "#36DFF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "0.217751",
                 "stopColor": "#35DAF1"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#2764E7"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -97,14 +104,16 @@ export var guest20Color = [
                 "offset": "0.549232",
                 "stopColor": "#FF6CE8",
                 "stopOpacity": "0"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "#FF6CE8"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -123,14 +132,16 @@ export var guest20Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ],
@@ -149,14 +160,16 @@ export var guest20Color = [
               "stop",
               {
                 "stopColor": "#9DEAFF"
-              }
+              },
+              []
             ],
             [
               "stop",
               {
                 "offset": "1",
                 "stopColor": "white"
-              }
+              },
+              []
             ]
           ]
         ]
