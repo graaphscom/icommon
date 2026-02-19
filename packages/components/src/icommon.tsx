@@ -3,30 +3,30 @@ import React, {
   CSSProperties,
   type ReactNode,
   type FC,
-} from 'react';
-import { IcommonProps } from './types';
+} from "react";
+import { IcommonProps } from "./types";
 
 export const Icommon = ({
   node,
   width,
   height,
   size,
-  fallbackSize = '24',
+  fallbackSize = "24",
   omitFill = false,
-  viewBox
+  viewBox,
 }: IcommonProps): ReactNode => {
   const Component = node[0] as unknown as FC<AllHTMLAttributes<unknown>>;
   const { style, fill, ...noStyleProps } = node[1];
   const styleObj =
-    typeof style == 'string' ? cssStringToProperties(style) : undefined;
+    typeof style == "string" ? cssStringToProperties(style) : undefined;
 
   return (
     <Component
       {...{
         ...noStyleProps,
-        ...(node[0] == 'svg' &&
-          !noStyleProps['width'] &&
-          !noStyleProps['height'] && {
+        ...(node[0] == "svg" &&
+          !noStyleProps["width"] &&
+          !noStyleProps["height"] && {
             width: fallbackSize,
             height: fallbackSize,
           }),
@@ -47,8 +47,8 @@ export const Icommon = ({
 };
 
 const cssStringToProperties = (css: string): CSSProperties =>
-  css.split(';').reduce((prev, curr) => {
-    const [cssProp, cssVal] = curr.split(':');
+  css.split(";").reduce((prev, curr) => {
+    const [cssProp, cssVal] = curr.split(":");
     return {
       ...prev,
       [cssProp.replace(/-./g, (x) => x[1].toUpperCase())]: cssVal,
