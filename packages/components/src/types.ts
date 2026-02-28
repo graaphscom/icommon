@@ -6,10 +6,8 @@ export type IcommonNode = [
 
 export interface IcommonProps {
   node: IcommonNode;
-  width?: string;
-  height?: string;
-  size?: string;
-  fallbackSize?: string;
-  omitFill?: boolean;
-  viewBox?: string;
+  className?: string;
+  modifiers?: IcommonModifier[];
 }
+
+export type IcommonModifier = (initial: IcommonNode) => IcommonNode;

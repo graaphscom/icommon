@@ -4,24 +4,31 @@
   "license": "MIT",
   "exports": {
     "./types": "./dist/types.d.ts",
-    "./icommon": {
-      "types": "./dist/icommon.d.ts",
-      "default": "./dist/icommon.js"
+    "./Icommon": {
+      "types": "./dist/Icommon.d.ts",
+      "import": "./dist/Icommon.mjs",
+      "require": "./dist/Icommon.js"
+    },
+    "./modifiers": {
+      "types": "./dist/modifiers.d.ts",
+      "import": "./dist/modifiers.mjs",
+      "require": "./dist/modifiers.js"
     }
   },
   "scripts": {
-    "build": "tsc && swc src -d dist --strip-leading-paths",
+    "build": "tsup",
+    "dev": "tsup --watch",
     "lint": "eslint src/",
     "format": "prettier src/ --check"
   },
   "devDependencies": {
     "@icommon/eslint-config": "workspace:^",
     "@icommon/typescript-config": "workspace:^",
-    "@swc/cli": "^0.8.0",
     "@types/react": "^19.2.14",
     "eslint": "^9.39.2",
     "prettier": "^3.8.1",
     "react": "^19.2.4",
+    "tsup": "^8.5.1",
     "typescript": "^5.9.3"
   },
   "peerDependencies": {

@@ -1,5 +1,5 @@
 .turbo
 clone
 node_modules
-components/dist
+packages/components/dist
 .DS_Store
