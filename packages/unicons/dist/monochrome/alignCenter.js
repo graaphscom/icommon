@@ -8,6 +8,7 @@ export var alignCenter = [
     [
       "path",
       {
+        "className": "uim-primary",
         "d": "M21 7H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2zm-4 4H7a1 1 0 0 1 0-2h10a1 1 0 0 1 0 2zm4 4H3a1 1 0 0 1 0-2h18a1 1 0 0 1 0 2zm-4 4H7a1 1 0 0 1 0-2h10a1 1 0 0 1 0 2z"
       },
       []

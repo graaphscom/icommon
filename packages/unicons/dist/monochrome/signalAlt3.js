@@ -8,6 +8,7 @@ export var signalAlt3 = [
     [
       "path",
       {
+        "className": "uim-quaternary",
         "d": "M6 23H2a1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1Z"
       },
       []
@@ -15,6 +16,7 @@ export var signalAlt3 = [
     [
       "path",
       {
+        "className": "uim-tertiary",
         "d": "M14 23h-4a1 1 0 0 1-1-1V10a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1Z"
       },
       []
@@ -22,6 +24,7 @@ export var signalAlt3 = [
     [
       "path",
       {
+        "className": "uim-primary",
         "d": "M22 23h-4a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v20a1 1 0 0 1-1 1Z"
       },
       []

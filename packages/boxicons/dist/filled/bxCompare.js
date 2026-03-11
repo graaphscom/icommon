@@ -10,6 +10,7 @@ export var bxCompare = [
     [
       "rect",
       {
+        "className": "b",
         "height": "9",
         "rx": "2",
         "ry": "2",
@@ -22,6 +23,7 @@ export var bxCompare = [
     [
       "rect",
       {
+        "className": "b",
         "height": "9",
         "rx": "2",
         "ry": "2",
@@ -34,6 +36,7 @@ export var bxCompare = [
     [
       "path",
       {
+        "className": "b",
         "d": "m7,18h-3v-5h-2v5c0,1.1.9,2,2,2h3v2l4-3-4-3v2Z"
       },
       []
@@ -41,6 +44,7 @@ export var bxCompare = [
     [
       "path",
       {
+        "className": "b",
         "d": "m20,4h-3v-2l-4,3,4,3v-2h3v5h2v-5c0-1.1-.9-2-2-2Z"
       },
       []

@@ -10,6 +10,7 @@ export var editAttributes24px = [
     [
       "path",
       {
+        "className": "st0",
         "d": "M0 0h24v24H0z",
         "fill": "none"
       },

@@ -9,6 +9,7 @@ export var toggleOff = [
     [
       "path",
       {
+        "className": "uim-tertiary",
         "d": "M16.5 17.5h-9a5.5 5.5 0 1 1 0-11h9a5.5 5.5 0 1 1 0 11z"
       },
       []
@@ -16,6 +17,7 @@ export var toggleOff = [
     [
       "circle",
       {
+        "className": "uim-primary",
         "cx": "7.5",
         "cy": "12",
         "r": "2.5"

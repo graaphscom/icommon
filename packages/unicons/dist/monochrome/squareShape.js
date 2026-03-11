@@ -8,6 +8,7 @@ export var squareShape = [
     [
       "rect",
       {
+        "className": "uim-primary",
         "height": "20",
         "rx": "1",
         "width": "20",

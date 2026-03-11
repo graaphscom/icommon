@@ -8,6 +8,7 @@ export var ellipsisH = [
     [
       "circle",
       {
+        "className": "uim-primary",
         "cx": "12",
         "cy": "12",
         "r": "2"
@@ -17,6 +18,7 @@ export var ellipsisH = [
     [
       "circle",
       {
+        "className": "uim-primary",
         "cx": "5",
         "cy": "12",
         "r": "2"
@@ -26,6 +28,7 @@ export var ellipsisH = [
     [
       "circle",
       {
+        "className": "uim-primary",
         "cx": "19",
         "cy": "12",
         "r": "2"

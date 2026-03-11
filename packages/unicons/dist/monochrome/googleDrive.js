@@ -9,6 +9,7 @@ export var googleDrive = [
     [
       "path",
       {
+        "className": "uim-quaternary",
         "d": "M15.334 14.887H22l-6.666-11.55H8.667l6.667 11.55z"
       },
       []
@@ -16,6 +17,7 @@ export var googleDrive = [
     [
       "path",
       {
+        "className": "uim-primary",
         "d": "M8.667 3.338 2 14.888l3.334 5.774L12 9.112z"
       },
       []
@@ -23,6 +25,7 @@ export var googleDrive = [
     [
       "path",
       {
+        "className": "uim-tertiary",
         "d": "m8.667 14.887-3.333 5.775h13.333L22 14.887z"
       },
       []

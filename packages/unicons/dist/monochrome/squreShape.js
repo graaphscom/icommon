@@ -8,6 +8,7 @@ export var squreShape = [
     [
       "rect",
       {
+        "className": "uim-primary",
         "height": "20",
         "rx": "5",
         "width": "20",

@@ -7,7 +7,9 @@ export var behanceAlt = [
   [
     [
       "g",
-      {},
+      {
+        "className": "uim-primary"
+      },
       [
         [
           "path",

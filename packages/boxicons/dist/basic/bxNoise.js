@@ -10,6 +10,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2Zm-3,16v-1h-1v1h-3v-1h-1v1h-3v-1h-1v1h-2v-2h1v-1h-1v-3h1v-1h-1v-3h1v-1h-1v-3h14v14s-3,0-3,0Z"
       },
       []
@@ -17,6 +18,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M17 8H18V9H17z"
       },
       []
@@ -24,6 +26,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M17 12H18V13H17z"
       },
       []
@@ -31,6 +34,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M17 16H18V17H17z"
       },
       []
@@ -38,6 +42,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M15 10H16V11H15z"
       },
       []
@@ -45,6 +50,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M15 6H16V7H15z"
       },
       []
@@ -52,6 +58,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M15 14H16V15H15z"
       },
       []
@@ -59,6 +66,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M13 8H14V9H13z"
       },
       []
@@ -66,6 +74,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M13 12H14V13H13z"
       },
       []
@@ -73,6 +82,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M13 16H14V17H13z"
       },
       []
@@ -80,6 +90,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M11 10H12V11H11z"
       },
       []
@@ -87,6 +98,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M11 6H12V7H11z"
       },
       []
@@ -94,6 +106,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M11 14H12V15H11z"
       },
       []
@@ -101,6 +114,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M9 8H10V9H9z"
       },
       []
@@ -108,6 +122,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M9 12H10V13H9z"
       },
       []
@@ -115,6 +130,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M9 16H10V17H9z"
       },
       []
@@ -122,6 +138,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M7 10H8V11H7z"
       },
       []
@@ -129,6 +146,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M7 6H8V7H7z"
       },
       []
@@ -136,6 +154,7 @@ export var bxNoise = [
     [
       "path",
       {
+        "className": "b",
         "d": "M7 14H8V15H7z"
       },
       []

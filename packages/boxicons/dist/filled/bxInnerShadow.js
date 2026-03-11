@@ -10,6 +10,7 @@ export var bxInnerShadow = [
     [
       "path",
       {
+        "className": "b",
         "d": "m19,3H5c-1.1,0-2,.9-2,2v14c0,1.1.9,2,2,2h14c1.1,0,2-.9,2-2V5c0-1.1-.9-2-2-2ZM5,19V7h14v12s-14,0-14,0Z"
       },
       []

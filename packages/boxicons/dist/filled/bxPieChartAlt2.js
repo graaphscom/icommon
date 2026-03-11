@@ -10,6 +10,7 @@ export var bxPieChartAlt2 = [
     [
       "path",
       {
+        "className": "b",
         "d": "m13,21.95c4.72-.47,8.48-4.23,8.95-8.95h-8.95v8.95Z"
       },
       []
@@ -17,6 +18,7 @@ export var bxPieChartAlt2 = [
     [
       "path",
       {
+        "className": "b",
         "d": "m13,2.05v8.95h8.95c-.47-4.72-4.23-8.48-8.95-8.95Z"
       },
       []
@@ -24,6 +26,7 @@ export var bxPieChartAlt2 = [
     [
       "path",
       {
+        "className": "b",
         "d": "m2,12c0,5.18,3.95,9.45,9,9.95V2.05C5.95,2.55,2,6.82,2,12Z"
       },
       []

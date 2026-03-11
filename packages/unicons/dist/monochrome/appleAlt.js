@@ -7,7 +7,9 @@ export var appleAlt = [
   [
     [
       "g",
-      {},
+      {
+        "className": "uim-primary"
+      },
       [
         [
           "path",

@@ -8,6 +8,7 @@ export var airplay = [
     [
       "rect",
       {
+        "className": "uim-tertiary",
         "height": "15",
         "rx": "3",
         "width": "20",
@@ -19,6 +20,7 @@ export var airplay = [
     [
       "path",
       {
+        "className": "uim-primary",
         "d": "M16 21H8a1 1 0 0 1-.832-1.555l4-6a1.038 1.038 0 0 1 1.664 0l4 6A1 1 0 0 1 16 21Z"
       },
       []

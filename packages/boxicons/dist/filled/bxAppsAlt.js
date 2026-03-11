@@ -10,6 +10,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M5 3A2 2 0 1 0 5 7 2 2 0 1 0 5 3z"
       },
       []
@@ -17,6 +18,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M12 3A2 2 0 1 0 12 7 2 2 0 1 0 12 3z"
       },
       []
@@ -24,6 +26,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M19 2.5A2.5 2.5 0 1 0 19 7.5 2.5 2.5 0 1 0 19 2.5z"
       },
       []
@@ -31,6 +34,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M5 9.5A2.5 2.5 0 1 0 5 14.5 2.5 2.5 0 1 0 5 9.5z"
       },
       []
@@ -38,6 +42,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M12 10A2 2 0 1 0 12 14 2 2 0 1 0 12 10z"
       },
       []
@@ -45,6 +50,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M19 10A2 2 0 1 0 19 14 2 2 0 1 0 19 10z"
       },
       []
@@ -52,6 +58,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M5 17A2 2 0 1 0 5 21 2 2 0 1 0 5 17z"
       },
       []
@@ -59,6 +66,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M12 17A2 2 0 1 0 12 21 2 2 0 1 0 12 17z"
       },
       []
@@ -66,6 +74,7 @@ export var bxAppsAlt = [
     [
       "path",
       {
+        "className": "b",
         "d": "M19.33 16.5A2.5 2.5 0 1 0 19.33 21.5 2.5 2.5 0 1 0 19.33 16.5z"
       },
       []

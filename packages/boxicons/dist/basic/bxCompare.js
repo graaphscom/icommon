@@ -10,6 +10,7 @@ export var bxCompare = [
     [
       "path",
       {
+        "className": "b",
         "d": "m4,11h5c1.1,0,2-.9,2-2v-5c0-1.1-.9-2-2-2h-5c-1.1,0-2,.9-2,2v5c0,1.1.9,2,2,2Zm0-7h5v5s-5,0-5,0v-5Z"
       },
       []
@@ -17,6 +18,7 @@ export var bxCompare = [
     [
       "path",
       {
+        "className": "b",
         "d": "m15,13c-1.1,0-2,.9-2,2v5c0,1.1.9,2,2,2h5c1.1,0,2-.9,2-2v-5c0-1.1-.9-2-2-2h-5Zm0,7v-5h5v5s-5,0-5,0Z"
       },
       []
@@ -24,6 +26,7 @@ export var bxCompare = [
     [
       "path",
       {
+        "className": "b",
         "d": "m4,20h3v2l4-3-4-3v2h-3v-5h-2v5c0,1.1.9,2,2,2Z"
       },
       []
@@ -31,6 +34,7 @@ export var bxCompare = [
     [
       "path",
       {
+        "className": "b",
         "d": "m22,6c0-1.1-.9-2-2-2h-3v-2l-4,3,4,3v-2h3v5h2v-5Z"
       },
       []

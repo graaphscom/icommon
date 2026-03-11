@@ -10,6 +10,7 @@ export var bxSquareDashedHalf = [
     [
       "path",
       {
+        "className": "b",
         "d": "m3,5v14c0,1.1.9,2,2,2h9v-2H5V5h9v-2H5c-1.1,0-2,.9-2,2Z"
       },
       []
@@ -17,6 +18,7 @@ export var bxSquareDashedHalf = [
     [
       "path",
       {
+        "className": "b",
         "d": "m19,3h-3v2h3v3h2v-3c0-1.1-.9-2-2-2Z"
       },
       []
@@ -24,6 +26,7 @@ export var bxSquareDashedHalf = [
     [
       "path",
       {
+        "className": "b",
         "d": "m19,19h-3v2h3c1.1,0,2-.9,2-2v-3h-2v3Z"
       },
       []
@@ -31,6 +34,7 @@ export var bxSquareDashedHalf = [
     [
       "path",
       {
+        "className": "b",
         "d": "M19 10H21V14H19z"
       },
       []

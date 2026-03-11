@@ -8,6 +8,7 @@ export var apps = [
     [
       "rect",
       {
+        "className": "uim-primary",
         "height": "9",
         "rx": "1",
         "width": "9",
@@ -19,6 +20,7 @@ export var apps = [
     [
       "rect",
       {
+        "className": "uim-tertiary",
         "height": "9",
         "rx": "1",
         "width": "9",
@@ -30,6 +32,7 @@ export var apps = [
     [
       "rect",
       {
+        "className": "uim-tertiary",
         "height": "9",
         "rx": "1",
         "width": "9",
@@ -41,6 +44,7 @@ export var apps = [
     [
       "rect",
       {
+        "className": "uim-tertiary",
         "height": "9",
         "rx": "1",
         "width": "9",

@@ -10,6 +10,7 @@ export var bxComputer = [
     [
       "path",
       {
+        "className": "b",
         "d": "m20,14h-5v-1h4c1.1,0,2-.9,2-2v-7c0-1.1-.9-2-2-2H5c-1.1,0-2,.9-2,2v7c0,1.1.9,2,2,2h4v1h-5c-1.1,0-2,.9-2,2v4c0,1.1.9,2,2,2h16c1.1,0,2-.9,2-2v-4c0-1.1-.9-2-2-2Zm-15-3v-7h14v7s-14,0-14,0Zm-1,9v-4h16v4s-16,0-16,0Z"
       },
       []
@@ -17,6 +18,7 @@ export var bxComputer = [
     [
       "path",
       {
+        "className": "b",
         "d": "M6 17H14V19H6z"
       },
       []
@@ -24,6 +26,7 @@ export var bxComputer = [
     [
       "path",
       {
+        "className": "b",
         "d": "M17 17A1 1 0 1 0 17 19 1 1 0 1 0 17 17z"
       },
       []
