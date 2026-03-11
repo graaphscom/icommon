@@ -134,3 +134,40 @@ export const setRootStroke =
 
     return [initial[0], { ...initial[1], stroke }, initial[2]];
   };
+
+export const setUniconsFill =
+  (
+    primary: string,
+    secondary: string,
+    tertiary: string,
+    quaternary: string,
+  ): IcommonModifier =>
+  (initial) => {
+    const applicableClasses = new Set([
+      "uim-primary",
+      "uim-secondary",
+      "uim-tertiary",
+      "uim-quaternary",
+    ]);
+    const classAttr = initial[1].className;
+    if (
+      initial[0] === "svg" ||
+      typeof classAttr !== "string" ||
+      !applicableClasses.has(classAttr)
+    ) {
+      return initial;
+    }
+
+    const classToFill: Record<string, string> = {
+      "uim-primary": primary,
+      "uim-secondary": secondary,
+      "uim-tertiary": tertiary,
+      "uim-quaternary": quaternary,
+    };
+
+    return [
+      initial[0],
+      { ...initial[1], fill: classToFill[classAttr] },
+      initial[2],
+    ];
+  };
