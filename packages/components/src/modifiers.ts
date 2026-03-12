@@ -171,3 +171,19 @@ export const setUniconsFill =
       initial[2],
     ];
   };
+
+export const setClosedPathsFill =
+  (fill: string): IcommonModifier =>
+  (initial) => {
+    if (
+      typeof initial[1].d !== "string" ||
+      !isPathExplicitlyClosed(initial[1].d)
+    ) {
+      return initial;
+    }
+
+    return [initial[0], { ...initial[1], fill }, initial[2]];
+  };
+
+const isPathExplicitlyClosed = (pathData: string): boolean =>
+  "z" === pathData.trim().at(-1)?.toLowerCase();
