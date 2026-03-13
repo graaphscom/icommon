@@ -1,15 +1,16 @@
+import clsx from "clsx";
 import React, {
   AllHTMLAttributes,
   CSSProperties,
-  type ReactNode,
   type FC,
+  type ReactNode,
 } from "react";
 import { IcommonNode, IcommonProps } from "./types";
 
 export const Icommon = ({
   node,
   modifiers,
-  className,
+  className: componentClassName,
 }: IcommonProps): ReactNode => {
   const modifiedNode = modifiers
     ? modifiers?.reduce<IcommonNode>((prev, curr) => curr(prev), node)
@@ -18,16 +19,16 @@ export const Icommon = ({
   const Component = modifiedNode[0] as unknown as FC<
     AllHTMLAttributes<unknown>
   >;
-  const { style, ...noStyleProps } = modifiedNode[1];
+  const { style, className: icommonNodeClassName, ...noStyleProps } = modifiedNode[1];
   const styleObj =
     typeof style == "string" ? cssStringToProperties(style) : undefined;
 
   return (
     <Component
       {...{
-        ...noStyleProps,
         style: styleObj,
-        className,
+        className: clsx(componentClassName, icommonNodeClassName),
+        ...noStyleProps,
       }}
     >
       {modifiedNode[2].map((v, idx) => (

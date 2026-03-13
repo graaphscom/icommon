@@ -25,6 +25,7 @@
     "@icommon/eslint-config": "workspace:^",
     "@icommon/typescript-config": "workspace:^",
     "@types/react": "^19.2.14",
+    "clsx": "^2.1.1",
     "eslint": "^9.39.2",
     "prettier": "^3.8.1",
     "react": "^19.2.4",
@@ -32,6 +33,7 @@
     "typescript": "^5.9.3"
   },
   "peerDependencies": {
+    "clsx": "^2.1.1",
     "react": "^19.2.4"
   }
 }

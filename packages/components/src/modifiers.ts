@@ -10,27 +10,6 @@ export const setViewBox =
     return [initial[0], { ...initial[1], viewBox }, initial[2]];
   };
 
-export const omitFill: IcommonModifier = (initial) => {
-  if (!initial[1].fill) {
-    return initial;
-  }
-
-  const modified = { ...initial[1] };
-  delete modified.fill;
-
-  return [initial[0], modified, initial[2]];
-};
-
-export const setStrokeWidth =
-  (strokeWidth: number): IcommonModifier =>
-  (initial) => {
-    if (initial[0] !== "svg") {
-      return initial;
-    }
-
-    return [initial[0], { ...initial[1], strokeWidth }, initial[2]];
-  };
-
 export const setSizeIfAbsent =
   (size: number): IcommonModifier =>
   (initial) => {
@@ -61,38 +40,50 @@ export const set2xSize =
     return [initial[0], { ...initial[1], width, height }, initial[2]];
   };
 
-export const setWidthAutoHeight =
-  (width: number): IcommonModifier =>
-  (initial) => {
-    if (initial[0] !== "svg") {
-      return initial;
-    }
-
-    return [initial[0], { ...initial[1], width, height: "auto" }, initial[2]];
-  };
-
-export const setHeightAutoWidth =
-  (height: number): IcommonModifier =>
-  (initial) => {
-    if (initial[0] !== "svg") {
-      return initial;
-    }
-
-    return [initial[0], { ...initial[1], width: "auto", height }, initial[2]];
-  };
-
 export const setSize =
-  (size: number): IcommonModifier =>
+  (width: number | "auto", height: number | "auto" = "auto"): IcommonModifier =>
   (initial) => {
     if (initial[0] !== "svg") {
       return initial;
     }
 
-    return [
-      initial[0],
-      { ...initial[1], width: size, height: size },
-      initial[2],
-    ];
+    const newAttributes = { ...initial[1] };
+
+    let style =
+      typeof initial[1].style === "string" ? initial[1].style.trim() : "";
+    if (width === "auto") {
+      style = stylePropSeparator(style) + "width: auto";
+      delete newAttributes.width;
+    }
+    if (height === "auto") {
+      style = stylePropSeparator(style) + "height: auto";
+      delete newAttributes.height;
+    }
+
+    if (style) {
+      newAttributes.style = style;
+    }
+    if (width !== "auto") {
+      newAttributes.width = width;
+    }
+    if (height !== "auto") {
+      newAttributes.height = height;
+    }
+
+    return [initial[0], newAttributes, initial[2]];
+  };
+
+const stylePropSeparator = (style: string) =>
+  style.at(-1) === ";" || style === "" ? "" : ";";
+
+export const setRootStrokeWidth =
+  (strokeWidth: number): IcommonModifier =>
+  (initial) => {
+    if (initial[0] !== "svg") {
+      return initial;
+    }
+
+    return [initial[0], { ...initial[1], strokeWidth }, initial[2]];
   };
 
 export const setRootFill =
@@ -115,6 +106,16 @@ export const setRootColor =
     return [initial[0], { ...initial[1], color }, initial[2]];
   };
 
+export const setRootStroke =
+  (stroke: string): IcommonModifier =>
+  (initial) => {
+    if (initial[0] !== "svg") {
+      return initial;
+    }
+
+    return [initial[0], { ...initial[1], stroke }, initial[2]];
+  };
+
 export const setDeepFill =
   (fill: string, fillToReplace: string): IcommonModifier =>
   (initial) => {
@@ -125,15 +126,44 @@ export const setDeepFill =
     return [initial[0], { ...initial[1], fill }, initial[2]];
   };
 
-export const setRootStroke =
-  (stroke: string): IcommonModifier =>
+export const removeDeepFill =
+  (fillToRemove: string): IcommonModifier =>
   (initial) => {
-    if (initial[0] !== "svg") {
+    if (initial[0] === "svg" || initial[1].fill !== fillToRemove) {
       return initial;
     }
 
-    return [initial[0], { ...initial[1], stroke }, initial[2]];
+    const newAttributes = { ...initial[1] };
+    delete newAttributes.fill;
+
+    return [initial[0], newAttributes, initial[2]];
   };
+
+export const setDeepClassName =
+  (className: string): IcommonModifier =>
+  (initial) => {
+    if (initial[0] === "svg") {
+      return initial;
+    }
+
+    return [initial[0], { ...initial[1], className }, initial[2]];
+  };
+
+export const setClosedPathsFill =
+  (fill: string): IcommonModifier =>
+  (initial) => {
+    if (
+      typeof initial[1].d !== "string" ||
+      !isPathExplicitlyClosed(initial[1].d)
+    ) {
+      return initial;
+    }
+
+    return [initial[0], { ...initial[1], fill }, initial[2]];
+  };
+
+const isPathExplicitlyClosed = (pathData: string): boolean =>
+  "z" === pathData.trim().at(-1)?.toLowerCase();
 
 export const setUniconsFill =
   (
@@ -171,19 +201,3 @@ export const setUniconsFill =
       initial[2],
     ];
   };
-
-export const setClosedPathsFill =
-  (fill: string): IcommonModifier =>
-  (initial) => {
-    if (
-      typeof initial[1].d !== "string" ||
-      !isPathExplicitlyClosed(initial[1].d)
-    ) {
-      return initial;
-    }
-
-    return [initial[0], { ...initial[1], fill }, initial[2]];
-  };
-
-const isPathExplicitlyClosed = (pathData: string): boolean =>
-  "z" === pathData.trim().at(-1)?.toLowerCase();
