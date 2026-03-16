@@ -19,15 +19,20 @@ export const Icommon = ({
   const Component = modifiedNode[0] as unknown as FC<
     AllHTMLAttributes<unknown>
   >;
-  const { style, className: icommonNodeClassName, ...noStyleProps } = modifiedNode[1];
+  const {
+    style,
+    className: icommonNodeClassName,
+    ...noStyleProps
+  } = modifiedNode[1];
   const styleObj =
     typeof style == "string" ? cssStringToProperties(style) : undefined;
+  const className = clsx(componentClassName, icommonNodeClassName);
 
   return (
     <Component
       {...{
         style: styleObj,
-        className: clsx(componentClassName, icommonNodeClassName),
+        ...(className && { className }),
         ...noStyleProps,
       }}
     >

@@ -11,3 +11,5 @@ export interface IcommonProps {
 }
 
 export type IcommonModifier = (initial: IcommonNode) => IcommonNode;
+
+export type ColorTuple = [string, number];

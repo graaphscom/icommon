@@ -1,4 +1,4 @@
-import { IcommonModifier } from "./types";
+import { ColorTuple, IcommonModifier } from "./types";
 
 export const setViewBox =
   (viewBox: string): IcommonModifier =>
@@ -87,43 +87,48 @@ export const setRootStrokeWidth =
   };
 
 export const setRootFill =
-  (fill: string): IcommonModifier =>
+  (fill: ColorTuple): IcommonModifier =>
   (initial) => {
     if (initial[0] !== "svg") {
       return initial;
     }
 
-    return [initial[0], { ...initial[1], fill }, initial[2]];
-  };
-
-export const setRootColor =
-  (color: string): IcommonModifier =>
-  (initial) => {
-    if (initial[0] !== "svg") {
-      return initial;
-    }
-
-    return [initial[0], { ...initial[1], color }, initial[2]];
+    return [
+      initial[0],
+      { ...initial[1], fill: fill[0], fillOpacity: fill[1] },
+      initial[2],
+    ];
   };
 
 export const setRootStroke =
-  (stroke: string): IcommonModifier =>
+  (stroke: ColorTuple): IcommonModifier =>
   (initial) => {
     if (initial[0] !== "svg") {
       return initial;
     }
 
-    return [initial[0], { ...initial[1], stroke }, initial[2]];
+    return [
+      initial[0],
+      { ...initial[1], stroke: stroke[0], strokeOpacity: stroke[1] },
+      initial[2],
+    ];
   };
 
 export const setDeepFill =
-  (fill: string, fillToReplace: string): IcommonModifier =>
+  (fill: ColorTuple, fillToReplace?: string): IcommonModifier =>
   (initial) => {
-    if (initial[0] === "svg" || initial[1].fill !== fillToReplace) {
+    if (
+      initial[0] === "svg" ||
+      (fillToReplace && initial[1].fill !== fillToReplace)
+    ) {
       return initial;
     }
 
-    return [initial[0], { ...initial[1], fill }, initial[2]];
+    return [
+      initial[0],
+      { ...initial[1], fill: fill[0], fillOpacity: fill[1] },
+      initial[2],
+    ];
   };
 
 export const removeDeepFill =
@@ -150,16 +155,21 @@ export const setDeepClassName =
   };
 
 export const setClosedPathsFill =
-  (fill: string): IcommonModifier =>
+  (fill: ColorTuple): IcommonModifier =>
   (initial) => {
     if (
+      fill[1] === 0 ||
       typeof initial[1].d !== "string" ||
       !isPathExplicitlyClosed(initial[1].d)
     ) {
       return initial;
     }
 
-    return [initial[0], { ...initial[1], fill }, initial[2]];
+    return [
+      initial[0],
+      { ...initial[1], fill: fill[0], fillOpacity: fill[1] },
+      initial[2],
+    ];
   };
 
 const isPathExplicitlyClosed = (pathData: string): boolean =>
@@ -167,10 +177,10 @@ const isPathExplicitlyClosed = (pathData: string): boolean =>
 
 export const setUniconsFill =
   (
-    primary: string,
-    secondary: string,
-    tertiary: string,
-    quaternary: string,
+    primary: ColorTuple,
+    secondary: ColorTuple,
+    tertiary: ColorTuple,
+    quaternary: ColorTuple,
   ): IcommonModifier =>
   (initial) => {
     const applicableClasses = new Set([
@@ -188,7 +198,7 @@ export const setUniconsFill =
       return initial;
     }
 
-    const classToFill: Record<string, string> = {
+    const classToFill: Record<string, ColorTuple> = {
       "uim-primary": primary,
       "uim-secondary": secondary,
       "uim-tertiary": tertiary,
@@ -197,7 +207,11 @@ export const setUniconsFill =
 
     return [
       initial[0],
-      { ...initial[1], fill: classToFill[classAttr] },
+      {
+        ...initial[1],
+        fill: classToFill[classAttr][0],
+        fillOpacity: classToFill[classAttr][1],
+      },
       initial[2],
     ];
   };
