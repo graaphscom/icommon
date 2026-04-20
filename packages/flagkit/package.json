@@ -1,0 +1,27 @@
+{
+  "name": "@icommon/flagkit",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": {
+    "./*": {
+      "import": "./dist/*.js",
+      "types": "./dist/*.d.ts"
+    }
+  },
+  "scripts": {
+    "check-types": "tsc",
+    "lint": "eslint dist/",
+    "format": "prettier dist/ --check"
+  },
+  "devDependencies": {
+    "@icommon/components": "workspace:^",
+    "@icommon/eslint-config": "workspace:^",
+    "@icommon/typescript-config": "workspace:^",
+    "eslint": "^9.39.2",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3"
+  },
+  "peerDependencies": {
+    "@icommon/components": "workspace:^"
+  }
+}
