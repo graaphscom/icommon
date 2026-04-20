@@ -215,3 +215,25 @@ export const setUniconsFill =
       initial[2],
     ];
   };
+
+export const setIdPrefix =
+  (prefixToAdd: string): IcommonModifier =>
+  (initial) => {
+    const newAttrs = { ...initial[1] };
+
+    if (typeof newAttrs.id === "string") {
+      newAttrs.id = `${prefixToAdd}-${newAttrs.id}`;
+    }
+
+    if (typeof newAttrs.href === "string" && newAttrs.href.startsWith("#")) {
+      newAttrs.href = `#${prefixToAdd}-${newAttrs.href.slice(1)}`;
+    }
+
+    Object.entries(initial[1]).forEach(([k, v]) => {
+      if (typeof v === "string" && v.includes("url(#")) {
+        newAttrs[k] = v.replace("url(#", `url(#${prefixToAdd}-`);
+      }
+    });
+
+    return [initial[0], newAttrs, initial[2]];
+  };
