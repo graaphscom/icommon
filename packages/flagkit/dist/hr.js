@@ -1,0 +1,225 @@
+export var hr = [
+  "svg",
+  {
+    "height": "15px",
+    "version": "1.1",
+    "viewBox": "0 0 21 15",
+    "width": "21px",
+    "xlink": "http://www.w3.org/1999/xlink",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "defs",
+      {},
+      [
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-1",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#FFFFFF"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#F0F0F0"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-2",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#FF202D"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#FD0D1B"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-3",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#2027AC"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#191F94"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-4",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#FF212E"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#FD0D1B"
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "g",
+      {
+        "fill": "none",
+        "fillRule": "evenodd",
+        "id": "Symbols",
+        "stroke": "none",
+        "strokeWidth": "1"
+      },
+      [
+        [
+          "g",
+          {
+            "id": "HR"
+          },
+          [
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-1)",
+                "height": "15",
+                "id": "FlagBackground",
+                "width": "21",
+                "x": "0",
+                "y": "0"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-2)",
+                "height": "5",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "0"
+              },
+              []
+            ],
+            [
+              "path",
+              {
+                "d": "M8,4 L8.5,3.5 L9,4 L9,5 L8,5 L8,4 Z M10,4 L10.5,3.5 L11,4 L11,5 L10,5 L10,4 Z M12,4 L12.5,3.5 L13,4 L13,5 L12,5 L12,4 Z",
+                "fill": "#1895DB",
+                "id": "Rectangle-675",
+                "opacity": "0.5"
+              },
+              []
+            ],
+            [
+              "path",
+              {
+                "d": "M9,4 L9.5,3.5 L10,4 L10,5 L9,5 L9,4 Z M11,4 L11.5,3.5 L12,4 L12,5 L11,5 L11,4 Z",
+                "fill": "#191F94",
+                "id": "Rectangle-675",
+                "opacity": "0.5"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-3)",
+                "height": "5",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "10"
+              },
+              []
+            ],
+            [
+              "path",
+              {
+                "d": "M0,10 L0,5 L21,5 L21,10 L0,10 Z M12,10 L13,10 L12.726593,10.546814 C12.6014491,10.7971017 12.273407,11 12,11 L12,10 Z M10,10 L11,10 L11,11 L10,11 L10,10 Z M8,10 L9,10 L9,11 C8.72385763,11 8.40359497,10.8071899 8.27340698,10.546814 L8,10 Z",
+                "fill": "url(#linearGradient-1)",
+                "id": "Rectangle-2"
+              },
+              []
+            ],
+            [
+              "path",
+              {
+                "d": "M10,5 L11,5 L11,6 L10,6 L10,5 Z M12,5 L12.5,5 L13,6 L12,6 L12,5 Z M8.5,5 L9,5 L9,6 L8,6 L8.5,5 Z M9,6 L10,6 L10,7 L9,7 L9,6 Z M11,6 L12,6 L12,7 L11,7 L11,6 Z M10,7 L11,7 L11,8 L10,8 L10,7 Z M12,7 L13,7 L13,8 L12,8 L12,7 Z M11,8 L12,8 L12,9 L11,9 L11,8 Z M8,7 L9,7 L9,8 L8,8 L8,7 Z M9,8 L10,8 L10,9 L9,9 L9,8 Z M8,9 L9,9 L9,10 L8,10 L8,9 Z M10,9 L11,9 L11,10 L10,10 L10,9 Z M12,9 L13,9 L13,10 L12,10 L12,9 Z M11,10 L12,10 L12,11 L11,11 L11,10 Z M9,10 L10,10 L10,11 L9,11 L9,10 Z",
+                "fill": "url(#linearGradient-4)",
+                "id": "Rectangle-657"
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+];

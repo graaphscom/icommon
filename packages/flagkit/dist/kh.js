@@ -1,0 +1,180 @@
+export var kh = [
+  "svg",
+  {
+    "height": "15px",
+    "version": "1.1",
+    "viewBox": "0 0 21 15",
+    "width": "21px",
+    "xlink": "http://www.w3.org/1999/xlink",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "defs",
+      {},
+      [
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-1",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#FFFFFF"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#F0F0F0"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-2",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#0F3EB6"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#09339F"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-3",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#ED1A3C"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#DE0B2D"
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "g",
+      {
+        "fill": "none",
+        "fillRule": "evenodd",
+        "id": "Symbols",
+        "stroke": "none",
+        "strokeWidth": "1"
+      },
+      [
+        [
+          "g",
+          {
+            "id": "KH"
+          },
+          [
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-1)",
+                "height": "15",
+                "id": "FlagBackground",
+                "width": "21",
+                "x": "0",
+                "y": "0"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-2)",
+                "height": "4",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "0"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-2)",
+                "height": "4",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "11"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-3)",
+                "height": "7",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "4"
+              },
+              []
+            ],
+            [
+              "path",
+              {
+                "d": "M7.5,8 L8.5,8 L8.5,10 L6.5,10 L7.5,8 Z M9,8 L12,8 L12,10 L9,10 L9,8 Z M12.5,8 L13.5,8 L14.5,10 L12.5,10 L12.5,8 Z M12.5,6.50783157 C12.5,6.22736394 12.7319336,6 13,6 C13.2761424,6 13.5,6.22133017 13.5,6.50783157 L13.5,7.5 L12.5,7.5 L12.5,6.50783157 Z M9,6.54541016 L10,6.54541016 L10,5.99821125 C10,5.72305678 10.2319336,5.5 10.5,5.5 C10.7761424,5.5 11,5.72170461 11,5.99821125 L11,6.54541016 L12,6.54541016 L12,7.5 L9,7.5 L9,6.54541016 Z M7.5,6.50783157 C7.5,6.22736394 7.73193359,6 8,6 C8.27614237,6 8.5,6.22133017 8.5,6.50783157 L8.5,7.5 L7.5,7.5 L7.5,6.50783157 Z",
+                "fill": "url(#linearGradient-1)",
+                "id": "Rectangle-621"
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+];

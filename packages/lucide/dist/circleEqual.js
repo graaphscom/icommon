@@ -13,6 +13,15 @@ export var circleEqual = [
   },
   [
     [
+      "circle",
+      {
+        "cx": "12",
+        "cy": "12",
+        "r": "10"
+      },
+      []
+    ],
+    [
       "path",
       {
         "d": "M7 10h10"
@@ -23,15 +32,6 @@ export var circleEqual = [
       "path",
       {
         "d": "M7 14h10"
-      },
-      []
-    ],
-    [
-      "circle",
-      {
-        "cx": "12",
-        "cy": "12",
-        "r": "10"
       },
       []
     ]

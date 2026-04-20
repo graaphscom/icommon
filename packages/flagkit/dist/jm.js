@@ -1,0 +1,203 @@
+export var jm = [
+  "svg",
+  {
+    "height": "15px",
+    "version": "1.1",
+    "viewBox": "0 0 21 15",
+    "width": "21px",
+    "xlink": "http://www.w3.org/1999/xlink",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "defs",
+      {},
+      [
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-1",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#FFFFFF"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#F0F0F0"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-2",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#1DBE4F"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#159B3F"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-3",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#262626"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#0D0D0D"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-4",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#FFD646"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#FED02F"
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "g",
+      {
+        "fill": "none",
+        "fillRule": "evenodd",
+        "id": "Symbols",
+        "stroke": "none",
+        "strokeWidth": "1"
+      },
+      [
+        [
+          "g",
+          {
+            "id": "JM"
+          },
+          [
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-1)",
+                "height": "15",
+                "id": "FlagBackground",
+                "width": "21",
+                "x": "0",
+                "y": "0"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-2)",
+                "height": "15",
+                "id": "Mask-Copy",
+                "width": "21",
+                "x": "0.000237781813",
+                "y": "-0.00266538434"
+              },
+              []
+            ],
+            [
+              "polygon",
+              {
+                "fill": "url(#linearGradient-3)",
+                "id": "Rectangle-253",
+                "points": "0.000237781813 -0.00266538434 9.00023778 7.49733462 0.000237781813 14.9973346"
+              },
+              []
+            ],
+            [
+              "polygon",
+              {
+                "fill": "url(#linearGradient-3)",
+                "id": "Rectangle-253",
+                "points": "12.0002378 -0.00266538434 21.0002378 7.49733462 12.0002378 14.9973346",
+                "transform": "translate(16.500238, 7.497335) scale(-1, 1) translate(-16.500238, -7.497335) "
+              },
+              []
+            ],
+            [
+              "path",
+              {
+                "d": "M10.5002378,6.29111667 L-0.961614117,-1.44000006 L-2.07999992,0.218075088 L8.71194613,7.49733462 L-2.07999992,14.7765941 L-0.961614117,16.4346693 L10.5002378,8.70355256 L21.9620897,16.4346693 L23.0804755,14.7765941 L12.2885294,7.49733462 L23.0804755,0.218075088 L21.9620897,-1.44000006 L10.5002378,6.29111667 Z",
+                "fill": "url(#linearGradient-4)",
+                "id": "Rectangle-2"
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+];

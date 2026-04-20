@@ -1,0 +1,257 @@
+export var km = [
+  "svg",
+  {
+    "height": "15px",
+    "version": "1.1",
+    "viewBox": "0 0 21 15",
+    "width": "21px",
+    "xlink": "http://www.w3.org/1999/xlink",
+    "xmlns": "http://www.w3.org/2000/svg"
+  },
+  [
+    [
+      "defs",
+      {},
+      [
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-1",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#FFFFFF"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#F0F0F0"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-2",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#FFCB49"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#FFC638"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-3",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#DC1D34"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#CC162C"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-4",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#4985D4"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#3D77C2"
+              },
+              []
+            ]
+          ]
+        ],
+        [
+          "linearGradient",
+          {
+            "id": "linearGradient-5",
+            "x1": "50%",
+            "x2": "50%",
+            "y1": "0%",
+            "y2": "100%"
+          },
+          [
+            [
+              "stop",
+              {
+                "offset": "0%",
+                "stopColor": "#4BA343"
+              },
+              []
+            ],
+            [
+              "stop",
+              {
+                "offset": "100%",
+                "stopColor": "#408D39"
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "g",
+      {
+        "fill": "none",
+        "fillRule": "evenodd",
+        "id": "Symbols",
+        "stroke": "none",
+        "strokeWidth": "1"
+      },
+      [
+        [
+          "g",
+          {
+            "id": "KM"
+          },
+          [
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-1)",
+                "height": "15",
+                "id": "FlagBackground",
+                "width": "21",
+                "x": "0",
+                "y": "0"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-2)",
+                "height": "4",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "0"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-3)",
+                "height": "4",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "7"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-4)",
+                "height": "4",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "11"
+              },
+              []
+            ],
+            [
+              "rect",
+              {
+                "fill": "url(#linearGradient-1)",
+                "height": "3",
+                "id": "Rectangle-2",
+                "width": "21",
+                "x": "0",
+                "y": "4"
+              },
+              []
+            ],
+            [
+              "polygon",
+              {
+                "fill": "url(#linearGradient-5)",
+                "id": "Rectangle-2",
+                "points": "0 15 10 7.5 0 0"
+              },
+              []
+            ],
+            [
+              "path",
+              {
+                "d": "M4.75,4.59451311 C4.51028506,4.53281475 4.25897468,4.5 4,4.5 C2.34314575,4.5 1,5.84314575 1,7.5 C1,9.15685425 2.34314575,10.5 4,10.5 C4.25897468,10.5 4.51028506,10.4671852 4.75,10.4054869 C3.45607959,10.0724548 2.5,8.89787957 2.5,7.5 C2.5,6.10212043 3.45607959,4.92754521 4.75,4.59451311 Z M5.5,6 C5.22385763,6 5,5.77614237 5,5.5 C5,5.22385763 5.22385763,5 5.5,5 C5.77614237,5 6,5.22385763 6,5.5 C6,5.77614237 5.77614237,6 5.5,6 Z M5.5,8 C5.22385763,8 5,7.77614237 5,7.5 C5,7.22385763 5.22385763,7 5.5,7 C5.77614237,7 6,7.22385763 6,7.5 C6,7.77614237 5.77614237,8 5.5,8 Z M5.5,10 C5.22385763,10 5,9.77614237 5,9.5 C5,9.22385763 5.22385763,9 5.5,9 C5.77614237,9 6,9.22385763 6,9.5 C6,9.77614237 5.77614237,10 5.5,10 Z",
+                "fill": "url(#linearGradient-1)",
+                "id": "Oval-12"
+              },
+              []
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+];

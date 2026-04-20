@@ -22,7 +22,7 @@ export var school = [
     [
       "path",
       {
-        "d": "M18 5v16"
+        "d": "M18 4.933V21"
       },
       []
     ],
@@ -43,7 +43,7 @@ export var school = [
     [
       "path",
       {
-        "d": "M6 5v16"
+        "d": "M6 4.933V21"
       },
       []
     ],

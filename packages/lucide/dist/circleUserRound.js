@@ -15,7 +15,7 @@ export var circleUserRound = [
     [
       "path",
       {
-        "d": "M18 20a6 6 0 0 0-12 0"
+        "d": "M17.925 20.056a6 6 0 0 0-11.851.001"
       },
       []
     ],
@@ -23,7 +23,7 @@ export var circleUserRound = [
       "circle",
       {
         "cx": "12",
-        "cy": "10",
+        "cy": "11",
         "r": "4"
       },
       []
